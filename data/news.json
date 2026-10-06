@@ -1,5 +1,41 @@
 [
   {
+    "title": "Axelera AI: Data Center Inference Performance in the Power Envelope of Embedded Systems",
+    "source": "EE Times",
+    "snippet": "Axelera’s Europa brings 629 TOPS inference to 35W edge systems while Voyager cuts toolchain lock-in. The post Axelera AI: Data Center Inference Performance in the Power Envelope of Embedded Systems appeared first on EE Times .",
+    "published": "2026-10-06T18:03:14+00:00",
+    "authors": "EE Times",
+    "link": "https://www.eetimes.com/axelera-ai-data-center-inference-performance-in-the-power-envelope-of-embedded-systems/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Microchip, Navitas 800V DC-to-6V DC reference design for AI datacentres",
+    "source": "Electronics Weekly",
+    "snippet": "Microchip Technology and Navitas Semiconductor have partnered to collaborate on an 800V DC-to-6V DC reference design for AI datacentre rack power applications. It combines Microchip’s digital power control and security […] The post Microchip, Navitas 800V DC-to-6V DC reference design for AI datacent",
+    "published": "2026-10-06T15:36:31+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/microchip-navitas-800v-dc-to-6v-dc-reference-design-for-ai-datacentres-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz",
+    "source": "EE Times",
+    "snippet": "Avoid NFC failures: plan ferrite shielding, flexible placement, robust connectors, and chipset validation before prototyping. The post Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz appeared first on EE Times .",
+    "published": "2026-10-06T15:34:21+00:00",
+    "authors": "Chris Zhong",
+    "link": "https://www.eetimes.com/solving-the-five-hard-problems-of-nfc-antenna-integration-at-13-56-mhz/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Robots – Cast yourself into a vat of molten steel!",
+    "source": "Electronics Weekly",
+    "snippet": "What a striking video! Apparently it is the work US Robotics company Figure (no, I hadn't heard of them before this video). They wanted to decommission units from its F02 fleet and asked for suggestions. The post Robots – Cast yourself into a vat of molten steel! appeared first on Electronics Weekly",
+    "published": "2026-10-06T14:41:20+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/robot/robots-cast-yourself-into-a-vat-of-molten-steel-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "The 2026 Innovation Index",
     "source": "Electronics Weekly",
     "snippet": "The World Intellectual Property Organization (WIPO) has released its 2026 Global Innovation Index (GII). Switzerland tops the rankings once again with a score of 66,7 out of 100. This is […] The post The 2026 Innovation Index appeared first on Electronics Weekly .",
@@ -105,24 +141,6 @@
     "published": "2026-10-06T05:09:32+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/open-cosmos-aims-for-192-satellites-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Digital isolators provide flexible signal isolation",
-    "source": "Electronics Weekly",
-    "snippet": "Toshiba has brought out four dual-channel digital isolators designed to help reduce power consumption and provide flexible signal isolation, extending its low-power industrial digital isolator line-up. The DCL32xx00 series targets […] The post Digital isolators provide flexible signal isolation appe",
-    "published": "2026-10-06T05:03:15+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/digital-isolators-provide-flexible-signal-isolation-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Central Radar Control For Luton Airport",
-    "source": "Electronics Weekly",
-    "snippet": "The addition of airfield control radar is the latest move in the ambitious modernisation plan for Luton Airport. So, 65 years ago, started a story in Electronics Weekly’s edition of […] The post Central Radar Control For Luton Airport appeared first on Electronics Weekly .",
-    "published": "2026-10-06T00:01:27+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/central-radar-control-for-luton-airport-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -268,24 +286,6 @@
     "authors": "Srinivasan Kandaswamy",
     "link": "https://www.edn.com/the-state-of-ai-powered-innovation-in-blood-pressure-monitoring/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
-    "source": "EE Times",
-    "snippet": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times .",
-    "published": "2026-10-01T17:31:45+00:00",
-    "authors": "Jim McGregor, Francis Sideco",
-    "link": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Edge Computing and Security for Access Control Applications: Getting the Best of the Two Worlds",
-    "source": "EE Times",
-    "snippet": "Join us where attendees will see how on-device processing improves resilience, reduces exposure of sensitive data, counters spoofing, and supports practical deployment across buildings, smart locks, vehicles and appliances. The post Edge Computing and Security for Access Control Applications: Gettin",
-    "published": "2026-10-01T14:01:12+00:00",
-    "authors": "Arrow Electronics, Microchip",
-    "link": "https://www.eetimes.com/edge-computing-and-security-for-access-control-applications-getting-the-best-of-the-two-worlds/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "RF chips, modules power the way from 5G to 6G",
