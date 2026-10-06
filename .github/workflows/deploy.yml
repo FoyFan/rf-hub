@@ -1,0 +1,40 @@
+name: Deploy to Pages
+
+# push 到 main 时把纯静态站部署到 GitHub Pages。
+# 无需 build——index.html / assets/ / data/ 都是现成静态文件。
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write              # 部署到 Pages 需要
+  id-token: write           # Pages 部署用 OIDC
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 整个仓库根作为静态站点（index.html 在根）
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

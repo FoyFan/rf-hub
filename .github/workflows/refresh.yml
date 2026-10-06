@@ -1,0 +1,59 @@
+name: Refresh feeds
+
+# 每小时整点跑一次 fetch_feeds.py，把更新的 data/*.json 提交回 main。
+# 也可在 Actions → Refresh feeds → Run now 手动触发。
+on:
+  schedule:
+    - cron: '7 * * * *'   # 每小时第 7 分（错峰，避开 :00 高峰）
+  workflow_dispatch:        # 手动触发
+
+permissions:
+  contents: write            # 需要 push 回 main 的权限
+
+concurrency:
+  group: refresh-feeds
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch feeds
+        run: python scripts/fetch_feeds.py
+        continue-on-error: true   # 源站偶发 4xx/超时不应阻断流程
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet data/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No feed changes since last run."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git diff --stat data/
+          fi
+
+      - name: Commit updated feeds
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore(feeds): hourly refresh $(date -u '+%Y-%m-%d %H:%M') UTC
+
+          Co-Authored-By: Claude <noreply@anthropic.com>"
+          git push

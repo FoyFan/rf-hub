@@ -66,12 +66,20 @@ function fmtDate(s) {
 }
 
 // ---------- 后端按需抓取 ----------
+// 本地 Flask 部署：调 /api/refresh 实时抓取写盘。
+// GitHub Pages 静态托管：端点不存在，返回 {ok:false, static:true} 静默降级，
+// 调用方据此提示"数据由 Actions 每小时更新"，不报红字错误。
 async function refreshFromBackend() {
-  // 调本地 Flask 端点，复用 fetch_feeds.py 抓取逻辑写盘
-  // 后端不可达时抛错，调用方负责回退到缓存 JSON
-  const r = await fetch('/api/refresh', { cache: 'no-store' });
-  if (!r.ok) throw new Error(`/api/refresh → HTTP ${r.status}`);
-  return r.json();
+  try {
+    const r = await fetch('/api/refresh', { cache: 'no-store' });
+    if (!r.ok) return { ok: false, static: true };
+    const ct = r.headers.get('content-type') || '';
+    if (!ct.includes('application/json')) return { ok: false, static: true };
+    return r.json();
+  } catch {
+    // fetch 抛错（Pages 上 /api/refresh 返回 index.html HTML，或网络断）
+    return { ok: false, static: true };
+  }
 }
 
 // D2: 骨架屏注入（8s 抓取期占位，真数据来时 innerHTML 自然擦掉）
@@ -471,9 +479,15 @@ function onRefresh() {
 
   refreshFromBackend()
     .then(summary => {
-      st.textContent = summary.ok
-        ? `抓取完成：学术 ${summary.news_count} 条 / 工程 ${summary.eng_news_count} 条`
-        : `抓取失败：${summary.error || '未知错误'}`;
+      if (summary.ok) {
+        st.textContent = `抓取完成：学术 ${summary.news_count} 条 / 工程 ${summary.eng_news_count} 条`;
+      } else if (summary.static) {
+        // GitHub Pages 静态托管：无 /api/refresh，数据由 Actions 每小时更新
+        st.textContent = '静态站点：数据由 GitHub Actions 每小时自动刷新';
+      } else {
+        sb.classList.add('err');
+        st.textContent = `抓取失败：${summary.error || '未知错误'}`;
+      }
     })
     .catch(err => {
       sb.classList.add('err');
@@ -556,7 +570,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initHeroParallax();
 
   // 页面加载时 refresh-first：先调 /api/refresh 抓最新源，再 loadAll() 读盘
-  // 后端不可达时回退到缓存 JSON（loadAll 仍会跑）
+  // GitHub Pages 静态托管时降级为读静态 JSON（已由 Actions 抓取落盘）
   const icon = $('#refreshIcon');
   const st = $('#statusText');
   const sb = $('#statusBar');
@@ -567,6 +581,10 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(summary => {
       if (summary.ok) {
         st.textContent = `抓取完成：学术 ${summary.news_count} 条 / 工程 ${summary.eng_news_count} 条`;
+      } else if (summary.static) {
+        // 静态站点：数据由 Actions 每小时更新，loadAll 直接读静态 JSON
+        st.textContent = '加载中…（站点数据由 GitHub Actions 每小时刷新）';
+        sb.classList.remove('err');
       } else {
         sb.classList.add('err');
         st.textContent = `抓取失败：${summary.error || '未知错误'}（加载缓存数据…）`;
