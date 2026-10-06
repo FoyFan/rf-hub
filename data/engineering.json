@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Reducing I/O requirements for optical detection",
+      "source": "EDN",
+      "snippet": "Although this project may be a bit esoteric, the concepts shown to reduce I/O requirements can also be applied to other systems. The post Reducing I/O requirements for optical detection appeared first on EDN .",
+      "published": "2026-10-06T12:00:19+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/reducing-i-o-requirements-for-optical-detection/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Continuity testing in semiconductor ATE: Fundamentals and test methods",
       "source": "EDN",
       "snippet": "Continuity testing is the first test performed in any semiconductor test flow, verifying that a device under test (DUT) is properly connected to automatic test equipment (ATE). The post Continuity testing in semiconductor ATE: Fundamentals and test methods appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-01T11:12:23+00:00",
       "authors": "Majeed Ahmad",
       "link": "https://www.edn.com/how-a-650-v-gan-device-shrinks-footprint-in-space-constrained-data-center-racks/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Ethernet in automation: Industrial networking entering a new phase",
-      "source": "EDN",
-      "snippet": "Today's industrial networks enable communication across machines, robots, vision systems, edge platforms, and cloud applications. The post Ethernet in automation: Industrial networking entering a new phase appeared first on EDN .",
-      "published": "2026-10-01T06:47:09+00:00",
-      "authors": "Matthias Karcher",
-      "link": "https://www.edn.com/ethernet-in-automation-industrial-networking-entering-a-new-phase/",
       "category": "EDN 电子设计新闻"
     }
   ]

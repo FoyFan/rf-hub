@@ -1,5 +1,68 @@
 [
   {
+    "title": "The 2026 Innovation Index",
+    "source": "Electronics Weekly",
+    "snippet": "The World Intellectual Property Organization (WIPO) has released its 2026 Global Innovation Index (GII). Switzerland tops the rankings once again with a score of 66,7 out of 100. This is […] The post The 2026 Innovation Index appeared first on Electronics Weekly .",
+    "published": "2026-10-06T13:34:14+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/the-2026-innovation-index-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing",
+    "source": "Electronics Weekly",
+    "snippet": "PCTEL is adding Wi-Fi 6/6E coverage testing to its SeeHawk Touch network testing software. The company highlights it allows Wi-Fi technologies (on 2.4, 5, and 6 GHz channels) to be […] The post PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing appeared first on Electronics Weekly .",
+    "published": "2026-10-06T13:09:12+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/pctels-seehawk-touch-adds-wi-fi-6-6e-coverage-testing-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Reducing I/O requirements for optical detection",
+    "source": "EDN",
+    "snippet": "Although this project may be a bit esoteric, the concepts shown to reduce I/O requirements can also be applied to other systems. The post Reducing I/O requirements for optical detection appeared first on EDN .",
+    "published": "2026-10-06T12:00:19+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/reducing-i-o-requirements-for-optical-detection/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "CXL-Connected MRAM Address AI Storage Latency",
+    "source": "EE Times",
+    "snippet": "Everspin’s demo shows how a 4-GB pool of persistent MRAM can serve as a new tier of storage between DRAM and NAND flash. The post CXL-Connected MRAM Address AI Storage Latency appeared first on EE Times .",
+    "published": "2026-10-06T10:24:22+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/cxl-connected-mram-address-ai-storage-latency/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "UK Space Landing Pad Programme launches at UCL",
+    "source": "Electronics Weekly",
+    "snippet": "The UK government is backing the UK Space Landing Pad Programme, which is a six-month pilot to attract and support international space companies looking to establish a commercial presence in […] The post UK Space Landing Pad Programme launches at UCL appeared first on Electronics Weekly .",
+    "published": "2026-10-06T09:57:38+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/uk-space-landing-pad-programme-launches-at-ucl-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Get the Gadget Master newsletter!",
+    "source": "Electronics Weekly",
+    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
+    "published": "2026-10-06T09:49:29+00:00",
+    "authors": "Staff",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Happy IEEE Day!",
+    "source": "IEEE Spectrum",
+    "snippet": "Happy IEEE Day 2026! IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884. One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that lev",
+    "published": "2026-10-06T09:21:18+00:00",
+    "authors": "IEEE",
+    "link": "https://spectrum.ieee.org/ieee-day",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "Continuity testing in semiconductor ATE: Fundamentals and test methods",
     "source": "EDN",
     "snippet": "Continuity testing is the first test performed in any semiconductor test flow, verifying that a device under test (DUT) is properly connected to automatic test equipment (ATE). The post Continuity testing in semiconductor ATE: Fundamentals and test methods appeared first on EDN .",
@@ -38,7 +101,7 @@
   {
     "title": "Open Cosmos aims for 192 satellites",
     "source": "Electronics Weekly",
-    "snippet": "Open Cosmos, observation satellite constructor, which recently raised €300 million, says the that 192 satellites will form the core of its ConnectedCosmos LEO constellation. The company aims to have 96 […] The post Open Cosmos aims for 192 satellites appeared first on Electronics Weekly .",
+    "snippet": "Open Cosmos, observation satellite constructor, which recently raised €300 million, says that 192 satellites will form the core of its ConnectedCosmos LEO constellation. The company aims to have 96 satellites […] The post Open Cosmos aims for 192 satellites appeared first on Electronics Weekly .",
     "published": "2026-10-06T05:09:32+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/open-cosmos-aims-for-192-satellites-2026-10/",
@@ -99,24 +162,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Rocket Factory Augsburg appoints new CEO",
-    "source": "Electronics Weekly",
-    "snippet": "Alexander Dahm has been named as the new CEO of Rocket Factory Augsburg (RFA), the Bavarian space rocket startup hoping to launch from the SaxaVord spaceport in the Shetland Islands. […] The post Rocket Factory Augsburg appoints new CEO appeared first on Electronics Weekly .",
-    "published": "2026-10-05T15:10:07+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/rocket-factory-augsburg-appoint-new-ceo-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "What’s Stopping Workers From Using AI?",
-    "source": "Electronics Weekly",
-    "snippet": "While 4 in 10 workers surveyed for PwC’s Global Workforce Hopes and Fears Survey reported using AI tools at work at least weekly, making them an integral part of their […] The post What’s Stopping Workers From Using AI? appeared first on Electronics Weekly .",
-    "published": "2026-10-05T13:01:48+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/whats-stopping-workers-from-using-ai-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "An Apple-plus-Google adapter that’s AI in name only (sigh)",
     "source": "EDN",
     "snippet": "Is there actually any AI in the “AI Box”? Doubtful. But it’s durable, along with platform-nimble. And the attractive price is indisputable. The post An Apple-plus-Google adapter that’s AI in name only (sigh) appeared first on EDN .",
@@ -133,24 +178,6 @@
     "authors": "Majeed Ahmad",
     "link": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Omnivision’s OAX7700 is ultralow-power vision AI processor with NPU",
-    "source": "Electronics Weekly",
-    "snippet": "Omnivision’s OAX7700 asic is the company’s lowest-power AI companion processor for always-on vehicle security systems. It positions the device as an upgrade to existing exterior camera solutions such as surround-view […] The post Omnivision’s OAX7700 is ultralow-power vision AI processor with NPU ap",
-    "published": "2026-10-05T10:31:53+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/fpga-news/omnivisions-oax7700-is-ultralow-power-vision-ai-processor-with-npu-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Jedec JESD264 sets out foundation for broader silicon photonics adoption",
-    "source": "Electronics Weekly",
-    "snippet": "The standards body Jedec has officially announced the JESD264 standard for silicon photonics (SiPh) technology. Specifically, it targets qualification and reliability requirements. Jedec describes it as the first industry-wide standard […] The post Jedec JESD264 sets out foundation for broader silic",
-    "published": "2026-10-05T09:19:23+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/jedec-jesd264-sets-out-foundation-for-broader-silicon-photonics-adoption-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Demystifying feed-through capacitors: How to stop EMI in its tracks",
@@ -270,15 +297,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "PCBA Test Strategies: How to Select the Right Methodology and Tester",
-    "source": "EE Times",
-    "snippet": "Are you struggling with PCBA defects? Learn how to optimize your PCBA testing strategy by combining In-Circuit Testing (ICT), Functional Testing (FCT with Bed-of-Nails or Flying Probe Testers. The post PCBA Test Strategies: How to Select the Right Methodology and Tester appeared first on EE Times .",
-    "published": "2026-10-01T13:00:00+00:00",
-    "authors": "Francesca Pinto, SPEA Electronic Test Products Copywriter",
-    "link": "https://www.eetimes.com/pcba-test-strategies-how-to-select-the-right-methodology-and-tester/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Power Tips #157: Reducing conducted EMI in 48V automotive USB Type-C EPR designs",
     "source": "EDN",
     "snippet": "This tutorial examines conducted EMI behavior using an Extended Power Range (EPR) (≥100W) USB Power Delivery (PD) reference design. The post Power Tips #157: Reducing conducted EMI in 48V automotive USB Type-C EPR designs appeared first on EDN .",
@@ -303,15 +321,6 @@
     "published": "2026-10-01T11:12:23+00:00",
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/how-a-650-v-gan-device-shrinks-footprint-in-space-constrained-data-center-racks/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Ethernet in automation: Industrial networking entering a new phase",
-    "source": "EDN",
-    "snippet": "Today's industrial networks enable communication across machines, robots, vision systems, edge platforms, and cloud applications. The post Ethernet in automation: Industrial networking entering a new phase appeared first on EDN .",
-    "published": "2026-10-01T06:47:09+00:00",
-    "authors": "Matthias Karcher",
-    "link": "https://www.edn.com/ethernet-in-automation-industrial-networking-entering-a-new-phase/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -601,15 +610,6 @@
     "authors": "Matthew S. Smith",
     "link": "https://spectrum.ieee.org/inference-hardware-revolution",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
-    "source": "IEEE Spectrum",
-    "snippet": "In 2003, Martin Eberhard, a cofounder of Tesla Motors , decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero , the revolutionary and blazingly fast electric roadster that Cocconi had built a",
-    "published": "2026-09-15T12:13:58+00:00",
-    "authors": "Charles J. Murray",
-    "link": "https://spectrum.ieee.org/elon-musk-tesla",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
