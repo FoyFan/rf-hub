@@ -38,19 +38,35 @@ import requests
 
 # ---------------- 配置 ----------------
 
-FEEDS = [
-    # (展示名, RSS URL, 分类标签)
-    ("arXiv eess.SP", "http://export.arxiv.org/rss/eess.SP", "信号处理 / 通信物理层"),
-    ("arXiv eess 全站", "http://export.arxiv.org/rss/eess", "电子学 / RFIC / 天线"),
-    ("arXiv physics:app-ph", "http://export.arxiv.org/rss/physics.app-ph", "应用物理 / 超材料 / 太赫兹"),
+# 学术前沿 RSS —— arXiv
+# 注：arXiv RSS 是"每日 announcement 窗口型 feed"，只在美东凌晨 ~01:00 ET
+# 有新论文 announced 时才填 <item>，其余时刻（含周末）整 channel 为空。
+# 每小时 cron 抓几乎必然命中空窗口，故不放入主 FEEDS，改用工程新闻源。
+# 如需学术前沿，可改用 arXiv API（sortBy=submittedDate），但 API 限流严
+# （429），GitHub Actions 共享 IP 易被封，暂不启用。
+ACADEMIC_FEEDS = [
+    # ("arXiv eess.SP", "https://export.arxiv.org/rss/eess.SP", "信号处理 / 通信物理层"),
+    # ("arXiv eess 全站", "https://export.arxiv.org/rss/eess", "电子学 / RFIC / 天线"),
+    # ("arXiv physics:app-ph", "https://export.arxiv.org/rss/physics.app-ph", "应用物理 / 超材料 / 太赫兹"),
 ]
 
-# 工程类 RSS —— IEEE Spectrum / Microwave Journal / EDN 等
-# 抓到的条目写入 engineering.json 的 news 字段，不与学术 news.json 混
+FEEDS = [
+    # (展示名, RSS URL, 分类标签)
+    # 实测稳定可用的工程新闻源（2026-10）。403/404 的 Electronic Design /
+    # Microwaves & RF / RF Global Net 已剔除。
+    ("IEEE Spectrum", "https://spectrum.ieee.org/feeds/feed.rss", "IEEE 综合新闻"),
+    ("IEEE Spectrum 半导体", "https://spectrum.ieee.org/feeds/topic/semiconductors.rss", "半导体 / RFIC / 射频器件"),
+    ("IEEE Spectrum 计算", "https://spectrum.ieee.org/feeds/topic/computing.rss", "计算 / 通信系统"),
+    ("EDN", "https://www.edn.com/feed/", "EDN 电子设计新闻"),
+    ("EE Times", "https://www.eetimes.com/feed/", "EE Times 行业新闻"),
+    ("Electronics Weekly", "https://www.electronicsweekly.com/feed/", "电子周刊"),
+]
+
+# 工程类 RSS —— 写入 engineering.json 的 news 字段，不与学术 news.json 混
 # 注：URL 已实测可解析（2026-10）。如某源失效会自动跳过，不影响其他源
+# EDN 偏 ATE/测试/设计实操，归"工程→行业新闻"板块；IEEE 系已进 news.json 不重复
 ENG_FEEDS = [
-    ("IEEE Spectrum", "https://spectrum.ieee.org/rss", "IEEE 综合新闻"),
-    ("EDN", "https://www.edn.com/feed", "EDN 电子设计新闻"),
+    ("EDN", "https://www.edn.com/feed/", "EDN 电子设计新闻"),
 ]
 
 # 学校动态扩展位 —— 列出有公开 RSS 或稳定页面的源

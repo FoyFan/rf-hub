@@ -1,1 +1,1082 @@
-[]
+[
+  {
+    "title": "Continuity testing in semiconductor ATE: Fundamentals and test methods",
+    "source": "EDN",
+    "snippet": "Continuity testing is the first test performed in any semiconductor test flow, verifying that a device under test (DUT) is properly connected to automatic test equipment (ATE). The post Continuity testing in semiconductor ATE: Fundamentals and test methods appeared first on EDN .",
+    "published": "2026-10-06T07:04:18+00:00",
+    "authors": "Usman Khan",
+    "link": "https://www.edn.com/continuity-testing-in-semiconductor-ate-fundamentals-and-test-methods/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Arm vs Qualcomm episode 2",
+    "source": "Electronics Weekly",
+    "snippet": "Yesterday a second trial in the Qualcomm vs Arm legal marathon opened in Delaware. It is before a jury and slated to last five days. The original Qualcomm vs Arm […] The post Arm vs Qualcomm episode 2 appeared first on Electronics Weekly .",
+    "published": "2026-10-06T05:16:23+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/arm-vs-qualcomm-episode-2-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "SkyeChip becomes Rapidus design associate",
+    "source": "Electronics Weekly",
+    "snippet": "SkyeChip, the Malaysian IP developer and IC design house, has joined the Rapidus Collaborative Open Rapid Ecosystem as one of 17 inaugural “design solution associates.” SkyeChip, which is listed on […] The post SkyeChip becomes Rapidus design associate appeared first on Electronics Weekly .",
+    "published": "2026-10-06T05:14:20+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/skyechip-becomes-rapidus-design-associate-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "MOSAIC-G integrates UK 5G tech",
+    "source": "Electronics Weekly",
+    "snippet": "Aerix, Antevia Networks, Spry Fox Networks, Noema Signal Labs, Attocore, RANsemi, Liverpool 5G and Bath & North East Somerset Council have launched MOSAIC-5G (Multi-vendor Open System Architecture for Integrated Connectivity). […] The post MOSAIC-G integrates UK 5G tech appeared first on Electronics",
+    "published": "2026-10-06T05:11:02+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/mosaic-g-integrates-uk-5g-tech-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Open Cosmos aims for 192 satellites",
+    "source": "Electronics Weekly",
+    "snippet": "Open Cosmos, observation satellite constructor, which recently raised €300 million, says the that 192 satellites will form the core of its ConnectedCosmos LEO constellation. The company aims to have 96 […] The post Open Cosmos aims for 192 satellites appeared first on Electronics Weekly .",
+    "published": "2026-10-06T05:09:32+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/open-cosmos-aims-for-192-satellites-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Digital isolators provide flexible signal isolation",
+    "source": "Electronics Weekly",
+    "snippet": "Toshiba has brought out four dual-channel digital isolators designed to help reduce power consumption and provide flexible signal isolation, extending its low-power industrial digital isolator line-up. The DCL32xx00 series targets […] The post Digital isolators provide flexible signal isolation appe",
+    "published": "2026-10-06T05:03:15+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/digital-isolators-provide-flexible-signal-isolation-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Central Radar Control For Luton Airport",
+    "source": "Electronics Weekly",
+    "snippet": "The addition of airfield control radar is the latest move in the ambitious modernisation plan for Luton Airport. So, 65 years ago, started a story in Electronics Weekly’s edition of […] The post Central Radar Control For Luton Airport appeared first on Electronics Weekly .",
+    "published": "2026-10-06T00:01:27+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/central-radar-control-for-luton-airport-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
+    "source": "EE Times",
+    "snippet": "Kepler targets 2027 production for 3D ferroelectric memory promising 5–10× better bandwidth per watt than HBM. The post Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027 appeared first on EE Times .",
+    "published": "2026-10-05T20:00:00+00:00",
+    "authors": "Alan Patterson",
+    "link": "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "6 Guidelines for Governing AI",
+    "source": "IEEE Spectrum",
+    "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business sy",
+    "published": "2026-10-05T18:00:02+00:00",
+    "authors": "Sravan Vadigepalli",
+    "link": "https://spectrum.ieee.org/6-guidelines-governing-ai",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Trusted AI: Why Intelligence Alone Isn’t Enough",
+    "source": "EE Times",
+    "snippet": "See how trusted AI combines intelligence, domain expertise, and deterministic verification to boost confidence in semiconductor design. The post Trusted AI: Why Intelligence Alone Isn’t Enough appeared first on EE Times .",
+    "published": "2026-10-05T17:48:56+00:00",
+    "authors": "EE Times",
+    "link": "https://www.eetimes.com/trusted-ai-why-intelligence-alone-isnt-enough/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "ACCESS GRANTED – Unlocking Building Safety and Security Controls with Audio",
+    "source": "EE Times",
+    "snippet": "This webinar will cover current controls, modern technology selection, application considerations, and tailored audio component choices. The post ACCESS GRANTED – Unlocking Building Safety and Security Controls with Audio appeared first on EE Times .",
+    "published": "2026-10-05T16:08:24+00:00",
+    "authors": "Same Sky and Arrow",
+    "link": "https://www.eetimes.com/access-granted-unlocking-building-safety-and-security-controls-with-audio/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Rocket Factory Augsburg appoints new CEO",
+    "source": "Electronics Weekly",
+    "snippet": "Alexander Dahm has been named as the new CEO of Rocket Factory Augsburg (RFA), the Bavarian space rocket startup hoping to launch from the SaxaVord spaceport in the Shetland Islands. […] The post Rocket Factory Augsburg appoints new CEO appeared first on Electronics Weekly .",
+    "published": "2026-10-05T15:10:07+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/rocket-factory-augsburg-appoint-new-ceo-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "What’s Stopping Workers From Using AI?",
+    "source": "Electronics Weekly",
+    "snippet": "While 4 in 10 workers surveyed for PwC’s Global Workforce Hopes and Fears Survey reported using AI tools at work at least weekly, making them an integral part of their […] The post What’s Stopping Workers From Using AI? appeared first on Electronics Weekly .",
+    "published": "2026-10-05T13:01:48+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/whats-stopping-workers-from-using-ai-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "An Apple-plus-Google adapter that’s AI in name only (sigh)",
+    "source": "EDN",
+    "snippet": "Is there actually any AI in the “AI Box”? Doubtful. But it’s durable, along with platform-nimble. And the attractive price is indisputable. The post An Apple-plus-Google adapter that’s AI in name only (sigh) appeared first on EDN .",
+    "published": "2026-10-05T12:00:22+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/an-apple-plus-google-adapter-thats-ai-in-name-only-sigh/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
+    "source": "EE Times",
+    "snippet": "Synopsys joins OpenAI for a leap of faith in AI-native IC design by augmenting frontier models with EDA tools. The post GPT-Synopsys Combines IC Design EDA with Agentic AI appeared first on EE Times .",
+    "published": "2026-10-05T12:00:00+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Omnivision’s OAX7700 is ultralow-power vision AI processor with NPU",
+    "source": "Electronics Weekly",
+    "snippet": "Omnivision’s OAX7700 asic is the company’s lowest-power AI companion processor for always-on vehicle security systems. It positions the device as an upgrade to existing exterior camera solutions such as surround-view […] The post Omnivision’s OAX7700 is ultralow-power vision AI processor with NPU ap",
+    "published": "2026-10-05T10:31:53+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/fpga-news/omnivisions-oax7700-is-ultralow-power-vision-ai-processor-with-npu-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Jedec JESD264 sets out foundation for broader silicon photonics adoption",
+    "source": "Electronics Weekly",
+    "snippet": "The standards body Jedec has officially announced the JESD264 standard for silicon photonics (SiPh) technology. Specifically, it targets qualification and reliability requirements. Jedec describes it as the first industry-wide standard […] The post Jedec JESD264 sets out foundation for broader silic",
+    "published": "2026-10-05T09:19:23+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/jedec-jesd264-sets-out-foundation-for-broader-silicon-photonics-adoption-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Demystifying feed-through capacitors: How to stop EMI in its tracks",
+    "source": "EDN",
+    "snippet": "These three-terminal devices confront parasitic inductance and act as the ultimate shield against high-frequency EMI. The post Demystifying feed-through capacitors: How to stop EMI in its tracks appeared first on EDN .",
+    "published": "2026-10-05T07:59:54+00:00",
+    "authors": "T.K. Hareendran",
+    "link": "https://www.edn.com/demystifying-feed-through-capacitors-how-to-stop-emi-in-its-tracks/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Electric Car Makers Need to Appeal to the ‘Other 90%’",
+    "source": "EE Times",
+    "snippet": "Broader appeal for the electric car is a big challenge. Innovation is still the best solution. The post Electric Car Makers Need to Appeal to the ‘Other 90%’ appeared first on EE Times .",
+    "published": "2026-10-05T05:30:55+00:00",
+    "authors": "Charles Murray",
+    "link": "https://www.eetimes.com/electric-car-makers-need-to-appeal-to-the-other-90/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Smart Car Researcher Wants to Eliminate Stoplights",
+    "source": "IEEE Spectrum",
+    "snippet": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green. Cassandras",
+    "published": "2026-10-02T18:00:02+00:00",
+    "authors": "Willie D. Jones",
+    "link": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures",
+    "source": "EE Times",
+    "snippet": "At AutoSens Europe, automotive sensing designs reflected tighter safety standards, advances in AI processing, and growing cybersecurity requirements. The post AutoSens 2026: Regulation Drives Automotive Sensing Architectures appeared first on EE Times .",
+    "published": "2026-10-02T15:58:50+00:00",
+    "authors": "Pablo Valerio",
+    "link": "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Consumer and industrial IoT drive wireless chip market",
+    "source": "EDN",
+    "snippet": "Low power consumption, high integration, and advanced security highlight the latest wireless chips. The post Consumer and industrial IoT drive wireless chip market appeared first on EDN .",
+    "published": "2026-10-02T14:00:46+00:00",
+    "authors": "Gina Roos",
+    "link": "https://www.edn.com/consumer-and-industrial-iot-drive-wireless-chip-market/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Truchet tiles",
+    "source": "EDN",
+    "snippet": "One uninterrupted zone of these patterns can extend for a great distance, seemingly going virtually forever. The post Truchet tiles appeared first on EDN .",
+    "published": "2026-10-02T12:00:44+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/truchet-tiles/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Continuous Health Monitoring Drives Integrated Wearable System Design",
+    "source": "EE Times",
+    "snippet": "Analog Devices India’s Praveen Jose said device miniaturization is driving higher performance and quality in smaller form factors. The post Continuous Health Monitoring Drives Integrated Wearable System Design appeared first on EE Times .",
+    "published": "2026-10-02T11:29:26+00:00",
+    "authors": "Yashasvini Razdan",
+    "link": "https://www.eetimes.com/continuous-health-monitoring-drives-integrated-wearable-system-design/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
+    "source": "IEEE Spectrum",
+    "snippet": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ",
+    "published": "2026-10-02T10:00:03+00:00",
+    "authors": "COMSOL",
+    "link": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ",
+    "published": "2026-10-02T10:00:03+00:00",
+    "authors": "COMSOL",
+    "link": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "The state of AI-powered innovation in blood pressure monitoring",
+    "source": "EDN",
+    "snippet": "Cuffless BP monitors require merging sensor technology, understanding physiological signals, and using smart algorithms in custom hardware. The post The state of AI-powered innovation in blood pressure monitoring appeared first on EDN .",
+    "published": "2026-10-02T07:11:44+00:00",
+    "authors": "Srinivasan Kandaswamy",
+    "link": "https://www.edn.com/the-state-of-ai-powered-innovation-in-blood-pressure-monitoring/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
+    "source": "EE Times",
+    "snippet": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times .",
+    "published": "2026-10-01T17:31:45+00:00",
+    "authors": "Jim McGregor, Francis Sideco",
+    "link": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Edge Computing and Security for Access Control Applications: Getting the Best of the Two Worlds",
+    "source": "EE Times",
+    "snippet": "Join us where attendees will see how on-device processing improves resilience, reduces exposure of sensitive data, counters spoofing, and supports practical deployment across buildings, smart locks, vehicles and appliances. The post Edge Computing and Security for Access Control Applications: Gettin",
+    "published": "2026-10-01T14:01:12+00:00",
+    "authors": "Arrow Electronics, Microchip",
+    "link": "https://www.eetimes.com/edge-computing-and-security-for-access-control-applications-getting-the-best-of-the-two-worlds/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "RF chips, modules power the way from 5G to 6G",
+    "source": "EDN",
+    "snippet": "Sub-6-GHz and mmWave signal chains, higher FEM integration, and GaN PAs shape key design decisions on the road from 5G to 6G. The post RF chips, modules power the way from 5G to 6G appeared first on EDN .",
+    "published": "2026-10-01T14:00:00+00:00",
+    "authors": "Loriotoole",
+    "link": "https://www.edn.com/rf-chips-modules-power-the-way-from-5g-to-6g/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "PCBA Test Strategies: How to Select the Right Methodology and Tester",
+    "source": "EE Times",
+    "snippet": "Are you struggling with PCBA defects? Learn how to optimize your PCBA testing strategy by combining In-Circuit Testing (ICT), Functional Testing (FCT with Bed-of-Nails or Flying Probe Testers. The post PCBA Test Strategies: How to Select the Right Methodology and Tester appeared first on EE Times .",
+    "published": "2026-10-01T13:00:00+00:00",
+    "authors": "Francesca Pinto, SPEA Electronic Test Products Copywriter",
+    "link": "https://www.eetimes.com/pcba-test-strategies-how-to-select-the-right-methodology-and-tester/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Power Tips #157: Reducing conducted EMI in 48V automotive USB Type-C EPR designs",
+    "source": "EDN",
+    "snippet": "This tutorial examines conducted EMI behavior using an Extended Power Range (EPR) (≥100W) USB Power Delivery (PD) reference design. The post Power Tips #157: Reducing conducted EMI in 48V automotive USB Type-C EPR designs appeared first on EDN .",
+    "published": "2026-10-01T12:00:08+00:00",
+    "authors": "Sarmad Abedin, Josh Mandelcorn and Seong Kim",
+    "link": "https://www.edn.com/power-tips-157-reducing-conducted-emi-in-48v-automotive-usb-type-c-epr-designs/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
+    "source": "IEEE Spectrum",
+    "snippet": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. Th is leaking of electricity happens when it vanishes as heat as w ell as whe n it is pilfered by thieves and nonpaying customers. More than half of the countries that track these metrics los",
+    "published": "2026-10-01T12:00:02+00:00",
+    "authors": "Emily Waltz",
+    "link": "https://spectrum.ieee.org/electricity-theft",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "How a 650-V GaN device shrinks footprint in space-constrained data center racks",
+    "source": "EDN",
+    "snippet": "The GaN device for high-voltage power conversion in AI data centers dissipates heat from both the top and the bottom. The post How a 650-V GaN device shrinks footprint in space-constrained data center racks appeared first on EDN .",
+    "published": "2026-10-01T11:12:23+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.edn.com/how-a-650-v-gan-device-shrinks-footprint-in-space-constrained-data-center-racks/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Ethernet in automation: Industrial networking entering a new phase",
+    "source": "EDN",
+    "snippet": "Today's industrial networks enable communication across machines, robots, vision systems, edge platforms, and cloud applications. The post Ethernet in automation: Industrial networking entering a new phase appeared first on EDN .",
+    "published": "2026-10-01T06:47:09+00:00",
+    "authors": "Matthias Karcher",
+    "link": "https://www.edn.com/ethernet-in-automation-industrial-networking-entering-a-new-phase/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "IEEE Celebrates Innovators Shaping the Future",
+    "source": "IEEE Spectrum",
+    "snippet": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society worldwide with its Technical Field Awards . The honorees are selected by the IEEE Awards Board based ",
+    "published": "2026-09-30T18:00:02+00:00",
+    "authors": "IEEE Awards Board",
+    "link": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "A Brief History of the Bloomberg Terminal",
+    "source": "IEEE Spectrum",
+    "snippet": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to fiber-optic cables conducting trades in microseconds , traders have embraced any adva",
+    "published": "2026-09-30T13:00:02+00:00",
+    "authors": "Allison Marsh",
+    "link": "https://spectrum.ieee.org/bloomberg-terminal",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "A Brief History of the Bloomberg Terminal",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to fiber-optic cables conducting trades in microseconds , traders have embraced any adva",
+    "published": "2026-09-30T13:00:02+00:00",
+    "authors": "Allison Marsh",
+    "link": "https://spectrum.ieee.org/bloomberg-terminal",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
+    "source": "IEEE Spectrum",
+    "snippet": "Seventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing their model human lung. It was smaller than a USB stick and made of a clear polymer slab containing na",
+    "published": "2026-09-29T13:00:02+00:00",
+    "authors": "Brandon Keim",
+    "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+    "source": "IEEE Spectrum",
+    "snippet": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle. Key Takeaways Explore four critical technologies enabling silicon design autonomy Understand how autonomous AI accelerates comp",
+    "published": "2026-09-29T10:00:06+00:00",
+    "authors": "ChipAgents",
+    "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle. Key Takeaways Explore four critical technologies enabling silicon design autonomy Understand how autonomous AI accelerates comp",
+    "published": "2026-09-29T10:00:06+00:00",
+    "authors": "ChipAgents",
+    "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+    "source": "IEEE Spectrum",
+    "snippet": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence. In this Robots Guide profile, Kemp shar",
+    "published": "2026-09-28T21:48:56+00:00",
+    "authors": "IEEE Spectrum",
+    "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
+    "source": "IEEE Spectrum",
+    "snippet": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children. The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean exploration, are evolving rapidly. Helping young learners understand the concepts is essential to pre",
+    "published": "2026-09-28T18:00:03+00:00",
+    "authors": "Danielle Cann",
+    "link": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
+    "source": "IEEE Spectrum",
+    "snippet": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school bus when, for the third time in a week, the power goes out. No lights, no mixer to finish my daughte",
+    "published": "2026-09-28T13:00:04+00:00",
+    "authors": "Mini Shaji Thomas",
+    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Poetry for Engineers: The UI Designer’s Dream",
+    "source": "IEEE Spectrum",
+    "snippet": "My job is to translate dry and unrelenting code into a user interface of surpassing beauty. With my mouse, I roll one pixel after another up the vast anthill of the internet. My dream is to translate the visions of the holy ones into a communication protocol of universal wonderment. I want to launch",
+    "published": "2026-09-27T13:00:03+00:00",
+    "authors": "Ralph Earle",
+    "link": "https://spectrum.ieee.org/poetry-user-interface-design",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Poetry for Engineers: The UI Designer’s Dream",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "My job is to translate dry and unrelenting code into a user interface of surpassing beauty. With my mouse, I roll one pixel after another up the vast anthill of the internet. My dream is to translate the visions of the holy ones into a communication protocol of universal wonderment. I want to launch",
+    "published": "2026-09-27T13:00:03+00:00",
+    "authors": "Ralph Earle",
+    "link": "https://spectrum.ieee.org/poetry-user-interface-design",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Social Media Bans Aren’t Enough to Make Children Safe",
+    "source": "IEEE Spectrum",
+    "snippet": "Even before France approved legislation banning social media for children under 15 last January, 13-year-old Benjamin was already wondering what life without social media would look like. “If we want to play football, we won’t be able to organize it. What will we do? Send letters instead?” he joked ",
+    "published": "2026-09-25T13:00:04+00:00",
+    "authors": "Danica Radovanović",
+    "link": "https://spectrum.ieee.org/social-media-bans",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+    "source": "IEEE Spectrum",
+    "snippet": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on",
+    "published": "2026-09-24T18:00:04+00:00",
+    "authors": "Ashley Moran",
+    "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Measure Distant Asteroids With a DIY Rig",
+    "source": "IEEE Spectrum",
+    "snippet": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or the moon—something called an asteroid occultation. That’s what happens when an a",
+    "published": "2026-09-24T13:00:04+00:00",
+    "authors": "David Schneider",
+    "link": "https://spectrum.ieee.org/asteroid-shadow",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
+    "source": "IEEE Spectrum",
+    "snippet": "This white paper gives distribution engineers and utility teams a practical overview of the substation exit, the short and high-consequence section where station capacity divides into individual feeders. It explains how covered, spacer-supported overhead construction can reduce common contact-driven",
+    "published": "2026-09-24T10:00:06+00:00",
+    "authors": "Marmon Utility (Hendrix®)",
+    "link": "https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "3 Skills That Will Matter More in the Age of AI",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! If you have kids, they’re probably back in school",
+    "published": "2026-09-23T15:40:04+00:00",
+    "authors": "Brian Jenney",
+    "link": "https://spectrum.ieee.org/top-engineering-skills",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "EU Tech Push Boosts Ultrafast Laser Startups",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Several startups see a big opportunity to build the next generation of ultrafast lasers, a crucial component in high-end chip manufacturing, in Europe. In June 2026, the European Commission proposed legislation and strategies to reinforce Europe’s competitiveness and independence in the semiconducto",
+    "published": "2026-09-23T13:00:04+00:00",
+    "authors": "Rachel Berkowitz",
+    "link": "https://spectrum.ieee.org/ultrafast-lasers-europe",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member",
+    "source": "IEEE Spectrum",
+    "snippet": "Many youngsters fascinated by exploring outer space dream of becoming an astronaut, but few do. One who had the right stuff is Pedro Duque , who was Spain’s first astronaut. The aeronautics engineer flew aboard the space shuttle Discovery and the International Space Station . After retiring as an as",
+    "published": "2026-09-22T18:00:05+00:00",
+    "authors": "Kathy Pretz",
+    "link": "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
+    "source": "IEEE Spectrum",
+    "snippet": "Throughout her career, roboticist Barbara Mazzolai has turned to nature for inspiration. Now she wants to ensure the technology she builds gives back to the environment, too. After starting her career as a biologist, a chance opportunity saw Mazzolai switch streams to engineering and become an early",
+    "published": "2026-09-22T14:00:04+00:00",
+    "authors": "Edd Gent",
+    "link": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operato",
+    "published": "2026-09-22T12:22:50+00:00",
+    "authors": "CoolIT, an Ecolab Company",
+    "link": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operato",
+    "published": "2026-09-22T12:22:50+00:00",
+    "authors": "CoolIT, an Ecolab Company",
+    "link": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Nvidia Brings Generative AI to Video Game Lighting",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "On 1 September, Nvidia launched a new generative AI approach to rendering video game graphics that CEO Jensen Huang has previously hailed as a “GPT moment for graphics.” Instead of forcing graphics processors to calculate the material physics and lighting of virtual surfaces pixel-by-pixel to achiev",
+    "published": "2026-09-21T16:07:11+00:00",
+    "authors": "Stephen Cousins",
+    "link": "https://spectrum.ieee.org/neural-rendering-nvidia-dlss-5",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+    "source": "IEEE Spectrum",
+    "snippet": "Shortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one being that, unlike satellite communications, their transmission rates for digital data are typically measured in just hu",
+    "published": "2026-09-21T13:00:04+00:00",
+    "authors": "Margo Anderson",
+    "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
+    "source": "IEEE Spectrum",
+    "snippet": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow. Download this free w",
+    "published": "2026-09-18T18:29:50+00:00",
+    "authors": "Mike Spector",
+    "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow. Download this free w",
+    "published": "2026-09-18T18:29:50+00:00",
+    "authors": "Mike Spector",
+    "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Turning Tech Talent Into Leadership Legacy",
+    "source": "IEEE Spectrum",
+    "snippet": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborati",
+    "published": "2026-09-18T18:00:04+00:00",
+    "authors": "Prachi Jain",
+    "link": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Superconducting Transistors to Solve Quantum Computing Woes",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "A quantum computer can be an ungainly thing, because even the most elegant qubit-housing cryostat usually sprouts a thicket of control cables. Most qubits don’t work above a fraction of a degree above absolute zero, but the conventional electronics that control the qubits don’t work in the cryogenic",
+    "published": "2026-09-17T21:02:26+00:00",
+    "authors": "Rahul Rao",
+    "link": "https://spectrum.ieee.org/superconducting-transistors",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Rethinking Robot Safety in the Age of AI",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As A",
+    "published": "2026-09-16T16:51:02+00:00",
+    "authors": "VicOne",
+    "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Rethinking Robot Safety in the Age of AI",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As A",
+    "published": "2026-09-16T16:51:02+00:00",
+    "authors": "VicOne",
+    "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
+    "source": "IEEE Spectrum",
+    "snippet": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches. Download this free whitepaper now!",
+    "published": "2026-09-16T13:24:18+00:00",
+    "authors": "CoolIT, an Ecolab Company",
+    "link": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "The AI Inference Revolution Is Here",
+    "source": "IEEE Spectrum",
+    "snippet": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popul",
+    "published": "2026-09-15T13:00:05+00:00",
+    "authors": "Matthew S. Smith",
+    "link": "https://spectrum.ieee.org/inference-hardware-revolution",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "The AI Inference Revolution Is Here",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popul",
+    "published": "2026-09-15T13:00:05+00:00",
+    "authors": "Matthew S. Smith",
+    "link": "https://spectrum.ieee.org/inference-hardware-revolution",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
+    "source": "IEEE Spectrum",
+    "snippet": "In 2003, Martin Eberhard, a cofounder of Tesla Motors , decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero , the revolutionary and blazingly fast electric roadster that Cocconi had built a",
+    "published": "2026-09-15T12:13:58+00:00",
+    "authors": "Charles J. Murray",
+    "link": "https://spectrum.ieee.org/elon-musk-tesla",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that ",
+    "published": "2026-09-14T14:06:31+00:00",
+    "authors": "Matthew S. Smith",
+    "link": "https://spectrum.ieee.org/llms-for-chip-design",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that ",
+    "published": "2026-09-14T14:06:31+00:00",
+    "authors": "Matthew S. Smith",
+    "link": "https://spectrum.ieee.org/llms-for-chip-design",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "How Sound Could Make Sense of Big Data",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "In the art of transforming data into easily interpretable displays, visualization is usually the go-to option. But sight isn’t the only sense we can use to make sense of numeric information. Sonification is visualization’s lesser-known cousin: the practice of translating data into sounds. While we m",
+    "published": "2026-09-06T13:00:01+00:00",
+    "authors": "Dina Genkina",
+    "link": "https://spectrum.ieee.org/data-sonification-stephen-roddy",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Cash In on the AI Boom by Renting Out Your Spare Compute",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pretrained model",
+    "published": "2026-09-01T14:00:03+00:00",
+    "authors": "Dina Genkina",
+    "link": "https://spectrum.ieee.org/ai-inference-distributed-computing",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "This story was originally published by Tech Policy Press . The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that unde",
+    "published": "2026-08-31T14:00:04+00:00",
+    "authors": "Joana Soares",
+    "link": "https://spectrum.ieee.org/europes-ai-drive",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "This story was originally published by Tech Policy Press . The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that unde",
+    "published": "2026-08-31T14:00:04+00:00",
+    "authors": "Joana Soares",
+    "link": "https://spectrum.ieee.org/europes-ai-drive",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "The U.S. Is Building CHIPS Act Fabs but Neglecting R&D",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "On 6 August, the U.S. Government Accountability Office (GAO) released a report on the state of the 2022 CHIPS and Science Act , a bipartisan federal law passed under the Biden administration to boost U.S. semiconductor manufacturing and R&D. While manufacturing projects funded by the act are making ",
+    "published": "2026-08-27T15:00:03+00:00",
+    "authors": "Alex Music",
+    "link": "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "China’s Grip on Erbium and Yttrium Could Choke Data-Center Growth",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "There are 17 rare earth elements. While almost all of them have vital industrial uses, you could be forgiven for believing, based on news coverage, that there are only four that matter: neodymium, praseodymium, dysprosium, and terbium. To be sure, those are the essential ingredients in the powerful ",
+    "published": "2026-08-26T13:00:01+00:00",
+    "authors": "Glenn Zorpette",
+    "link": "https://spectrum.ieee.org/rare-earth-shortage",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National Security Agency’s main cryptographic processor in operation from the time of the Cuban",
+    "published": "2026-08-25T13:00:01+00:00",
+    "authors": "Peter Capek",
+    "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Building Technology People Can Trust",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "This article is brought to you by Emerson . I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity. In semiconductors, we have seen that repeatedly. E",
+    "published": "2026-08-24T11:37:02+00:00",
+    "authors": "Ritu Favre",
+    "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Poetry for Engineers: Safe Distance",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "How do I touch you across the ocean, across cold depths where light travels through glass. Not copper—fibers. Optical. Through liquid glass, through flickering light that carries you in fragments. Light broken into pulses. You say: it’s easier this way. What are we missing like this? You smile. Safe",
+    "published": "2026-08-23T13:00:01+00:00",
+    "authors": "Danica Radovanović",
+    "link": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "From AI Copilots to Agent Swarms",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing t",
+    "published": "2026-08-17T14:00:01+00:00",
+    "authors": "Andrej Zdravkovic",
+    "link": "https://spectrum.ieee.org/amd-agent-swarms",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "AI Used to Verify Toughest Mathematics Proof Yet",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Representing a significant milestone in AI-assisted mathematical research, a team at Axiom Math has automatically verified the proof of a theorem relating to prime numbers—colloquially referred to as the “246 theorem”—for the first time using the company’s AI system AxiomProver. In formal verificati",
+    "published": "2026-08-17T13:00:02+00:00",
+    "authors": "Benjamin Skuse",
+    "link": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Supply chains in many industries are full of tangles, but for semiconductor tech, that’s putting it lightly. Many chip components are location-constrained and can easily be throttled by geopolitical factors. Chipmaking is also tied up with social and environmental concerns, and if any seemingly smal",
+    "published": "2026-08-15T13:00:01+00:00",
+    "authors": "Alex Music",
+    "link": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources. Download this free whitepaper now!",
+    "published": "2026-08-14T17:27:12+00:00",
+    "authors": "WIPL-D",
+    "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production. Download this free whitepaper now!",
+    "published": "2026-08-12T14:18:05+00:00",
+    "authors": "Voxel51",
+    "link": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Brazil Seeks Its Quantum State",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Countries around the world are trying to find their place in a world of new and powerful quantum computing possibilities. China and the U.S. are investing tens of millions of U.S. dollars to build individual quantum computers for their national laboratories as part of a wider investment of tens of b",
+    "published": "2026-08-12T14:00:01+00:00",
+    "authors": "Lucas Laursen",
+    "link": "https://spectrum.ieee.org/brazil-quantum",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the i",
+    "published": "2026-08-03T11:38:22+00:00",
+    "authors": "Joseph Carew",
+    "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the i",
+    "published": "2026-08-03T11:38:22+00:00",
+    "authors": "Joseph Carew",
+    "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Fridays With Bob",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen",
+    "published": "2026-08-01T12:00:01+00:00",
+    "authors": "Harry Goldstein",
+    "link": "https://spectrum.ieee.org/risk",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "IBM Claims Quantum Advantage With New Validation Techniques",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Quantum computers promise to solve problems beyond the most powerful classical supercomputers. But this raises a fundamental challenge: How do you prove the validity of answers that can’t be calculated any other way? In a trio of papers released yesterday, IBM and collaborators say they have demonst",
+    "published": "2026-07-31T14:00:01+00:00",
+    "authors": "Edd Gent",
+    "link": "https://spectrum.ieee.org/ibm-verifiable-quantum-advantage",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Why NIST Researchers Spent 10 Years Measuring Gravity",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Physicists have been trying to measure the fundamental gravitation al constant for well over two centuries. The current accepted value of big G , as it’s known, is 6.67430 × 10 -11 cubic meters per kilogram per square second. It also has an uncertainty of ±0.00015 × 10 -11 m 3 /(kg s 2 ). As far as ",
+    "published": "2026-07-28T13:00:01+00:00",
+    "authors": "Michael Koziol",
+    "link": "https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Exotic Quasiparticles Promise Next-Gen Interconnects",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Interconnects , the wires that string transistors together into circuits on microchips, have long been built from copper due to its high conductivity. However, as electronics continue to shrink, copper becomes a dramatically worse conductor. Now scientists find that a new class of materials containi",
+    "published": "2026-07-27T11:00:01+00:00",
+    "authors": "Charles Q. Choi",
+    "link": "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes a beat to refresh, then displays an array of squares that resemble a QR code. Wh",
+    "published": "2026-07-26T13:00:01+00:00",
+    "authors": "Alex Music",
+    "link": "https://spectrum.ieee.org/ai-in-robotics",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "When you get a good night’s sleep, you aren’t just giving your brain a chance to rest. Sleep activates a system only discovered in 2012 that washes out brain waste. Called the glymphatic system, it’s comparable to the better-known lymphatic system that moves and filters fluids throughout your body. ",
+    "published": "2026-07-23T12:00:01+00:00",
+    "authors": "Alex Music",
+    "link": "https://spectrum.ieee.org/sleep-monitoring-device",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "The Computer That Helped Win World War II",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "One summer day in 1941, a British radio operator was monitoring German military frequencies and heard something unexpected in her headphones. A later report called it “strange new music.” Sounding unlike the familiar Morse dit-dit-dah of enciphered messages sent over the German Enigma network, the “",
+    "published": "2026-07-22T18:00:01+00:00",
+    "authors": "B. Jack Copeland",
+    "link": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a",
+    "published": "2026-07-20T15:55:00+00:00",
+    "authors": "Zeiss",
+    "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a",
+    "published": "2026-07-20T15:55:00+00:00",
+    "authors": "Zeiss",
+    "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "In the chill of a London spring night, under overcast skies, iconic Trafalgar Square opens around me. Admiral Nelson rises on his pedestal, the National Gallery rests behind, the church of St Martin-in-the-Fields sits nearby. From the 13th century, the site served as the Royal Mews for hawks and the",
+    "published": "2026-07-20T13:00:01+00:00",
+    "authors": "Paul Bogard",
+    "link": "https://spectrum.ieee.org/led-light-pollution",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Largest Probabilistic Computer Hits 1 Million P-Bits",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Probabilistic computers might one day tackle certain problems well beyond standard computers while at the same time avoiding the many hardware challenges that currently vex quantum computing. Now scientists reveal they have created the largest probabilistic computer yet, one with 1 million “probabil",
+    "published": "2026-07-18T13:00:01+00:00",
+    "authors": "Charles Q. Choi",
+    "link": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "How I Turned AI to the Dark Side",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc",
+    "published": "2026-07-14T15:59:35+00:00",
+    "authors": "David Kuszmar",
+    "link": "https://spectrum.ieee.org/jailbreaking-llms",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "The Memory in Your Thumb Drive Could Fix AI’s Big Problem",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Large Language Models (LLMs) demand immense amounts of memory, and the more people use them, the more memory is required. Memory makers responded by accelerating plans to build new memory fabs, with a focus on High Bandwidth Memory (HBM) and DRAM, the first of which is scheduled to start production ",
+    "published": "2026-07-14T13:00:01+00:00",
+    "authors": "Matthew S. Smith",
+    "link": "https://spectrum.ieee.org/high-bandwidth-flash",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "The Memory in Your Thumb Drive Could Fix AI’s Big Problem",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Large Language Models (LLMs) demand immense amounts of memory, and the more people use them, the more memory is required. Memory makers responded by accelerating plans to build new memory fabs, with a focus on High Bandwidth Memory (HBM) and DRAM, the first of which is scheduled to start production ",
+    "published": "2026-07-14T13:00:01+00:00",
+    "authors": "Matthew S. Smith",
+    "link": "https://spectrum.ieee.org/high-bandwidth-flash",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Is Optical Scale-Up Finally Approaching?",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Currently, most data centers use both electronic and optical communication protocols, for different tasks. Scale-out networks connect thousands of AI computers across a data center, making optics the obvious choice for long distances. Scale-up networks connect several GPUs inside a single mega-compu",
+    "published": "2026-07-09T13:00:01+00:00",
+    "authors": "Knvul Sheikh",
+    "link": "https://spectrum.ieee.org/nvlink-fusion-optics",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Stacking Chips Sideways Gives AI More Memory",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "GPUs and other big AI chips just can’t get enough memory. Today’s data center computers stack DRAM 12 dies high. But as memory makers try to build higher stacks to pack in more bits and bandwidth, experts worry this high bandwidth-memory (HBM) will trap enough heat to cook itself into oblivion. That",
+    "published": "2026-07-08T10:00:02+00:00",
+    "authors": "Samuel K. Moore",
+    "link": "https://spectrum.ieee.org/stacking-chips-sideways",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Independent Labs Crack Google’s Secret Cryptography Work",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "A quantum computer capable of breaking the codes that help secure today’s internet became dramatically more possible in March, when Google scientists and their colleagues unveiled new research. Usually, cybersecurity researchers share information about how attacks work to help prevent them. This gro",
+    "published": "2026-07-07T13:30:01+00:00",
+    "authors": "Charles Q. Choi",
+    "link": "https://spectrum.ieee.org/google-quantum-cryptography-zero-knowledge",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Brain-Inspired Light Sensor Could Speed AI Image Processing",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "A new type of imaging sensor inspired by the functioning of the human brain can detect light and store data at the same time. What’s more, the device can forget the data it no longer needs, paving the way for future breakthroughs in robotic-vision efficiency. Today’s digital cameras rely on compleme",
+    "published": "2026-07-07T13:00:01+00:00",
+    "authors": "Tereza Pultarova",
+    "link": "https://spectrum.ieee.org/hybrid-phototransistor",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Chip R&D Is Accelerating to Keep Pace With AI",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Semiconductor companies and universities are trying to shorten their feedback loop to meet the challenges of the AI era. In recent years, National Yang-Ming Chiao Tung University in Taiwan; the University of California, Berkeley ; Arizona State University ; Virginia Tech ; and others have been build",
+    "published": "2026-07-02T11:00:02+00:00",
+    "authors": "Lucas Laursen",
+    "link": "https://spectrum.ieee.org/ai-chip-design-fab-ucla",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "The Lab Mistake That Might Revolutionize Computing",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But",
+    "published": "2026-06-29T13:00:01+00:00",
+    "authors": "Mario Lanza",
+    "link": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Records Fall for 3D Chip Tech",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "As transistor sizes shrink to their atomic limits, computing demands are only growing. Sending chips to the third dimension is the future: Chips stacked on other chips can get more work done in the same footprint, saving time and energy. A 3D chipmaking technology called hybrid bonding is leading th",
+    "published": "2026-06-25T14:00:01+00:00",
+    "authors": "Alex Music",
+    "link": "https://spectrum.ieee.org/hybrid-bonding-2677022836",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Future Transistor Stacking Plans Start to Diverge",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Chipmakers agree that the transistor of the next decade will actually be two transistors stacked atop one another, packing in many more devices in the same area of silicon and leading to circuits that are as little as half the size of today’s. But their research efforts are beginning to show some im",
+    "published": "2026-06-25T11:41:45+00:00",
+    "authors": "Samuel K. Moore",
+    "link": "https://spectrum.ieee.org/cfet-ibm-plan",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Summary RFIC design is a complex “ dark art ” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications. Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch. Diffusion models rapidly generate novel or",
+    "published": "2026-06-24T13:00:01+00:00",
+    "authors": "Kaushik Sengupta",
+    "link": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "The EU Wants Its Own Tech Supply Chain",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "It’s little secret that Europe is dependent on foreign technology—particularly U.S. tech—for office software, cloud services, AI, and more. This may have been easy to accept just several years ago, but when the United States government now openly threatens European countries with military action, th",
+    "published": "2026-06-23T10:00:03+00:00",
+    "authors": "Rahul Rao",
+    "link": "https://spectrum.ieee.org/europe-tech-sovereignty-package",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Semiconductor Startup Builds Alternatives for Vital Legacy Chips",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "When the U.S. Navy’s fleet of F/A-18F Super Hornet fighter jets is headed for the scrap heap because an essential chip is unavailable, what do they do? They turn to Ryan Hatcher , the CEO and founder of Phoenix Semiconductor. Hatcher repackages off-the-shelf semiconductors into devices that are virt",
+    "published": "2026-06-16T10:00:02+00:00",
+    "authors": "Alan Patterson",
+    "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacy-chips-oems",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "NSF Experiments With New Kind of Science Funding",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Uncle Sam wants you to solve big scientific and engineering bottlenecks outside the hallowed walls of academia. On 14 May, the U.S. National Science Foundation (NSF) issued a solicitation inviting what it calls “X-Labs,” or independent research organizations, to apply for a total of US $1.5 billion ",
+    "published": "2026-06-04T13:00:01+00:00",
+    "authors": "Lucas Laursen",
+    "link": "https://spectrum.ieee.org/nsf-x-labs",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Finding Success in Industry as a Chip Designer",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the ",
+    "published": "2026-05-28T13:00:01+00:00",
+    "authors": "Maysam Ghovanloo",
+    "link": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Understanding Phase Noise and Its Impact on RF System Performance",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported. What Attendees will Learn What phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-te",
+    "published": "2026-05-28T10:00:01+00:00",
+    "authors": "Rohde & Schwarz",
+    "link": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Junctionless Transistors Show a New Path to 3D Chips",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Chipmakers are struggling to shrink the amount of area a transistor takes up, so researchers are trying to build layers of devices on top of each other. However, many experimental 3D chips rely on exotic materials and perform poorly compared with regular silicon devices. But researchers at the Unive",
+    "published": "2026-05-27T15:00:02+00:00",
+    "authors": "Charles Q. Choi",
+    "link": "https://spectrum.ieee.org/3d-chips",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Pavona Launches Open-Hardware Ecosystem for Secure Chips",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Open-source software is ubiquitous: Linux is the dominant operating system on servers and supercomputers worldwide; Wordpress powers over 40 percent of all websites, among other major projects. Open-source hardware has existed since the late 1990s, but it hasn’t seen nearly the same level of interes",
+    "published": "2026-05-25T14:00:01+00:00",
+    "authors": "Dina Genkina",
+    "link": "https://spectrum.ieee.org/pavona-open-source-hardware",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Andrew Ng: Unbiggen AI",
+    "source": "IEEE Spectrum",
+    "snippet": "Andrew Ng has serious street cred in artificial intelligence. He pioneered the use of graphics processing units (GPUs) to train deep learning models in the late 2000s with his students at Stanford University , cofounded Google Brain in 2011, and then served for three years as chief scientist for Bai",
+    "published": "2022-02-09T15:31:12+00:00",
+    "authors": "Eliza Strickland",
+    "link": "https://spectrum.ieee.org/andrew-ng-data-centric-ai",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "How AI Will Change Chip Design",
+    "source": "IEEE Spectrum",
+    "snippet": "The end of Moore’s Law is looming. Engineers and designers can do only so much to miniaturize transistors and pack as many of them as possible into chips . So they’re turning to other approaches to chip design, incorporating technologies like AI into the process. Samsung, for instance, is adding AI ",
+    "published": "2022-02-08T14:00:01+00:00",
+    "authors": "Rina Diane Caballar",
+    "link": "https://spectrum.ieee.org/ai-chip-design-matlab",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Atomically Thin Materials Significantly Shrink Qubits",
+    "source": "IEEE Spectrum",
+    "snippet": "Quantum computing is a devilishly complex technology, with many technical hurdles impacting its development. Of these challenges two critical issues stand out: miniaturization and qubit quality. IBM has adopted the superconducting qubit road map of reaching a 1,121-qubit processor by 2023 , leading ",
+    "published": "2022-02-07T16:12:05+00:00",
+    "authors": "Dexter Johnson",
+    "link": "https://spectrum.ieee.org/2d-hbn-qubit",
+    "category": "IEEE 综合新闻"
+  }
+]

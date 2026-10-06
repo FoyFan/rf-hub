@@ -391,15 +391,6 @@
       "category": "EDN 电子设计新闻"
     },
     {
-      "title": "6 Guidelines for Governing AI",
-      "source": "IEEE Spectrum",
-      "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business sy",
-      "published": "2026-10-05T18:00:02+00:00",
-      "authors": "Sravan Vadigepalli",
-      "link": "https://spectrum.ieee.org/6-guidelines-governing-ai",
-      "category": "IEEE 综合新闻"
-    },
-    {
       "title": "An Apple-plus-Google adapter that’s AI in name only (sigh)",
       "source": "EDN",
       "snippet": "Is there actually any AI in the “AI Box”? Doubtful. But it’s durable, along with platform-nimble. And the attractive price is indisputable. The post An Apple-plus-Google adapter that’s AI in name only (sigh) appeared first on EDN .",
@@ -418,15 +409,6 @@
       "category": "EDN 电子设计新闻"
     },
     {
-      "title": "Smart Car Researcher Wants to Eliminate Stoplights",
-      "source": "IEEE Spectrum",
-      "snippet": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green. Cassandras",
-      "published": "2026-10-02T18:00:02+00:00",
-      "authors": "Willie D. Jones",
-      "link": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
-      "category": "IEEE 综合新闻"
-    },
-    {
       "title": "Consumer and industrial IoT drive wireless chip market",
       "source": "EDN",
       "snippet": "Low power consumption, high integration, and advanced security highlight the latest wireless chips. The post Consumer and industrial IoT drive wireless chip market appeared first on EDN .",
@@ -443,15 +425,6 @@
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/truchet-tiles/",
       "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
-      "source": "IEEE Spectrum",
-      "snippet": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ",
-      "published": "2026-10-02T10:00:03+00:00",
-      "authors": "COMSOL",
-      "link": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
-      "category": "IEEE 综合新闻"
     },
     {
       "title": "The state of AI-powered innovation in blood pressure monitoring",
@@ -481,15 +454,6 @@
       "category": "EDN 电子设计新闻"
     },
     {
-      "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
-      "source": "IEEE Spectrum",
-      "snippet": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. Th is leaking of electricity happens when it vanishes as heat as w ell as whe n it is pilfered by thieves and nonpaying customers. More than half of the countries that track these metrics los",
-      "published": "2026-10-01T12:00:02+00:00",
-      "authors": "Emily Waltz",
-      "link": "https://spectrum.ieee.org/electricity-theft",
-      "category": "IEEE 综合新闻"
-    },
-    {
       "title": "How a 650-V GaN device shrinks footprint in space-constrained data center racks",
       "source": "EDN",
       "snippet": "The GaN device for high-voltage power conversion in AI data centers dissipates heat from both the top and the bottom. The post How a 650-V GaN device shrinks footprint in space-constrained data center racks appeared first on EDN .",
@@ -506,240 +470,6 @@
       "authors": "Matthias Karcher",
       "link": "https://www.edn.com/ethernet-in-automation-industrial-networking-entering-a-new-phase/",
       "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "IEEE Celebrates Innovators Shaping the Future",
-      "source": "IEEE Spectrum",
-      "snippet": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society worldwide with its Technical Field Awards . The honorees are selected by the IEEE Awards Board based ",
-      "published": "2026-09-30T18:00:02+00:00",
-      "authors": "IEEE Awards Board",
-      "link": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "A Brief History of the Bloomberg Terminal",
-      "source": "IEEE Spectrum",
-      "snippet": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to fiber-optic cables conducting trades in microseconds , traders have embraced any adva",
-      "published": "2026-09-30T13:00:02+00:00",
-      "authors": "Allison Marsh",
-      "link": "https://spectrum.ieee.org/bloomberg-terminal",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
-      "source": "IEEE Spectrum",
-      "snippet": "Seventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing their model human lung. It was smaller than a USB stick and made of a clear polymer slab containing na",
-      "published": "2026-09-29T13:00:02+00:00",
-      "authors": "Brandon Keim",
-      "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-      "source": "IEEE Spectrum",
-      "snippet": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle. Key Takeaways Explore four critical technologies enabling silicon design autonomy Understand how autonomous AI accelerates comp",
-      "published": "2026-09-29T10:00:06+00:00",
-      "authors": "ChipAgents",
-      "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-      "source": "IEEE Spectrum",
-      "snippet": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence. In this Robots Guide profile, Kemp shar",
-      "published": "2026-09-28T21:48:56+00:00",
-      "authors": "IEEE Spectrum",
-      "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
-      "source": "IEEE Spectrum",
-      "snippet": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children. The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean exploration, are evolving rapidly. Helping young learners understand the concepts is essential to pre",
-      "published": "2026-09-28T18:00:03+00:00",
-      "authors": "Danielle Cann",
-      "link": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
-      "source": "IEEE Spectrum",
-      "snippet": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school bus when, for the third time in a week, the power goes out. No lights, no mixer to finish my daughte",
-      "published": "2026-09-28T13:00:04+00:00",
-      "authors": "Mini Shaji Thomas",
-      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Poetry for Engineers: The UI Designer’s Dream",
-      "source": "IEEE Spectrum",
-      "snippet": "My job is to translate dry and unrelenting code into a user interface of surpassing beauty. With my mouse, I roll one pixel after another up the vast anthill of the internet. My dream is to translate the visions of the holy ones into a communication protocol of universal wonderment. I want to launch",
-      "published": "2026-09-27T13:00:03+00:00",
-      "authors": "Ralph Earle",
-      "link": "https://spectrum.ieee.org/poetry-user-interface-design",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Social Media Bans Aren’t Enough to Make Children Safe",
-      "source": "IEEE Spectrum",
-      "snippet": "Even before France approved legislation banning social media for children under 15 last January, 13-year-old Benjamin was already wondering what life without social media would look like. “If we want to play football, we won’t be able to organize it. What will we do? Send letters instead?” he joked ",
-      "published": "2026-09-25T13:00:04+00:00",
-      "authors": "Danica Radovanović",
-      "link": "https://spectrum.ieee.org/social-media-bans",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-      "source": "IEEE Spectrum",
-      "snippet": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on",
-      "published": "2026-09-24T18:00:04+00:00",
-      "authors": "Ashley Moran",
-      "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Measure Distant Asteroids With a DIY Rig",
-      "source": "IEEE Spectrum",
-      "snippet": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or the moon—something called an asteroid occultation. That’s what happens when an a",
-      "published": "2026-09-24T13:00:04+00:00",
-      "authors": "David Schneider",
-      "link": "https://spectrum.ieee.org/asteroid-shadow",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
-      "source": "IEEE Spectrum",
-      "snippet": "This white paper gives distribution engineers and utility teams a practical overview of the substation exit, the short and high-consequence section where station capacity divides into individual feeders. It explains how covered, spacer-supported overhead construction can reduce common contact-driven",
-      "published": "2026-09-24T10:00:06+00:00",
-      "authors": "Marmon Utility (Hendrix®)",
-      "link": "https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "3 Skills That Will Matter More in the Age of AI",
-      "source": "IEEE Spectrum",
-      "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! If you have kids, they’re probably back in school",
-      "published": "2026-09-23T15:40:04+00:00",
-      "authors": "Brian Jenney",
-      "link": "https://spectrum.ieee.org/top-engineering-skills",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member",
-      "source": "IEEE Spectrum",
-      "snippet": "Many youngsters fascinated by exploring outer space dream of becoming an astronaut, but few do. One who had the right stuff is Pedro Duque , who was Spain’s first astronaut. The aeronautics engineer flew aboard the space shuttle Discovery and the International Space Station . After retiring as an as",
-      "published": "2026-09-22T18:00:05+00:00",
-      "authors": "Kathy Pretz",
-      "link": "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
-      "source": "IEEE Spectrum",
-      "snippet": "Throughout her career, roboticist Barbara Mazzolai has turned to nature for inspiration. Now she wants to ensure the technology she builds gives back to the environment, too. After starting her career as a biologist, a chance opportunity saw Mazzolai switch streams to engineering and become an early",
-      "published": "2026-09-22T14:00:04+00:00",
-      "authors": "Edd Gent",
-      "link": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
-      "source": "IEEE Spectrum",
-      "snippet": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operato",
-      "published": "2026-09-22T12:22:50+00:00",
-      "authors": "CoolIT, an Ecolab Company",
-      "link": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-      "source": "IEEE Spectrum",
-      "snippet": "Shortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one being that, unlike satellite communications, their transmission rates for digital data are typically measured in just hu",
-      "published": "2026-09-21T13:00:04+00:00",
-      "authors": "Margo Anderson",
-      "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
-      "source": "IEEE Spectrum",
-      "snippet": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow. Download this free w",
-      "published": "2026-09-18T18:29:50+00:00",
-      "authors": "Mike Spector",
-      "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Turning Tech Talent Into Leadership Legacy",
-      "source": "IEEE Spectrum",
-      "snippet": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborati",
-      "published": "2026-09-18T18:00:04+00:00",
-      "authors": "Prachi Jain",
-      "link": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Rethinking Robot Safety in the Age of AI",
-      "source": "IEEE Spectrum",
-      "snippet": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As A",
-      "published": "2026-09-16T16:51:02+00:00",
-      "authors": "VicOne",
-      "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
-      "source": "IEEE Spectrum",
-      "snippet": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches. Download this free whitepaper now!",
-      "published": "2026-09-16T13:24:18+00:00",
-      "authors": "CoolIT, an Ecolab Company",
-      "link": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "The AI Inference Revolution Is Here",
-      "source": "IEEE Spectrum",
-      "snippet": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popul",
-      "published": "2026-09-15T13:00:05+00:00",
-      "authors": "Matthew S. Smith",
-      "link": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
-      "source": "IEEE Spectrum",
-      "snippet": "In 2003, Martin Eberhard, a cofounder of Tesla Motors , decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero , the revolutionary and blazingly fast electric roadster that Cocconi had built a",
-      "published": "2026-09-15T12:13:58+00:00",
-      "authors": "Charles J. Murray",
-      "link": "https://spectrum.ieee.org/elon-musk-tesla",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Andrew Ng: Unbiggen AI",
-      "source": "IEEE Spectrum",
-      "snippet": "Andrew Ng has serious street cred in artificial intelligence. He pioneered the use of graphics processing units (GPUs) to train deep learning models in the late 2000s with his students at Stanford University , cofounded Google Brain in 2011, and then served for three years as chief scientist for Bai",
-      "published": "2022-02-09T15:31:12+00:00",
-      "authors": "Eliza Strickland",
-      "link": "https://spectrum.ieee.org/andrew-ng-data-centric-ai",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "How AI Will Change Chip Design",
-      "source": "IEEE Spectrum",
-      "snippet": "The end of Moore’s Law is looming. Engineers and designers can do only so much to miniaturize transistors and pack as many of them as possible into chips . So they’re turning to other approaches to chip design, incorporating technologies like AI into the process. Samsung, for instance, is adding AI ",
-      "published": "2022-02-08T14:00:01+00:00",
-      "authors": "Rina Diane Caballar",
-      "link": "https://spectrum.ieee.org/ai-chip-design-matlab",
-      "category": "IEEE 综合新闻"
-    },
-    {
-      "title": "Atomically Thin Materials Significantly Shrink Qubits",
-      "source": "IEEE Spectrum",
-      "snippet": "Quantum computing is a devilishly complex technology, with many technical hurdles impacting its development. Of these challenges two critical issues stand out: miniaturization and qubit quality. IBM has adopted the superconducting qubit road map of reaching a 1,121-qubit processor by 2023 , leading ",
-      "published": "2022-02-07T16:12:05+00:00",
-      "authors": "Dexter Johnson",
-      "link": "https://spectrum.ieee.org/2d-hbn-qubit",
-      "category": "IEEE 综合新闻"
     }
   ]
 }
