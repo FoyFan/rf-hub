@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Continuity testing in semiconductor ATE: Fundamentals and test methods",
+      "source": "EDN",
+      "snippet": "Continuity testing is the first test performed in any semiconductor test flow, verifying that a device under test (DUT) is properly connected to automatic test equipment (ATE). The post Continuity testing in semiconductor ATE: Fundamentals and test methods appeared first on EDN .",
+      "published": "2026-10-06T07:04:18+00:00",
+      "authors": "Usman Khan",
+      "link": "https://www.edn.com/continuity-testing-in-semiconductor-ate-fundamentals-and-test-methods/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "6 Guidelines for Governing AI",
       "source": "IEEE Spectrum",
       "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business sy",
@@ -496,15 +505,6 @@
       "published": "2026-10-01T06:47:09+00:00",
       "authors": "Matthias Karcher",
       "link": "https://www.edn.com/ethernet-in-automation-industrial-networking-entering-a-new-phase/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "64-bit soft SoC expands FPGA processing",
-      "source": "EDN",
-      "snippet": "Efinix offers the Sapphire RV64, a configurable 64-bit RISC-V soft SoC optimized for the company’s Trion and Titanium FPGAs. The post 64-bit soft SoC expands FPGA processing appeared first on EDN .",
-      "published": "2026-09-30T19:02:56+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/64-bit-soft-soc-expands-fpga-processing/",
       "category": "EDN 电子设计新闻"
     },
     {
