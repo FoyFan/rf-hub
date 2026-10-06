@@ -1,0 +1,122 @@
+[
+  {
+    "title": "MIMO 与 Massive MIMO",
+    "tags": ["多天线", "5G/6G", "信道容量"],
+    "desc": "多输入多输出技术通过空间复用、分集与波束成形成倍提升频谱效率。Massive MIMO 将基站天线数推到 64/128/256 量级，依赖 TDD 信道互易性降低反馈开销。",
+    "metrics": [
+      { "k": "频谱效率增益", "v": "8×~16×（理想场景）" },
+      { "k": "典型天线数", "v": "BS: 64/128/256, UE: 2/4" },
+      { "k": "关键瓶颈", "v": "导频污染、信道估计、FDD 反馈" }
+    ],
+    "tools": "MATLAB 5G Toolbox, AWR, HFSS",
+    "keyPeople": "T. L. Marzetta, E. G. Larsson"
+  },
+  {
+    "title": "智能超表面 (RIS / IRS)",
+    "tags": ["超材料", "6G", "波束控制"],
+    "desc": "可重构智能表面由大量亚波长可调谐单元组成，能在物理层重塑无线传播环境，被视为 6G 候选使能技术。被动 RIS 不需射频链，功耗极低。",
+    "metrics": [
+      { "k": "单元数", "v": "256~4096（典型）" },
+      { "k": "相移精度", "v": "1-bit ~ 8-bit" },
+      { "k": "工作频段", "v": "sub-6 / mmWave / THz" }
+    ],
+    "tools": "CST, COMSOL, HFSS",
+    "keyPeople": "M. Di Renzo, R. Zhang"
+  },
+  {
+    "title": "太赫兹天线与电路",
+    "tags": ["太赫兹", "6G", "高增益"],
+    "desc": "100 GHz–10 THz 频段提供超宽连续带宽，但面临路径损耗大、器件性能差等挑战。常用结构：喇叭天线、透镜天线、石墨烯/InP HEMT 阵列。",
+    "metrics": [
+      { "k": "目标频段", "v": "100–300 GHz (6G 候选)" },
+      { "k": "典型带宽", "v": "10–50 GHz" },
+      { "k": "器件工艺", "v": "InP, GaN, CMOS 22nm" }
+    ],
+    "tools": "CST, HFSS, ADS",
+    "keyPeople": "I. Kallfass, T. Kürner"
+  },
+  {
+    "title": "可重构 / 多模天线",
+    "tags": ["频率可重构", "极化可重构", "移动终端"],
+    "desc": "通过 PIN/变容/RF MEMS 开关切换天线的工作频率、极化或方向图，单天线覆盖多频段多模式，是 TWS/手机/物联网紧凑集成的主流路线。",
+    "metrics": [
+      { "k": "切换器件", "v": "PIN, 变容, MEMS, 液晶" },
+      { "k": "可调维度", "v": "频率 / 极化 / 方向图" },
+      { "k": "TWS 频段", "v": "BT 2.4G, UWB, LTE" }
+    ],
+    "tools": "HFSS, CST, ADS",
+    "keyPeople": "J. T. Bernhard, W. Hong"
+  },
+  {
+    "title": "6G 候选频段与信道建模",
+    "tags": ["信道建模", "6G", "毫米波"],
+    "desc": "6G 候选频段覆盖 sub-THz (100–300 GHz)、可见光通信与中轨道卫星。信道建模需考虑分子吸收、散射簇、移动性与硬件损伤（相位噪声、PA 非线性）。",
+    "metrics": [
+      { "k": "重点频段", "v": "D-band (110–170 GHz), G-band" },
+      { "k": "信道模型", "v": "3GPP CDL/TDL, QuadDRiGa" },
+      { "k": "新挑战", "v": "分子吸收、相位噪声、硬件损伤" }
+    ],
+    "tools": "MATLAB 5G/THz Toolbox, QuadDRiGa",
+    "keyPeople": "T. Kürner, C. Han"
+  },
+  {
+    "title": "电磁超材料与透明天线",
+    "tags": ["超材料", "透明", "可穿戴"],
+    "desc": "通过亚波长单元的几何设计实现负折射、完美吸收、波束偏折等异常电磁响应。透明天线基于 ITO / 金属网格 / 银纳米线，集成于玻璃或柔性基底。",
+    "metrics": [
+      { "k": "透明度", "v": ">85% 可见光透射" },
+      { "k": "方阻", "v": "<10 Ω/sq（目标）" },
+      { "k": "基底", "v": "玻璃 / PET / 聚酰亚胺" }
+    ],
+    "tools": "CST, COMSOL, HFSS",
+    "keyPeople": "D. R. Smith, N. Engheta"
+  },
+  {
+    "title": "AI 与物理层通信",
+    "tags": ["深度学习", "端到端", "CSI"],
+    "desc": "用神经网络做 CSI 反馈压缩、信道估计、波束管理、端到端收发机设计。挑战：泛化、可解释性、训练数据、与 3GPP 标准的兼容。",
+    "metrics": [
+      { "k": "CSI 反馈压缩比", "v": "1/16 ~ 1/64" },
+      { "k": "端到端架构", "v": "JSCC, DeepSense 6G" },
+      { "k": "开源数据集", "v": "DeepMIMO, DeepSense 6G" }
+    ],
+    "tools": "PyTorch, DeepMIMO, MATLAB DL",
+    "keyPeople": "T. O'Shea, H. Ye"
+  },
+  {
+    "title": "TWS / 移动终端天线集成",
+    "tags": ["TWS", "UWB", "倒F/单极子"],
+    "desc": "真无线耳机/手机/手表在极小净空下集成 BT/WiFi/UWB/LTE 多天线，关键约束：人体吸收 SAR、复用隔离、扼流圈与地净空。倒 F、单极子、 Loop 是主流型式。",
+    "metrics": [
+      { "k": "覆盖频段", "v": "BT 2.4G, WiFi 5/6, UWB 6.5/8G" },
+      { "k": "天线隔离度", "v": ">15 dB（目标）" },
+      { "k": "SAR 限值", "v": "1.6 W/kg (US), 2.0 (EU)" }
+    ],
+    "tools": "HFSS, CST, SEMCAD/XGtd",
+    "keyPeople": "W. Hong, K.-L. Wong"
+  },
+  {
+    "title": "毫米波 RF 前端与封装",
+    "tags": ["毫米波", "相控阵", "AiP"],
+    "desc": "28/39 GHz 5G 毫米波前端采用 phased-array + AiP（Antenna in Package）方案，把天线阵与 RFIC 封装在一起。挑战：互耦、热、成型基板 CTE 与损耗。",
+    "metrics": [
+      { "k": "5G 毫米波频段", "v": "n257/n258/n260" },
+      { "k": "典型阵规模", "v": "2×2 / 4×4 / 8×8" },
+      { "k": "EIRP", "v": "23–43 dBm" }
+    ],
+    "tools": "HFSS, ADS, Momentum",
+    "keyPeople": "W. Hong, G. M. Rebeiz"
+  },
+  {
+    "title": "天线测量与 OTA 测试",
+    "tags": ["测量", "近场", "OTA"],
+    "desc": "近场扫面 + 远场变换可在小暗室测大天线；OTA 测试评估整机的有源辐射性能（EIRP, EIS, TRP, TIS）。5G 毫米波引入紧缩场与多探头快速扫描。",
+    "metrics": [
+      { "k": "频段", "v": "600 MHz – 110 GHz" },
+      { "k": "近场精度", "v": "±0.5 dB 典型" },
+      { "k": "标准", "v": "CTIA OTA, 3GPP TR 37.9xx" }
+    ],
+    "tools": "MVG, NSI, SATIMO",
+    "keyPeople": "A. D. Yaghjian"
+  }
+]

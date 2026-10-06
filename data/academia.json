@@ -1,0 +1,58 @@
+[
+  {
+    "uni": "MIT",
+    "lab": "RLE · Electronics & RF Group",
+    "focus": "毫米波 / 太赫兹电路、低噪声接收机、超导器件、量子射频",
+    "tags": ["THz", "毫米波", "量子射频"],
+    "link": "https://www.rle.mit.edu/electronics/"
+  },
+  {
+    "uni": "Stanford",
+    "lab": "SSI · System on Chip / RFIC",
+    "focus": "RFIC、锁相环、数据转换器、6G 频综与混频前端",
+    "tags": ["RFIC", "PLL", "6G"],
+    "link": "https://ssi.stanford.edu/"
+  },
+  {
+    "uni": "Georgia Tech",
+    "lab": "GATECH · ATHENA Group",
+    "focus": "可穿戴/透明天线、电磁超材料、纸张电路、5G/6G 终端",
+    "tags": ["可穿戴", "透明天线", "超材料"],
+    "link": "https://athena.ece.gatech.edu/"
+  },
+  {
+    "uni": "UCSD",
+    "lab": "Center for Wireless Communications",
+    "focus": "相控阵、毫米波 AiP、InP HBT 功放、6G 测试床",
+    "tags": ["相控阵", "AiP", "毫米波"],
+    "link": "https://cwc.ucsd.edu/"
+  },
+  {
+    "uni": "Tsinghua 清华",
+    "lab": "微波与天线研究所",
+    "focus": "MIMO 理论、超表面、可重构天线、6G 信道测量",
+    "tags": ["MIMO", "RIS", "6G"],
+    "link": "https://www.ee.tsinghua.edu.cn/"
+  },
+  {
+    "uni": "Southeast 东南大学",
+    "lab": "毫米波实验室 / 移动通信国家重点实验室",
+    "focus": "毫米波/太赫兹电路、Massive MIMO 试验床、5G/6G 标准化",
+    "tags": ["毫米波", "Massive MIMO", "6G"],
+    "link": "https://www.ee.seu.edu.cn/"
+  },
+  {
+    "uni": "UESTC 电子科大",
+    "lab": "极高频复杂系统重点实验室",
+    "focus": "太赫兹固态电路、高功率毫米波源、近场测量",
+    "tags": ["THz", "毫米波", "测量"],
+    "link": "https://www.uestc.edu.cn/"
+  },
+  {
+    "uni": "BUCT / 北邮 BUPT",
+    "lab": "泛网无线通信教育部重点实验室",
+    "focus": "5G/6G 信道建模、智能超表面、AI 物理层",
+    "tags": ["信道建模", "RIS", "AI"],
+    "link": "https://www.bupt.edu.cn/"
+  }
+]

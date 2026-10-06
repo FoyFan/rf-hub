@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RF Hub — 射频知识中枢</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%230071e3' stroke-width='3' stroke-linecap='round' stroke-linejoin='round' viewBox='0 0 24 24'><path d='M4.5 19.5 9 15'/><path d='M9 15l3-3'/><path d='M12 12l6-6'/><path d='M15 9l3-3'/><path d='M5 19a3.5 3.5 0 0 0 5 0'/><path d='M12 4.5a7.5 7.5 0 0 1 7.5 7.5'/><path d='M12 8.5a3.5 3.5 0 0 1 3.5 3.5'/></svg>">
+</head>
+<body>
+
+  <!-- ============ 顶栏 ============ -->
+  <header class="topbar">
+    <div class="brand">
+      <svg class="ic ic-lg"><use href="assets/icons.svg#icon-satellite"/></svg>
+      <span>RF<span class="dot">.</span>Hub</span>
+      <span class="tag">射频知识中枢</span>
+    </div>
+
+    <div class="search-wrap">
+      <svg class="ic icon"><use href="assets/icons.svg#icon-search"/></svg>
+      <input id="searchInput" type="search" placeholder="搜索主题 / 关键词 / 论文 / 院校 …" autocomplete="off">
+      <button class="clear" id="searchClear" title="清除"><svg class="ic"><use href="assets/icons.svg#icon-close"/></svg></button>
+    </div>
+
+    <button class="refresh-btn" id="refreshBtn" title="跑 fetch_feeds.py 抓取最新源">
+      <span id="refreshIcon"><svg class="ic"><use href="assets/icons.svg#icon-refresh"/></svg></span>
+      <span>刷新数据</span>
+    </button>
+  </header>
+
+  <main class="container">
+
+    <!-- ============ Hero 大标题 ============ -->
+    <section class="hero">
+      <h1>射频知识中枢。</h1>
+      <p class="sub">前沿主题 · 最新论文 · 院校研究组 · 工程实践，一站汇总。</p>
+    </section>
+
+    <!-- ============ KPI 概览 ============ -->
+    <section class="kpi-row" id="kpiRow">
+      <div class="kpi">
+        <div class="label">知识库主题</div>
+        <div class="value" id="kpiKnowledge">—</div>
+        <div class="sub">学术前沿为主</div>
+      </div>
+      <div class="kpi good">
+        <div class="label">工程实践</div>
+        <div class="value" id="kpiEngineering">—</div>
+        <div class="sub">主题 · 实验室 · 工具</div>
+      </div>
+      <div class="kpi">
+        <div class="label">新闻要点</div>
+        <div class="value" id="kpiNews">—</div>
+        <div class="sub" id="kpiNewsSub">最新抓取：—</div>
+      </div>
+      <div class="kpi">
+        <div class="label">院校 / 实验室</div>
+        <div class="value" id="kpiAcademia">—</div>
+        <div class="sub">RF 前沿研究组</div>
+      </div>
+    </section>
+
+    <!-- ============ 状态条 ============ -->
+    <div class="status-bar" id="statusBar">
+      <span class="dot"></span>
+      <span id="statusText">加载中…</span>
+      <span style="margin-left:auto" id="statusMeta"></span>
+    </div>
+
+    <!-- ============ 搜索结果浮层 ============ -->
+    <div class="search-results" id="searchResults">
+      <div class="sr-head" id="srHead"></div>
+      <div id="srBody"></div>
+    </div>
+
+    <!-- ============ Tab 导航 ============ -->
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-tab="knowledge">
+        知识库 <span class="count" id="tabCountKnowledge">0</span>
+      </button>
+      <button class="tab" data-tab="news">
+        新闻要点 <span class="count" id="tabCountNews">0</span>
+      </button>
+      <button class="tab" data-tab="academia">
+        学校前沿 <span class="count" id="tabCountAcademia">0</span>
+      </button>
+      <button class="tab" data-tab="engineering">
+        工程实践 <span class="count" id="tabCountEngineering">0</span>
+      </button>
+    </nav>
+
+    <!-- ============ Panel: 知识库 ============ -->
+    <section class="panel active" id="panelKnowledge">
+      <div class="section-head">
+        <h2>RF 前沿知识库</h2>
+        <div class="meta">学术前沿主题 · 含核心概念 / 关键人物 / 典型指标 / 仿真工具</div>
+      </div>
+      <div class="grid" id="gridKnowledge"></div>
+    </section>
+
+    <!-- ============ Panel: 新闻要点 ============ -->
+    <section class="panel" id="panelNews">
+      <div class="section-head">
+        <h2>RF 新闻要点</h2>
+        <div class="meta" id="newsMeta">来自 arXiv eess.SP / eess.EE RSS 抓取</div>
+      </div>
+      <div class="grid" id="gridNews"></div>
+    </section>
+
+    <!-- ============ Panel: 学校前沿 ============ -->
+    <section class="panel" id="panelAcademia">
+      <div class="section-head">
+        <h2>院校 / 实验室 RF 前沿</h2>
+        <div class="meta">研究组 / 课程 / 代表方向</div>
+      </div>
+      <div class="grid" id="gridAcademia"></div>
+    </section>
+
+    <!-- ============ Panel: 工程实践 ============ -->
+    <section class="panel" id="panelEngineering">
+      <div class="section-head">
+        <h2>RF 工程实践</h2>
+        <div class="meta">工业界实验室 · EDA 工具链 · 工程知识卡 · 行业新闻</div>
+      </div>
+
+      <div class="subsection-head" id="eng-topics">
+        <h3>工程知识卡</h3>
+        <div class="meta">RFIC / 天线 / 测量 / 仿真 / PA / 封装等工程主题</div>
+      </div>
+      <div class="grid" id="gridEngTopics"></div>
+
+      <div class="subsection-head" id="eng-industry">
+        <h3>工业界实验室</h3>
+        <div class="meta">RF 半导体 / 测试测量 / EDA 厂商</div>
+      </div>
+      <div class="grid" id="gridEngIndustry"></div>
+
+      <div class="subsection-head" id="eng-tools">
+        <h3>EDA 工具与教程</h3>
+        <div class="meta">EM 全波 / 电路 / RFIC 流程 / 物理验证</div>
+      </div>
+      <div class="grid" id="gridEngTools"></div>
+
+      <div class="subsection-head" id="eng-news">
+        <h3>行业新闻</h3>
+        <div class="meta" id="engNewsMeta">来自 IEEE Spectrum / EDN RSS 抓取</div>
+      </div>
+      <div class="grid" id="gridEngNews"></div>
+    </section>
+
+  </main>
+
+  <!-- lunr.js 搜索引擎（已本地化，断网可用） -->
+  <script src="assets/vendor/lunr.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
