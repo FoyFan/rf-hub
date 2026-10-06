@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write            # 需要 push 回 main 的权限
+  actions: write             # 需要触发 deploy workflow 的权限
 
 concurrency:
   group: refresh-feeds
@@ -57,3 +58,11 @@ jobs:
 
           Co-Authored-By: Claude <noreply@anthropic.com>"
           git push
+
+      - name: Trigger Pages deploy
+        if: steps.diff.outputs.changed == 'true'
+        # bot 用 GITHUB_TOKEN 推送的 commit 不会触发 on:push 的 deploy workflow
+        # （GitHub 防循环默认行为），所以这里显式 dispatch 一次 deploy。
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --repo "$GITHUB_REPOSITORY"
