@@ -1,5 +1,122 @@
 [
   {
+    "title": "Can AI Be Trusted? Synopsys on Agentic AI and Autonomous Engineering",
+    "source": "EE Times",
+    "snippet": "See how Synopsys uses agentic AI to orchestrate trusted EDA tools for precise, explainable chip design, and faster engineering workflows. The post Can AI Be Trusted? Synopsys on Agentic AI and Autonomous Engineering appeared first on EE Times .",
+    "published": "2026-10-07T20:07:11+00:00",
+    "authors": "EE Times",
+    "link": "https://www.eetimes.com/can-ai-be-trusted-synopsys-on-agentic-ai-and-autonomous-engineering/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Why AI’s Limit Is Power, Not Chips: Gopi Sirineni at AI Infra Summit 2026",
+    "source": "EE Times",
+    "snippet": "Gopi Sirineni says AI’s bottleneck is power, not chips, and autonomous rack controllers can boost efficiency up to 30%. The post Why AI’s Limit Is Power, Not Chips: Gopi Sirineni at AI Infra Summit 2026 appeared first on EE Times .",
+    "published": "2026-10-07T19:56:58+00:00",
+    "authors": "EE Times",
+    "link": "https://www.eetimes.com/why-ais-limit-is-power-not-chips-gopi-sirineni-at-ai-infra-summit-2026/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Global-shutter sensor raises pixel density",
+    "source": "EDN",
+    "snippet": "At 2.2 µm, Omnivision’s OG05D 5-Mpixel image sensor offers one of the smallest global-shutter pixel sizes with HDR in its class. The post Global-shutter sensor raises pixel density appeared first on EDN .",
+    "published": "2026-10-07T19:02:32+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/global-shutter-sensor-raises-pixel-density/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Quad beamformer simplifies X-band radar design",
+    "source": "EDN",
+    "snippet": "Qorvo’s QPX0252 four-channel beamformer IC operates from 7.9 GHz to 12 GHz for use in X-band phased-array radar systems. The post Quad beamformer simplifies X-band radar design appeared first on EDN .",
+    "published": "2026-10-07T19:02:01+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/quad-beamformer-simplifies-x-band-radar-design/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Microphone array advances acoustic detection",
+    "source": "EDN",
+    "snippet": "The NOVA32 evaluation kit from sensiBel features a spiral array of 32 optical MEMS microphones for edge AI acoustic-detection applications. The post Microphone array advances acoustic detection appeared first on EDN .",
+    "published": "2026-10-07T19:01:05+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/microphone-array-advances-acoustic-detection/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "FPGA IP accelerates deterministic networking",
+    "source": "EDN",
+    "snippet": "Orthogone’s Ultra-Low-Latency FPGA IP Portfolio comprises networking and data-movement IP cores for AMD UltraScale+ and Versal platforms. The post FPGA IP accelerates deterministic networking appeared first on EDN .",
+    "published": "2026-10-07T19:00:18+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "GaN FET meets megawatt-scale demands",
+    "source": "EDN",
+    "snippet": "Renesas is sampling what it says is the industry’s first 650-V GaN FET with dual-side cooling for 800-V HVDC AI data centers. The post GaN FET meets megawatt-scale demands appeared first on EDN .",
+    "published": "2026-10-07T18:59:36+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/gan-fet-meets-megawatt-scale-demands/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI",
+    "source": "EE Times",
+    "snippet": "For AMD CTO Mark Papermaster, tailored computing and holistic design are key to delivering AI. The post AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI appeared first on EE Times .",
+    "published": "2026-10-07T18:39:00+00:00",
+    "authors": "Nitin Dahad",
+    "link": "https://www.eetimes.com/amds-mark-papermaster-exclusive-video-interview-at-world-summit-ai/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "IEEE Report Predicts Tech That Will Transform Lives",
+    "source": "IEEE Spectrum",
+    "snippet": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE. “We are seeing a fundamental shift in how technology evolves,” says IEE",
+    "published": "2026-10-07T18:00:02+00:00",
+    "authors": "Liz Wegerer",
+    "link": "https://spectrum.ieee.org/ieee-report-predicts-tech",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Changing Your Career Isn’t Easy",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! When I changed careers at 30 to become a software",
+    "published": "2026-10-07T17:04:02+00:00",
+    "authors": "Brian Jenney",
+    "link": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Engineering Reliability: Power Architectures for High-Performance Burn-In",
+    "source": "EE Times",
+    "snippet": "Join this session where our expert will examine key power technologies, design considerations, and best practices that help manufacturers enhance product quality, accelerate qualification, and reduce risk. The post Engineering Reliability: Power Architectures for High-Performance Burn-In appeared fi",
+    "published": "2026-10-07T15:47:11+00:00",
+    "authors": "Advanced Energy, Arrow Electronics",
+    "link": "https://www.eetimes.com/engineering-reliability-power-architectures-for-high-performance-burn-in/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+    "published": "2026-10-07T15:00:02+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Teradyne Magnum E2 addresses advanced DRAM and high-speed NAND flash",
+    "source": "Electronics Weekly",
+    "snippet": "The Teradyne Magnum E2 is a high-speed memory test system for advanced DRAM and flash interfaces. Its design, says the company, matches the test demands driven by AI and high-performance […] The post Teradyne Magnum E2 addresses advanced DRAM and high-speed NAND flash appeared first on Electronics W",
+    "published": "2026-10-07T14:34:52+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/magnum-e2-addresses-advanced-dram-and-high-speed-nand-flash-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Enhance Power Quality with a GaN-based AC/DC Three-Level Vienna Rectifier",
     "source": "EE Times",
     "snippet": "Data centers have become essential to almost every part of the global economy with the continuing rise in computing demands. Modern data centers, consisting of rows of equipment racks for storing, processing, and sharing data, require front-end AC/DC converters that are reliable, operate at unity po",
@@ -36,6 +153,15 @@
     "category": "计算 / 通信系统"
   },
   {
+    "title": "Queen’s University opens Advanced Manufacturing Innovation Centre",
+    "source": "Electronics Weekly",
+    "snippet": "Queen’s University has officially opened the Advanced Manufacturing Innovation Centre (AMIC), a £100m investment through the Belfast Region City Deal to support innovation and growth for manufacturing in Northern Ireland. […] The post Queen’s University opens Advanced Manufacturing Innovation Centre",
+    "published": "2026-10-07T13:06:21+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/manufacturing/queens-university-opens-advanced-manufacturing-innovation-centre-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "From Electrification to Architecture: The Next Automotive Era",
     "source": "EE Times",
     "snippet": "From electrification to software-defined vehicles, automotive innovation is driving new requirements for semiconductor packaging and test. The post From Electrification to Architecture: The Next Automotive Era appeared first on EE Times .",
@@ -54,6 +180,15 @@
     "category": "EDN 电子设计新闻"
   },
   {
+    "title": "An Orderly De-Frothing?",
+    "source": "Electronics Weekly",
+    "snippet": "There’s a chance that the de-frothing of the AI market could be an orderly retreat rather than a sudden bust. Anthropic’s two largest customers are weaning themselves off Anthropic products […] The post An Orderly De-Frothing? appeared first on Electronics Weekly .",
+    "published": "2026-10-07T11:15:05+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/an-orderly-de-frothing-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Silicon Labs Adds IoT Developer Platform Tools",
     "source": "EE Times",
     "snippet": "To meet rising edge AI demands, Silicon Labs connects its development tools with generative AI and enterprise data infrastructure. The post Silicon Labs Adds IoT Developer Platform Tools appeared first on EE Times .",
@@ -70,6 +205,60 @@
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/training-and-inference-two-faces-of-ai-compute/",
     "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Omron R1 inverter drives into high-power applications",
+    "source": "Electronics Weekly",
+    "snippet": "Omron is introducing its R1 (3G3R1) variable speed drive as the most powerful member of its inverter family, for demanding, high-power applications. For example in pump sequencing, solar pumping entrance […] The post Omron R1 inverter drives into high-power applications appeared first on Electronics",
+    "published": "2026-10-07T09:17:52+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/power-supplies/omron-r1-inverter-drives-into-high-power-applications-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Don’t get drunk on the numbers, says Penn",
+    "source": "Electronics Weekly",
+    "snippet": "The aberrant behaviour of the chip market has changed in one respect – unit volumes are growing again – although ASPs are still responsible for 90% of the dollar growth, […] The post Don’t get drunk on the numbers, says Penn appeared first on Electronics Weekly .",
+    "published": "2026-10-07T07:16:47+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/dont-get-drunk-on-the-numbers-says-penn-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Why infrastructure is the most valuable element of industrial systems",
+    "source": "Electronics Weekly",
+    "snippet": "Infrastructure has become the foundation of operational resilience, determining whether systems continue running or costly downtime brings production to a halt, writes Iwona Zalewska. Industrial organisations often blame software when […] The post Why infrastructure is the most valuable element of i",
+    "published": "2026-10-07T07:06:19+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/why-infrastructure-is-the-most-valuable-element-of-industrial-systems-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "MS and Meta cut back Anthropic spend",
+    "source": "Electronics Weekly",
+    "snippet": "Microsoft and Meta have told staff to cut back on internal use of the Anthropic model Claude, according to The Information. Microsoft reduced its projected internal spending on Claude by […] The post MS and Meta cut back Anthropic spend appeared first on Electronics Weekly .",
+    "published": "2026-10-07T05:15:10+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ms-and-meta-cut-back-anthropic-spend-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Qualcomm vs Arm (cont’d)",
+    "source": "Electronics Weekly",
+    "snippet": "In the Qualcomm versus Arm trial in Delaware which started on Monday it was alleged that Arm is looking for a 1,800% increase in royalty payments from Qualcomm for its […] The post Qualcomm vs Arm (cont’d) appeared first on Electronics Weekly .",
+    "published": "2026-10-07T05:15:00+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Semi Sales Hit $1trn",
+    "source": "Electronics Weekly",
+    "snippet": "Semiconductor sales were $159.7 billion during the month of August 2026, an increase of 8% compared to the July 2026 total of $147.9 billion and 144.3% more than the August […] The post Semi Sales Hit $1trn appeared first on Electronics Weekly .",
+    "published": "2026-10-07T05:13:05+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/semi-sales-hit-1trb-2026-10/",
+    "category": "电子周刊"
   },
   {
     "title": "The AI Boom Has a Gigawatt Accounting Problem",
@@ -108,15 +297,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "CXL-Connected MRAM Address AI Storage Latency",
-    "source": "EE Times",
-    "snippet": "Everspin’s demo shows how a 4-GB pool of persistent MRAM can serve as a new tier of storage between DRAM and NAND flash. The post CXL-Connected MRAM Address AI Storage Latency appeared first on EE Times .",
-    "published": "2026-10-06T10:24:22+00:00",
-    "authors": "Gary Hilson",
-    "link": "https://www.eetimes.com/cxl-connected-mram-address-ai-storage-latency/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Happy IEEE Day!",
     "source": "IEEE Spectrum",
     "snippet": "Happy IEEE Day 2026! IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884. One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that lev",
@@ -135,15 +315,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
-    "source": "EE Times",
-    "snippet": "Kepler targets 2027 production for 3D ferroelectric memory promising 5–10× better bandwidth per watt than HBM. The post Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027 appeared first on EE Times .",
-    "published": "2026-10-05T20:00:00+00:00",
-    "authors": "Alan Patterson",
-    "link": "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "6 Guidelines for Governing AI",
     "source": "IEEE Spectrum",
     "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business sy",
@@ -151,24 +322,6 @@
     "authors": "Sravan Vadigepalli",
     "link": "https://spectrum.ieee.org/6-guidelines-governing-ai",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Trusted AI: Why Intelligence Alone Isn’t Enough",
-    "source": "EE Times",
-    "snippet": "See how trusted AI combines intelligence, domain expertise, and deterministic verification to boost confidence in semiconductor design. The post Trusted AI: Why Intelligence Alone Isn’t Enough appeared first on EE Times .",
-    "published": "2026-10-05T17:48:56+00:00",
-    "authors": "EE Times",
-    "link": "https://www.eetimes.com/trusted-ai-why-intelligence-alone-isnt-enough/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "ACCESS GRANTED – Unlocking Building Safety and Security Controls with Audio",
-    "source": "EE Times",
-    "snippet": "This webinar will cover current controls, modern technology selection, application considerations, and tailored audio component choices. The post ACCESS GRANTED – Unlocking Building Safety and Security Controls with Audio appeared first on EE Times .",
-    "published": "2026-10-05T16:08:24+00:00",
-    "authors": "Same Sky and Arrow",
-    "link": "https://www.eetimes.com/access-granted-unlocking-building-safety-and-security-controls-with-audio/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "An Apple-plus-Google adapter that’s AI in name only (sigh)",
@@ -180,15 +333,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Demystifying feed-through capacitors: How to stop EMI in its tracks",
-    "source": "EDN",
-    "snippet": "These three-terminal devices confront parasitic inductance and act as the ultimate shield against high-frequency EMI. The post Demystifying feed-through capacitors: How to stop EMI in its tracks appeared first on EDN .",
-    "published": "2026-10-05T07:59:54+00:00",
-    "authors": "T.K. Hareendran",
-    "link": "https://www.edn.com/demystifying-feed-through-capacitors-how-to-stop-emi-in-its-tracks/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Smart Car Researcher Wants to Eliminate Stoplights",
     "source": "IEEE Spectrum",
     "snippet": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green. Cassandras",
@@ -196,24 +340,6 @@
     "authors": "Willie D. Jones",
     "link": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Consumer and industrial IoT drive wireless chip market",
-    "source": "EDN",
-    "snippet": "Low power consumption, high integration, and advanced security highlight the latest wireless chips. The post Consumer and industrial IoT drive wireless chip market appeared first on EDN .",
-    "published": "2026-10-02T14:00:46+00:00",
-    "authors": "Gina Roos",
-    "link": "https://www.edn.com/consumer-and-industrial-iot-drive-wireless-chip-market/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Truchet tiles",
-    "source": "EDN",
-    "snippet": "One uninterrupted zone of these patterns can extend for a great distance, seemingly going virtually forever. The post Truchet tiles appeared first on EDN .",
-    "published": "2026-10-02T12:00:44+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/truchet-tiles/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
@@ -232,24 +358,6 @@
     "authors": "COMSOL",
     "link": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "The state of AI-powered innovation in blood pressure monitoring",
-    "source": "EDN",
-    "snippet": "Cuffless BP monitors require merging sensor technology, understanding physiological signals, and using smart algorithms in custom hardware. The post The state of AI-powered innovation in blood pressure monitoring appeared first on EDN .",
-    "published": "2026-10-02T07:11:44+00:00",
-    "authors": "Srinivasan Kandaswamy",
-    "link": "https://www.edn.com/the-state-of-ai-powered-innovation-in-blood-pressure-monitoring/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "RF chips, modules power the way from 5G to 6G",
-    "source": "EDN",
-    "snippet": "Sub-6-GHz and mmWave signal chains, higher FEM integration, and GaN PAs shape key design decisions on the road from 5G to 6G. The post RF chips, modules power the way from 5G to 6G appeared first on EDN .",
-    "published": "2026-10-01T14:00:00+00:00",
-    "authors": "Loriotoole",
-    "link": "https://www.edn.com/rf-chips-modules-power-the-way-from-5g-to-6g/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
@@ -505,30 +613,12 @@
   },
   {
     "title": "Rethinking Robot Safety in the Age of AI",
-    "source": "IEEE Spectrum",
-    "snippet": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As A",
-    "published": "2026-09-16T16:51:02+00:00",
-    "authors": "VicOne",
-    "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Rethinking Robot Safety in the Age of AI",
     "source": "IEEE Spectrum 计算",
     "snippet": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As A",
     "published": "2026-09-16T16:51:02+00:00",
     "authors": "VicOne",
     "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
-    "source": "IEEE Spectrum",
-    "snippet": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches. Download this free whitepaper now!",
-    "published": "2026-09-16T13:24:18+00:00",
-    "authors": "CoolIT, an Ecolab Company",
-    "link": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "The AI Inference Revolution Is Here",

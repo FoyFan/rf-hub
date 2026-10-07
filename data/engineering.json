@@ -382,6 +382,51 @@
   ],
   "news": [
     {
+      "title": "Global-shutter sensor raises pixel density",
+      "source": "EDN",
+      "snippet": "At 2.2 µm, Omnivision’s OG05D 5-Mpixel image sensor offers one of the smallest global-shutter pixel sizes with HDR in its class. The post Global-shutter sensor raises pixel density appeared first on EDN .",
+      "published": "2026-10-07T19:02:32+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/global-shutter-sensor-raises-pixel-density/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Quad beamformer simplifies X-band radar design",
+      "source": "EDN",
+      "snippet": "Qorvo’s QPX0252 four-channel beamformer IC operates from 7.9 GHz to 12 GHz for use in X-band phased-array radar systems. The post Quad beamformer simplifies X-band radar design appeared first on EDN .",
+      "published": "2026-10-07T19:02:01+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/quad-beamformer-simplifies-x-band-radar-design/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Microphone array advances acoustic detection",
+      "source": "EDN",
+      "snippet": "The NOVA32 evaluation kit from sensiBel features a spiral array of 32 optical MEMS microphones for edge AI acoustic-detection applications. The post Microphone array advances acoustic detection appeared first on EDN .",
+      "published": "2026-10-07T19:01:05+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/microphone-array-advances-acoustic-detection/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "FPGA IP accelerates deterministic networking",
+      "source": "EDN",
+      "snippet": "Orthogone’s Ultra-Low-Latency FPGA IP Portfolio comprises networking and data-movement IP cores for AMD UltraScale+ and Versal platforms. The post FPGA IP accelerates deterministic networking appeared first on EDN .",
+      "published": "2026-10-07T19:00:18+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "GaN FET meets megawatt-scale demands",
+      "source": "EDN",
+      "snippet": "Renesas is sampling what it says is the industry’s first 650-V GaN FET with dual-side cooling for 800-V HVDC AI data centers. The post GaN FET meets megawatt-scale demands appeared first on EDN .",
+      "published": "2026-10-07T18:59:36+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/gan-fet-meets-megawatt-scale-demands/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "An unbuttoned circuit for setting digital pots",
       "source": "EDN",
       "snippet": "This Design Idea enables you to program digital potentiometers with inexpensive rotary incremental encoders. The post An unbuttoned circuit for setting digital pots appeared first on EDN .",
@@ -424,51 +469,6 @@
       "published": "2026-10-05T12:00:22+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/an-apple-plus-google-adapter-thats-ai-in-name-only-sigh/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Demystifying feed-through capacitors: How to stop EMI in its tracks",
-      "source": "EDN",
-      "snippet": "These three-terminal devices confront parasitic inductance and act as the ultimate shield against high-frequency EMI. The post Demystifying feed-through capacitors: How to stop EMI in its tracks appeared first on EDN .",
-      "published": "2026-10-05T07:59:54+00:00",
-      "authors": "T.K. Hareendran",
-      "link": "https://www.edn.com/demystifying-feed-through-capacitors-how-to-stop-emi-in-its-tracks/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Consumer and industrial IoT drive wireless chip market",
-      "source": "EDN",
-      "snippet": "Low power consumption, high integration, and advanced security highlight the latest wireless chips. The post Consumer and industrial IoT drive wireless chip market appeared first on EDN .",
-      "published": "2026-10-02T14:00:46+00:00",
-      "authors": "Gina Roos",
-      "link": "https://www.edn.com/consumer-and-industrial-iot-drive-wireless-chip-market/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Truchet tiles",
-      "source": "EDN",
-      "snippet": "One uninterrupted zone of these patterns can extend for a great distance, seemingly going virtually forever. The post Truchet tiles appeared first on EDN .",
-      "published": "2026-10-02T12:00:44+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/truchet-tiles/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "The state of AI-powered innovation in blood pressure monitoring",
-      "source": "EDN",
-      "snippet": "Cuffless BP monitors require merging sensor technology, understanding physiological signals, and using smart algorithms in custom hardware. The post The state of AI-powered innovation in blood pressure monitoring appeared first on EDN .",
-      "published": "2026-10-02T07:11:44+00:00",
-      "authors": "Srinivasan Kandaswamy",
-      "link": "https://www.edn.com/the-state-of-ai-powered-innovation-in-blood-pressure-monitoring/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "RF chips, modules power the way from 5G to 6G",
-      "source": "EDN",
-      "snippet": "Sub-6-GHz and mmWave signal chains, higher FEM integration, and GaN PAs shape key design decisions on the road from 5G to 6G. The post RF chips, modules power the way from 5G to 6G appeared first on EDN .",
-      "published": "2026-10-01T14:00:00+00:00",
-      "authors": "Loriotoole",
-      "link": "https://www.edn.com/rf-chips-modules-power-the-way-from-5g-to-6g/",
       "category": "EDN 电子设计新闻"
     }
   ]
