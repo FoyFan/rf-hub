@@ -1,5 +1,50 @@
 [
   {
+    "title": "Don’t get drunk on the numbers, says Penn",
+    "source": "Electronics Weekly",
+    "snippet": "The aberrant behaviour of the chip market has changed in one respect – unit volumes are growing again – although ASPs are still responsible for 90% of the dollar growth, […] The post Don’t get drunk on the numbers, says Penn appeared first on Electronics Weekly .",
+    "published": "2026-10-07T05:16:47+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/dont-get-drunk-on-the-numbers-says-penn-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "MS and Meta cut back Anthropic spend",
+    "source": "Electronics Weekly",
+    "snippet": "Microsoft and Meta have told staff to cut back on internal use of the Anthropic model Claude, according to The Information. Microsoft reduced its projected internal spending on Claude by […] The post MS and Meta cut back Anthropic spend appeared first on Electronics Weekly .",
+    "published": "2026-10-07T05:15:10+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ms-and-meta-cut-back-anthropic-spend-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Qualcomm vs Arm (cont’d)",
+    "source": "Electronics Weekly",
+    "snippet": "In the Qualcomm versus Arm trial in Delaware which started on Monday it was alleged that Arm is looking for a 1,800% increase in royalty payments from Qualcomm for its […] The post Qualcomm vs Arm (cont’d) appeared first on Electronics Weekly .",
+    "published": "2026-10-07T05:15:00+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Semi Sales Hit $1trn",
+    "source": "Electronics Weekly",
+    "snippet": "Semiconductor sales were $159.7 billion during the month of August 2026, an increase of 8% compared to the July 2026 total of $147.9 billion and 144.3% more than the August […] The post Semi Sales Hit $1trn appeared first on Electronics Weekly .",
+    "published": "2026-10-07T05:13:05+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/semi-sales-hit-1trb-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Farnell adds Amphenol NEXUS Technologies",
+    "source": "Electronics Weekly",
+    "snippet": "Farnell has signed a distribution agreement with Amphenol NEXUS Technologies and now offers their portfolio of: Audio connectors Waterproof breakaway connectors TAC connectors Ranger connectors M55116/MIL-SPEC-type connectors Microphone and telephone […] The post Farnell adds Amphenol NEXUS Technolo",
+    "published": "2026-10-07T05:04:27+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/farnell-adds-amphenol-nexus-technologies-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Top Ten SiC Producers",
     "source": "Electronics Weekly",
     "snippet": "Thanks to Mordor Intelligence for this one – the top ten SiC producers: Infineon ST Wolfspeed onsemi ROHM Mitsubishi Electric: Fuji Electric Microchip Toshiba Semikron Danfoss The post Top Ten SiC Producers appeared first on Electronics Weekly .",
@@ -90,24 +135,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "UK Space Landing Pad Programme launches at UCL",
-    "source": "Electronics Weekly",
-    "snippet": "The UK government is backing the UK Space Landing Pad Programme, which is a six-month pilot to attract and support international space companies looking to establish a commercial presence in […] The post UK Space Landing Pad Programme launches at UCL appeared first on Electronics Weekly .",
-    "published": "2026-10-06T09:57:38+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/uk-space-landing-pad-programme-launches-at-ucl-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-    "published": "2026-10-06T09:49:29+00:00",
-    "authors": "Staff",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Happy IEEE Day!",
     "source": "IEEE Spectrum",
     "snippet": "Happy IEEE Day 2026! IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884. One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that lev",
@@ -124,33 +151,6 @@
     "authors": "Usman Khan",
     "link": "https://www.edn.com/continuity-testing-in-semiconductor-ate-fundamentals-and-test-methods/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Arm vs Qualcomm episode 2",
-    "source": "Electronics Weekly",
-    "snippet": "Yesterday a second trial in the Qualcomm vs Arm legal marathon opened in Delaware. It is before a jury and slated to last five days. The original Qualcomm vs Arm […] The post Arm vs Qualcomm episode 2 appeared first on Electronics Weekly .",
-    "published": "2026-10-06T05:16:23+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/arm-vs-qualcomm-episode-2-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "SkyeChip becomes Rapidus design associate",
-    "source": "Electronics Weekly",
-    "snippet": "SkyeChip, the Malaysian IP developer and IC design house, has joined the Rapidus Collaborative Open Rapid Ecosystem as one of 17 inaugural “design solution associates.” SkyeChip, which is listed on […] The post SkyeChip becomes Rapidus design associate appeared first on Electronics Weekly .",
-    "published": "2026-10-06T05:14:20+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/skyechip-becomes-rapidus-design-associate-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "MOSAIC-G integrates UK 5G tech",
-    "source": "Electronics Weekly",
-    "snippet": "Aerix, Antevia Networks, Spry Fox Networks, Noema Signal Labs, Attocore, RANsemi, Liverpool 5G and Bath & North East Somerset Council have launched MOSAIC-5G (Multi-vendor Open System Architecture for Integrated Connectivity). […] The post MOSAIC-G integrates UK 5G tech appeared first on Electronics",
-    "published": "2026-10-06T05:11:02+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/mosaic-g-integrates-uk-5g-tech-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
