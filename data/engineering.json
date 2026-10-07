@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "An unbuttoned circuit for setting digital pots",
+      "source": "EDN",
+      "snippet": "This Design Idea enables you to program digital potentiometers with inexpensive rotary incremental encoders. The post An unbuttoned circuit for setting digital pots appeared first on EDN .",
+      "published": "2026-10-07T12:00:39+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/an-unbuttoned-circuit-for-setting-digital-pots/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Training and inference: Two faces of AI compute",
+      "source": "EDN",
+      "snippet": "Here is how training and inference ask the silicon for opposite things. The post Training and inference: Two faces of AI compute appeared first on EDN .",
+      "published": "2026-10-07T09:23:37+00:00",
+      "authors": "Majeed Ahmad",
+      "link": "https://www.edn.com/training-and-inference-two-faces-of-ai-compute/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Reducing I/O requirements for optical detection",
       "source": "EDN",
       "snippet": "Although this project may be a bit esoteric, the concepts shown to reduce I/O requirements can also be applied to other systems. The post Reducing I/O requirements for optical detection appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-10-01T14:00:00+00:00",
       "authors": "Loriotoole",
       "link": "https://www.edn.com/rf-chips-modules-power-the-way-from-5g-to-6g/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Power Tips #157: Reducing conducted EMI in 48V automotive USB Type-C EPR designs",
-      "source": "EDN",
-      "snippet": "This tutorial examines conducted EMI behavior using an Extended Power Range (EPR) (≥100W) USB Power Delivery (PD) reference design. The post Power Tips #157: Reducing conducted EMI in 48V automotive USB Type-C EPR designs appeared first on EDN .",
-      "published": "2026-10-01T12:00:08+00:00",
-      "authors": "Sarmad Abedin, Josh Mandelcorn and Seong Kim",
-      "link": "https://www.edn.com/power-tips-157-reducing-conducted-emi-in-48v-automotive-usb-type-c-epr-designs/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "How a 650-V GaN device shrinks footprint in space-constrained data center racks",
-      "source": "EDN",
-      "snippet": "The GaN device for high-voltage power conversion in AI data centers dissipates heat from both the top and the bottom. The post How a 650-V GaN device shrinks footprint in space-constrained data center racks appeared first on EDN .",
-      "published": "2026-10-01T11:12:23+00:00",
-      "authors": "Majeed Ahmad",
-      "link": "https://www.edn.com/how-a-650-v-gan-device-shrinks-footprint-in-space-constrained-data-center-racks/",
       "category": "EDN 电子设计新闻"
     }
   ]

@@ -1,57 +1,75 @@
 [
   {
-    "title": "Don’t get drunk on the numbers, says Penn",
-    "source": "Electronics Weekly",
-    "snippet": "The aberrant behaviour of the chip market has changed in one respect – unit volumes are growing again – although ASPs are still responsible for 90% of the dollar growth, […] The post Don’t get drunk on the numbers, says Penn appeared first on Electronics Weekly .",
-    "published": "2026-10-07T05:16:47+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/dont-get-drunk-on-the-numbers-says-penn-2026-10/",
-    "category": "电子周刊"
+    "title": "Enhance Power Quality with a GaN-based AC/DC Three-Level Vienna Rectifier",
+    "source": "EE Times",
+    "snippet": "Data centers have become essential to almost every part of the global economy with the continuing rise in computing demands. Modern data centers, consisting of rows of equipment racks for storing, processing, and sharing data, require front-end AC/DC converters that are reliable, operate at unity po",
+    "published": "2026-10-07T14:00:00+00:00",
+    "authors": "Renesas",
+    "link": "https://www.eetimes.com/enhance-power-quality-with-a-gan-based-ac-dc-three-level-vienna-rectifier/",
+    "category": "EE Times 行业新闻"
   },
   {
-    "title": "MS and Meta cut back Anthropic spend",
-    "source": "Electronics Weekly",
-    "snippet": "Microsoft and Meta have told staff to cut back on internal use of the Anthropic model Claude, according to The Information. Microsoft reduced its projected internal spending on Claude by […] The post MS and Meta cut back Anthropic spend appeared first on Electronics Weekly .",
-    "published": "2026-10-07T05:15:10+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/ms-and-meta-cut-back-anthropic-spend-2026-10/",
-    "category": "电子周刊"
+    "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+    "source": "IEEE Spectrum",
+    "snippet": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid",
+    "published": "2026-10-07T13:49:48+00:00",
+    "authors": "Noitom Robotics",
+    "link": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+    "category": "IEEE 综合新闻"
   },
   {
-    "title": "Qualcomm vs Arm (cont’d)",
-    "source": "Electronics Weekly",
-    "snippet": "In the Qualcomm versus Arm trial in Delaware which started on Monday it was alleged that Arm is looking for a 1,800% increase in royalty payments from Qualcomm for its […] The post Qualcomm vs Arm (cont’d) appeared first on Electronics Weekly .",
-    "published": "2026-10-07T05:15:00+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/",
-    "category": "电子周刊"
+    "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+    "published": "2026-10-07T13:09:13+00:00",
+    "authors": "Knvul Sheikh",
+    "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+    "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "Semi Sales Hit $1trn",
-    "source": "Electronics Weekly",
-    "snippet": "Semiconductor sales were $159.7 billion during the month of August 2026, an increase of 8% compared to the July 2026 total of $147.9 billion and 144.3% more than the August […] The post Semi Sales Hit $1trn appeared first on Electronics Weekly .",
-    "published": "2026-10-07T05:13:05+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/semi-sales-hit-1trb-2026-10/",
-    "category": "电子周刊"
+    "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+    "published": "2026-10-07T13:09:13+00:00",
+    "authors": "Knvul Sheikh",
+    "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+    "category": "计算 / 通信系统"
   },
   {
-    "title": "Farnell adds Amphenol NEXUS Technologies",
-    "source": "Electronics Weekly",
-    "snippet": "Farnell has signed a distribution agreement with Amphenol NEXUS Technologies and now offers their portfolio of: Audio connectors Waterproof breakaway connectors TAC connectors Ranger connectors M55116/MIL-SPEC-type connectors Microphone and telephone […] The post Farnell adds Amphenol NEXUS Technolo",
-    "published": "2026-10-07T05:04:27+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/farnell-adds-amphenol-nexus-technologies-2026-10/",
-    "category": "电子周刊"
+    "title": "From Electrification to Architecture: The Next Automotive Era",
+    "source": "EE Times",
+    "snippet": "From electrification to software-defined vehicles, automotive innovation is driving new requirements for semiconductor packaging and test. The post From Electrification to Architecture: The Next Automotive Era appeared first on EE Times .",
+    "published": "2026-10-07T13:00:00+00:00",
+    "authors": "UTAC Group",
+    "link": "https://www.eetimes.com/from-electrification-to-architecture-the-next-automotive-era/",
+    "category": "EE Times 行业新闻"
   },
   {
-    "title": "Top Ten SiC Producers",
-    "source": "Electronics Weekly",
-    "snippet": "Thanks to Mordor Intelligence for this one – the top ten SiC producers: Infineon ST Wolfspeed onsemi ROHM Mitsubishi Electric: Fuji Electric Microchip Toshiba Semikron Danfoss The post Top Ten SiC Producers appeared first on Electronics Weekly .",
-    "published": "2026-10-07T00:00:08+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-sic-producers-2026-10/",
-    "category": "电子周刊"
+    "title": "An unbuttoned circuit for setting digital pots",
+    "source": "EDN",
+    "snippet": "This Design Idea enables you to program digital potentiometers with inexpensive rotary incremental encoders. The post An unbuttoned circuit for setting digital pots appeared first on EDN .",
+    "published": "2026-10-07T12:00:39+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/an-unbuttoned-circuit-for-setting-digital-pots/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Silicon Labs Adds IoT Developer Platform Tools",
+    "source": "EE Times",
+    "snippet": "To meet rising edge AI demands, Silicon Labs connects its development tools with generative AI and enterprise data infrastructure. The post Silicon Labs Adds IoT Developer Platform Tools appeared first on EE Times .",
+    "published": "2026-10-07T11:03:18+00:00",
+    "authors": "Pablo Valerio",
+    "link": "https://www.eetimes.com/silicon-labs-adds-iot-developer-platform-tools/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Training and inference: Two faces of AI compute",
+    "source": "EDN",
+    "snippet": "Here is how training and inference ask the silicon for opposite things. The post Training and inference: Two faces of AI compute appeared first on EDN .",
+    "published": "2026-10-07T09:23:37+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.edn.com/training-and-inference-two-faces-of-ai-compute/",
+    "category": "EDN 电子设计新闻"
   },
   {
     "title": "The AI Boom Has a Gigawatt Accounting Problem",
@@ -72,15 +90,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Microchip, Navitas 800V DC-to-6V DC reference design for AI datacentres",
-    "source": "Electronics Weekly",
-    "snippet": "Microchip Technology and Navitas Semiconductor have partnered to collaborate on an 800V DC-to-6V DC reference design for AI datacentre rack power applications. It combines Microchip’s digital power control and security […] The post Microchip, Navitas 800V DC-to-6V DC reference design for AI datacent",
-    "published": "2026-10-06T15:36:31+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/microchip-navitas-800v-dc-to-6v-dc-reference-design-for-ai-datacentres-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz",
     "source": "EE Times",
     "snippet": "Avoid NFC failures: plan ferrite shielding, flexible placement, robust connectors, and chipset validation before prototyping. The post Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz appeared first on EE Times .",
@@ -88,33 +97,6 @@
     "authors": "Chris Zhong",
     "link": "https://www.eetimes.com/solving-the-five-hard-problems-of-nfc-antenna-integration-at-13-56-mhz/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Robots – Cast yourself into a vat of molten steel!",
-    "source": "Electronics Weekly",
-    "snippet": "What a striking video! Apparently it is the work US Robotics company Figure (no, I hadn't heard of them before this video). They wanted to decommission units from its F02 fleet and asked for suggestions. The post Robots – Cast yourself into a vat of molten steel! appeared first on Electronics Weekly",
-    "published": "2026-10-06T14:41:20+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/robot/robots-cast-yourself-into-a-vat-of-molten-steel-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "The 2026 Innovation Index",
-    "source": "Electronics Weekly",
-    "snippet": "The World Intellectual Property Organization (WIPO) has released its 2026 Global Innovation Index (GII). Switzerland tops the rankings once again with a score of 66,7 out of 100. This is […] The post The 2026 Innovation Index appeared first on Electronics Weekly .",
-    "published": "2026-10-06T13:34:14+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/the-2026-innovation-index-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing",
-    "source": "Electronics Weekly",
-    "snippet": "PCTEL is adding Wi-Fi 6/6E coverage testing to its SeeHawk Touch network testing software. The company highlights it allows Wi-Fi technologies (on 2.4, 5, and 6 GHz channels) to be […] The post PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing appeared first on Electronics Weekly .",
-    "published": "2026-10-06T13:09:12+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/pctels-seehawk-touch-adds-wi-fi-6-6e-coverage-testing-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Reducing I/O requirements for optical detection",
@@ -198,15 +180,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
-    "source": "EE Times",
-    "snippet": "Synopsys joins OpenAI for a leap of faith in AI-native IC design by augmenting frontier models with EDA tools. The post GPT-Synopsys Combines IC Design EDA with Agentic AI appeared first on EE Times .",
-    "published": "2026-10-05T12:00:00+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Demystifying feed-through capacitors: How to stop EMI in its tracks",
     "source": "EDN",
     "snippet": "These three-terminal devices confront parasitic inductance and act as the ultimate shield against high-frequency EMI. The post Demystifying feed-through capacitors: How to stop EMI in its tracks appeared first on EDN .",
@@ -216,15 +189,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Electric Car Makers Need to Appeal to the ‘Other 90%’",
-    "source": "EE Times",
-    "snippet": "Broader appeal for the electric car is a big challenge. Innovation is still the best solution. The post Electric Car Makers Need to Appeal to the ‘Other 90%’ appeared first on EE Times .",
-    "published": "2026-10-05T05:30:55+00:00",
-    "authors": "Charles Murray",
-    "link": "https://www.eetimes.com/electric-car-makers-need-to-appeal-to-the-other-90/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Smart Car Researcher Wants to Eliminate Stoplights",
     "source": "IEEE Spectrum",
     "snippet": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green. Cassandras",
@@ -232,15 +196,6 @@
     "authors": "Willie D. Jones",
     "link": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures",
-    "source": "EE Times",
-    "snippet": "At AutoSens Europe, automotive sensing designs reflected tighter safety standards, advances in AI processing, and growing cybersecurity requirements. The post AutoSens 2026: Regulation Drives Automotive Sensing Architectures appeared first on EE Times .",
-    "published": "2026-10-02T15:58:50+00:00",
-    "authors": "Pablo Valerio",
-    "link": "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Consumer and industrial IoT drive wireless chip market",
@@ -297,15 +252,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Power Tips #157: Reducing conducted EMI in 48V automotive USB Type-C EPR designs",
-    "source": "EDN",
-    "snippet": "This tutorial examines conducted EMI behavior using an Extended Power Range (EPR) (≥100W) USB Power Delivery (PD) reference design. The post Power Tips #157: Reducing conducted EMI in 48V automotive USB Type-C EPR designs appeared first on EDN .",
-    "published": "2026-10-01T12:00:08+00:00",
-    "authors": "Sarmad Abedin, Josh Mandelcorn and Seong Kim",
-    "link": "https://www.edn.com/power-tips-157-reducing-conducted-emi-in-48v-automotive-usb-type-c-epr-designs/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
     "source": "IEEE Spectrum",
     "snippet": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. Th is leaking of electricity happens when it vanishes as heat as w ell as whe n it is pilfered by thieves and nonpaying customers. More than half of the countries that track these metrics los",
@@ -313,15 +259,6 @@
     "authors": "Emily Waltz",
     "link": "https://spectrum.ieee.org/electricity-theft",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "How a 650-V GaN device shrinks footprint in space-constrained data center racks",
-    "source": "EDN",
-    "snippet": "The GaN device for high-voltage power conversion in AI data centers dissipates heat from both the top and the bottom. The post How a 650-V GaN device shrinks footprint in space-constrained data center racks appeared first on EDN .",
-    "published": "2026-10-01T11:12:23+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.edn.com/how-a-650-v-gan-device-shrinks-footprint-in-space-constrained-data-center-racks/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "IEEE Celebrates Innovators Shaping the Future",
@@ -591,15 +528,6 @@
     "published": "2026-09-16T13:24:18+00:00",
     "authors": "CoolIT, an Ecolab Company",
     "link": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "The AI Inference Revolution Is Here",
-    "source": "IEEE Spectrum",
-    "snippet": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popul",
-    "published": "2026-09-15T13:00:05+00:00",
-    "authors": "Matthew S. Smith",
-    "link": "https://spectrum.ieee.org/inference-hardware-revolution",
     "category": "IEEE 综合新闻"
   },
   {
@@ -927,15 +855,6 @@
     "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "Independent Labs Crack Google’s Secret Cryptography Work",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "A quantum computer capable of breaking the codes that help secure today’s internet became dramatically more possible in March, when Google scientists and their colleagues unveiled new research. Usually, cybersecurity researchers share information about how attacks work to help prevent them. This gro",
-    "published": "2026-07-07T13:30:01+00:00",
-    "authors": "Charles Q. Choi",
-    "link": "https://spectrum.ieee.org/google-quantum-cryptography-zero-knowledge",
-    "category": "计算 / 通信系统"
-  },
-  {
     "title": "Brain-Inspired Light Sensor Could Speed AI Image Processing",
     "source": "IEEE Spectrum 半导体",
     "snippet": "A new type of imaging sensor inspired by the functioning of the human brain can detect light and store data at the same time. What’s more, the device can forget the data it no longer needs, paving the way for future breakthroughs in robotic-vision efficiency. Today’s digital cameras rely on compleme",
@@ -1041,15 +960,6 @@
     "published": "2026-05-27T15:00:02+00:00",
     "authors": "Charles Q. Choi",
     "link": "https://spectrum.ieee.org/3d-chips",
-    "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Pavona Launches Open-Hardware Ecosystem for Secure Chips",
-    "source": "IEEE Spectrum 半导体",
-    "snippet": "Open-source software is ubiquitous: Linux is the dominant operating system on servers and supercomputers worldwide; Wordpress powers over 40 percent of all websites, among other major projects. Open-source hardware has existed since the late 1990s, but it hasn’t seen nearly the same level of interes",
-    "published": "2026-05-25T14:00:01+00:00",
-    "authors": "Dina Genkina",
-    "link": "https://spectrum.ieee.org/pavona-open-source-hardware",
     "category": "半导体 / RFIC / 射频器件"
   },
   {
