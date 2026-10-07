@@ -1,5 +1,23 @@
 [
   {
+    "title": "Top Ten SiC Producers",
+    "source": "Electronics Weekly",
+    "snippet": "Thanks to Mordor Intelligence for this one – the top ten SiC producers: Infineon ST Wolfspeed onsemi ROHM Mitsubishi Electric: Fuji Electric Microchip Toshiba Semikron Danfoss The post Top Ten SiC Producers appeared first on Electronics Weekly .",
+    "published": "2026-10-07T00:00:08+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-sic-producers-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The AI Boom Has a Gigawatt Accounting Problem",
+    "source": "EE Times",
+    "snippet": "Track energized compute, not gigawatts, as AI data centers face delays in memory, networking, cooling, and power. The post The AI Boom Has a Gigawatt Accounting Problem appeared first on EE Times .",
+    "published": "2026-10-06T21:57:47+00:00",
+    "authors": "Ron Honig",
+    "link": "https://www.eetimes.com/the-ai-boom-has-a-gigawatt-accounting-problem/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "Axelera AI: Data Center Inference Performance in the Power Envelope of Embedded Systems",
     "source": "EE Times",
     "snippet": "Axelera’s Europa brings 629 TOPS inference to 35W edge systems while Voyager cuts toolchain lock-in. The post Axelera AI: Data Center Inference Performance in the Power Envelope of Embedded Systems appeared first on EE Times .",
@@ -135,15 +153,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Open Cosmos aims for 192 satellites",
-    "source": "Electronics Weekly",
-    "snippet": "Open Cosmos, observation satellite constructor, which recently raised €300 million, says that 192 satellites will form the core of its ConnectedCosmos LEO constellation. The company aims to have 96 satellites […] The post Open Cosmos aims for 192 satellites appeared first on Electronics Weekly .",
-    "published": "2026-10-06T05:09:32+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/open-cosmos-aims-for-192-satellites-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
     "source": "EE Times",
     "snippet": "Kepler targets 2027 production for 3D ferroelectric memory promising 5–10× better bandwidth per watt than HBM. The post Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027 appeared first on EE Times .",
@@ -250,15 +259,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/truchet-tiles/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Continuous Health Monitoring Drives Integrated Wearable System Design",
-    "source": "EE Times",
-    "snippet": "Analog Devices India’s Praveen Jose said device miniaturization is driving higher performance and quality in smaller form factors. The post Continuous Health Monitoring Drives Integrated Wearable System Design appeared first on EE Times .",
-    "published": "2026-10-02T11:29:26+00:00",
-    "authors": "Yashasvini Razdan",
-    "link": "https://www.eetimes.com/continuous-health-monitoring-drives-integrated-wearable-system-design/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
