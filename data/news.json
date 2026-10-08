@@ -1,5 +1,50 @@
 [
   {
+    "title": "Qualcomm vs Arm (Day 3)",
+    "source": "Electronics Weekly",
+    "snippet": "Yesterday the Qualcomm vs Arm case covered the struggle for leverage, differing architectural interpretations and good-faith (or not) in the negotiations regarding Arm’s v10 technology.. A major focus was on […] The post Qualcomm vs Arm (Day 3) appeared first on Electronics Weekly .",
+    "published": "2026-10-08T05:16:44+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-3-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Intel and Applied hook up on process",
+    "source": "Electronics Weekly",
+    "snippet": "Intel and Applied are getting together for a multi-site, multi-technology collaboration on process technology. The work will cover front-end and back-end, transistor development, packaging, interconnect and power delivery. The work […] The post Intel and Applied hook up on process appeared first on ",
+    "published": "2026-10-08T05:14:14+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/intel-and-applied-hook-up-on-process-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Wolfspeed gets $1.5bn loan from US government",
+    "source": "Electronics Weekly",
+    "snippet": "Wolfspeed has received a conditional loan commitment letter from the U.S. Department of War (“DoW”), through its Office of Strategic Capital (“OSC”), for up to $1.5 billion. The money will […] The post Wolfspeed gets $1.5bn loan from US government appeared first on Electronics Weekly .",
+    "published": "2026-10-08T05:13:22+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/wolfspeed-gets-1-5bn-loan-from-us-government-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Infineon and ZuriQ to scale qubits",
+    "source": "Electronics Weekly",
+    "snippet": "Infineon and ZuriQ, the Swiss quantum computing company spun out of ETH Zurich, are to today expand their collaboration to scale qubits. The partnership combines ZuriQ’s trapped-ion quantum computing architecture […] The post Infineon and ZuriQ to scale qubits appeared first on Electronics Weekly .",
+    "published": "2026-10-08T05:13:00+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/infineon-and-zuriq-to-scale-qubits-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "100V E-mode GaN-based discrete power transistors",
+    "source": "Electronics Weekly",
+    "snippet": "Renesas has expanded its GaN portfolio into low-voltage applications with its first family of 100V enhancement mode GaN-based discrete power transistors. The RTP100E005G1FL, RTP100E2P6G1FL, RTP100E1P8G1FL-DSC and RTP100E1P2G1FL-DSC low-voltage GaN FETs […] The post 100V E-mode GaN-based discrete pow",
+    "published": "2026-10-08T05:01:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/100v-enhancement-mode-e-mode-gan-based-discrete-power-transistors-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Apple’s Fading Support Acts",
     "source": "Electronics Weekly",
     "snippet": "Apple’s supporting cast, including smart home products. Apple Watch, AirPods and the Apple Vision Pro, has struggled to keep up with the growth of the rest of the company in […] The post Apple’s Fading Support Acts appeared first on Electronics Weekly .",
@@ -214,51 +259,6 @@
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/training-and-inference-two-faces-of-ai-compute/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Omron R1 inverter drives into high-power applications",
-    "source": "Electronics Weekly",
-    "snippet": "Omron is introducing its R1 (3G3R1) variable speed drive as the most powerful member of its inverter family, for demanding, high-power applications. For example in pump sequencing, solar pumping entrance […] The post Omron R1 inverter drives into high-power applications appeared first on Electronics",
-    "published": "2026-10-07T09:17:52+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/power-supplies/omron-r1-inverter-drives-into-high-power-applications-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Don’t get drunk on the numbers, says Penn",
-    "source": "Electronics Weekly",
-    "snippet": "The aberrant behaviour of the chip market has changed in one respect – unit volumes are growing again – although ASPs are still responsible for 90% of the dollar growth, […] The post Don’t get drunk on the numbers, says Penn appeared first on Electronics Weekly .",
-    "published": "2026-10-07T07:16:47+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/dont-get-drunk-on-the-numbers-says-penn-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Why infrastructure is the most valuable element of industrial systems",
-    "source": "Electronics Weekly",
-    "snippet": "Infrastructure has become the foundation of operational resilience, determining whether systems continue running or costly downtime brings production to a halt, writes Iwona Zalewska. Industrial organisations often blame software when […] The post Why infrastructure is the most valuable element of i",
-    "published": "2026-10-07T07:06:19+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/why-infrastructure-is-the-most-valuable-element-of-industrial-systems-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "MS and Meta cut back Anthropic spend",
-    "source": "Electronics Weekly",
-    "snippet": "Microsoft and Meta have told staff to cut back on internal use of the Anthropic model Claude, according to The Information. Microsoft reduced its projected internal spending on Claude by […] The post MS and Meta cut back Anthropic spend appeared first on Electronics Weekly .",
-    "published": "2026-10-07T05:15:10+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/ms-and-meta-cut-back-anthropic-spend-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Qualcomm vs Arm (cont’d)",
-    "source": "Electronics Weekly",
-    "snippet": "In the Qualcomm versus Arm trial in Delaware which started on Monday it was alleged that Arm is looking for a 1,800% increase in royalty payments from Qualcomm for its […] The post Qualcomm vs Arm (cont’d) appeared first on Electronics Weekly .",
-    "published": "2026-10-07T05:15:00+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-contd-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "The AI Boom Has a Gigawatt Accounting Problem",
