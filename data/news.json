@@ -1,5 +1,14 @@
 [
   {
+    "title": "Why Custom Silicon Matters in AI Data Centers",
+    "source": "EE Times",
+    "snippet": "Custom silicon lets AI data centers cut power, latency and data movement while improving economics at scale. The post Why Custom Silicon Matters in AI Data Centers appeared first on EE Times .",
+    "published": "2026-10-08T19:16:44+00:00",
+    "authors": "Scott Seal",
+    "link": "https://www.eetimes.com/why-custom-silicon-matters-in-ai-data-centers/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "Universal Quantum raises $100m for trapped-ion quantum computing",
     "source": "Electronics Weekly",
     "snippet": "Universal Quantum, the UK and German quantum computing startup, has secured $100 million in Series A funding. The company notes it is the largest Series A ever raised by a […] The post Universal Quantum raises $100m for trapped-ion quantum computing appeared first on Electronics Weekly .",
@@ -240,15 +249,6 @@
     "published": "2026-10-07T15:47:11+00:00",
     "authors": "Advanced Energy, Arrow Electronics",
     "link": "https://www.eetimes.com/engineering-reliability-power-architectures-for-high-performance-burn-in/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Enhance Power Quality with a GaN-based AC/DC Three-Level Vienna Rectifier",
-    "source": "EE Times",
-    "snippet": "Data centers have become essential to almost every part of the global economy with the continuing rise in computing demands. Modern data centers, consisting of rows of equipment racks for storing, processing, and sharing data, require front-end AC/DC converters that are reliable, operate at unity po",
-    "published": "2026-10-07T14:00:00+00:00",
-    "authors": "Renesas",
-    "link": "https://www.eetimes.com/enhance-power-quality-with-a-gan-based-ac-dc-three-level-vienna-rectifier/",
     "category": "EE Times 行业新闻"
   },
   {
