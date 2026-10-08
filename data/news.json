@@ -1,8 +1,116 @@
 [
   {
-    "title": "Qualcomm vs Arm (Day 3)",
+    "title": "Universal Quantum raises $100m for trapped-ion quantum computing",
     "source": "Electronics Weekly",
-    "snippet": "Yesterday the Qualcomm vs Arm case covered the struggle for leverage, differing architectural interpretations and good-faith (or not) in the negotiations regarding Arm’s v10 technology.. A major focus was on […] The post Qualcomm vs Arm (Day 3) appeared first on Electronics Weekly .",
+    "snippet": "Universal Quantum, the UK and German quantum computing startup, has secured $100 million in Series A funding. The company notes it is the largest Series A ever raised by a […] The post Universal Quantum raises $100m for trapped-ion quantum computing appeared first on Electronics Weekly .",
+    "published": "2026-10-08T15:02:47+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/uk-region/universal-quantum-raises-100m-for-trapped-ion-quantum-computing-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "SCHIEDERWERK Showcases Novel Power Supply Solutions for Mission-Critical Applications at electronica 2026",
+    "source": "EE Times",
+    "snippet": "Nuremberg / Munich, Germany, 2026 — SCHIEDERWERK GmbH, a specialist in custom power electronics solutions engineered and manufactured in Germany, will showcase its latest platform-based power supplies and innovative power management solutions for mobile, medical, and industrial applications at elect",
+    "published": "2026-10-08T14:23:33+00:00",
+    "authors": "SCHIEDERWERK",
+    "link": "https://www.eetimes.com/schiederwerk-showcases-novel-power-supply-solutions-for-mission-critical-applications-at-electronica-2026/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide",
+    "source": "EE Times",
+    "snippet": "This technical guide provides a practical framework for migrating machine learning models and applications from an NVIDIA/CUDA-based environment to the SiMa.ai Physical AI platform. It explains the key differences between the two deployment workflows, outlines the model and application migration pro",
+    "published": "2026-10-08T14:00:00+00:00",
+    "authors": "SiMa Technologies, Inc.",
+    "link": "https://www.eetimes.com/nvidia-jetson-to-sima-ai-modalix-mlsoc-migration-guide/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Powell supplies low-force 15-pin connectors from Planetary Systems",
+    "source": "Electronics Weekly",
+    "snippet": "Powell Electronics is supplying a low-force 15-pin connector pair from Planetary Systems for signal transfers in spaceflight applications. The pair – 4000106C for the lower separation connector and 4000107C for […] The post Powell supplies low-force 15-pin connectors from Planetary Systems appeared ",
+    "published": "2026-10-08T13:57:35+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/connectors/powell-supplies-low-force-15-pin-connectors-from-planetary-systems-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Fable: The Guy Who Focussed",
+    "source": "Electronics Weekly",
+    "snippet": "There was once a sprawling corporate which was bleeding to death. It lost $5.7 billion one year on top of the $3.1 billion it had lost the previous year. Then a […] The post Fable: The Guy Who Focussed appeared first on Electronics Weekly .",
+    "published": "2026-10-08T13:15:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-guy-who-focussed-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Rising Costs, Compute Demand Push ADAS Toward Modular AI",
+    "source": "EE Times",
+    "snippet": "Rising semiconductor costs and computing requirements drive automakers toward modular ADAS AI solutions. The post Rising Costs, Compute Demand Push ADAS Toward Modular AI appeared first on EE Times .",
+    "published": "2026-10-08T13:00:00+00:00",
+    "authors": "Pablo Valerio",
+    "link": "https://www.eetimes.com/rising-costs-compute-demand-push-adas-toward-modular-ai/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Breaking the AI Infrastructure Power Wall: From Grid to xPU",
+    "source": "EE Times",
+    "snippet": "Register now for our webinar to discover how Navitas 2.0 is revolutionizing AI infrastructure power delivery. The post Breaking the AI Infrastructure Power Wall: From Grid to xPU appeared first on EE Times .",
+    "published": "2026-10-08T12:36:33+00:00",
+    "authors": "Navitas",
+    "link": "https://www.eetimes.com/breaking-the-ai-infrastructure-power-wall-from-grid-to-xpu/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "The multi-gig Ethernet migration: Motivations and implementations",
+    "source": "EDN",
+    "snippet": "Supplier “push” and consumer “pull”. When their efforts coordinate, the result can be meaningfully impactful. The post The multi-gig Ethernet migration: Motivations and implementations appeared first on EDN .",
+    "published": "2026-10-08T12:00:50+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/the-multi-gig-ethernet-migration-motivations-and-implementations/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit",
+    "source": "Electronics Weekly",
+    "snippet": "Check out the launch of Google's Project Suncatcher prototype datacentre satellite, with its Trillium TPUs (Tensor Processing Units). It's courtesy of SpaceX's Transporter-18 rideshare mission. The post Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit appeared first on Elect",
+    "published": "2026-10-08T11:24:24+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/pic-of-the-day-googles-project-suncatcher-datacentre-satellite-in-orbit-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Connectivity challenges evolve as systems move into higher-frequency operation",
+    "source": "Electronics Weekly",
+    "snippet": "As the communications network moves into the millimetre-wave spectrum connectivity becomes a larger challenge, writes Dr Tudor Williams. As satellite constellations expand 5G infrastructure becomes more densely deployed and defence […] The post Connectivity challenges evolve as systems move into hig",
+    "published": "2026-10-08T11:00:22+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/connectivity-challenges-evolve-as-systems-move-into-higher-frequency-operation-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "SuperSharp to lead THEOSCOPE IR Earth observation mission",
+    "source": "Electronics Weekly",
+    "snippet": "SuperSharp, a specialist in ultra-high resolution thermal infrared (TIR) imaging from space, has been chosen to lead Europe’s THEOSCOPE Mission. This is an Earth observation project with €4 million of […] The post SuperSharp to lead THEOSCOPE IR Earth observation mission appeared first on Electronic",
+    "published": "2026-10-08T09:10:26+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/supersharp-to-lead-theoscope-ir-earth-observation-mission-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing",
+    "source": "EE Times",
+    "snippet": "Rohm Semiconductor retains wafer fabrication in-house as it expands its back-end semiconductor operations and R&D footprint in India. The post Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing appeared first on EE Times .",
+    "published": "2026-10-08T07:18:51+00:00",
+    "authors": "Yashasvini Razdan",
+    "link": "https://www.eetimes.com/rohm-semiconductor-expands-back-end-chip-manufacturing-outsourcing/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Qualcomm vs Arm (day 3)",
+    "source": "Electronics Weekly",
+    "snippet": "Yesterday the Qualcomm vs Arm case covered the struggle for leverage, differing architectural interpretations and good faith (or not) in the negotiations regarding Arm’s v10 technology. A major focus was […] The post Qualcomm vs Arm (day 3) appeared first on Electronics Weekly .",
     "published": "2026-10-08T05:16:44+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-3-2026-10/",
@@ -29,28 +137,10 @@
   {
     "title": "Infineon and ZuriQ to scale qubits",
     "source": "Electronics Weekly",
-    "snippet": "Infineon and ZuriQ, the Swiss quantum computing company spun out of ETH Zurich, are to today expand their collaboration to scale qubits. The partnership combines ZuriQ’s trapped-ion quantum computing architecture […] The post Infineon and ZuriQ to scale qubits appeared first on Electronics Weekly .",
+    "snippet": "Infineon and ZuriQ, the Swiss quantum computing company spun out of ETH Zurich, are to expand their collaboration to scale qubits. The partnership combines ZuriQ’s trapped-ion quantum computing architecture with […] The post Infineon and ZuriQ to scale qubits appeared first on Electronics Weekly .",
     "published": "2026-10-08T05:13:00+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/infineon-and-zuriq-to-scale-qubits-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "100V E-mode GaN-based discrete power transistors",
-    "source": "Electronics Weekly",
-    "snippet": "Renesas has expanded its GaN portfolio into low-voltage applications with its first family of 100V enhancement mode GaN-based discrete power transistors. The RTP100E005G1FL, RTP100E2P6G1FL, RTP100E1P8G1FL-DSC and RTP100E1P2G1FL-DSC low-voltage GaN FETs […] The post 100V E-mode GaN-based discrete pow",
-    "published": "2026-10-08T05:01:50+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/100v-enhancement-mode-e-mode-gan-based-discrete-power-transistors-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Apple’s Fading Support Acts",
-    "source": "Electronics Weekly",
-    "snippet": "Apple’s supporting cast, including smart home products. Apple Watch, AirPods and the Apple Vision Pro, has struggled to keep up with the growth of the rest of the company in […] The post Apple’s Fading Support Acts appeared first on Electronics Weekly .",
-    "published": "2026-10-08T00:00:10+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-fading-impact-of-apples-support-acts-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -153,24 +243,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-    "source": "Electronics Weekly",
-    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-    "published": "2026-10-07T15:00:02+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Teradyne Magnum E2 addresses advanced DRAM and high-speed NAND flash",
-    "source": "Electronics Weekly",
-    "snippet": "The Teradyne Magnum E2 is a high-speed memory test system for advanced DRAM and flash interfaces. Its design, says the company, matches the test demands driven by AI and high-performance […] The post Teradyne Magnum E2 addresses advanced DRAM and high-speed NAND flash appeared first on Electronics W",
-    "published": "2026-10-07T14:34:52+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/magnum-e2-addresses-advanced-dram-and-high-speed-nand-flash-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Enhance Power Quality with a GaN-based AC/DC Three-Level Vienna Rectifier",
     "source": "EE Times",
     "snippet": "Data centers have become essential to almost every part of the global economy with the continuing rise in computing demands. Modern data centers, consisting of rows of equipment racks for storing, processing, and sharing data, require front-end AC/DC converters that are reliable, operate at unity po",
@@ -207,24 +279,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Queen’s University opens Advanced Manufacturing Innovation Centre",
-    "source": "Electronics Weekly",
-    "snippet": "Queen’s University has officially opened the Advanced Manufacturing Innovation Centre (AMIC), a £100m investment through the Belfast Region City Deal to support innovation and growth for manufacturing in Northern Ireland. […] The post Queen’s University opens Advanced Manufacturing Innovation Centre",
-    "published": "2026-10-07T13:06:21+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/manufacturing/queens-university-opens-advanced-manufacturing-innovation-centre-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "From Electrification to Architecture: The Next Automotive Era",
-    "source": "EE Times",
-    "snippet": "From electrification to software-defined vehicles, automotive innovation is driving new requirements for semiconductor packaging and test. The post From Electrification to Architecture: The Next Automotive Era appeared first on EE Times .",
-    "published": "2026-10-07T13:00:00+00:00",
-    "authors": "UTAC Group",
-    "link": "https://www.eetimes.com/from-electrification-to-architecture-the-next-automotive-era/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "An unbuttoned circuit for setting digital pots",
     "source": "EDN",
     "snippet": "This Design Idea enables you to program digital potentiometers with inexpensive rotary incremental encoders. The post An unbuttoned circuit for setting digital pots appeared first on EDN .",
@@ -234,24 +288,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "An Orderly De-Frothing?",
-    "source": "Electronics Weekly",
-    "snippet": "There’s a chance that the de-frothing of the AI market could be an orderly retreat rather than a sudden bust. Anthropic’s two largest customers are weaning themselves off Anthropic products […] The post An Orderly De-Frothing? appeared first on Electronics Weekly .",
-    "published": "2026-10-07T11:15:05+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/an-orderly-de-frothing-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Silicon Labs Adds IoT Developer Platform Tools",
-    "source": "EE Times",
-    "snippet": "To meet rising edge AI demands, Silicon Labs connects its development tools with generative AI and enterprise data infrastructure. The post Silicon Labs Adds IoT Developer Platform Tools appeared first on EE Times .",
-    "published": "2026-10-07T11:03:18+00:00",
-    "authors": "Pablo Valerio",
-    "link": "https://www.eetimes.com/silicon-labs-adds-iot-developer-platform-tools/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Training and inference: Two faces of AI compute",
     "source": "EDN",
     "snippet": "Here is how training and inference ask the silicon for opposite things. The post Training and inference: Two faces of AI compute appeared first on EDN .",
@@ -259,33 +295,6 @@
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/training-and-inference-two-faces-of-ai-compute/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "The AI Boom Has a Gigawatt Accounting Problem",
-    "source": "EE Times",
-    "snippet": "Track energized compute, not gigawatts, as AI data centers face delays in memory, networking, cooling, and power. The post The AI Boom Has a Gigawatt Accounting Problem appeared first on EE Times .",
-    "published": "2026-10-06T21:57:47+00:00",
-    "authors": "Ron Honig",
-    "link": "https://www.eetimes.com/the-ai-boom-has-a-gigawatt-accounting-problem/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Axelera AI: Data Center Inference Performance in the Power Envelope of Embedded Systems",
-    "source": "EE Times",
-    "snippet": "Axelera’s Europa brings 629 TOPS inference to 35W edge systems while Voyager cuts toolchain lock-in. The post Axelera AI: Data Center Inference Performance in the Power Envelope of Embedded Systems appeared first on EE Times .",
-    "published": "2026-10-06T18:03:14+00:00",
-    "authors": "EE Times",
-    "link": "https://www.eetimes.com/axelera-ai-data-center-inference-performance-in-the-power-envelope-of-embedded-systems/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz",
-    "source": "EE Times",
-    "snippet": "Avoid NFC failures: plan ferrite shielding, flexible placement, robust connectors, and chipset validation before prototyping. The post Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz appeared first on EE Times .",
-    "published": "2026-10-06T15:34:21+00:00",
-    "authors": "Chris Zhong",
-    "link": "https://www.eetimes.com/solving-the-five-hard-problems-of-nfc-antenna-integration-at-13-56-mhz/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Reducing I/O requirements for optical detection",
@@ -322,15 +331,6 @@
     "authors": "Sravan Vadigepalli",
     "link": "https://spectrum.ieee.org/6-guidelines-governing-ai",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "An Apple-plus-Google adapter that’s AI in name only (sigh)",
-    "source": "EDN",
-    "snippet": "Is there actually any AI in the “AI Box”? Doubtful. But it’s durable, along with platform-nimble. And the attractive price is indisputable. The post An Apple-plus-Google adapter that’s AI in name only (sigh) appeared first on EDN .",
-    "published": "2026-10-05T12:00:22+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/an-apple-plus-google-adapter-thats-ai-in-name-only-sigh/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Smart Car Researcher Wants to Eliminate Stoplights",

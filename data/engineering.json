@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "The multi-gig Ethernet migration: Motivations and implementations",
+      "source": "EDN",
+      "snippet": "Supplier “push” and consumer “pull”. When their efforts coordinate, the result can be meaningfully impactful. The post The multi-gig Ethernet migration: Motivations and implementations appeared first on EDN .",
+      "published": "2026-10-08T12:00:50+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/the-multi-gig-ethernet-migration-motivations-and-implementations/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Global-shutter sensor raises pixel density",
       "source": "EDN",
       "snippet": "At 2.2 µm, Omnivision’s OG05D 5-Mpixel image sensor offers one of the smallest global-shutter pixel sizes with HDR in its class. The post Global-shutter sensor raises pixel density appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-06T07:04:18+00:00",
       "authors": "Usman Khan",
       "link": "https://www.edn.com/continuity-testing-in-semiconductor-ate-fundamentals-and-test-methods/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "An Apple-plus-Google adapter that’s AI in name only (sigh)",
-      "source": "EDN",
-      "snippet": "Is there actually any AI in the “AI Box”? Doubtful. But it’s durable, along with platform-nimble. And the attractive price is indisputable. The post An Apple-plus-Google adapter that’s AI in name only (sigh) appeared first on EDN .",
-      "published": "2026-10-05T12:00:22+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/an-apple-plus-google-adapter-thats-ai-in-name-only-sigh/",
       "category": "EDN 电子设计新闻"
     }
   ]
