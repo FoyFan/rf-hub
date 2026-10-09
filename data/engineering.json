@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Measurement bandwidth",
+      "source": "EDN",
+      "snippet": "Designers and test engineers should carefully consider an application's bandwidth requirements before selecting an instrument. The post Measurement bandwidth appeared first on EDN .",
+      "published": "2026-10-09T12:00:42+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/measurement-bandwidth/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Practical design for a multi-output flyback converter with improved cross-regulation",
       "source": "EDN",
       "snippet": "Here is how the stacked-output topology and the weighted feedback network can be implemented in a practical converter. The post Practical design for a multi-output flyback converter with improved cross-regulation appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-07T09:23:37+00:00",
       "authors": "Majeed Ahmad",
       "link": "https://www.edn.com/training-and-inference-two-faces-of-ai-compute/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Reducing I/O requirements for optical detection",
-      "source": "EDN",
-      "snippet": "Although this project may be a bit esoteric, the concepts shown to reduce I/O requirements can also be applied to other systems. The post Reducing I/O requirements for optical detection appeared first on EDN .",
-      "published": "2026-10-06T12:00:19+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/reducing-i-o-requirements-for-optical-detection/",
       "category": "EDN 电子设计新闻"
     }
   ]

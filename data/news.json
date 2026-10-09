@@ -1,5 +1,104 @@
 [
   {
+    "title": "Solid-State Transformers: Accelerate Your SST Design",
+    "source": "EE Times",
+    "snippet": "Join our expert-led webinar to explore Infineon's comprehensive portfolio for Solid-State Transformers (SSTs). The post Solid-State Transformers: Accelerate Your SST Design appeared first on EE Times .",
+    "published": "2026-10-09T15:38:47+00:00",
+    "authors": "Infineon Technologies, Arrow Electronics",
+    "link": "https://www.eetimes.com/solid-state-transformers-accelerate-your-sst-design/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Defence satcom revenues to surpass $23bn by 2035",
+    "source": "Electronics Weekly",
+    "snippet": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+    "published": "2026-10-09T14:30:04+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
+    "source": "EE Times",
+    "snippet": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
+    "published": "2026-10-09T14:21:07+00:00",
+    "authors": "Arteris",
+    "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Axiom Space highlights space computing progress",
+    "source": "Electronics Weekly",
+    "snippet": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+    "published": "2026-10-09T14:13:03+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+    "source": "EE Times",
+    "snippet": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
+    "published": "2026-10-09T14:11:55+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "The Single-Chip PC",
+    "source": "Electronics Weekly",
+    "snippet": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+    "published": "2026-10-09T13:23:25+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
+    "source": "EE Times",
+    "snippet": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
+    "published": "2026-10-09T12:11:04+00:00",
+    "authors": "News Desk",
+    "link": "https://www.eetimes.com/u-s-manufacturing-activity-sustains-growth-in-september-as-backlogs-surge/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Measurement bandwidth",
+    "source": "EDN",
+    "snippet": "Designers and test engineers should carefully consider an application's bandwidth requirements before selecting an instrument. The post Measurement bandwidth appeared first on EDN .",
+    "published": "2026-10-09T12:00:42+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/measurement-bandwidth/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Failure analysis in the era of 3D integration",
+    "source": "Electronics Weekly",
+    "snippet": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+    "published": "2026-10-09T11:00:13+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+    "source": "Electronics Weekly",
+    "snippet": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+    "published": "2026-10-09T09:34:19+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
+    "source": "Electronics Weekly",
+    "snippet": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
+    "published": "2026-10-09T09:04:25+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
     "source": "EE Times",
     "snippet": "Physical AI will be limited in the real world if we keep pretending that physical data comes packaged like the digital world. The post Physical AI Needs a Neuromorphic Path from Sensor to Silicon appeared first on EE Times .",
@@ -56,7 +155,7 @@
   {
     "title": "TSMC September revenue up 54% YoY",
     "source": "Electronics Weekly",
-    "snippet": "TSMC had September revenue of $16.1 billion, a decrease of 0.6% from August 2026 and an increase of 54.6% from September 2025. Revenue for January through September 2026 totalled $122 billion, an increase of 41.1% compared […] The post TSMC September revenue up 54% YoY appeared first on Electronics ",
+    "snippet": "TSMC had September revenue of $16.1 billion, a decrease of 0.6% from August 2026 and an increase of 54.6% from September 2025. Revenue for January through September 2026 totalled $122 billion, an increase of […] The post TSMC September revenue up 54% YoY appeared first on Electronics Weekly .",
     "published": "2026-10-09T05:12:21+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/tsmc-september-revenue-up-54-yoy-2026-10/",
@@ -72,24 +171,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Astute signs Samwha Capacitor",
-    "source": "Electronics Weekly",
-    "snippet": "Astute Group has signed a franchise distribution agreement with Samwha Capacitor Group, adding Samwha’s range of capacitors, energy storage components, ferrite products, inductors and transformer technologies to its portfolio. The […] The post Astute signs Samwha Capacitor appeared first on Electron",
-    "published": "2026-10-09T05:05:28+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/astute-signs-samwha-capacitor-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Where Are The Centrists?",
-    "source": "Electronics Weekly",
-    "snippet": "Political centrists outnumber Rightists and Leftists in Germany, Japan, and South Africa, according to Statista Consumer Insights. In Germany, 41% of respondents said that they were in the centre , […] The post Where Are The Centrists? appeared first on Electronics Weekly .",
-    "published": "2026-10-09T00:00:28+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/m-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Why Custom Silicon Matters in AI Data Centers",
     "source": "EE Times",
     "snippet": "Custom silicon lets AI data centers cut power, latency and data movement while improving economics at scale. The post Why Custom Silicon Matters in AI Data Centers appeared first on EE Times .",
@@ -97,15 +178,6 @@
     "authors": "Scott Seal",
     "link": "https://www.eetimes.com/why-custom-silicon-matters-in-ai-data-centers/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Universal Quantum raises $100m for trapped-ion quantum computing",
-    "source": "Electronics Weekly",
-    "snippet": "Universal Quantum, the UK and German quantum computing startup, has secured $100 million in Series A funding. The company notes it is the largest Series A ever raised by a […] The post Universal Quantum raises $100m for trapped-ion quantum computing appeared first on Electronics Weekly .",
-    "published": "2026-10-08T15:02:47+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/uk-region/universal-quantum-raises-100m-for-trapped-ion-quantum-computing-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "SCHIEDERWERK Showcases Novel Power Supply Solutions for Mission-Critical Applications at electronica 2026",
@@ -126,42 +198,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Powell supplies low-force 15-pin connectors from Planetary Systems",
-    "source": "Electronics Weekly",
-    "snippet": "Powell Electronics is supplying a low-force 15-pin connector pair from Planetary Systems for signal transfers in spaceflight applications. The pair – 4000106C for the lower separation connector and 4000107C for […] The post Powell supplies low-force 15-pin connectors from Planetary Systems appeared ",
-    "published": "2026-10-08T13:57:35+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/connectors/powell-supplies-low-force-15-pin-connectors-from-planetary-systems-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Fable: The Guy Who Focussed",
-    "source": "Electronics Weekly",
-    "snippet": "There was once a sprawling corporate which was bleeding to death. It lost $5.7 billion one year on top of the $3.1 billion it had lost the previous year. Then a […] The post Fable: The Guy Who Focussed appeared first on Electronics Weekly .",
-    "published": "2026-10-08T13:15:50+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-guy-who-focussed-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Rising Costs, Compute Demand Push ADAS Toward Modular AI",
-    "source": "EE Times",
-    "snippet": "Rising semiconductor costs and computing requirements drive automakers toward modular ADAS AI solutions. The post Rising Costs, Compute Demand Push ADAS Toward Modular AI appeared first on EE Times .",
-    "published": "2026-10-08T13:00:00+00:00",
-    "authors": "Pablo Valerio",
-    "link": "https://www.eetimes.com/rising-costs-compute-demand-push-adas-toward-modular-ai/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Breaking the AI Infrastructure Power Wall: From Grid to xPU",
-    "source": "EE Times",
-    "snippet": "Register now for our webinar to discover how Navitas 2.0 is revolutionizing AI infrastructure power delivery. The post Breaking the AI Infrastructure Power Wall: From Grid to xPU appeared first on EE Times .",
-    "published": "2026-10-08T12:36:33+00:00",
-    "authors": "Navitas",
-    "link": "https://www.eetimes.com/breaking-the-ai-infrastructure-power-wall-from-grid-to-xpu/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "The multi-gig Ethernet migration: Motivations and implementations",
     "source": "EDN",
     "snippet": "Supplier “push” and consumer “pull”. When their efforts coordinate, the result can be meaningfully impactful. The post The multi-gig Ethernet migration: Motivations and implementations appeared first on EDN .",
@@ -169,33 +205,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/the-multi-gig-ethernet-migration-motivations-and-implementations/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit",
-    "source": "Electronics Weekly",
-    "snippet": "Check out the launch of Google's Project Suncatcher prototype datacentre satellite, with its Trillium TPUs (Tensor Processing Units). It's courtesy of SpaceX's Transporter-18 rideshare mission. The post Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit appeared first on Elect",
-    "published": "2026-10-08T11:24:24+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/pic-of-the-day-googles-project-suncatcher-datacentre-satellite-in-orbit-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing",
-    "source": "EE Times",
-    "snippet": "Rohm Semiconductor retains wafer fabrication in-house as it expands its back-end semiconductor operations and R&D footprint in India. The post Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing appeared first on EE Times .",
-    "published": "2026-10-08T07:18:51+00:00",
-    "authors": "Yashasvini Razdan",
-    "link": "https://www.eetimes.com/rohm-semiconductor-expands-back-end-chip-manufacturing-outsourcing/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Can AI Be Trusted? Synopsys on Agentic AI and Autonomous Engineering",
-    "source": "EE Times",
-    "snippet": "See how Synopsys uses agentic AI to orchestrate trusted EDA tools for precise, explainable chip design, and faster engineering workflows. The post Can AI Be Trusted? Synopsys on Agentic AI and Autonomous Engineering appeared first on EE Times .",
-    "published": "2026-10-07T20:07:11+00:00",
-    "authors": "EE Times",
-    "link": "https://www.eetimes.com/can-ai-be-trusted-synopsys-on-agentic-ai-and-autonomous-engineering/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Global-shutter sensor raises pixel density",
@@ -303,15 +312,6 @@
     "published": "2026-10-07T09:23:37+00:00",
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/training-and-inference-two-faces-of-ai-compute/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Reducing I/O requirements for optical detection",
-    "source": "EDN",
-    "snippet": "Although this project may be a bit esoteric, the concepts shown to reduce I/O requirements can also be applied to other systems. The post Reducing I/O requirements for optical detection appeared first on EDN .",
-    "published": "2026-10-06T12:00:19+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/reducing-i-o-requirements-for-optical-detection/",
     "category": "EDN 电子设计新闻"
   },
   {
