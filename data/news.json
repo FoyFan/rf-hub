@@ -1,5 +1,23 @@
 [
   {
+    "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+    "source": "EE Times",
+    "snippet": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
+    "published": "2026-10-09T19:00:00+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Master AI Chip Principles With New IEEE Design Program",
+    "source": "IEEE Spectrum",
+    "snippet": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “ Revisiting Edge AI: Opportunities and Challenges .” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model arch",
+    "published": "2026-10-09T18:00:02+00:00",
+    "authors": "Angelo Athens",
+    "link": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "Solid-State Transformers: Accelerate Your SST Design",
     "source": "EE Times",
     "snippet": "Join our expert-led webinar to explore Infineon's comprehensive portfolio for Solid-State Transformers (SSTs). The post Solid-State Transformers: Accelerate Your SST Design appeared first on EE Times .",
@@ -36,15 +54,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
-    "source": "EE Times",
-    "snippet": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
-    "published": "2026-10-09T14:11:55+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "The Single-Chip PC",
     "source": "Electronics Weekly",
     "snippet": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
@@ -70,6 +79,15 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/measurement-bandwidth/",
     "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "We Need to Embed Ethics Into Our Engineering Courses",
+    "source": "IEEE Spectrum",
+    "snippet": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed.",
+    "published": "2026-10-09T12:00:02+00:00",
+    "authors": "Cynthia J. Finelli",
+    "link": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+    "category": "IEEE 综合新闻"
   },
   {
     "title": "Failure analysis in the era of 3D integration",
@@ -577,30 +595,12 @@
   },
   {
     "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
-    "source": "IEEE Spectrum",
-    "snippet": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow. Download this free w",
-    "published": "2026-09-18T18:29:50+00:00",
-    "authors": "Mike Spector",
-    "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
     "source": "IEEE Spectrum 计算",
     "snippet": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow. Download this free w",
     "published": "2026-09-18T18:29:50+00:00",
     "authors": "Mike Spector",
     "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Turning Tech Talent Into Leadership Legacy",
-    "source": "IEEE Spectrum",
-    "snippet": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborati",
-    "published": "2026-09-18T18:00:04+00:00",
-    "authors": "Prachi Jain",
-    "link": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Superconducting Transistors to Solve Quantum Computing Woes",
