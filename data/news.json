@@ -1,5 +1,86 @@
 [
   {
+    "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
+    "source": "EE Times",
+    "snippet": "Physical AI will be limited in the real world if we keep pretending that physical data comes packaged like the digital world. The post Physical AI Needs a Neuromorphic Path from Sensor to Silicon appeared first on EE Times .",
+    "published": "2026-10-09T08:39:41+00:00",
+    "authors": "Xabier Iturbe",
+    "link": "https://www.eetimes.com/physical-ai-needs-a-neuromorphic-path-from-sensor-to-silicon/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Worlds First Single Chip Multiturn Position Sensor in Smaller Form Factor",
+    "source": "EE Times",
+    "snippet": "Join this webinar, where our expert will explore the technology behind the ADMT4000 and how its ability to track multiple rotations and angular movement without power is transforming the design of both linear and rotary actuators. The post Worlds First Single Chip Multiturn Position Sensor in Smalle",
+    "published": "2026-10-09T08:08:26+00:00",
+    "authors": "Analog Devices",
+    "link": "https://www.eetimes.com/worlds-first-single-chip-multiturn-position-sensor-in-smaller-form-factor/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Scaling 3D IC design: Trends, Challenges and Practical Workflows",
+    "source": "EE Times",
+    "snippet": "Join us to discover how Siemens Innovator3D IC streamlines 3D IC design from planning to implementation! The post Scaling 3D IC design: Trends, Challenges and Practical Workflows appeared first on EE Times .",
+    "published": "2026-10-09T07:32:29+00:00",
+    "authors": "Siemens EDA",
+    "link": "https://www.eetimes.com/scaling-3d-ic-design-trends-challenges-and-practical-workflows/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Practical design for a multi-output flyback converter with improved cross-regulation",
+    "source": "EDN",
+    "snippet": "Here is how the stacked-output topology and the weighted feedback network can be implemented in a practical converter. The post Practical design for a multi-output flyback converter with improved cross-regulation appeared first on EDN .",
+    "published": "2026-10-09T07:29:11+00:00",
+    "authors": "Joan Mampel",
+    "link": "https://www.edn.com/practical-design-for-a-multi-output-flyback-converter-with-improved-cross-regulation/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Qualcomm vs Arm (Day 4)",
+    "source": "Electronics Weekly",
+    "snippet": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, started with testimony from Manju […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
+    "published": "2026-10-09T05:17:49+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-4-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "ASML starts on Hyper NA EUV",
+    "source": "Electronics Weekly",
+    "snippet": "ASML has begun a ten year programme to get feature sizes down to 5nm from the 8nm which high NA tools can deliver. The 5nm litho tool is dubbed Hyper […] The post ASML starts on Hyper NA EUV appeared first on Electronics Weekly .",
+    "published": "2026-10-09T05:16:36+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "TSMC September revenue up 54% YoY",
+    "source": "Electronics Weekly",
+    "snippet": "TSMC had September revenue of $16.1 billion, a decrease of 0.6% from August 2026 and an increase of 54.6% from September 2025. Revenue for January through September 2026 totalled $122 billion, an increase of 41.1% compared […] The post TSMC September revenue up 54% YoY appeared first on Electronics ",
+    "published": "2026-10-09T05:12:21+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/tsmc-september-revenue-up-54-yoy-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Globalfoundries to make silicon interposers for TSMC",
+    "source": "Electronics Weekly",
+    "snippet": "GlobalFoundries is to establish a U.S.-based supply of silicon interposers for TSMC’s CoWoS packaging ecosystem. Under the agreement, GF will provide manufacturing service to TSMC, and add fabrication capacity at […] The post Globalfoundries to make silicon interposers for TSMC appeared first on Ele",
+    "published": "2026-10-09T05:10:11+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/globalfoundries-to-make-interposers-for-tsmc-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Astute signs Samwha Capacitor",
+    "source": "Electronics Weekly",
+    "snippet": "Astute Group has signed a franchise distribution agreement with Samwha Capacitor Group, adding Samwha’s range of capacitors, energy storage components, ferrite products, inductors and transformer technologies to its portfolio. The […] The post Astute signs Samwha Capacitor appeared first on Electron",
+    "published": "2026-10-09T05:05:28+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/astute-signs-samwha-capacitor-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Where Are The Centrists?",
     "source": "Electronics Weekly",
     "snippet": "Political centrists outnumber Rightists and Leftists in Germany, Japan, and South Africa, according to Statista Consumer Insights. In Germany, 41% of respondents said that they were in the centre , […] The post Where Are The Centrists? appeared first on Electronics Weekly .",
@@ -99,24 +180,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Connectivity challenges evolve as systems move into higher-frequency operation",
-    "source": "Electronics Weekly",
-    "snippet": "As the communications network moves into the millimetre-wave spectrum connectivity becomes a larger challenge, writes Dr Tudor Williams. As satellite constellations expand 5G infrastructure becomes more densely deployed and defence […] The post Connectivity challenges evolve as systems move into hig",
-    "published": "2026-10-08T11:00:22+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/connectivity-challenges-evolve-as-systems-move-into-higher-frequency-operation-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "SuperSharp to lead THEOSCOPE IR Earth observation mission",
-    "source": "Electronics Weekly",
-    "snippet": "SuperSharp, a specialist in ultra-high resolution thermal infrared (TIR) imaging from space, has been chosen to lead Europe’s THEOSCOPE Mission. This is an Earth observation project with €4 million of […] The post SuperSharp to lead THEOSCOPE IR Earth observation mission appeared first on Electronic",
-    "published": "2026-10-08T09:10:26+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/supersharp-to-lead-theoscope-ir-earth-observation-mission-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing",
     "source": "EE Times",
     "snippet": "Rohm Semiconductor retains wafer fabrication in-house as it expands its back-end semiconductor operations and R&D footprint in India. The post Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing appeared first on EE Times .",
@@ -126,48 +189,12 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Qualcomm vs Arm (day 3)",
-    "source": "Electronics Weekly",
-    "snippet": "Yesterday the Qualcomm vs Arm case covered the struggle for leverage, differing architectural interpretations and good faith (or not) in the negotiations regarding Arm’s v10 technology. A major focus was […] The post Qualcomm vs Arm (day 3) appeared first on Electronics Weekly .",
-    "published": "2026-10-08T05:16:44+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-3-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Intel and Applied hook up on process",
-    "source": "Electronics Weekly",
-    "snippet": "Intel and Applied are getting together for a multi-site, multi-technology collaboration on process technology. The work will cover front-end and back-end, transistor development, packaging, interconnect and power delivery. The work […] The post Intel and Applied hook up on process appeared first on ",
-    "published": "2026-10-08T05:14:14+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/intel-and-applied-hook-up-on-process-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Wolfspeed gets $1.5bn loan from US government",
-    "source": "Electronics Weekly",
-    "snippet": "Wolfspeed has received a conditional loan commitment letter from the U.S. Department of War (“DoW”), through its Office of Strategic Capital (“OSC”), for up to $1.5 billion. The money will […] The post Wolfspeed gets $1.5bn loan from US government appeared first on Electronics Weekly .",
-    "published": "2026-10-08T05:13:22+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/wolfspeed-gets-1-5bn-loan-from-us-government-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Can AI Be Trusted? Synopsys on Agentic AI and Autonomous Engineering",
     "source": "EE Times",
     "snippet": "See how Synopsys uses agentic AI to orchestrate trusted EDA tools for precise, explainable chip design, and faster engineering workflows. The post Can AI Be Trusted? Synopsys on Agentic AI and Autonomous Engineering appeared first on EE Times .",
     "published": "2026-10-07T20:07:11+00:00",
     "authors": "EE Times",
     "link": "https://www.eetimes.com/can-ai-be-trusted-synopsys-on-agentic-ai-and-autonomous-engineering/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Why AI’s Limit Is Power, Not Chips: Gopi Sirineni at AI Infra Summit 2026",
-    "source": "EE Times",
-    "snippet": "Gopi Sirineni says AI’s bottleneck is power, not chips, and autonomous rack controllers can boost efficiency up to 30%. The post Why AI’s Limit Is Power, Not Chips: Gopi Sirineni at AI Infra Summit 2026 appeared first on EE Times .",
-    "published": "2026-10-07T19:56:58+00:00",
-    "authors": "EE Times",
-    "link": "https://www.eetimes.com/why-ais-limit-is-power-not-chips-gopi-sirineni-at-ai-infra-summit-2026/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -216,15 +243,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI",
-    "source": "EE Times",
-    "snippet": "For AMD CTO Mark Papermaster, tailored computing and holistic design are key to delivering AI. The post AMD’s Mark Papermaster: Exclusive Video Interview at World Summit AI appeared first on EE Times .",
-    "published": "2026-10-07T18:39:00+00:00",
-    "authors": "Nitin Dahad",
-    "link": "https://www.eetimes.com/amds-mark-papermaster-exclusive-video-interview-at-world-summit-ai/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "IEEE Report Predicts Tech That Will Transform Lives",
     "source": "IEEE Spectrum",
     "snippet": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE. “We are seeing a fundamental shift in how technology evolves,” says IEE",
@@ -241,15 +259,6 @@
     "authors": "Brian Jenney",
     "link": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Engineering Reliability: Power Architectures for High-Performance Burn-In",
-    "source": "EE Times",
-    "snippet": "Join this session where our expert will examine key power technologies, design considerations, and best practices that help manufacturers enhance product quality, accelerate qualification, and reduce risk. The post Engineering Reliability: Power Architectures for High-Performance Burn-In appeared fi",
-    "published": "2026-10-07T15:47:11+00:00",
-    "authors": "Advanced Energy, Arrow Electronics",
-    "link": "https://www.eetimes.com/engineering-reliability-power-architectures-for-high-performance-burn-in/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
@@ -313,15 +322,6 @@
     "authors": "IEEE",
     "link": "https://spectrum.ieee.org/ieee-day",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Continuity testing in semiconductor ATE: Fundamentals and test methods",
-    "source": "EDN",
-    "snippet": "Continuity testing is the first test performed in any semiconductor test flow, verifying that a device under test (DUT) is properly connected to automatic test equipment (ATE). The post Continuity testing in semiconductor ATE: Fundamentals and test methods appeared first on EDN .",
-    "published": "2026-10-06T07:04:18+00:00",
-    "authors": "Usman Khan",
-    "link": "https://www.edn.com/continuity-testing-in-semiconductor-ate-fundamentals-and-test-methods/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "6 Guidelines for Governing AI",

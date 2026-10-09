@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Practical design for a multi-output flyback converter with improved cross-regulation",
+      "source": "EDN",
+      "snippet": "Here is how the stacked-output topology and the weighted feedback network can be implemented in a practical converter. The post Practical design for a multi-output flyback converter with improved cross-regulation appeared first on EDN .",
+      "published": "2026-10-09T07:29:11+00:00",
+      "authors": "Joan Mampel",
+      "link": "https://www.edn.com/practical-design-for-a-multi-output-flyback-converter-with-improved-cross-regulation/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "The multi-gig Ethernet migration: Motivations and implementations",
       "source": "EDN",
       "snippet": "Supplier “push” and consumer “pull”. When their efforts coordinate, the result can be meaningfully impactful. The post The multi-gig Ethernet migration: Motivations and implementations appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-06T12:00:19+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/reducing-i-o-requirements-for-optical-detection/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Continuity testing in semiconductor ATE: Fundamentals and test methods",
-      "source": "EDN",
-      "snippet": "Continuity testing is the first test performed in any semiconductor test flow, verifying that a device under test (DUT) is properly connected to automatic test equipment (ATE). The post Continuity testing in semiconductor ATE: Fundamentals and test methods appeared first on EDN .",
-      "published": "2026-10-06T07:04:18+00:00",
-      "authors": "Usman Khan",
-      "link": "https://www.edn.com/continuity-testing-in-semiconductor-ate-fundamentals-and-test-methods/",
       "category": "EDN 电子设计新闻"
     }
   ]
