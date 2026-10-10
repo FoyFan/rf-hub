@@ -27,15 +27,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Defence satcom revenues to surpass $23bn by 2035",
-    "source": "Electronics Weekly",
-    "snippet": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-    "published": "2026-10-09T14:30:04+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
     "source": "EE Times",
     "snippet": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
@@ -43,24 +34,6 @@
     "authors": "Arteris",
     "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Axiom Space highlights space computing progress",
-    "source": "Electronics Weekly",
-    "snippet": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-    "published": "2026-10-09T14:13:03+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "The Single-Chip PC",
-    "source": "Electronics Weekly",
-    "snippet": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-    "published": "2026-10-09T13:23:25+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
@@ -88,33 +61,6 @@
     "authors": "Cynthia J. Finelli",
     "link": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Failure analysis in the era of 3D integration",
-    "source": "Electronics Weekly",
-    "snippet": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-    "published": "2026-10-09T11:00:13+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-    "source": "Electronics Weekly",
-    "snippet": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-    "published": "2026-10-09T09:34:19+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
-    "source": "Electronics Weekly",
-    "snippet": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
-    "published": "2026-10-09T09:04:25+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -151,42 +97,6 @@
     "authors": "Joan Mampel",
     "link": "https://www.edn.com/practical-design-for-a-multi-output-flyback-converter-with-improved-cross-regulation/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Qualcomm vs Arm (Day 4)",
-    "source": "Electronics Weekly",
-    "snippet": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, started with testimony from Manju […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
-    "published": "2026-10-09T05:17:49+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-4-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "ASML starts on Hyper NA EUV",
-    "source": "Electronics Weekly",
-    "snippet": "ASML has begun a ten year programme to get feature sizes down to 5nm from the 8nm which high NA tools can deliver. The 5nm litho tool is dubbed Hyper […] The post ASML starts on Hyper NA EUV appeared first on Electronics Weekly .",
-    "published": "2026-10-09T05:16:36+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "TSMC September revenue up 54% YoY",
-    "source": "Electronics Weekly",
-    "snippet": "TSMC had September revenue of $16.1 billion, a decrease of 0.6% from August 2026 and an increase of 54.6% from September 2025. Revenue for January through September 2026 totalled $122 billion, an increase of […] The post TSMC September revenue up 54% YoY appeared first on Electronics Weekly .",
-    "published": "2026-10-09T05:12:21+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/tsmc-september-revenue-up-54-yoy-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Globalfoundries to make silicon interposers for TSMC",
-    "source": "Electronics Weekly",
-    "snippet": "GlobalFoundries is to establish a U.S.-based supply of silicon interposers for TSMC’s CoWoS packaging ecosystem. Under the agreement, GF will provide manufacturing service to TSMC, and add fabrication capacity at […] The post Globalfoundries to make silicon interposers for TSMC appeared first on Ele",
-    "published": "2026-10-09T05:10:11+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/globalfoundries-to-make-interposers-for-tsmc-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Why Custom Silicon Matters in AI Data Centers",
