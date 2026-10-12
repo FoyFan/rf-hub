@@ -1,5 +1,77 @@
 [
   {
+    "title": "Security Becomes a Sign-off Item",
+    "source": "EE Times",
+    "snippet": "Europe’s CRA turns chip security into auditable sign-off, pushing silicon teams to prove resilience before 2027. The post Security Becomes a Sign-off Item appeared first on EE Times .",
+    "published": "2026-10-12T07:10:22+00:00",
+    "authors": "Moshe Zalcberg",
+    "link": "https://www.eetimes.com/security-becomes-a-sign-off-item/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "SpectaCell spun out of Imec",
+    "source": "Electronics Weekly",
+    "snippet": "SpectaCell – a startup company spun out of Imec, VIB and Ghent University – has raised €6 million in seed financing. The round was led by imec.xpand, with participation from […] The post SpectaCell spun out of Imec appeared first on Electronics Weekly .",
+    "published": "2026-10-12T05:13:42+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/spectacell-spun-out-of-imec-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "20% collapse in Q3 PC units",
+    "source": "Electronics Weekly",
+    "snippet": "Q3 PC shipments fell 20.1% YoYin Q3 2026 to 62.7 million units, according IDC, the second consecutive decline and a deeper one than the 3.8% drop in Q2. Shipments also […] The post 20% collapse in Q3 PC units appeared first on Electronics Weekly .",
+    "published": "2026-10-12T05:12:43+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/20-collapse-in-q3-pc-units-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Kyocera and Tohoku Uni integrate optical isolators onto SiPho ICs",
+    "source": "Electronics Weekly",
+    "snippet": "Kyocera and the Research Institute of Electrical Communication (RIEC), Tohoku University have developed a technology for integrating optical isolators onto silicon photonics chips using “laser annealing”, a localised, laser-based heat-treatment […] The post Kyocera and Tohoku Uni integrate optical i",
+    "published": "2026-10-12T05:11:06+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/kyocera-and-tohoku-uni-integrate-optical-isolators-onto-sipho-ics-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "New approach to broadband characterisation of sub-THz ICs",
+    "source": "Electronics Weekly",
+    "snippet": "Keysight Technologies, the University of Glasgow, the National Physical Laboratory (NPL), and MPI Corporation have developed a new approach to broadband characterisation of next-generation sub-terahertz (sub-THz) semiconductor devices. Together, the […] The post New approach to broadband characteris",
+    "published": "2026-10-12T05:08:19+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/new-approach-broadband-characterisation-of-sub-thz-ics-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Toray tests 150°C inverters",
+    "source": "Electronics Weekly",
+    "snippet": "Toray Industries has successfully tested an inverter at 150°C using a prototype film capacitor incorporating a proprietary heat-resistant film as the dielectric. The downside of higher-output drive systems is that […] The post Toray tests 150°C inverters appeared first on Electronics Weekly .",
+    "published": "2026-10-12T05:04:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/today-tests-150c-inverters-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Ed Seeks To Become A Legend",
+    "source": "Electronics Weekly",
+    "snippet": "I’m scratching the old cranium trying to figure out ways to profit from the expected collapse of the AI boom. At the back of my mind is the lure of […] The post Ed Seeks To Become A Legend appeared first on Electronics Weekly .",
+    "published": "2026-10-12T00:00:51+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-looks-to-become-a-legend-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Jury still out in Qualcomm vs Arm case",
+    "source": "Electronics Weekly",
+    "snippet": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
+    "published": "2026-10-10T07:20:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
     "source": "EE Times",
     "snippet": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
@@ -27,6 +99,15 @@
     "category": "EE Times 行业新闻"
   },
   {
+    "title": "Defence satcom revenues to surpass $23bn by 2035",
+    "source": "Electronics Weekly",
+    "snippet": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+    "published": "2026-10-09T14:30:04+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
     "source": "EE Times",
     "snippet": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
@@ -34,6 +115,24 @@
     "authors": "Arteris",
     "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Axiom Space highlights space computing progress",
+    "source": "Electronics Weekly",
+    "snippet": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+    "published": "2026-10-09T14:13:03+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The Single-Chip PC",
+    "source": "Electronics Weekly",
+    "snippet": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+    "published": "2026-10-09T13:23:25+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+    "category": "电子周刊"
   },
   {
     "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
@@ -114,15 +213,6 @@
     "published": "2026-10-08T14:23:33+00:00",
     "authors": "SCHIEDERWERK",
     "link": "https://www.eetimes.com/schiederwerk-showcases-novel-power-supply-solutions-for-mission-critical-applications-at-electronica-2026/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide",
-    "source": "EE Times",
-    "snippet": "This technical guide provides a practical framework for migrating machine learning models and applications from an NVIDIA/CUDA-based environment to the SiMa.ai Physical AI platform. It explains the key differences between the two deployment workflows, outlines the model and application migration pro",
-    "published": "2026-10-08T14:00:00+00:00",
-    "authors": "SiMa Technologies, Inc.",
-    "link": "https://www.eetimes.com/nvidia-jetson-to-sima-ai-modalix-mlsoc-migration-guide/",
     "category": "EE Times 行业新闻"
   },
   {
