@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "The secret life of ferrite bead: More than just a lump on a wire",
+      "source": "EDN",
+      "snippet": "A ferrite bead isn’t just a mysterious black cylinder; it can be an engineer's secret weapon for turning pesky high-frequency noise into harmless heat. The post The secret life of ferrite bead: More than just a lump on a wire appeared first on EDN .",
+      "published": "2026-10-12T15:11:53+00:00",
+      "authors": "T.K. Hareendran",
+      "link": "https://www.edn.com/the-secret-life-of-ferrite-bead-more-than-just-a-lump-on-a-wire/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "TP-Link’s Tapo P110M smart plug: Matter and energy monitoring matter",
+      "source": "EDN",
+      "snippet": "A seemingly newer device reverts to a legacy processor versus one certified earlier that same year. Does it matter? And was it due to Matter? The post TP-Link’s Tapo P110M smart plug: Matter and energy monitoring matter appeared first on EDN .",
+      "published": "2026-10-12T12:00:29+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/tp-links-tapo-p110m-smart-plug-matter-and-energy-monitoring-matter/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Measurement bandwidth",
       "source": "EDN",
       "snippet": "Designers and test engineers should carefully consider an application's bandwidth requirements before selecting an instrument. The post Measurement bandwidth appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-10-07T18:59:36+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/gan-fet-meets-megawatt-scale-demands/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "An unbuttoned circuit for setting digital pots",
-      "source": "EDN",
-      "snippet": "This Design Idea enables you to program digital potentiometers with inexpensive rotary incremental encoders. The post An unbuttoned circuit for setting digital pots appeared first on EDN .",
-      "published": "2026-10-07T12:00:39+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/an-unbuttoned-circuit-for-setting-digital-pots/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Training and inference: Two faces of AI compute",
-      "source": "EDN",
-      "snippet": "Here is how training and inference ask the silicon for opposite things. The post Training and inference: Two faces of AI compute appeared first on EDN .",
-      "published": "2026-10-07T09:23:37+00:00",
-      "authors": "Majeed Ahmad",
-      "link": "https://www.edn.com/training-and-inference-two-faces-of-ai-compute/",
       "category": "EDN 电子设计新闻"
     }
   ]

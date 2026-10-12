@@ -1,5 +1,131 @@
 [
   {
+    "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
+    "source": "EE Times",
+    "snippet": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&D and commercialization. The post Applied Materials Bets $5B on a New Model for Chip Innovation appeared first on EE Times .",
+    "published": "2026-10-12T16:59:01+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Embedded Graphics on an MCU – Without an Accelerator",
+    "source": "EE Times",
+    "snippet": "Join this webinar and learn how to add LCD graphics to MCU projects without a display controller, accelerator, or external DRAM. The post Embedded Graphics on an MCU – Without an Accelerator appeared first on EE Times .",
+    "published": "2026-10-12T16:49:28+00:00",
+    "authors": "GigaDevice",
+    "link": "https://www.eetimes.com/embedded-graphics-on-an-mcu-without-an-accelerator/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Gadget Watch: Sixfab AI HAT+ for Raspberry Pi 5",
+    "source": "Electronics Weekly",
+    "snippet": "Thanks to the Raspberry Pi team highlighting this one: the Sixfab AI HAT+ for Raspberry Pi 5, a third-party AI accelerator board built around the DEEPX DX-M1M NPU. The post Gadget Watch: Sixfab AI HAT+ for Raspberry Pi 5 appeared first on Electronics Weekly .",
+    "published": "2026-10-12T16:25:32+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/gadget-watch-sixfab-ai-hat-for-raspberry-pi-5-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The secret life of ferrite bead: More than just a lump on a wire",
+    "source": "EDN",
+    "snippet": "A ferrite bead isn’t just a mysterious black cylinder; it can be an engineer's secret weapon for turning pesky high-frequency noise into harmless heat. The post The secret life of ferrite bead: More than just a lump on a wire appeared first on EDN .",
+    "published": "2026-10-12T15:11:53+00:00",
+    "authors": "T.K. Hareendran",
+    "link": "https://www.edn.com/the-secret-life-of-ferrite-bead-more-than-just-a-lump-on-a-wire/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Ofcom and JOINER to study satellite spectrum coexistence",
+    "source": "Electronics Weekly",
+    "snippet": "Ofcom and the JOINER Platform – a research network initiative – have agreed to collaborate to provide technical evidence for Ofcom’s consideration of future spectrum policies The goal is to […] The post Ofcom and JOINER to study satellite spectrum coexistence appeared first on Electronics Weekly .",
+    "published": "2026-10-12T14:48:39+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/ofcom-and-joiner-to-study-satellite-spectrum-coexistence-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Apple Fold A Long Time Coming",
+    "source": "Electronics Weekly",
+    "snippet": "Back in 1985 Apple patented this design for a folding phone: The hinge was located at the “bite” mark that opened sideways to reveal an earpiece and physical keypad. It […] The post Apple Fold A Long Time Coming appeared first on Electronics Weekly .",
+    "published": "2026-10-12T13:30:10+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/delusions/apple-fold-a-long-time-coming-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
+    "source": "IEEE Spectrum",
+    "snippet": "This article was originally published by Canary Media . The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah — marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide. The Houston-based firm ",
+    "published": "2026-10-12T13:00:02+00:00",
+    "authors": "Maria Gallucci",
+    "link": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now",
+    "source": "EE Times",
+    "snippet": "Consumer, industrial, networking, semiconductor, and software manufacturers face a broad product-cybersecurity regulation for the first time. The post EU CRA Readiness: 5 Steps Manufacturers Need to Take Now appeared first on EE Times .",
+    "published": "2026-10-12T13:00:00+00:00",
+    "authors": "Colin Duggan, CEO and co-founder, BG Networks",
+    "link": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "MEMSensing bone-vibration sensor offers noise cancellation alternative",
+    "source": "Electronics Weekly",
+    "snippet": "MEMSensing is launching its bone-vibration sensor into Europe. The compact MEMS device provides a voice reference for environmental noise cancellation in TWS earbuds (true wireless stereo) and other smart wearables. […] The post MEMSensing bone-vibration sensor offers noise cancellation alternative ",
+    "published": "2026-10-12T12:47:27+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/sensors-products/memsensing-bone-vibration-sensor-offers-noise-cancellation-alternative-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "TP-Link’s Tapo P110M smart plug: Matter and energy monitoring matter",
+    "source": "EDN",
+    "snippet": "A seemingly newer device reverts to a legacy processor versus one certified earlier that same year. Does it matter? And was it due to Matter? The post TP-Link’s Tapo P110M smart plug: Matter and energy monitoring matter appeared first on EDN .",
+    "published": "2026-10-12T12:00:29+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/tp-links-tapo-p110m-smart-plug-matter-and-energy-monitoring-matter/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Xanadu Builds Out Canadian Quantum Infrastructure",
+    "source": "EE Times",
+    "snippet": "Manufacturing partnerships and public sector funding are moving Xanadu’s quantum technology toward manufacturable, utility-scale systems. The post Xanadu Builds Out Canadian Quantum Infrastructure appeared first on EE Times .",
+    "published": "2026-10-12T12:00:00+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/xanadu-builds-out-canadian-quantum-infrastructure/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+    "source": "IEEE Spectrum",
+    "snippet": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation ",
+    "published": "2026-10-12T10:00:03+00:00",
+    "authors": "Noitom Robotics",
+    "link": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation ",
+    "published": "2026-10-12T10:00:03+00:00",
+    "authors": "Noitom Robotics",
+    "link": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "UK’s Drone Test Centre gets new NADIC facility",
+    "source": "Electronics Weekly",
+    "snippet": "The UK’s Drone Test and Development Centre (DTDC) – at Westcott Venture Park near Aylesbury – is getting a new facility dubbed the National Autonomy and Drone Innovation Centre (NADIC). […] The post UK’s Drone Test Centre gets new NADIC facility appeared first on Electronics Weekly .",
+    "published": "2026-10-12T09:16:42+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/design/test-and-measurement-2/uks-drone-test-centre-gets-new-nadic-facility-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Security Becomes a Sign-off Item",
     "source": "EE Times",
     "snippet": "Europe’s CRA turns chip security into auditable sign-off, pushing silicon teams to prove resilience before 2027. The post Security Becomes a Sign-off Item appeared first on EE Times .",
@@ -11,7 +137,7 @@
   {
     "title": "SpectaCell spun out of Imec",
     "source": "Electronics Weekly",
-    "snippet": "SpectaCell – a startup company spun out of Imec, VIB and Ghent University – has raised €6 million in seed financing. The round was led by imec.xpand, with participation from […] The post SpectaCell spun out of Imec appeared first on Electronics Weekly .",
+    "snippet": "SpectaCell – a startup company spun out of Imec, VIB and Ghent University – has raised €6m in seed financing. The round was led by imec.xpand, with participation from PMV’s […] The post SpectaCell spun out of Imec appeared first on Electronics Weekly .",
     "published": "2026-10-12T05:13:42+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/spectacell-spun-out-of-imec-2026-10/",
@@ -20,7 +146,7 @@
   {
     "title": "20% collapse in Q3 PC units",
     "source": "Electronics Weekly",
-    "snippet": "Q3 PC shipments fell 20.1% YoYin Q3 2026 to 62.7 million units, according IDC, the second consecutive decline and a deeper one than the 3.8% drop in Q2. Shipments also […] The post 20% collapse in Q3 PC units appeared first on Electronics Weekly .",
+    "snippet": "Q3 PC shipments fell 20.1% y-o-y in Q3 2026 to 62.7 million units, according to IDC, the second consecutive decline and a deeper one than the 3.8% drop in Q2. […] The post 20% collapse in Q3 PC units appeared first on Electronics Weekly .",
     "published": "2026-10-12T05:12:43+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/20-collapse-in-q3-pc-units-2026-10/",
@@ -29,7 +155,7 @@
   {
     "title": "Kyocera and Tohoku Uni integrate optical isolators onto SiPho ICs",
     "source": "Electronics Weekly",
-    "snippet": "Kyocera and the Research Institute of Electrical Communication (RIEC), Tohoku University have developed a technology for integrating optical isolators onto silicon photonics chips using “laser annealing”, a localised, laser-based heat-treatment […] The post Kyocera and Tohoku Uni integrate optical i",
+    "snippet": "Kyocera and the Research Institute of Electrical Communication (RIEC), Tohoku University, have developed a technology for integrating optical isolators onto silicon photonics chips using “laser annealing”, a localised, laser-based heat-treatment […] The post Kyocera and Tohoku Uni integrate optical ",
     "published": "2026-10-12T05:11:06+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/kyocera-and-tohoku-uni-integrate-optical-isolators-onto-sipho-ics-2026-10/",
@@ -38,7 +164,7 @@
   {
     "title": "New approach to broadband characterisation of sub-THz ICs",
     "source": "Electronics Weekly",
-    "snippet": "Keysight Technologies, the University of Glasgow, the National Physical Laboratory (NPL), and MPI Corporation have developed a new approach to broadband characterisation of next-generation sub-terahertz (sub-THz) semiconductor devices. Together, the […] The post New approach to broadband characteris",
+    "snippet": "Keysight Technologies, the University of Glasgow, the National Physical Laboratory (NPL) and MPI Corporation have developed a new approach to broadband characterisation of next-generation sub-terahertz (sub-THz) semiconductor devices. Together, the […] The post New approach to broadband characterisa",
     "published": "2026-10-12T05:08:19+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/new-approach-broadband-characterisation-of-sub-thz-ics-2026-10/",
@@ -51,24 +177,6 @@
     "published": "2026-10-12T05:04:41+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/today-tests-150c-inverters-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Ed Seeks To Become A Legend",
-    "source": "Electronics Weekly",
-    "snippet": "I’m scratching the old cranium trying to figure out ways to profit from the expected collapse of the AI boom. At the back of my mind is the lure of […] The post Ed Seeks To Become A Legend appeared first on Electronics Weekly .",
-    "published": "2026-10-12T00:00:51+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-looks-to-become-a-legend-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Jury still out in Qualcomm vs Arm case",
-    "source": "Electronics Weekly",
-    "snippet": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
-    "published": "2026-10-10T07:20:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -99,15 +207,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Defence satcom revenues to surpass $23bn by 2035",
-    "source": "Electronics Weekly",
-    "snippet": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-    "published": "2026-10-09T14:30:04+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
     "source": "EE Times",
     "snippet": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
@@ -115,24 +214,6 @@
     "authors": "Arteris",
     "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Axiom Space highlights space computing progress",
-    "source": "Electronics Weekly",
-    "snippet": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-    "published": "2026-10-09T14:13:03+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "The Single-Chip PC",
-    "source": "Electronics Weekly",
-    "snippet": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-    "published": "2026-10-09T13:23:25+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
@@ -171,24 +252,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Worlds First Single Chip Multiturn Position Sensor in Smaller Form Factor",
-    "source": "EE Times",
-    "snippet": "Join this webinar, where our expert will explore the technology behind the ADMT4000 and how its ability to track multiple rotations and angular movement without power is transforming the design of both linear and rotary actuators. The post Worlds First Single Chip Multiturn Position Sensor in Smalle",
-    "published": "2026-10-09T08:08:26+00:00",
-    "authors": "Analog Devices",
-    "link": "https://www.eetimes.com/worlds-first-single-chip-multiturn-position-sensor-in-smaller-form-factor/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Scaling 3D IC design: Trends, Challenges and Practical Workflows",
-    "source": "EE Times",
-    "snippet": "Join us to discover how Siemens Innovator3D IC streamlines 3D IC design from planning to implementation! The post Scaling 3D IC design: Trends, Challenges and Practical Workflows appeared first on EE Times .",
-    "published": "2026-10-09T07:32:29+00:00",
-    "authors": "Siemens EDA",
-    "link": "https://www.eetimes.com/scaling-3d-ic-design-trends-challenges-and-practical-workflows/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Practical design for a multi-output flyback converter with improved cross-regulation",
     "source": "EDN",
     "snippet": "Here is how the stacked-output topology and the weighted feedback network can be implemented in a practical converter. The post Practical design for a multi-output flyback converter with improved cross-regulation appeared first on EDN .",
@@ -196,24 +259,6 @@
     "authors": "Joan Mampel",
     "link": "https://www.edn.com/practical-design-for-a-multi-output-flyback-converter-with-improved-cross-regulation/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Why Custom Silicon Matters in AI Data Centers",
-    "source": "EE Times",
-    "snippet": "Custom silicon lets AI data centers cut power, latency and data movement while improving economics at scale. The post Why Custom Silicon Matters in AI Data Centers appeared first on EE Times .",
-    "published": "2026-10-08T19:16:44+00:00",
-    "authors": "Scott Seal",
-    "link": "https://www.eetimes.com/why-custom-silicon-matters-in-ai-data-centers/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "SCHIEDERWERK Showcases Novel Power Supply Solutions for Mission-Critical Applications at electronica 2026",
-    "source": "EE Times",
-    "snippet": "Nuremberg / Munich, Germany, 2026 — SCHIEDERWERK GmbH, a specialist in custom power electronics solutions engineered and manufactured in Germany, will showcase its latest platform-based power supplies and innovative power management solutions for mobile, medical, and industrial applications at elect",
-    "published": "2026-10-08T14:23:33+00:00",
-    "authors": "SCHIEDERWERK",
-    "link": "https://www.eetimes.com/schiederwerk-showcases-novel-power-supply-solutions-for-mission-critical-applications-at-electronica-2026/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "The multi-gig Ethernet migration: Motivations and implementations",
@@ -313,24 +358,6 @@
     "authors": "Knvul Sheikh",
     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "An unbuttoned circuit for setting digital pots",
-    "source": "EDN",
-    "snippet": "This Design Idea enables you to program digital potentiometers with inexpensive rotary incremental encoders. The post An unbuttoned circuit for setting digital pots appeared first on EDN .",
-    "published": "2026-10-07T12:00:39+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/an-unbuttoned-circuit-for-setting-digital-pots/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Training and inference: Two faces of AI compute",
-    "source": "EDN",
-    "snippet": "Here is how training and inference ask the silicon for opposite things. The post Training and inference: Two faces of AI compute appeared first on EDN .",
-    "published": "2026-10-07T09:23:37+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.edn.com/training-and-inference-two-faces-of-ai-compute/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Happy IEEE Day!",
@@ -559,15 +586,6 @@
   },
   {
     "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
-    "source": "IEEE Spectrum",
-    "snippet": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operato",
-    "published": "2026-09-22T12:22:50+00:00",
-    "authors": "CoolIT, an Ecolab Company",
-    "link": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
     "source": "IEEE Spectrum 计算",
     "snippet": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operato",
     "published": "2026-09-22T12:22:50+00:00",
@@ -583,15 +601,6 @@
     "authors": "Stephen Cousins",
     "link": "https://spectrum.ieee.org/neural-rendering-nvidia-dlss-5",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-    "source": "IEEE Spectrum",
-    "snippet": "Shortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one being that, unlike satellite communications, their transmission rates for digital data are typically measured in just hu",
-    "published": "2026-09-21T13:00:04+00:00",
-    "authors": "Margo Anderson",
-    "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
@@ -924,15 +933,6 @@
     "published": "2026-07-14T13:00:01+00:00",
     "authors": "Matthew S. Smith",
     "link": "https://spectrum.ieee.org/high-bandwidth-flash",
-    "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Is Optical Scale-Up Finally Approaching?",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "Currently, most data centers use both electronic and optical communication protocols, for different tasks. Scale-out networks connect thousands of AI computers across a data center, making optics the obvious choice for long distances. Scale-up networks connect several GPUs inside a single mega-compu",
-    "published": "2026-07-09T13:00:01+00:00",
-    "authors": "Knvul Sheikh",
-    "link": "https://spectrum.ieee.org/nvlink-fusion-optics",
     "category": "计算 / 通信系统"
   },
   {
