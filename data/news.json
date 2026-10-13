@@ -1,5 +1,149 @@
 [
   {
+    "title": "10 years of TME Education – a decade of supporting technical education",
+    "source": "Electronics Weekly",
+    "snippet": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
+    "published": "2026-10-13T14:16:21+00:00",
+    "authors": "Sponsored Content",
+    "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Pathways into Electronics reports on women’s route to study electronics",
+    "source": "Electronics Weekly",
+    "snippet": "The UK Electronics Skills Foundation’s (UKESF) new report examines the routes women take to study electronics in further education: Pathways into Electronics: Women EEE Students. It shares findings into the […] The post Pathways into Electronics reports on women’s route to study electronics appeared",
+    "published": "2026-10-13T14:11:45+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/design/stem/pathways-into-electronics-reports-on-womens-route-to-study-electronics-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
+    "source": "EE Times",
+    "snippet": "CASPA’s annual conference celebrates its 35th anniversary with a lineup of more than 35 CEOs from Silicon Valley, including Intel’s Lip-Bu Tan and Cerebras’s Andrew Feldman. The post CASPA CEO Summit Preview with President Jimmy Cheng appeared first on EE Times .",
+    "published": "2026-10-13T14:04:30+00:00",
+    "authors": "Nitin Dahad",
+    "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "5G chips and modules power phones, wearables, IoT, and vehicles",
+    "source": "EDN",
+    "snippet": "The latest 5G chips and modules target a range of applications, from smartphones and wearables to industrial IoT and connected vehicles. The post 5G chips and modules power phones, wearables, IoT, and vehicles appeared first on EDN .",
+    "published": "2026-10-13T14:00:36+00:00",
+    "authors": "Gina Roos",
+    "link": "https://www.edn.com/5g-chips-and-modules-power-phones-wearables-iot-and-vehicles/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "How Can Users Who Seek Mental Health Support From AI Be Protected?",
+    "source": "Electronics Weekly",
+    "snippet": "As more and more people lean on chatbots for comfort and guidance, experts have raised alarms over the potential pitfalls: erosion of social skills, unhealthy attachment to digital companions offering […] The post How Can Users Who Seek Mental Health Support From AI Be Protected? appeared first on E",
+    "published": "2026-10-13T13:22:17+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/dangers-of-relying-on-chatbots-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "17 Years with China: What Really Makes a Partnership Work",
+    "source": "EE Times",
+    "snippet": "Honya Europe's Robert Tarantowicz shares 17 years of lessons on PCB sourcing in China, quality, trust, and risk management. The post 17 Years with China: What Really Makes a Partnership Work appeared first on EE Times .",
+    "published": "2026-10-13T13:00:00+00:00",
+    "authors": "Robert Tarantowicz, Founder and CEO of HONYA EUROPE",
+    "link": "https://www.eetimes.com/17-years-with-china-what-really-makes-a-partnership-work/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Measure the AC mains frequency with an ordinary counter",
+    "source": "EDN",
+    "snippet": "Knowing the mains frequency is important in many industries; the speeds of AC motors, for example, are dependent on it. The post Measure the AC mains frequency with an ordinary counter appeared first on EDN .",
+    "published": "2026-10-13T12:00:22+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/measure-the-ac-mains-frequency-with-an-ordinary-counter/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Linking functional safety with cybersecurity in the automotive industry",
+    "source": "Electronics Weekly",
+    "snippet": "Adding cybersecurity to a car alongside existing protection against technical failures may disrupt critical reaction times for preventing an accident. Engineers can balance this through combined risk analysis, writes Diego […] The post Linking functional safety with cybersecurity in the automotive i",
+    "published": "2026-10-13T11:00:17+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/linking-functional-safety-with-cybersecurity-in-the-automotive-industry-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "U.S. Chip Firms Bet Big on R&D",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "On 12 October Applied Materials unveiled a multi-billion dollar research facility in Sunnyvale, California, at the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it ",
+    "published": "2026-10-13T11:00:05+00:00",
+    "authors": "Lucas Laursen",
+    "link": "https://spectrum.ieee.org/semiconductor-research",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Knowles ATT A-Series of attenuators in compact SMT package",
+    "source": "Electronics Weekly",
+    "snippet": "Knowles is introducing its ATT A-Series of wideband, surface mount attenuators, broadening its high-performance RF component portfolio. The company highlights the series’ attenuation accuracy and high power handling in a compact […] The post Knowles ATT A-Series of attenuators in compact SMT package",
+    "published": "2026-10-13T10:50:51+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/knowles-att-a-series-of-attenuators-in-compact-smt-package-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Fortastra raises $30m for manoeuvrable spacecraft for in-orbit security",
+    "source": "Electronics Weekly",
+    "snippet": "Fortastra, a space defence company, has raised $30 million of Series A funding. It aims to establish persistent, multi-orbit security coverage through mass deployment of its security craft. The round […] The post Fortastra raises $30m for manoeuvrable spacecraft for in-orbit security appeared first ",
+    "published": "2026-10-13T10:01:42+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/fortastra-raises-30m-for-manoeuvrable-spacecraft-for-in-orbit-security-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle",
+    "source": "EE Times",
+    "snippet": "Low-volume production sits between research and mass manufacturing. Europe needs an industrial model to fill the gap. The post Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle appeared first on EE Times .",
+    "published": "2026-10-13T09:06:10+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/europe-advanced-packaging-gap-fraunhofer-swissbit-target-the-missing-middle/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Miniature modules open up in-fixture functional testing",
+    "source": "Electronics Weekly",
+    "snippet": "Swedish PCB test company Wireflow has partnered with the UK’s Pickering Interfaces to create Testblox AB, offering automated test that does not need reconfiguration and which is easy to replicate, […] The post Miniature modules open up in-fixture functional testing appeared first on Electronics Week",
+    "published": "2026-10-13T07:33:28+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/business/miniature-modules-open-up-in-fixture-functional-testing-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Microsoft to ramp up deployment of its own processors in its own servers",
+    "source": "Electronics Weekly",
+    "snippet": "Next year, Microsoft will start putting its latest AI datacentre processor, Maia 300, into its own datacentres at “gigawatt scale” – potentially up to a million units. Maia 300, made […] The post Microsoft to ramp up deployment of its own processors in its own servers appeared first on Electronics W",
+    "published": "2026-10-13T05:14:57+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/microsoft-to-ramp-up-deployment-of-its-own-processors-its-own-servers-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "BBC micro:bit – ten years on",
+    "source": "Electronics Weekly",
+    "snippet": "The BBC micro:bit was developed by a cross-industry collaboration involving the BBC, Arm, and other technology and education partners, including Nordic Semiconductor, NXP, Microsoft, and Samsung. Beginning in early 2016, […] The post BBC micro:bit – ten years on appeared first on Electronics Weekly ",
+    "published": "2026-10-13T05:13:45+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/bbc-microbit-ten-years-on-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "MicroLED market splits in three",
+    "source": "Electronics Weekly",
+    "snippet": "AR is driving microLED volume today, says Yole, while optical I/O opens a second front inside AI data centres. MicroLED now splits into three families with different dynamics and defined […] The post MicroLED market splits in three appeared first on Electronics Weekly .",
+    "published": "2026-10-13T05:12:14+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/microled-market-splits-in-three-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "AI silicon tapeout: Can it beat a benchmark engineers trust?",
     "source": "EDN",
     "snippet": "Can the engineering data prove the improvement in silicon design rather than relying on one successful run or thousands of tool logs? The post AI silicon tapeout: Can it beat a benchmark engineers trust? appeared first on EDN .",
@@ -135,24 +279,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
-    "source": "EE Times",
-    "snippet": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
-    "published": "2026-10-09T14:21:07+00:00",
-    "authors": "Arteris",
-    "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
-    "source": "EE Times",
-    "snippet": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
-    "published": "2026-10-09T12:11:04+00:00",
-    "authors": "News Desk",
-    "link": "https://www.eetimes.com/u-s-manufacturing-activity-sustains-growth-in-september-as-backlogs-surge/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Measurement bandwidth",
     "source": "EDN",
     "snippet": "Designers and test engineers should carefully consider an application's bandwidth requirements before selecting an instrument. The post Measurement bandwidth appeared first on EDN .",
@@ -169,15 +295,6 @@
     "authors": "Cynthia J. Finelli",
     "link": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
-    "source": "EE Times",
-    "snippet": "Physical AI will be limited in the real world if we keep pretending that physical data comes packaged like the digital world. The post Physical AI Needs a Neuromorphic Path from Sensor to Silicon appeared first on EE Times .",
-    "published": "2026-10-09T08:39:41+00:00",
-    "authors": "Xabier Iturbe",
-    "link": "https://www.eetimes.com/physical-ai-needs-a-neuromorphic-path-from-sensor-to-silicon/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Practical design for a multi-output flyback converter with improved cross-regulation",
@@ -213,24 +330,6 @@
     "published": "2026-10-07T19:02:01+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/quad-beamformer-simplifies-x-band-radar-design/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Microphone array advances acoustic detection",
-    "source": "EDN",
-    "snippet": "The NOVA32 evaluation kit from sensiBel features a spiral array of 32 optical MEMS microphones for edge AI acoustic-detection applications. The post Microphone array advances acoustic detection appeared first on EDN .",
-    "published": "2026-10-07T19:01:05+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/microphone-array-advances-acoustic-detection/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "FPGA IP accelerates deterministic networking",
-    "source": "EDN",
-    "snippet": "Orthogone’s Ultra-Low-Latency FPGA IP Portfolio comprises networking and data-movement IP cores for AMD UltraScale+ and Versal platforms. The post FPGA IP accelerates deterministic networking appeared first on EDN .",
-    "published": "2026-10-07T19:00:18+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -951,15 +1050,6 @@
     "published": "2026-05-28T10:00:01+00:00",
     "authors": "Rohde & Schwarz",
     "link": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
-    "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Junctionless Transistors Show a New Path to 3D Chips",
-    "source": "IEEE Spectrum 半导体",
-    "snippet": "Chipmakers are struggling to shrink the amount of area a transistor takes up, so researchers are trying to build layers of devices on top of each other. However, many experimental 3D chips rely on exotic materials and perform poorly compared with regular silicon devices. But researchers at the Unive",
-    "published": "2026-05-27T15:00:02+00:00",
-    "authors": "Charles Q. Choi",
-    "link": "https://spectrum.ieee.org/3d-chips",
     "category": "半导体 / RFIC / 射频器件"
   },
   {

@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "5G chips and modules power phones, wearables, IoT, and vehicles",
+      "source": "EDN",
+      "snippet": "The latest 5G chips and modules target a range of applications, from smartphones and wearables to industrial IoT and connected vehicles. The post 5G chips and modules power phones, wearables, IoT, and vehicles appeared first on EDN .",
+      "published": "2026-10-13T14:00:36+00:00",
+      "authors": "Gina Roos",
+      "link": "https://www.edn.com/5g-chips-and-modules-power-phones-wearables-iot-and-vehicles/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Measure the AC mains frequency with an ordinary counter",
+      "source": "EDN",
+      "snippet": "Knowing the mains frequency is important in many industries; the speeds of AC motors, for example, are dependent on it. The post Measure the AC mains frequency with an ordinary counter appeared first on EDN .",
+      "published": "2026-10-13T12:00:22+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/measure-the-ac-mains-frequency-with-an-ordinary-counter/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "AI silicon tapeout: Can it beat a benchmark engineers trust?",
       "source": "EDN",
       "snippet": "Can the engineering data prove the improvement in silicon design rather than relying on one successful run or thousands of tool logs? The post AI silicon tapeout: Can it beat a benchmark engineers trust? appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-10-07T19:02:01+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/quad-beamformer-simplifies-x-band-radar-design/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Microphone array advances acoustic detection",
-      "source": "EDN",
-      "snippet": "The NOVA32 evaluation kit from sensiBel features a spiral array of 32 optical MEMS microphones for edge AI acoustic-detection applications. The post Microphone array advances acoustic detection appeared first on EDN .",
-      "published": "2026-10-07T19:01:05+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/microphone-array-advances-acoustic-detection/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "FPGA IP accelerates deterministic networking",
-      "source": "EDN",
-      "snippet": "Orthogone’s Ultra-Low-Latency FPGA IP Portfolio comprises networking and data-movement IP cores for AMD UltraScale+ and Versal platforms. The post FPGA IP accelerates deterministic networking appeared first on EDN .",
-      "published": "2026-10-07T19:00:18+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking/",
       "category": "EDN 电子设计新闻"
     }
   ]
