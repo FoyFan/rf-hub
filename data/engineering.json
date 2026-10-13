@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "AI silicon tapeout: Can it beat a benchmark engineers trust?",
+      "source": "EDN",
+      "snippet": "Can the engineering data prove the improvement in silicon design rather than relying on one successful run or thousands of tool logs? The post AI silicon tapeout: Can it beat a benchmark engineers trust? appeared first on EDN .",
+      "published": "2026-10-13T02:41:27+00:00",
+      "authors": "Majeed Ahmad",
+      "link": "https://www.edn.com/ai-silicon-tapeout-can-it-beat-a-benchmark-engineers-trust/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "The secret life of ferrite bead: More than just a lump on a wire",
       "source": "EDN",
       "snippet": "A ferrite bead isn’t just a mysterious black cylinder; it can be an engineer's secret weapon for turning pesky high-frequency noise into harmless heat. The post The secret life of ferrite bead: More than just a lump on a wire appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-07T19:00:18+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "GaN FET meets megawatt-scale demands",
-      "source": "EDN",
-      "snippet": "Renesas is sampling what it says is the industry’s first 650-V GaN FET with dual-side cooling for 800-V HVDC AI data centers. The post GaN FET meets megawatt-scale demands appeared first on EDN .",
-      "published": "2026-10-07T18:59:36+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/gan-fet-meets-megawatt-scale-demands/",
       "category": "EDN 电子设计新闻"
     }
   ]

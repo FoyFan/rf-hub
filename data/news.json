@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI silicon tapeout: Can it beat a benchmark engineers trust?",
+    "source": "EDN",
+    "snippet": "Can the engineering data prove the improvement in silicon design rather than relying on one successful run or thousands of tool logs? The post AI silicon tapeout: Can it beat a benchmark engineers trust? appeared first on EDN .",
+    "published": "2026-10-13T02:41:27+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.edn.com/ai-silicon-tapeout-can-it-beat-a-benchmark-engineers-trust/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
     "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
     "source": "IEEE Spectrum",
     "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senio",
@@ -222,15 +231,6 @@
     "published": "2026-10-07T19:00:18+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "GaN FET meets megawatt-scale demands",
-    "source": "EDN",
-    "snippet": "Renesas is sampling what it says is the industry’s first 650-V GaN FET with dual-side cooling for 800-V HVDC AI data centers. The post GaN FET meets megawatt-scale demands appeared first on EDN .",
-    "published": "2026-10-07T18:59:36+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/gan-fet-meets-megawatt-scale-demands/",
     "category": "EDN 电子设计新闻"
   },
   {
