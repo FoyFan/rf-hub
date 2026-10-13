@@ -1,5 +1,14 @@
 [
   {
+    "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+    "source": "IEEE Spectrum",
+    "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senio",
+    "published": "2026-10-12T18:00:02+00:00",
+    "authors": "Amanda Davis",
+    "link": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
     "source": "EE Times",
     "snippet": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&D and commercialization. The post Applied Materials Bets $5B on a New Model for Chip Innovation appeared first on EE Times .",
@@ -18,15 +27,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Gadget Watch: Sixfab AI HAT+ for Raspberry Pi 5",
-    "source": "Electronics Weekly",
-    "snippet": "Thanks to the Raspberry Pi team highlighting this one: the Sixfab AI HAT+ for Raspberry Pi 5, a third-party AI accelerator board built around the DEEPX DX-M1M NPU. The post Gadget Watch: Sixfab AI HAT+ for Raspberry Pi 5 appeared first on Electronics Weekly .",
-    "published": "2026-10-12T16:25:32+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/gadget-watch-sixfab-ai-hat-for-raspberry-pi-5-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "The secret life of ferrite bead: More than just a lump on a wire",
     "source": "EDN",
     "snippet": "A ferrite bead isn’t just a mysterious black cylinder; it can be an engineer's secret weapon for turning pesky high-frequency noise into harmless heat. The post The secret life of ferrite bead: More than just a lump on a wire appeared first on EDN .",
@@ -34,24 +34,6 @@
     "authors": "T.K. Hareendran",
     "link": "https://www.edn.com/the-secret-life-of-ferrite-bead-more-than-just-a-lump-on-a-wire/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Ofcom and JOINER to study satellite spectrum coexistence",
-    "source": "Electronics Weekly",
-    "snippet": "Ofcom and the JOINER Platform – a research network initiative – have agreed to collaborate to provide technical evidence for Ofcom’s consideration of future spectrum policies The goal is to […] The post Ofcom and JOINER to study satellite spectrum coexistence appeared first on Electronics Weekly .",
-    "published": "2026-10-12T14:48:39+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/ofcom-and-joiner-to-study-satellite-spectrum-coexistence-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Apple Fold A Long Time Coming",
-    "source": "Electronics Weekly",
-    "snippet": "Back in 1985 Apple patented this design for a folding phone: The hinge was located at the “bite” mark that opened sideways to reveal an earpiece and physical keypad. It […] The post Apple Fold A Long Time Coming appeared first on Electronics Weekly .",
-    "published": "2026-10-12T13:30:10+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/delusions/apple-fold-a-long-time-coming-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
@@ -70,15 +52,6 @@
     "authors": "Colin Duggan, CEO and co-founder, BG Networks",
     "link": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "MEMSensing bone-vibration sensor offers noise cancellation alternative",
-    "source": "Electronics Weekly",
-    "snippet": "MEMSensing is launching its bone-vibration sensor into Europe. The compact MEMS device provides a voice reference for environmental noise cancellation in TWS earbuds (true wireless stereo) and other smart wearables. […] The post MEMSensing bone-vibration sensor offers noise cancellation alternative ",
-    "published": "2026-10-12T12:47:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/sensors-products/memsensing-bone-vibration-sensor-offers-noise-cancellation-alternative-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "TP-Link’s Tapo P110M smart plug: Matter and energy monitoring matter",
@@ -117,15 +90,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "UK’s Drone Test Centre gets new NADIC facility",
-    "source": "Electronics Weekly",
-    "snippet": "The UK’s Drone Test and Development Centre (DTDC) – at Westcott Venture Park near Aylesbury – is getting a new facility dubbed the National Autonomy and Drone Innovation Centre (NADIC). […] The post UK’s Drone Test Centre gets new NADIC facility appeared first on Electronics Weekly .",
-    "published": "2026-10-12T09:16:42+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/design/test-and-measurement-2/uks-drone-test-centre-gets-new-nadic-facility-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Security Becomes a Sign-off Item",
     "source": "EE Times",
     "snippet": "Europe’s CRA turns chip security into auditable sign-off, pushing silicon teams to prove resilience before 2027. The post Security Becomes a Sign-off Item appeared first on EE Times .",
@@ -133,51 +97,6 @@
     "authors": "Moshe Zalcberg",
     "link": "https://www.eetimes.com/security-becomes-a-sign-off-item/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "SpectaCell spun out of Imec",
-    "source": "Electronics Weekly",
-    "snippet": "SpectaCell – a startup company spun out of Imec, VIB and Ghent University – has raised €6m in seed financing. The round was led by imec.xpand, with participation from PMV’s […] The post SpectaCell spun out of Imec appeared first on Electronics Weekly .",
-    "published": "2026-10-12T05:13:42+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/spectacell-spun-out-of-imec-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "20% collapse in Q3 PC units",
-    "source": "Electronics Weekly",
-    "snippet": "Q3 PC shipments fell 20.1% y-o-y in Q3 2026 to 62.7 million units, according to IDC, the second consecutive decline and a deeper one than the 3.8% drop in Q2. […] The post 20% collapse in Q3 PC units appeared first on Electronics Weekly .",
-    "published": "2026-10-12T05:12:43+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/20-collapse-in-q3-pc-units-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Kyocera and Tohoku Uni integrate optical isolators onto SiPho ICs",
-    "source": "Electronics Weekly",
-    "snippet": "Kyocera and the Research Institute of Electrical Communication (RIEC), Tohoku University, have developed a technology for integrating optical isolators onto silicon photonics chips using “laser annealing”, a localised, laser-based heat-treatment […] The post Kyocera and Tohoku Uni integrate optical ",
-    "published": "2026-10-12T05:11:06+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/kyocera-and-tohoku-uni-integrate-optical-isolators-onto-sipho-ics-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "New approach to broadband characterisation of sub-THz ICs",
-    "source": "Electronics Weekly",
-    "snippet": "Keysight Technologies, the University of Glasgow, the National Physical Laboratory (NPL) and MPI Corporation have developed a new approach to broadband characterisation of next-generation sub-terahertz (sub-THz) semiconductor devices. Together, the […] The post New approach to broadband characterisa",
-    "published": "2026-10-12T05:08:19+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/new-approach-broadband-characterisation-of-sub-thz-ics-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Toray tests 150°C inverters",
-    "source": "Electronics Weekly",
-    "snippet": "Toray Industries has successfully tested an inverter at 150°C using a prototype film capacitor incorporating a proprietary heat-resistant film as the dielectric. The downside of higher-output drive systems is that […] The post Toray tests 150°C inverters appeared first on Electronics Weekly .",
-    "published": "2026-10-12T05:04:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/today-tests-150c-inverters-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
@@ -573,15 +492,6 @@
     "published": "2026-09-22T18:00:05+00:00",
     "authors": "Kathy Pretz",
     "link": "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
-    "source": "IEEE Spectrum",
-    "snippet": "Throughout her career, roboticist Barbara Mazzolai has turned to nature for inspiration. Now she wants to ensure the technology she builds gives back to the environment, too. After starting her career as a biologist, a chance opportunity saw Mazzolai switch streams to engineering and become an early",
-    "published": "2026-09-22T14:00:04+00:00",
-    "authors": "Edd Gent",
-    "link": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
     "category": "IEEE 综合新闻"
   },
   {
