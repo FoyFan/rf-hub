@@ -1,5 +1,32 @@
 [
   {
+    "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
+    "source": "EE Times",
+    "snippet": "Benchmark Electronics combines engineering expertise, workforce development, and flexible production to expand high-mix electronics manufacturing across Thailand. The post Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing appeared first on EE Times .",
+    "published": "2026-10-14T19:34:54+00:00",
+    "authors": "Stephen Las Marias",
+    "link": "https://www.eetimes.com/benchmark-electronics-thailand-operations-focus-on-high-mix-manufacturing/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Beyond Lithography: 3D Scaling Puts New Demands on Materials",
+    "source": "EE Times",
+    "snippet": "ASM International shows how building increasingly complex 3D devices requires advances in materials and processes. The post Beyond Lithography: 3D Scaling Puts New Demands on Materials appeared first on EE Times .",
+    "published": "2026-10-14T18:29:24+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "IEEE Continues Preparations for the Realignment of Its Regions",
+    "source": "IEEE Spectrum",
+    "snippet": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “ IEEE Is Realigning Its Geographic Regions .” The “Region 1” designation will no longer be used. The new Region 2 will merge what is currently Region 1 (Northeastern U.S.) with the cu",
+    "published": "2026-10-14T18:00:03+00:00",
+    "authors": "IEEE Member and Geographic Activities",
+    "link": "https://spectrum.ieee.org/realignment-ieee-regions",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "Co-Packaged Optics Moves from Promise to Production Planning",
     "source": "EE Times",
     "snippet": "At Ayar Labs CPO Summit, Meta, Broadcom, AMD, and others weighed in on readiness for a 2028 co-packaged optics demand surge and the OCI MSA’s role. The post Co-Packaged Optics Moves from Promise to Production Planning appeared first on EE Times .",
@@ -252,15 +279,6 @@
     "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle",
-    "source": "EE Times",
-    "snippet": "Low-volume production sits between research and mass manufacturing. Europe needs an industrial model to fill the gap. The post Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle appeared first on EE Times .",
-    "published": "2026-10-13T09:06:10+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/europe-advanced-packaging-gap-fraunhofer-swissbit-target-the-missing-middle/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "AI silicon tapeout: Can it beat a benchmark engineers trust?",
     "source": "EDN",
     "snippet": "Can the engineering data prove the improvement in silicon design rather than relying on one successful run or thousands of tool logs? The post AI silicon tapeout: Can it beat a benchmark engineers trust? appeared first on EDN .",
@@ -277,15 +295,6 @@
     "authors": "Amanda Davis",
     "link": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
-    "source": "EE Times",
-    "snippet": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&D and commercialization. The post Applied Materials Bets $5B on a New Model for Chip Innovation appeared first on EE Times .",
-    "published": "2026-10-12T16:59:01+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
@@ -583,15 +592,6 @@
     "authors": "Rachel Berkowitz",
     "link": "https://spectrum.ieee.org/ultrafast-lasers-europe",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member",
-    "source": "IEEE Spectrum",
-    "snippet": "Many youngsters fascinated by exploring outer space dream of becoming an astronaut, but few do. One who had the right stuff is Pedro Duque , who was Spain’s first astronaut. The aeronautics engineer flew aboard the space shuttle Discovery and the International Space Station . After retiring as an as",
-    "published": "2026-09-22T18:00:05+00:00",
-    "authors": "Kathy Pretz",
-    "link": "https://spectrum.ieee.org/spain-astronaut-ieee-honorary-member",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
