@@ -1,5 +1,32 @@
 [
   {
+    "title": "Software translates test patterns and applies them to interfaces and protocols.",
+    "source": "Electronics Weekly",
+    "snippet": "Siemens’ Tessent Silicon Executable software is designed to translate test patterns and apply them directly onto high-speed interfaces and protocols. Test provider partners will embed the Tessent software within automated […] The post Software translates test patterns and applies them to interfaces ",
+    "published": "2026-10-14T05:02:39+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/software-translates-test-patterns-and-applies-them-to-interfaces-and-protocols-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Apple heads Home: Distributed identity validation, and how much does Matter matter?",
+    "source": "EDN",
+    "snippet": "Apple branding is key to its resurrected smart home “push”. Broader ecosystem compatibility, also feasible, is absent from the messaging. The post Apple heads Home: Distributed identity validation, and how much does Matter matter? appeared first on EDN .",
+    "published": "2026-10-14T03:09:11+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/apple-heads-home-distributed-identity-validation-and-how-much-does-matter-matter/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Top Ten IP Semiconductor Suppliers",
+    "source": "Electronics Weekly",
+    "snippet": "Thanks to IPNest for this one – the top ten semiconductor IP vendors: Arm. Synopsys Cadence . Alphawave Semi Imagination Technologies Rambus VeriSilicon CEva Arteris Silicon Creations The post Top Ten IP Semiconductor Suppliers appeared first on Electronics Weekly .",
+    "published": "2026-10-14T00:01:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ip-semiconductor-suppliers-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
     "source": "EE Times",
     "snippet": "See how Amperesand’s solid-state transformers aim to tame AI data center power spikes with batteries, 800 VDC conversion, and microgrid control. The post Amperesand Aims to Smooth AI Data Center Power Spikes appeared first on EE Times .",
@@ -132,24 +159,6 @@
     "published": "2026-10-13T05:14:57+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/microsoft-to-ramp-up-deployment-of-its-own-processors-its-own-servers-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "BBC micro:bit – ten years on",
-    "source": "Electronics Weekly",
-    "snippet": "The BBC micro:bit was developed by a cross-industry collaboration involving the BBC, Arm, and other technology and education partners, including Nordic Semiconductor, NXP, Microsoft, and Samsung. Beginning in early 2016, […] The post BBC micro:bit – ten years on appeared first on Electronics Weekly ",
-    "published": "2026-10-13T05:13:45+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/bbc-microbit-ten-years-on-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "MicroLED market splits in three",
-    "source": "Electronics Weekly",
-    "snippet": "AR is driving microLED volume today, says Yole, while optical I/O opens a second front inside AI data centres. MicroLED now splits into three families with different dynamics and defined […] The post MicroLED market splits in three appeared first on Electronics Weekly .",
-    "published": "2026-10-13T05:12:14+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/microled-market-splits-in-three-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -321,15 +330,6 @@
     "published": "2026-10-07T19:02:32+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/global-shutter-sensor-raises-pixel-density/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Quad beamformer simplifies X-band radar design",
-    "source": "EDN",
-    "snippet": "Qorvo’s QPX0252 four-channel beamformer IC operates from 7.9 GHz to 12 GHz for use in X-band phased-array radar systems. The post Quad beamformer simplifies X-band radar design appeared first on EDN .",
-    "published": "2026-10-07T19:02:01+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/quad-beamformer-simplifies-x-band-radar-design/",
     "category": "EDN 电子设计新闻"
   },
   {

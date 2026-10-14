@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Apple heads Home: Distributed identity validation, and how much does Matter matter?",
+      "source": "EDN",
+      "snippet": "Apple branding is key to its resurrected smart home “push”. Broader ecosystem compatibility, also feasible, is absent from the messaging. The post Apple heads Home: Distributed identity validation, and how much does Matter matter? appeared first on EDN .",
+      "published": "2026-10-14T03:09:11+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/apple-heads-home-distributed-identity-validation-and-how-much-does-matter-matter/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "5G chips and modules power phones, wearables, IoT, and vehicles",
       "source": "EDN",
       "snippet": "The latest 5G chips and modules target a range of applications, from smartphones and wearables to industrial IoT and connected vehicles. The post 5G chips and modules power phones, wearables, IoT, and vehicles appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-07T19:02:32+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/global-shutter-sensor-raises-pixel-density/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Quad beamformer simplifies X-band radar design",
-      "source": "EDN",
-      "snippet": "Qorvo’s QPX0252 four-channel beamformer IC operates from 7.9 GHz to 12 GHz for use in X-band phased-array radar systems. The post Quad beamformer simplifies X-band radar design appeared first on EDN .",
-      "published": "2026-10-07T19:02:01+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/quad-beamformer-simplifies-x-band-radar-design/",
       "category": "EDN 电子设计新闻"
     }
   ]
