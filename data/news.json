@@ -1,5 +1,14 @@
 [
   {
+    "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
+    "source": "EE Times",
+    "snippet": "See how Amperesand’s solid-state transformers aim to tame AI data center power spikes with batteries, 800 VDC conversion, and microgrid control. The post Amperesand Aims to Smooth AI Data Center Power Spikes appeared first on EE Times .",
+    "published": "2026-10-13T22:00:00+00:00",
+    "authors": "Alan Patterson",
+    "link": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "10 years of TME Education – a decade of supporting technical education",
     "source": "Electronics Weekly",
     "snippet": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
@@ -74,7 +83,7 @@
   {
     "title": "U.S. Chip Firms Bet Big on R&D",
     "source": "IEEE Spectrum 半导体",
-    "snippet": "On 12 October Applied Materials unveiled a multi-billion dollar research facility in Sunnyvale, California, at the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it ",
+    "snippet": "On 12 October, Applied Materials unveiled a multibillion-dollar research facility in Sunnyvale, Calif., in the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will",
     "published": "2026-10-13T11:00:05+00:00",
     "authors": "Lucas Laursen",
     "link": "https://spectrum.ieee.org/semiconductor-research",
@@ -268,15 +277,6 @@
     "authors": "Angelo Athens",
     "link": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Solid-State Transformers: Accelerate Your SST Design",
-    "source": "EE Times",
-    "snippet": "Join our expert-led webinar to explore Infineon's comprehensive portfolio for Solid-State Transformers (SSTs). The post Solid-State Transformers: Accelerate Your SST Design appeared first on EE Times .",
-    "published": "2026-10-09T15:38:47+00:00",
-    "authors": "Infineon Technologies, Arrow Electronics",
-    "link": "https://www.eetimes.com/solid-state-transformers-accelerate-your-sst-design/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Measurement bandwidth",
