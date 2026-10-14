@@ -1,8 +1,125 @@
 [
   {
-    "title": "EW Video: In conversation with Tessent on semiconductor test technology",
+    "title": "Co-Packaged Optics Moves from Promise to Production Planning",
+    "source": "EE Times",
+    "snippet": "At Ayar Labs CPO Summit, Meta, Broadcom, AMD, and others weighed in on readiness for a 2028 co-packaged optics demand surge and the OCI MSA’s role. The post Co-Packaged Optics Moves from Promise to Production Planning appeared first on EE Times .",
+    "published": "2026-10-14T15:41:12+00:00",
+    "authors": "Ayar Labs",
+    "link": "https://www.eetimes.com/co-packaged-optics-moves-from-promise-to-production-planning/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "10 years of TME Education – a decade of supporting technical education",
     "source": "Electronics Weekly",
-    "snippet": "Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics include silicon lifecycle management, […] The post EW Video: In conversation with Tessent on semiconduct",
+    "snippet": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
+    "published": "2026-10-14T15:32:38+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Integrated FEMs ease 2.4-GHz RF design",
+    "source": "EDN",
+    "snippet": "pSemi offers the PE566212 and PE566213 2.4-GHz SOI front-end modules (FEMs) for Bluetooth, Zigbee, and Thread applications. The post Integrated FEMs ease 2.4-GHz RF design appeared first on EDN .",
+    "published": "2026-10-14T15:27:23+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/integrated-fems-ease-2-4-ghz-rf-design/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Diamond spreader tames AI GPU hotspots",
+    "source": "EDN",
+    "snippet": "A liquid-cooling coldplate, Frore’s LiquidJet Diamond integrates a diamond heat spreader to cool hotspots in high-power-density AI GPUs. The post Diamond spreader tames AI GPU hotspots appeared first on EDN .",
+    "published": "2026-10-14T15:26:48+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/diamond-spreader-tames-ai-gpu-hotspots/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Systems reduce latency in edge AI automation",
+    "source": "EDN",
+    "snippet": "AIE-KT78/68 edge AI systems from Aetina are powered by NVIDIA Jetson Thor and Blackwell architectures for deterministic industrial control. The post Systems reduce latency in edge AI automation appeared first on EDN .",
+    "published": "2026-10-14T15:25:56+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "100-V GaN FETs lower switching FOM",
+    "source": "EDN",
+    "snippet": "Renesas Electronics has launched its first family of 100-V enhancement-mode (E-mode) discrete GaN power transistors. The post 100-V GaN FETs lower switching FOM appeared first on EDN .",
+    "published": "2026-10-14T15:25:29+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/100-v-gan-fets-lower-switching-fom/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Updated rack enclosures offer flexible design options",
+    "source": "EDN",
+    "snippet": "METCASE has redesigned its COMBIMET 19-in. rack-mount enclosures to provide greater rigidity and more usable panel space. The post Updated rack enclosures offer flexible design options appeared first on EDN .",
+    "published": "2026-10-14T15:23:58+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/updated-rack-enclosures-offer-flexible-design-options/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Vishay optical sensors target battery management, energy storage",
+    "source": "Electronics Weekly",
+    "snippet": "Vishay’s new automotive grade optical sensors address challenges in modern battery management, energy storage, and industrial automation systems. The four new devices combine an infrared (IR) emitter and PIN photodiode […] The post Vishay optical sensors target battery management, energy storage app",
+    "published": "2026-10-14T13:51:05+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/sensors-products/vishay-optical-sensors-target-battery-management-energy-storage-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Datacentre? Not In My Backyard",
+    "source": "Electronics Weekly",
+    "snippet": "Ballotpedia has counted 35 local measures on the ballot in the US November 3 midterm elections aimed at banning or restricting the construction of new datacentres. Ohio has 21 such […] The post Datacentre? Not In My Backyard appeared first on Electronics Weekly .",
+    "published": "2026-10-14T13:10:59+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/datacentre-not-in-ny-backyard-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection",
+    "source": "EE Times",
+    "snippet": "Explore VICFUSE's Class CF fuse line, which offers current-limiting technology and meets Class J performance standards in a compact design. The post VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection appeared first on EE Times .",
+    "published": "2026-10-14T13:00:00+00:00",
+    "authors": "ALI",
+    "link": "https://www.eetimes.com/vicfuse-ul-standard-class-series-fuse-holders-quality-reliability-and-industrial-protection/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "TIE Showcases Taiwan’s Push to Deploy AI Across Industries",
+    "source": "EE Times",
+    "snippet": "Discover how Taiwan Innotech Expo 2026 showcased AI solutions designed to advance industries with practical, real-world impact The post TIE Showcases Taiwan’s Push to Deploy AI Across Industries appeared first on EE Times .",
+    "published": "2026-10-14T13:00:00+00:00",
+    "authors": "EE Times Taiwan",
+    "link": "https://www.eetimes.com/tie-showcases-taiwans-push-to-deploy-ai-across-industries/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "ASML’s EUV Expansion Runs Through Zeiss",
+    "source": "EE Times",
+    "snippet": "ASML’s plans to expand EUV production depend partly on Zeiss’s ability to increase qualified precision-optics output. The post ASML’s EUV Expansion Runs Through Zeiss appeared first on EE Times .",
+    "published": "2026-10-14T12:49:10+00:00",
+    "authors": "Ron Honig",
+    "link": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Nifty nulling of non-negligible dpot “scale” errors",
+    "source": "EDN",
+    "snippet": "This silly simple circuit cancels out potentially serious digital potentiometer zero- and full-scale errors. The post Nifty nulling of non-negligible dpot “scale” errors appeared first on EDN .",
+    "published": "2026-10-14T12:00:03+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/nifty-nulling-of-non-negligible-dpot-scale-errors/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "In conversation with Siemens on semiconductor test technology",
+    "source": "Electronics Weekly",
+    "snippet": "Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics include silicon lifecycle management, […] The post In conversation with Siemens on semiconductor test te",
     "published": "2026-10-14T10:59:25+00:00",
     "authors": "Alun Williams",
     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/",
@@ -81,15 +198,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Top Ten IP Semiconductor Suppliers",
-    "source": "Electronics Weekly",
-    "snippet": "Thanks to IPNest for this one – the top ten semiconductor IP vendors: Arm. Synopsys Cadence . Alphawave Semi Imagination Technologies Rambus VeriSilicon CEva Arteris Silicon Creations The post Top Ten IP Semiconductor Suppliers appeared first on Electronics Weekly .",
-    "published": "2026-10-14T00:01:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ip-semiconductor-suppliers-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
     "source": "EE Times",
     "snippet": "See how Amperesand’s solid-state transformers aim to tame AI data center power spikes with batteries, 800 VDC conversion, and microgrid control. The post Amperesand Aims to Smooth AI Data Center Power Spikes appeared first on EE Times .",
@@ -97,24 +205,6 @@
     "authors": "Alan Patterson",
     "link": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "10 years of TME Education – a decade of supporting technical education",
-    "source": "Electronics Weekly",
-    "snippet": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
-    "published": "2026-10-13T14:16:21+00:00",
-    "authors": "Sponsored Content",
-    "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Pathways into Electronics reports on women’s route to study electronics",
-    "source": "Electronics Weekly",
-    "snippet": "The UK Electronics Skills Foundation’s (UKESF) new report examines the routes women take to study electronics in further education: Pathways into Electronics: Women EEE Students. It shares findings into the […] The post Pathways into Electronics reports on women’s route to study electronics appeared",
-    "published": "2026-10-13T14:11:45+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/design/stem/pathways-into-electronics-reports-on-womens-route-to-study-electronics-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
@@ -198,24 +288,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Embedded Graphics on an MCU – Without an Accelerator",
-    "source": "EE Times",
-    "snippet": "Join this webinar and learn how to add LCD graphics to MCU projects without a display controller, accelerator, or external DRAM. The post Embedded Graphics on an MCU – Without an Accelerator appeared first on EE Times .",
-    "published": "2026-10-12T16:49:28+00:00",
-    "authors": "GigaDevice",
-    "link": "https://www.eetimes.com/embedded-graphics-on-an-mcu-without-an-accelerator/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "The secret life of ferrite bead: More than just a lump on a wire",
-    "source": "EDN",
-    "snippet": "A ferrite bead isn’t just a mysterious black cylinder; it can be an engineer's secret weapon for turning pesky high-frequency noise into harmless heat. The post The secret life of ferrite bead: More than just a lump on a wire appeared first on EDN .",
-    "published": "2026-10-12T15:11:53+00:00",
-    "authors": "T.K. Hareendran",
-    "link": "https://www.edn.com/the-secret-life-of-ferrite-bead-more-than-just-a-lump-on-a-wire/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
     "source": "IEEE Spectrum",
     "snippet": "This article was originally published by Canary Media . The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide. The Houston-based firm tu",
@@ -223,33 +295,6 @@
     "authors": "Maria Gallucci",
     "link": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now",
-    "source": "EE Times",
-    "snippet": "Consumer, industrial, networking, semiconductor, and software manufacturers face a broad product-cybersecurity regulation for the first time. The post EU CRA Readiness: 5 Steps Manufacturers Need to Take Now appeared first on EE Times .",
-    "published": "2026-10-12T13:00:00+00:00",
-    "authors": "Colin Duggan, CEO and co-founder, BG Networks",
-    "link": "https://www.eetimes.com/eu-cra-readiness-5-steps-manufacturers-need-to-take-now/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "TP-Link’s Tapo P110M smart plug: Matter and energy monitoring matter",
-    "source": "EDN",
-    "snippet": "A seemingly newer device reverts to a legacy processor versus one certified earlier that same year. Does it matter? And was it due to Matter? The post TP-Link’s Tapo P110M smart plug: Matter and energy monitoring matter appeared first on EDN .",
-    "published": "2026-10-12T12:00:29+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/tp-links-tapo-p110m-smart-plug-matter-and-energy-monitoring-matter/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Xanadu Builds Out Canadian Quantum Infrastructure",
-    "source": "EE Times",
-    "snippet": "Manufacturing partnerships and public sector funding are moving Xanadu’s quantum technology toward manufacturable, utility-scale systems. The post Xanadu Builds Out Canadian Quantum Infrastructure appeared first on EE Times .",
-    "published": "2026-10-12T12:00:00+00:00",
-    "authors": "Gary Hilson",
-    "link": "https://www.eetimes.com/xanadu-builds-out-canadian-quantum-infrastructure/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
@@ -270,15 +315,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Security Becomes a Sign-off Item",
-    "source": "EE Times",
-    "snippet": "Europe’s CRA turns chip security into auditable sign-off, pushing silicon teams to prove resilience before 2027. The post Security Becomes a Sign-off Item appeared first on EE Times .",
-    "published": "2026-10-12T07:10:22+00:00",
-    "authors": "Moshe Zalcberg",
-    "link": "https://www.eetimes.com/security-becomes-a-sign-off-item/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Master AI Chip Principles With New IEEE Design Program",
     "source": "IEEE Spectrum",
     "snippet": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “ Revisiting Edge AI: Opportunities and Challenges .” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model arch",
@@ -288,15 +324,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Measurement bandwidth",
-    "source": "EDN",
-    "snippet": "Designers and test engineers should carefully consider an application's bandwidth requirements before selecting an instrument. The post Measurement bandwidth appeared first on EDN .",
-    "published": "2026-10-09T12:00:42+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/measurement-bandwidth/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "We Need to Embed Ethics Into Our Engineering Courses",
     "source": "IEEE Spectrum",
     "snippet": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed.",
@@ -304,33 +331,6 @@
     "authors": "Cynthia J. Finelli",
     "link": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Practical design for a multi-output flyback converter with improved cross-regulation",
-    "source": "EDN",
-    "snippet": "Here is how the stacked-output topology and the weighted feedback network can be implemented in a practical converter. The post Practical design for a multi-output flyback converter with improved cross-regulation appeared first on EDN .",
-    "published": "2026-10-09T07:29:11+00:00",
-    "authors": "Joan Mampel",
-    "link": "https://www.edn.com/practical-design-for-a-multi-output-flyback-converter-with-improved-cross-regulation/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "The multi-gig Ethernet migration: Motivations and implementations",
-    "source": "EDN",
-    "snippet": "Supplier “push” and consumer “pull”. When their efforts coordinate, the result can be meaningfully impactful. The post The multi-gig Ethernet migration: Motivations and implementations appeared first on EDN .",
-    "published": "2026-10-08T12:00:50+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/the-multi-gig-ethernet-migration-motivations-and-implementations/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Global-shutter sensor raises pixel density",
-    "source": "EDN",
-    "snippet": "At 2.2 µm, Omnivision’s OG05D 5-Mpixel image sensor offers one of the smallest global-shutter pixel sizes with HDR in its class. The post Global-shutter sensor raises pixel density appeared first on EDN .",
-    "published": "2026-10-07T19:02:32+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/global-shutter-sensor-raises-pixel-density/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "IEEE Report Predicts Tech That Will Transform Lives",

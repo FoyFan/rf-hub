@@ -382,6 +382,60 @@
   ],
   "news": [
     {
+      "title": "Integrated FEMs ease 2.4-GHz RF design",
+      "source": "EDN",
+      "snippet": "pSemi offers the PE566212 and PE566213 2.4-GHz SOI front-end modules (FEMs) for Bluetooth, Zigbee, and Thread applications. The post Integrated FEMs ease 2.4-GHz RF design appeared first on EDN .",
+      "published": "2026-10-14T15:27:23+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/integrated-fems-ease-2-4-ghz-rf-design/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Diamond spreader tames AI GPU hotspots",
+      "source": "EDN",
+      "snippet": "A liquid-cooling coldplate, Frore’s LiquidJet Diamond integrates a diamond heat spreader to cool hotspots in high-power-density AI GPUs. The post Diamond spreader tames AI GPU hotspots appeared first on EDN .",
+      "published": "2026-10-14T15:26:48+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/diamond-spreader-tames-ai-gpu-hotspots/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Systems reduce latency in edge AI automation",
+      "source": "EDN",
+      "snippet": "AIE-KT78/68 edge AI systems from Aetina are powered by NVIDIA Jetson Thor and Blackwell architectures for deterministic industrial control. The post Systems reduce latency in edge AI automation appeared first on EDN .",
+      "published": "2026-10-14T15:25:56+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "100-V GaN FETs lower switching FOM",
+      "source": "EDN",
+      "snippet": "Renesas Electronics has launched its first family of 100-V enhancement-mode (E-mode) discrete GaN power transistors. The post 100-V GaN FETs lower switching FOM appeared first on EDN .",
+      "published": "2026-10-14T15:25:29+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/100-v-gan-fets-lower-switching-fom/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Updated rack enclosures offer flexible design options",
+      "source": "EDN",
+      "snippet": "METCASE has redesigned its COMBIMET 19-in. rack-mount enclosures to provide greater rigidity and more usable panel space. The post Updated rack enclosures offer flexible design options appeared first on EDN .",
+      "published": "2026-10-14T15:23:58+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/updated-rack-enclosures-offer-flexible-design-options/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Nifty nulling of non-negligible dpot “scale” errors",
+      "source": "EDN",
+      "snippet": "This silly simple circuit cancels out potentially serious digital potentiometer zero- and full-scale errors. The post Nifty nulling of non-negligible dpot “scale” errors appeared first on EDN .",
+      "published": "2026-10-14T12:00:03+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/nifty-nulling-of-non-negligible-dpot-scale-errors/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Apple heads Home: Distributed identity validation, and how much does Matter matter?",
       "source": "EDN",
       "snippet": "Apple branding is key to its resurrected smart home “push”. Broader ecosystem compatibility, also feasible, is absent from the messaging. The post Apple heads Home: Distributed identity validation, and how much does Matter matter? appeared first on EDN .",
@@ -415,60 +469,6 @@
       "published": "2026-10-13T02:41:27+00:00",
       "authors": "Majeed Ahmad",
       "link": "https://www.edn.com/ai-silicon-tapeout-can-it-beat-a-benchmark-engineers-trust/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "The secret life of ferrite bead: More than just a lump on a wire",
-      "source": "EDN",
-      "snippet": "A ferrite bead isn’t just a mysterious black cylinder; it can be an engineer's secret weapon for turning pesky high-frequency noise into harmless heat. The post The secret life of ferrite bead: More than just a lump on a wire appeared first on EDN .",
-      "published": "2026-10-12T15:11:53+00:00",
-      "authors": "T.K. Hareendran",
-      "link": "https://www.edn.com/the-secret-life-of-ferrite-bead-more-than-just-a-lump-on-a-wire/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "TP-Link’s Tapo P110M smart plug: Matter and energy monitoring matter",
-      "source": "EDN",
-      "snippet": "A seemingly newer device reverts to a legacy processor versus one certified earlier that same year. Does it matter? And was it due to Matter? The post TP-Link’s Tapo P110M smart plug: Matter and energy monitoring matter appeared first on EDN .",
-      "published": "2026-10-12T12:00:29+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/tp-links-tapo-p110m-smart-plug-matter-and-energy-monitoring-matter/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Measurement bandwidth",
-      "source": "EDN",
-      "snippet": "Designers and test engineers should carefully consider an application's bandwidth requirements before selecting an instrument. The post Measurement bandwidth appeared first on EDN .",
-      "published": "2026-10-09T12:00:42+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/measurement-bandwidth/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Practical design for a multi-output flyback converter with improved cross-regulation",
-      "source": "EDN",
-      "snippet": "Here is how the stacked-output topology and the weighted feedback network can be implemented in a practical converter. The post Practical design for a multi-output flyback converter with improved cross-regulation appeared first on EDN .",
-      "published": "2026-10-09T07:29:11+00:00",
-      "authors": "Joan Mampel",
-      "link": "https://www.edn.com/practical-design-for-a-multi-output-flyback-converter-with-improved-cross-regulation/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "The multi-gig Ethernet migration: Motivations and implementations",
-      "source": "EDN",
-      "snippet": "Supplier “push” and consumer “pull”. When their efforts coordinate, the result can be meaningfully impactful. The post The multi-gig Ethernet migration: Motivations and implementations appeared first on EDN .",
-      "published": "2026-10-08T12:00:50+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/the-multi-gig-ethernet-migration-motivations-and-implementations/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Global-shutter sensor raises pixel density",
-      "source": "EDN",
-      "snippet": "At 2.2 µm, Omnivision’s OG05D 5-Mpixel image sensor offers one of the smallest global-shutter pixel sizes with HDR in its class. The post Global-shutter sensor raises pixel density appeared first on EDN .",
-      "published": "2026-10-07T19:02:32+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/global-shutter-sensor-raises-pixel-density/",
       "category": "EDN 电子设计新闻"
     }
   ]
