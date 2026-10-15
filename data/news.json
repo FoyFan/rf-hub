@@ -1,5 +1,41 @@
 [
   {
+    "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
+    "source": "EE Times",
+    "snippet": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. The post Japan Offers GlobalFoundries $21B for U.S. Fab Expansion appeared first on EE Times .",
+    "published": "2026-10-15T19:00:00+00:00",
+    "authors": "Alan Patterson",
+    "link": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Chasing China’s Monazite Monopoly",
+    "source": "IEEE Spectrum",
+    "snippet": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings ",
+    "published": "2026-10-15T14:54:03+00:00",
+    "authors": "Glenn Zorpette",
+    "link": "https://spectrum.ieee.org/china-rare-earth-minerals",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+    "source": "IEEE Spectrum",
+    "snippet": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ",
+    "published": "2026-10-15T14:53:02+00:00",
+    "authors": "Glenn Zorpette",
+    "link": "https://spectrum.ieee.org/monazite-rare-earth",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ",
+    "published": "2026-10-15T14:53:02+00:00",
+    "authors": "Glenn Zorpette",
+    "link": "https://spectrum.ieee.org/monazite-rare-earth",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
     "title": "Data Orchestration: The Foundation for the Next-generation Semiconductor Enterprise",
     "source": "EE Times",
     "snippet": "Data orchestration gives semiconductor engineering teams a practical way to unify disconnected equipment, systems, and data without replacing existing infrastructure. By creating a connected execution layer across engineering, OT, IT, facilities, and production environments, the solution contextuali",
@@ -258,15 +294,6 @@
     "published": "2026-10-14T13:00:00+00:00",
     "authors": "EE Times Taiwan",
     "link": "https://www.eetimes.com/tie-showcases-taiwans-push-to-deploy-ai-across-industries/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "ASML’s EUV Expansion Runs Through Zeiss",
-    "source": "EE Times",
-    "snippet": "ASML’s plans to expand EUV production depend partly on Zeiss’s ability to increase qualified precision-optics output. The post ASML’s EUV Expansion Runs Through Zeiss appeared first on EE Times .",
-    "published": "2026-10-14T12:49:10+00:00",
-    "authors": "Ron Honig",
-    "link": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -573,24 +600,6 @@
     "published": "2026-09-24T18:00:04+00:00",
     "authors": "Ashley Moran",
     "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Measure Distant Asteroids With a DIY Rig",
-    "source": "IEEE Spectrum",
-    "snippet": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or the moon—something called an asteroid occultation. That’s what happens when an a",
-    "published": "2026-09-24T13:00:04+00:00",
-    "authors": "David Schneider",
-    "link": "https://spectrum.ieee.org/asteroid-shadow",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
-    "source": "IEEE Spectrum",
-    "snippet": "This white paper gives distribution engineers and utility teams a practical overview of the substation exit, the short and high-consequence section where station capacity divides into individual feeders. It explains how covered, spacer-supported overhead construction can reduce common contact-driven",
-    "published": "2026-09-24T10:00:06+00:00",
-    "authors": "Marmon Utility (Hendrix®)",
-    "link": "https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/",
     "category": "IEEE 综合新闻"
   },
   {
@@ -1041,15 +1050,6 @@
     "published": "2026-05-28T13:00:01+00:00",
     "authors": "Maysam Ghovanloo",
     "link": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-    "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Understanding Phase Noise and Its Impact on RF System Performance",
-    "source": "IEEE Spectrum 半导体",
-    "snippet": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported. What Attendees will Learn What phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-te",
-    "published": "2026-05-28T10:00:01+00:00",
-    "authors": "Rohde & Schwarz",
-    "link": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
     "category": "半导体 / RFIC / 射频器件"
   },
   {
