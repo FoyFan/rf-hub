@@ -1,5 +1,122 @@
 [
   {
+    "title": "Data Orchestration: The Foundation for the Next-generation Semiconductor Enterprise",
+    "source": "EE Times",
+    "snippet": "Data orchestration gives semiconductor engineering teams a practical way to unify disconnected equipment, systems, and data without replacing existing infrastructure. By creating a connected execution layer across engineering, OT, IT, facilities, and production environments, the solution contextuali",
+    "published": "2026-10-15T14:00:00+00:00",
+    "authors": "Siemens Digital Industries",
+    "link": "https://www.eetimes.com/data-orchestration-the-foundation-for-the-next-generation-semiconductor-enterprise/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Fable: The Commonsense CEO",
+    "source": "Electronics Weekly",
+    "snippet": "There was once a mega-company which was in trouble – its market cap of $96 billion was down 80% from its value 18 years earlier. It had made an annual […] The post Fable: The Commonsense CEO appeared first on Electronics Weekly .",
+    "published": "2026-10-15T13:23:11+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-commonsense-ceo-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "HUSB237: The Cost-Effective PD Sink with Just 2 Passives",
+    "source": "EE Times",
+    "snippet": "Discover Hynetek’s HUSB237, a compact USB-PD sink controller enabling firmware-free USB-C upgrades up to 100W with only two external components. The post HUSB237: The Cost-Effective PD Sink with Just 2 Passives appeared first on EE Times .",
+    "published": "2026-10-15T13:00:00+00:00",
+    "authors": "Hynetek Semiconductor Co., Ltd.",
+    "link": "https://www.eetimes.com/husb237-the-cost-effective-pd-sink-with-just-2-passives/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Not all diodes use electrons",
+    "source": "EDN",
+    "snippet": "Sometimes thinking like a geek pays off. Especially when you're dealing with overheated Judge Judy fanatics. The post Not all diodes use electrons appeared first on EDN .",
+    "published": "2026-10-15T12:00:47+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/not-all-diodes-use-electrons/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "NAS upgrades: Proprietary lockouts and surmounts",
+    "source": "EDN",
+    "snippet": "A speedier LAN “freeway” is irrelevant if its “vehicles” remain slow. Updates are fortunately available both used and already in inventory. The post NAS upgrades: Proprietary lockouts and surmounts appeared first on EDN .",
+    "published": "2026-10-15T12:00:12+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/nas-upgrades-proprietary-lockouts-and-surmounts/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "HEADS UP – Dstl trialling safe usage of head-mounted military technology",
+    "source": "Electronics Weekly",
+    "snippet": "The UK’s Defence Science and Technology Laboratory (Dstl) has been trialling – in a HEADS UP project – a human-centred design approach to novel technologies that are worn or carried. […] The post HEADS UP – Dstl trialling safe usage of head-mounted military technology appeared first on Electronics W",
+    "published": "2026-10-15T11:02:02+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/research-news/heads-up-dstl-trialling-safe-usage-of-head-mounted-military-technology-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems",
+    "source": "Electronics Weekly",
+    "snippet": "Critical National Infrastructure (CNI) products may remain in service for 10 or even 20 years. During that time software changes, attack techniques evolve and regulation becomes more demanding, writes Jim […] The post Beyond software patching: how CHERI can limit the blast radius in long-life CNI sy",
+    "published": "2026-10-15T11:00:53+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/beyond-software-patching-how-cheri-can-limit-the-blast-radius-in-long-life-cni-systems-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
+    "source": "EE Times",
+    "snippet": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most advanced chipmaking. The post Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking appeared first on EE Times .",
+    "published": "2026-10-15T10:54:08+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "TSMC has $47bn revenue Q3",
+    "source": "Electronics Weekly",
+    "snippet": "TSMC reported Q3 revenues up 41.2% YoY and 17.2% QoQ at $46.72 billion Gross margin for the quarter was 66.4%, operating margin was 58.7%, and net profit margin was 51.1%. […] The post TSMC has $47bn revenue Q3 appeared first on Electronics Weekly .",
+    "published": "2026-10-15T10:08:57+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/tsmc-has-47bn-revenue-q3-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "UK Space Agency backs UK ADR mission for space debris removal",
+    "source": "Electronics Weekly",
+    "snippet": "The UK Space Agency (UKSA) is backing an Active Debris Removal (ADR) mission to remove two defunct satellites and release them lower into the atmosphere where they will naturally burn […] The post UK Space Agency backs UK ADR mission for space debris removal appeared first on Electronics Weekly .",
+    "published": "2026-10-15T10:01:03+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/uk-space-agency-backs-uk-adr-mission-for-space-debris-removal-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Compact Analog Signal Generators for Fast RF Testing",
+    "source": "IEEE Spectrum",
+    "snippet": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution. What you will learn about: How to m",
+    "published": "2026-10-15T10:00:04+00:00",
+    "authors": "Electro Rent",
+    "link": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Compact Analog Signal Generators for Fast RF Testing",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution. What you will learn about: How to m",
+    "published": "2026-10-15T10:00:04+00:00",
+    "authors": "Electro Rent",
+    "link": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Get the Gadget Master newsletter!",
+    "source": "Electronics Weekly",
+    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
+    "published": "2026-10-15T09:49:29+00:00",
+    "authors": "Staff",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
     "source": "EE Times",
     "snippet": "Grid modernization is expanding the energy sector’s cyberattack surface, while limited visibility across IT and OT networks leaves connected assets exposed. The post Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching appeared first on EE Times .",
@@ -45,24 +162,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Nvidia to spend $250m on UK computing resources",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia is to provide $50 million a year for five years to support UK computing resources at the British Open-Ended Learning and Discovery Lab (BOLD), the Science of Fundamental AI […] The post Nvidia to spend $250m on UK computing resources appeared first on Electronics Weekly .",
-    "published": "2026-10-15T05:08:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nvidia-to-spend-250m-on-uk-computing-resources-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "2026 world GDP growth of 3.1% says IMF",
-    "source": "Electronics Weekly",
-    "snippet": "The IMF now reckons the world economy will grow 3.1% this year. In July it said 3%. Countries upgraded since the last forecast are India, the United Kingdom and Germany. […] The post 2026 world GDP growth of 3.1% says IMF appeared first on Electronics Weekly .",
-    "published": "2026-10-15T00:02:43+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/2026-world-growth-of-3-1-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
     "source": "EE Times",
     "snippet": "Benchmark Electronics combines engineering expertise, workforce development, and flexible production to expand high-mix electronics manufacturing across Thailand. The post Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing appeared first on EE Times .",
@@ -97,15 +196,6 @@
     "authors": "Ayar Labs",
     "link": "https://www.eetimes.com/co-packaged-optics-moves-from-promise-to-production-planning/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "10 years of TME Education – a decade of supporting technical education",
-    "source": "Electronics Weekly",
-    "snippet": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
-    "published": "2026-10-14T15:32:38+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Integrated FEMs ease 2.4-GHz RF design",
@@ -153,24 +243,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Vishay optical sensors target battery management, energy storage",
-    "source": "Electronics Weekly",
-    "snippet": "Vishay’s new automotive grade optical sensors address challenges in modern battery management, energy storage, and industrial automation systems. The four new devices combine an infrared (IR) emitter and PIN photodiode […] The post Vishay optical sensors target battery management, energy storage app",
-    "published": "2026-10-14T13:51:05+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/sensors-products/vishay-optical-sensors-target-battery-management-energy-storage-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Datacentre? Not In My Backyard",
-    "source": "Electronics Weekly",
-    "snippet": "Ballotpedia has counted 35 local measures on the ballot in the US November 3 midterm elections aimed at banning or restricting the construction of new datacentres. Ohio has 21 such […] The post Datacentre? Not In My Backyard appeared first on Electronics Weekly .",
-    "published": "2026-10-14T13:10:59+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/datacentre-not-in-ny-backyard-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection",
     "source": "EE Times",
     "snippet": "Explore VICFUSE's Class CF fuse line, which offers current-limiting technology and meets Class J performance standards in a compact design. The post VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection appeared first on EE Times .",
@@ -207,24 +279,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "In conversation with Siemens on semiconductor test technology",
-    "source": "Electronics Weekly",
-    "snippet": "Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics include silicon lifecycle management, […] The post In conversation with Siemens on semiconductor test te",
-    "published": "2026-10-14T10:59:25+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Spain’s Indra Bets on Qilimanjaro Quantum for Sovereign Deep Tech",
-    "source": "EE Times",
-    "snippet": "In a bid to secure domestic deep-tech infrastructure, Qilimanjaro closed €19.6 million (~$21.3 million) funding led by Indra Group. The post Spain’s Indra Bets on Qilimanjaro Quantum for Sovereign Deep Tech appeared first on EE Times .",
-    "published": "2026-10-14T07:35:15+00:00",
-    "authors": "Pablo Valerio",
-    "link": "https://www.eetimes.com/spain-indra-bets-on-qilimanjaro-quantum-for-sovereign-deep-tech/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Apple heads Home: Distributed identity validation, and how much does Matter matter?",
     "source": "EDN",
     "snippet": "Apple branding is key to its resurrected smart home “push”. Broader ecosystem compatibility, also feasible, is absent from the messaging. The post Apple heads Home: Distributed identity validation, and how much does Matter matter? appeared first on EDN .",
@@ -232,24 +286,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/apple-heads-home-distributed-identity-validation-and-how-much-does-matter-matter/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
-    "source": "EE Times",
-    "snippet": "See how Amperesand’s solid-state transformers aim to tame AI data center power spikes with batteries, 800 VDC conversion, and microgrid control. The post Amperesand Aims to Smooth AI Data Center Power Spikes appeared first on EE Times .",
-    "published": "2026-10-13T22:00:00+00:00",
-    "authors": "Alan Patterson",
-    "link": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
-    "source": "EE Times",
-    "snippet": "CASPA’s annual conference celebrates its 35th anniversary with a lineup of more than 35 CEOs from Silicon Valley, including Intel’s Lip-Bu Tan and Cerebras’s Andrew Feldman. The post CASPA CEO Summit Preview with President Jimmy Cheng appeared first on EE Times .",
-    "published": "2026-10-13T14:04:30+00:00",
-    "authors": "Nitin Dahad",
-    "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "5G chips and modules power phones, wearables, IoT, and vehicles",
@@ -261,15 +297,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Measure the AC mains frequency with an ordinary counter",
-    "source": "EDN",
-    "snippet": "Knowing the mains frequency is important in many industries; the speeds of AC motors, for example, are dependent on it. The post Measure the AC mains frequency with an ordinary counter appeared first on EDN .",
-    "published": "2026-10-13T12:00:22+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/measure-the-ac-mains-frequency-with-an-ordinary-counter/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "U.S. Chip Firms Bet Big on R&D",
     "source": "IEEE Spectrum 半导体",
     "snippet": "On 12 October, Applied Materials unveiled a multibillion-dollar research facility in Sunnyvale, Calif., in the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will",
@@ -277,15 +304,6 @@
     "authors": "Lucas Laursen",
     "link": "https://spectrum.ieee.org/semiconductor-research",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "AI silicon tapeout: Can it beat a benchmark engineers trust?",
-    "source": "EDN",
-    "snippet": "Can the engineering data prove the improvement in silicon design rather than relying on one successful run or thousands of tool logs? The post AI silicon tapeout: Can it beat a benchmark engineers trust? appeared first on EDN .",
-    "published": "2026-10-13T02:41:27+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.edn.com/ai-silicon-tapeout-can-it-beat-a-benchmark-engineers-trust/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
@@ -573,15 +591,6 @@
     "published": "2026-09-24T10:00:06+00:00",
     "authors": "Marmon Utility (Hendrix®)",
     "link": "https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "3 Skills That Will Matter More in the Age of AI",
-    "source": "IEEE Spectrum",
-    "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! If you have kids, they’re probably back in school",
-    "published": "2026-09-23T15:40:04+00:00",
-    "authors": "Brian Jenney",
-    "link": "https://spectrum.ieee.org/top-engineering-skills",
     "category": "IEEE 综合新闻"
   },
   {
@@ -934,15 +943,6 @@
     "authors": "Matthew S. Smith",
     "link": "https://spectrum.ieee.org/high-bandwidth-flash",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "The Memory in Your Thumb Drive Could Fix AI’s Big Problem",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "Large Language Models (LLMs) demand immense amounts of memory, and the more people use them, the more memory is required. Memory makers responded by accelerating plans to build new memory fabs, with a focus on High Bandwidth Memory (HBM) and DRAM, the first of which is scheduled to start production ",
-    "published": "2026-07-14T13:00:01+00:00",
-    "authors": "Matthew S. Smith",
-    "link": "https://spectrum.ieee.org/high-bandwidth-flash",
-    "category": "计算 / 通信系统"
   },
   {
     "title": "Stacking Chips Sideways Gives AI More Memory",
