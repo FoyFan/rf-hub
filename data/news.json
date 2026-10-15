@@ -1,5 +1,59 @@
 [
   {
+    "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
+    "source": "EE Times",
+    "snippet": "Grid modernization is expanding the energy sector’s cyberattack surface, while limited visibility across IT and OT networks leaves connected assets exposed. The post Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching appeared first on EE Times .",
+    "published": "2026-10-15T08:00:00+00:00",
+    "authors": "David Montoya",
+    "link": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Nvidia invests in five UK startups",
+    "source": "Electronics Weekly",
+    "snippet": "Today, Nvidia announced new planned investments in UK startups: Boltz, Foresight, Hiverge, Prima Mente and Riverlane. Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI […] The post Nvidia invests in five UK startups appeared first on Electronics Weekly .",
+    "published": "2026-10-15T05:15:38+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Salience Labs raises $125m for photonics ICs",
+    "source": "Electronics Weekly",
+    "snippet": "Salience Labs of Thame, a five-year-old photonic IC company built on technology from Oxford and Munster universities, has completed a $125m Series B. The company’s Seed round in 2022 raised […] The post Salience Labs raises $125m for photonics ICs appeared first on Electronics Weekly .",
+    "published": "2026-10-15T05:15:26+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Japan to invest $21bn in two GlobalFoundries fabs in New York",
+    "source": "Electronics Weekly",
+    "snippet": "GlobalFoundries is to build two fabs at its Malta, New York site, with Japan providing up to $21bn in funding. Japan provides the investment, while GF contributes its technologies, manufacturing […] The post Japan to invest $21bn in two GlobalFoundries fabs in New York appeared first on Electronics ",
+    "published": "2026-10-15T05:13:06+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "ASML has €11.7bn Q3",
+    "source": "Electronics Weekly",
+    "snippet": "ASML reported €11.7bn sales and €5bn profit at a net margin of 57.5% in Q3 2026. Full-year 2026 sales are expected to be between €44bn and €45bn with a gross […] The post ASML has €11.7bn Q3 appeared first on Electronics Weekly .",
+    "published": "2026-10-15T05:09:23+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Nvidia to spend $250m on UK computing resources",
+    "source": "Electronics Weekly",
+    "snippet": "Nvidia is to provide $50 million a year for five years to support UK computing resources at the British Open-Ended Learning and Discovery Lab (BOLD), the Science of Fundamental AI […] The post Nvidia to spend $250m on UK computing resources appeared first on Electronics Weekly .",
+    "published": "2026-10-15T05:08:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nvidia-to-spend-250m-on-uk-computing-resources-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "2026 world GDP growth of 3.1% says IMF",
     "source": "Electronics Weekly",
     "snippet": "The IMF now reckons the world economy will grow 3.1% this year. In July it said 3%. Countries upgraded since the last forecast are India, the United Kingdom and Germany. […] The post 2026 world GDP growth of 3.1% says IMF appeared first on Electronics Weekly .",
@@ -162,15 +216,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "TechPoint buys Esprit Electronics for EMS growth",
-    "source": "Electronics Weekly",
-    "snippet": "TechPoint has announced it is buying Esprit Electronics, to strengthen its UK manufacturing capability and support its growth ambitions, says the company. “We’re delighted to welcome the Esprit Electronics team […] The post TechPoint buys Esprit Electronics for EMS growth appeared first on Electroni",
-    "published": "2026-10-14T10:04:18+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Spain’s Indra Bets on Qilimanjaro Quantum for Sovereign Deep Tech",
     "source": "EE Times",
     "snippet": "In a bid to secure domestic deep-tech infrastructure, Qilimanjaro closed €19.6 million (~$21.3 million) funding led by Indra Group. The post Spain’s Indra Bets on Qilimanjaro Quantum for Sovereign Deep Tech appeared first on EE Times .",
@@ -178,42 +223,6 @@
     "authors": "Pablo Valerio",
     "link": "https://www.eetimes.com/spain-indra-bets-on-qilimanjaro-quantum-for-sovereign-deep-tech/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Qualcomm wins Arm case – awarded $2 in damages",
-    "source": "Electronics Weekly",
-    "snippet": "The jury in the Qualcomm vs Arm case found Arm in breach of its architectural license agreement (ALA) with Qualcomm, and awarded Qualcomm $2 in nominal damages. The jury concluded that […] The post Qualcomm wins Arm case – awarded $2 in damages appeared first on Electronics Weekly .",
-    "published": "2026-10-14T05:16:58+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "UK tech companies raise $25.7bn this year",
-    "source": "Electronics Weekly",
-    "snippet": "UK Tech companies raised $25.7 billion in the first nine months of 2026, up 88% from $13.7 billion in 9M 2025, across 816 rounds, down 17% from 984, according to […] The post UK tech companies raise $25.7bn this year appeared first on Electronics Weekly .",
-    "published": "2026-10-14T05:12:57+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/uk-tech-has-raised-25-7bn-this-year-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "This time it’s different",
-    "source": "Electronics Weekly",
-    "snippet": "The overall chip market continues to show treble-digit monthly annualised growth rates, more than twice as large as the industry’s two previous record highs in June 2000 (59.3 percent) and […] The post This time it’s different appeared first on Electronics Weekly .",
-    "published": "2026-10-14T05:11:09+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/this-time-its-different-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Apple bids for home electronics market",
-    "source": "Electronics Weekly",
-    "snippet": "Apple made a statement yesterday that it is still in the home electronics market. It launched a new $200 HomePod smart speaker (pictured above) and a $299 HomeView hub (pictured […] The post Apple bids for home electronics market appeared first on Electronics Weekly .",
-    "published": "2026-10-14T05:09:23+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/apple-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Apple heads Home: Distributed identity validation, and how much does Matter matter?",
@@ -250,15 +259,6 @@
     "authors": "Gina Roos",
     "link": "https://www.edn.com/5g-chips-and-modules-power-phones-wearables-iot-and-vehicles/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "17 Years with China: What Really Makes a Partnership Work",
-    "source": "EE Times",
-    "snippet": "Honya Europe's Robert Tarantowicz shares 17 years of lessons on PCB sourcing in China, quality, trust, and risk management. The post 17 Years with China: What Really Makes a Partnership Work appeared first on EE Times .",
-    "published": "2026-10-13T13:00:00+00:00",
-    "authors": "Robert Tarantowicz, Founder and CEO of HONYA EUROPE",
-    "link": "https://www.eetimes.com/17-years-with-china-what-really-makes-a-partnership-work/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Measure the AC mains frequency with an ordinary counter",
