@@ -1,5 +1,59 @@
 [
   {
+    "title": "Automotive demands driving passive components to extreme performance",
+    "source": "EDN",
+    "snippet": "High-end passive components for vehicle battery measurements can be used elsewhere. The post Automotive demands driving passive components to extreme performance appeared first on EDN .",
+    "published": "2026-10-16T17:03:13+00:00",
+    "authors": "C aliou cisse",
+    "link": "https://www.edn.com/automotive-demands-driving-passive-components-to-extreme-performance/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Simulation App Speeds Up Electric Truck Battery Design",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is brought to you by COMSOL . These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distributi on centers that have cropped up to meet the demand, delivery trucks still need to make considerably long",
+    "published": "2026-10-16T16:49:18+00:00",
+    "authors": "Brianne Costa",
+    "link": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Data Center Power a Prominent Highlight of OCP 2026",
+    "source": "EE Times",
+    "snippet": "The OCP Summit showcased power delivery boards, PSU designs, hot-swap controllers, and event-based telemetry. The post Data Center Power a Prominent Highlight of OCP 2026 appeared first on EE Times .",
+    "published": "2026-10-16T15:00:00+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.eetimes.com/data-center-power-a-prominent-highlight-of-ocp-2026/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
+    "source": "Electronics Weekly",
+    "snippet": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
+    "published": "2026-10-16T14:24:13+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
+    "source": "Electronics Weekly",
+    "snippet": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
+    "published": "2026-10-16T13:38:02+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "When Mandy Became A Revolutionary",
+    "source": "Electronics Weekly",
+    "snippet": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
+    "published": "2026-10-16T13:32:30+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Apollo 11 corner reflector",
     "source": "EDN",
     "snippet": "Hard science data is typically no barrier to enduring belief for the conspiracy theorist. Nevertheless, this engineer tries, tries again. The post Apollo 11 corner reflector appeared first on EDN .",
@@ -81,9 +135,9 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "IonQ and Cavendish Lab open Quantum innovation Centre",
+    "title": "IonQ and Cavendish Lab open Quantum Innovation Centre",
     "source": "Electronics Weekly",
-    "snippet": "IonQ, the Maryland manufacturer of general purpose quantum computers based on trapped ion technology, and Cambridge University’s Cavendish Lab have opened the IonQ Quantum Innovation Centre at the Ray Dolby […] The post IonQ and Cavendish Lab open Quantum innovation Centre appeared first on Electron",
+    "snippet": "IonQ, the Maryland manufacturer of general purpose quantum computers based on trapped ion technology, and Cambridge University’s Cavendish Lab have opened the IonQ Quantum Innovation Centre at the Ray Dolby […] The post IonQ and Cavendish Lab open Quantum Innovation Centre appeared first on Electron",
     "published": "2026-10-16T05:15:27+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/ionq-and-cavendish-lab-open-quantum-innovation-centre-2026-10/",
@@ -96,33 +150,6 @@
     "published": "2026-10-16T05:14:50+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/infineon-and-wolfspeed-hook-up-on-sic-wafers-uh-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Altair Semi to add Iridium direct phone signals to cellular chipsets",
-    "source": "Electronics Weekly",
-    "snippet": "Altair Semiconductor is integrating Iridium NTN Direct capability into Altair’s ALT1350 and next-generation ALT1550 IoT chipsets.With terrestrial cellular IoT and Iridium satellite connectivity on a single chipset, device manufacturers, module […] The post Altair Semi to add Iridium direct phone sig",
-    "published": "2026-10-16T05:14:46+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/altair-semi-to-add-iridium-direct-phone-signals-to-iot-chipsets-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Datacentre installation growth rate slowed by opposition",
-    "source": "Electronics Weekly",
-    "snippet": "The Q2 Datacentre Physical Infrastructure (DCPI) market grew 27% YoY to $14 billion in manufacturer revenue, says Dell’Oro. The quarter extended the market’s run of growth above 20%, as demand […] The post Datacentre installation growth rate slowed by opposition appeared first on Electronics Weekly ",
-    "published": "2026-10-16T05:06:39+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/datacentre-infrastructure-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "External EMC protection module",
-    "source": "Electronics Weekly",
-    "snippet": "Cincoze has launched its new external EMC solutions, the Power Protection Module (PPM), to further strengthen protection against the electromagnetic noise common in industrial environments. Electrical noise can often cause […] The post External EMC protection module appeared first on Electronics Wee",
-    "published": "2026-10-16T05:01:01+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/external-emc-protection-module-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -243,15 +270,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Beyond Lithography: 3D Scaling Puts New Demands on Materials",
-    "source": "EE Times",
-    "snippet": "ASM International shows how building increasingly complex 3D devices requires advances in materials and processes. The post Beyond Lithography: 3D Scaling Puts New Demands on Materials appeared first on EE Times .",
-    "published": "2026-10-14T18:29:24+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "IEEE Continues Preparations for the Realignment of Its Regions",
     "source": "IEEE Spectrum",
     "snippet": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “ IEEE Is Realigning Its Geographic Regions .” The “Region 1” designation will no longer be used. The new Region 2 will merge what is currently Region 1 (Northeastern U.S.) with the cu",
@@ -312,15 +330,6 @@
     "published": "2026-10-14T12:00:03+00:00",
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/nifty-nulling-of-non-negligible-dpot-scale-errors/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Apple heads Home: Distributed identity validation, and how much does Matter matter?",
-    "source": "EDN",
-    "snippet": "Apple branding is key to its resurrected smart home “push”. Broader ecosystem compatibility, also feasible, is absent from the messaging. The post Apple heads Home: Distributed identity validation, and how much does Matter matter? appeared first on EDN .",
-    "published": "2026-10-14T03:09:11+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/apple-heads-home-distributed-identity-validation-and-how-much-does-matter-matter/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -591,15 +600,6 @@
     "published": "2026-09-25T13:00:04+00:00",
     "authors": "Danica Radovanović",
     "link": "https://spectrum.ieee.org/social-media-bans",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-    "source": "IEEE Spectrum",
-    "snippet": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on",
-    "published": "2026-09-24T18:00:04+00:00",
-    "authors": "Ashley Moran",
-    "link": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
     "category": "IEEE 综合新闻"
   },
   {

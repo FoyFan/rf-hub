@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Automotive demands driving passive components to extreme performance",
+      "source": "EDN",
+      "snippet": "High-end passive components for vehicle battery measurements can be used elsewhere. The post Automotive demands driving passive components to extreme performance appeared first on EDN .",
+      "published": "2026-10-16T17:03:13+00:00",
+      "authors": "C aliou cisse",
+      "link": "https://www.edn.com/automotive-demands-driving-passive-components-to-extreme-performance/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Apollo 11 corner reflector",
       "source": "EDN",
       "snippet": "Hard science data is typically no barrier to enduring belief for the conspiracy theorist. Nevertheless, this engineer tries, tries again. The post Apollo 11 corner reflector appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-14T12:00:03+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/nifty-nulling-of-non-negligible-dpot-scale-errors/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Apple heads Home: Distributed identity validation, and how much does Matter matter?",
-      "source": "EDN",
-      "snippet": "Apple branding is key to its resurrected smart home “push”. Broader ecosystem compatibility, also feasible, is absent from the messaging. The post Apple heads Home: Distributed identity validation, and how much does Matter matter? appeared first on EDN .",
-      "published": "2026-10-14T03:09:11+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/apple-heads-home-distributed-identity-validation-and-how-much-does-matter-matter/",
       "category": "EDN 电子设计新闻"
     }
   ]
