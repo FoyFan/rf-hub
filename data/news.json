@@ -1,5 +1,50 @@
 [
   {
+    "title": "IonQ and Cavendish Lab open Quantum innovation Centre",
+    "source": "Electronics Weekly",
+    "snippet": "IonQ, the Maryland manufacturer of general purpose quantum computers based on trapped ion technology, and Cambridge University’s Cavendish Lab have opened the IonQ Quantum Innovation Centre at the Ray Dolby […] The post IonQ and Cavendish Lab open Quantum innovation Centre appeared first on Electron",
+    "published": "2026-10-16T05:15:27+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ionq-and-cavendish-lab-open-quantum-innovation-centre-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Infineon and Wolfspeed hook up on SiC wafers",
+    "source": "Electronics Weekly",
+    "snippet": "Infineon and Wolfspeed have signed a new multi-year supply agreement for 200mm SiC wafers to take over from 150 mm wafers “Silicon carbide is at the heart of the energy […] The post Infineon and Wolfspeed hook up on SiC wafers appeared first on Electronics Weekly .",
+    "published": "2026-10-16T05:14:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/infineon-and-wolfspeed-hook-up-on-sic-wafers-uh-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Altair Semi to add Iridium direct phone signals to cellular chipsets",
+    "source": "Electronics Weekly",
+    "snippet": "Altair Semiconductor is integrating Iridium NTN Direct capability into Altair’s ALT1350 and next-generation ALT1550 IoT chipsets. With terrestrial cellular IoT and Iridium satellite connectivity on a single chipset, device manufacturers, […] The post Altair Semi to add Iridium direct phone signals t",
+    "published": "2026-10-16T05:14:46+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/altair-semi-to-add-iridium-direct-phone-signals-to-iot-chipsets-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Datacentre installation growth rate slowed by opposition",
+    "source": "Electronics Weekly",
+    "snippet": "The Q2 Data Center Physical Infrastructure (DCPI) market grew 27% YoY to $14 billion in manufacturer revenue, says Dell’Oro. The quarter extended the market’s run of growth above 20%, as […] The post Datacentre installation growth rate slowed by opposition appeared first on Electronics Weekly .",
+    "published": "2026-10-16T05:06:39+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/datacentre-infrastructure-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "External EMC protection module",
+    "source": "Electronics Weekly",
+    "snippet": "Cincoze has launched its new external EMC solutions, the Power Protection Module (PPM), to further strengthen protection against the electromagnetic noise common in industrial environments. Electrical noise can often cause […] The post External EMC protection module appeared first on Electronics Wee",
+    "published": "2026-10-16T05:01:01+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/external-emc-protection-module-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Tesla Models Y and 3 Dominate",
     "source": "Electronics Weekly",
     "snippet": "Sales figures from CleanTechnica show that most of Tesla’s revenues are coming from Models 3 and Y, The two newer models are widely regarded as Tesla’s mass market cars […] The post Tesla Models Y and 3 Dominate appeared first on Electronics Weekly .",
@@ -126,15 +171,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "UK Space Agency backs UK ADR mission for space debris removal",
-    "source": "Electronics Weekly",
-    "snippet": "The UK Space Agency (UKSA) is backing an Active Debris Removal (ADR) mission to remove two defunct satellites and release them lower into the atmosphere where they will naturally burn […] The post UK Space Agency backs UK ADR mission for space debris removal appeared first on Electronics Weekly .",
-    "published": "2026-10-15T10:01:03+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/uk-space-agency-backs-uk-adr-mission-for-space-debris-removal-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Compact Analog Signal Generators for Fast RF Testing",
     "source": "IEEE Spectrum",
     "snippet": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution. What you will learn about: How to m",
@@ -153,15 +189,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-    "published": "2026-10-15T09:49:29+00:00",
-    "authors": "Staff",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
     "source": "EE Times",
     "snippet": "Grid modernization is expanding the energy sector’s cyberattack surface, while limited visibility across IT and OT networks leaves connected assets exposed. The post Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching appeared first on EE Times .",
@@ -169,33 +196,6 @@
     "authors": "David Montoya",
     "link": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Nvidia invests in five UK startups",
-    "source": "Electronics Weekly",
-    "snippet": "Today, Nvidia announced new planned investments in UK startups: Boltz, Foresight, Hiverge, Prima Mente and Riverlane. Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI […] The post Nvidia invests in five UK startups appeared first on Electronics Weekly .",
-    "published": "2026-10-15T05:15:38+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Salience Labs raises $125m for photonics ICs",
-    "source": "Electronics Weekly",
-    "snippet": "Salience Labs of Thame, a five-year-old photonic IC company built on technology from Oxford and Munster universities, has completed a $125m Series B. The company’s Seed round in 2022 raised […] The post Salience Labs raises $125m for photonics ICs appeared first on Electronics Weekly .",
-    "published": "2026-10-15T05:15:26+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Japan to invest $21bn in two GlobalFoundries fabs in New York",
-    "source": "Electronics Weekly",
-    "snippet": "GlobalFoundries is to build two fabs at its Malta, New York site, with Japan providing up to $21bn in funding. Japan provides the investment, while GF contributes its technologies, manufacturing […] The post Japan to invest $21bn in two GlobalFoundries fabs in New York appeared first on Electronics ",
-    "published": "2026-10-15T05:13:06+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
