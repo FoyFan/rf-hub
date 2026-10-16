@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Apollo 11 corner reflector",
+      "source": "EDN",
+      "snippet": "Hard science data is typically no barrier to enduring belief for the conspiracy theorist. Nevertheless, this engineer tries, tries again. The post Apollo 11 corner reflector appeared first on EDN .",
+      "published": "2026-10-16T12:00:15+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/apollo-11-corner-reflector/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Not all diodes use electrons",
       "source": "EDN",
       "snippet": "Sometimes thinking like a geek pays off. Especially when you're dealing with overheated Judge Judy fanatics. The post Not all diodes use electrons appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-14T03:09:11+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/apple-heads-home-distributed-identity-validation-and-how-much-does-matter-matter/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "5G chips and modules power phones, wearables, IoT, and vehicles",
-      "source": "EDN",
-      "snippet": "The latest 5G chips and modules target a range of applications, from smartphones and wearables to industrial IoT and connected vehicles. The post 5G chips and modules power phones, wearables, IoT, and vehicles appeared first on EDN .",
-      "published": "2026-10-13T14:00:36+00:00",
-      "authors": "Gina Roos",
-      "link": "https://www.edn.com/5g-chips-and-modules-power-phones-wearables-iot-and-vehicles/",
       "category": "EDN 电子设计新闻"
     }
   ]

@@ -1,5 +1,86 @@
 [
   {
+    "title": "Apollo 11 corner reflector",
+    "source": "EDN",
+    "snippet": "Hard science data is typically no barrier to enduring belief for the conspiracy theorist. Nevertheless, this engineer tries, tries again. The post Apollo 11 corner reflector appeared first on EDN .",
+    "published": "2026-10-16T12:00:15+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/apollo-11-corner-reflector/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
+    "source": "Electronics Weekly",
+    "snippet": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
+    "published": "2026-10-16T11:12:17+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Taiwan’s AI Ambitions Run into Talent Gap",
+    "source": "EE Times",
+    "snippet": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
+    "published": "2026-10-16T10:55:42+00:00",
+    "authors": "Sally Ward-Foxton",
+    "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "R&S extends amplifier range for satellite use",
+    "source": "Electronics Weekly",
+    "snippet": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
+    "published": "2026-10-16T10:54:42+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Raltron monolithic crystal filter series for gateway ground stations",
+    "source": "Electronics Weekly",
+    "snippet": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
+    "published": "2026-10-16T10:20:32+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Data services the growth engine for Satellite Connectivity revenue – Novaspace",
+    "source": "Electronics Weekly",
+    "snippet": "Novaspace, the French space consulting company, has released the 33rd edition of its Satellite Connectivity and Video Market report, which charts satellite connectivity moving firmly into the mainstream. Headline findings […] The post Data services the growth engine for Satellite Connectivity revenu",
+    "published": "2026-10-16T09:16:31+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/data-services-the-growth-engine-for-satellite-connectivity-revenue-novaspace-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Your Chip Works. Prove It Is Secure.",
+    "source": "EE Times",
+    "snippet": "Join this 30-Minute BitCast as our expert demonstrates how information flow tracking follows security-sensitive assets during existing simulation or emulation runs. The post Your Chip Works. Prove It Is Secure. appeared first on EE Times .",
+    "published": "2026-10-16T08:37:49+00:00",
+    "authors": "Arteris",
+    "link": "https://www.eetimes.com/your-chip-works-prove-it-is-secure/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Anglia addresses alternative analogue",
+    "source": "Electronics Weekly",
+    "snippet": "In response to customer frustration around the supply of some analogue components, Anglia Components has announced its strategy to supply the entire signal chain. Industrial, comms, test and measurement and […] The post Anglia addresses alternative analogue appeared first on Electronics Weekly .",
+    "published": "2026-10-16T08:04:07+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/anglia-addresses-alternative-analogue-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
+    "source": "EE Times",
+    "snippet": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, and system design to support AI development. The post AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value appeared first on EE Times .",
+    "published": "2026-10-16T07:18:34+00:00",
+    "authors": "Susan Hong",
+    "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "IonQ and Cavendish Lab open Quantum innovation Centre",
     "source": "Electronics Weekly",
     "snippet": "IonQ, the Maryland manufacturer of general purpose quantum computers based on trapped ion technology, and Cambridge University’s Cavendish Lab have opened the IonQ Quantum Innovation Centre at the Ray Dolby […] The post IonQ and Cavendish Lab open Quantum innovation Centre appeared first on Electron",
@@ -20,7 +101,7 @@
   {
     "title": "Altair Semi to add Iridium direct phone signals to cellular chipsets",
     "source": "Electronics Weekly",
-    "snippet": "Altair Semiconductor is integrating Iridium NTN Direct capability into Altair’s ALT1350 and next-generation ALT1550 IoT chipsets. With terrestrial cellular IoT and Iridium satellite connectivity on a single chipset, device manufacturers, […] The post Altair Semi to add Iridium direct phone signals t",
+    "snippet": "Altair Semiconductor is integrating Iridium NTN Direct capability into Altair’s ALT1350 and next-generation ALT1550 IoT chipsets.With terrestrial cellular IoT and Iridium satellite connectivity on a single chipset, device manufacturers, module […] The post Altair Semi to add Iridium direct phone sig",
     "published": "2026-10-16T05:14:46+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/altair-semi-to-add-iridium-direct-phone-signals-to-iot-chipsets-2026-10/",
@@ -29,7 +110,7 @@
   {
     "title": "Datacentre installation growth rate slowed by opposition",
     "source": "Electronics Weekly",
-    "snippet": "The Q2 Data Center Physical Infrastructure (DCPI) market grew 27% YoY to $14 billion in manufacturer revenue, says Dell’Oro. The quarter extended the market’s run of growth above 20%, as […] The post Datacentre installation growth rate slowed by opposition appeared first on Electronics Weekly .",
+    "snippet": "The Q2 Datacentre Physical Infrastructure (DCPI) market grew 27% YoY to $14 billion in manufacturer revenue, says Dell’Oro. The quarter extended the market’s run of growth above 20%, as demand […] The post Datacentre installation growth rate slowed by opposition appeared first on Electronics Weekly ",
     "published": "2026-10-16T05:06:39+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/datacentre-infrastructure-2026-10/",
@@ -42,15 +123,6 @@
     "published": "2026-10-16T05:01:01+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/external-emc-protection-module-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Tesla Models Y and 3 Dominate",
-    "source": "Electronics Weekly",
-    "snippet": "Sales figures from CleanTechnica show that most of Tesla’s revenues are coming from Models 3 and Y, The two newer models are widely regarded as Tesla’s mass market cars […] The post Tesla Models Y and 3 Dominate appeared first on Electronics Weekly .",
-    "published": "2026-10-16T00:00:24+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/tesla-models-y-and-3-dominate-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -99,15 +171,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Fable: The Commonsense CEO",
-    "source": "Electronics Weekly",
-    "snippet": "There was once a mega-company which was in trouble – its market cap of $96 billion was down 80% from its value 18 years earlier. It had made an annual […] The post Fable: The Commonsense CEO appeared first on Electronics Weekly .",
-    "published": "2026-10-15T13:23:11+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-commonsense-ceo-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "HUSB237: The Cost-Effective PD Sink with Just 2 Passives",
     "source": "EE Times",
     "snippet": "Discover Hynetek’s HUSB237, a compact USB-PD sink controller enabling firmware-free USB-C upgrades up to 100W with only two external components. The post HUSB237: The Cost-Effective PD Sink with Just 2 Passives appeared first on EE Times .",
@@ -135,24 +198,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "HEADS UP – Dstl trialling safe usage of head-mounted military technology",
-    "source": "Electronics Weekly",
-    "snippet": "The UK’s Defence Science and Technology Laboratory (Dstl) has been trialling – in a HEADS UP project – a human-centred design approach to novel technologies that are worn or carried. […] The post HEADS UP – Dstl trialling safe usage of head-mounted military technology appeared first on Electronics W",
-    "published": "2026-10-15T11:02:02+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/research-news/heads-up-dstl-trialling-safe-usage-of-head-mounted-military-technology-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems",
-    "source": "Electronics Weekly",
-    "snippet": "Critical National Infrastructure (CNI) products may remain in service for 10 or even 20 years. During that time software changes, attack techniques evolve and regulation becomes more demanding, writes Jim […] The post Beyond software patching: how CHERI can limit the blast radius in long-life CNI sy",
-    "published": "2026-10-15T11:00:53+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/beyond-software-patching-how-cheri-can-limit-the-blast-radius-in-long-life-cni-systems-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
     "source": "EE Times",
     "snippet": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most advanced chipmaking. The post Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking appeared first on EE Times .",
@@ -160,15 +205,6 @@
     "authors": "Pat Brans",
     "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "TSMC has $47bn revenue Q3",
-    "source": "Electronics Weekly",
-    "snippet": "TSMC reported Q3 revenues up 41.2% YoY and 17.2% QoQ at $46.72 billion Gross margin for the quarter was 66.4%, operating margin was 58.7%, and net profit margin was 51.1%. […] The post TSMC has $47bn revenue Q3 appeared first on Electronics Weekly .",
-    "published": "2026-10-15T10:08:57+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/tsmc-has-47bn-revenue-q3-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Compact Analog Signal Generators for Fast RF Testing",
@@ -225,15 +261,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Co-Packaged Optics Moves from Promise to Production Planning",
-    "source": "EE Times",
-    "snippet": "At Ayar Labs CPO Summit, Meta, Broadcom, AMD, and others weighed in on readiness for a 2028 co-packaged optics demand surge and the OCI MSA’s role. The post Co-Packaged Optics Moves from Promise to Production Planning appeared first on EE Times .",
-    "published": "2026-10-14T15:41:12+00:00",
-    "authors": "Ayar Labs",
-    "link": "https://www.eetimes.com/co-packaged-optics-moves-from-promise-to-production-planning/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Integrated FEMs ease 2.4-GHz RF design",
     "source": "EDN",
     "snippet": "pSemi offers the PE566212 and PE566213 2.4-GHz SOI front-end modules (FEMs) for Bluetooth, Zigbee, and Thread applications. The post Integrated FEMs ease 2.4-GHz RF design appeared first on EDN .",
@@ -279,24 +306,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection",
-    "source": "EE Times",
-    "snippet": "Explore VICFUSE's Class CF fuse line, which offers current-limiting technology and meets Class J performance standards in a compact design. The post VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection appeared first on EE Times .",
-    "published": "2026-10-14T13:00:00+00:00",
-    "authors": "ALI",
-    "link": "https://www.eetimes.com/vicfuse-ul-standard-class-series-fuse-holders-quality-reliability-and-industrial-protection/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "TIE Showcases Taiwan’s Push to Deploy AI Across Industries",
-    "source": "EE Times",
-    "snippet": "Discover how Taiwan Innotech Expo 2026 showcased AI solutions designed to advance industries with practical, real-world impact The post TIE Showcases Taiwan’s Push to Deploy AI Across Industries appeared first on EE Times .",
-    "published": "2026-10-14T13:00:00+00:00",
-    "authors": "EE Times Taiwan",
-    "link": "https://www.eetimes.com/tie-showcases-taiwans-push-to-deploy-ai-across-industries/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Nifty nulling of non-negligible dpot “scale” errors",
     "source": "EDN",
     "snippet": "This silly simple circuit cancels out potentially serious digital potentiometer zero- and full-scale errors. The post Nifty nulling of non-negligible dpot “scale” errors appeared first on EDN .",
@@ -312,15 +321,6 @@
     "published": "2026-10-14T03:09:11+00:00",
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/apple-heads-home-distributed-identity-validation-and-how-much-does-matter-matter/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "5G chips and modules power phones, wearables, IoT, and vehicles",
-    "source": "EDN",
-    "snippet": "The latest 5G chips and modules target a range of applications, from smartphones and wearables to industrial IoT and connected vehicles. The post 5G chips and modules power phones, wearables, IoT, and vehicles appeared first on EDN .",
-    "published": "2026-10-13T14:00:36+00:00",
-    "authors": "Gina Roos",
-    "link": "https://www.edn.com/5g-chips-and-modules-power-phones-wearables-iot-and-vehicles/",
     "category": "EDN 电子设计新闻"
   },
   {
