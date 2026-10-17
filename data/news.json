@@ -54,6 +54,33 @@
     "category": "EE Times 行业新闻"
   },
   {
+    "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
+    "source": "Electronics Weekly",
+    "snippet": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
+    "published": "2026-10-16T14:24:13+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
+    "source": "Electronics Weekly",
+    "snippet": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
+    "published": "2026-10-16T13:38:02+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "When Mandy Became A Revolutionary",
+    "source": "Electronics Weekly",
+    "snippet": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
+    "published": "2026-10-16T13:32:30+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Apollo 11 corner reflector",
     "source": "EDN",
     "snippet": "Hard science data is typically no barrier to enduring belief for the conspiracy theorist. Nevertheless, this engineer tries, tries again. The post Apollo 11 corner reflector appeared first on EDN .",
@@ -61,6 +88,15 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/apollo-11-corner-reflector/",
     "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
+    "source": "Electronics Weekly",
+    "snippet": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
+    "published": "2026-10-16T11:12:17+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
+    "category": "电子周刊"
   },
   {
     "title": "Taiwan’s AI Ambitions Run into Talent Gap",
@@ -72,6 +108,33 @@
     "category": "EE Times 行业新闻"
   },
   {
+    "title": "R&S extends amplifier range for satellite use",
+    "source": "Electronics Weekly",
+    "snippet": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
+    "published": "2026-10-16T10:54:42+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Raltron monolithic crystal filter series for gateway ground stations",
+    "source": "Electronics Weekly",
+    "snippet": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
+    "published": "2026-10-16T10:20:32+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Data services the growth engine for Satellite Connectivity revenue – Novaspace",
+    "source": "Electronics Weekly",
+    "snippet": "Novaspace, the French space consulting company, has released the 33rd edition of its Satellite Connectivity and Video Market report, which charts satellite connectivity moving firmly into the mainstream. Headline findings […] The post Data services the growth engine for Satellite Connectivity revenu",
+    "published": "2026-10-16T09:16:31+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/data-services-the-growth-engine-for-satellite-connectivity-revenue-novaspace-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Your Chip Works. Prove It Is Secure.",
     "source": "EE Times",
     "snippet": "Join this 30-Minute BitCast as our expert demonstrates how information flow tracking follows security-sensitive assets during existing simulation or emulation runs. The post Your Chip Works. Prove It Is Secure. appeared first on EE Times .",
@@ -81,6 +144,15 @@
     "category": "EE Times 行业新闻"
   },
   {
+    "title": "Anglia addresses alternative analogue",
+    "source": "Electronics Weekly",
+    "snippet": "In response to customer frustration around the supply of some analogue components, Anglia Components has announced its strategy to supply the entire signal chain. Industrial, comms, test and measurement and […] The post Anglia addresses alternative analogue appeared first on Electronics Weekly .",
+    "published": "2026-10-16T08:04:07+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/anglia-addresses-alternative-analogue-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
     "source": "EE Times",
     "snippet": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, and system design to support AI development. The post AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value appeared first on EE Times .",
@@ -88,6 +160,24 @@
     "authors": "Susan Hong",
     "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "IonQ and Cavendish Lab open Quantum Innovation Centre",
+    "source": "Electronics Weekly",
+    "snippet": "IonQ, the Maryland manufacturer of general purpose quantum computers based on trapped ion technology, and Cambridge University’s Cavendish Lab have opened the IonQ Quantum Innovation Centre at the Ray Dolby […] The post IonQ and Cavendish Lab open Quantum Innovation Centre appeared first on Electron",
+    "published": "2026-10-16T05:15:27+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ionq-and-cavendish-lab-open-quantum-innovation-centre-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Infineon and Wolfspeed hook up on SiC wafers",
+    "source": "Electronics Weekly",
+    "snippet": "Infineon and Wolfspeed have signed a new multi-year supply agreement for 200mm SiC wafers to take over from 150 mm wafers “Silicon carbide is at the heart of the energy […] The post Infineon and Wolfspeed hook up on SiC wafers appeared first on Electronics Weekly .",
+    "published": "2026-10-16T05:14:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/infineon-and-wolfspeed-hook-up-on-sic-wafers-uh-2026-10/",
+    "category": "电子周刊"
   },
   {
     "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
