@@ -1,5 +1,23 @@
 [
   {
+    "title": "Precision Timing Special Report",
+    "source": "EE Times",
+    "snippet": "Choose timing with confidence: compare crystals, oscillators, RTCs, MEMS, and atomic references for reliable designs—download the guide. The post Precision Timing Special Report appeared first on EE Times .",
+    "published": "2026-10-19T20:30:16+00:00",
+    "authors": "SiTime, Micro Crystal, Abracon, ECS Inc. International,  Kyocera AVX",
+    "link": "https://www.eetimes.com/precision-timing-special-report/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+    "source": "EE Times",
+    "snippet": "Following the unveiling of its EPIC Center, Applied Materials revealed strong financial projections. We look at how it all ties together and feature a new video interview with CEO Gary Dickerson. The post Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet appeared first ",
+    "published": "2026-10-19T20:00:00+00:00",
+    "authors": "Nitin Dahad",
+    "link": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
     "source": "IEEE Spectrum",
     "snippet": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the time. IEEE’s recently released 2025 Social Impact Report showcases a variety of programs volunteers wo",
@@ -9,6 +27,15 @@
     "category": "IEEE 综合新闻"
   },
   {
+    "title": "Spectrum Instrumentation digitisers get onboard averaging function",
+    "source": "Electronics Weekly",
+    "snippet": "Spectrum Instrumentation has introduced a new firmware option for its high-resolution 59xx series digitizers to perform onboard summation averaging. The tool is for reducing unwanted signal noise while and improving […] The post Spectrum Instrumentation digitisers get onboard averaging function appe",
+    "published": "2026-10-19T16:55:49+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/spectrum-instrumentation-digitisers-get-onboard-averaging-function-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
     "source": "EE Times",
     "snippet": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times .",
@@ -16,6 +43,15 @@
     "authors": "Pablo Valerio",
     "link": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Who Wants A Sports Car?",
+    "source": "Electronics Weekly",
+    "snippet": "Tesla unveiled its flying Roadster last week, marking a return to the company’s roots. The very first vehicle Tesla ever sold was an electric sports car. The new Roadster is […] The post Who Wants A Sports Car? appeared first on Electronics Weekly .",
+    "published": "2026-10-19T13:11:11+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/who-wants-a-sports-car-2026-10/",
+    "category": "电子周刊"
   },
   {
     "title": "The Robot I Didn’t Expect to Build",
@@ -36,6 +72,24 @@
     "category": "EDN 电子设计新闻"
   },
   {
+    "title": "Power amplifier in 3x3mm QFN targets ISM-band radio",
+    "source": "Electronics Weekly",
+    "snippet": "CML Micro has released a power amplifier for ISM-band radio designs. The CMX90A002 is delivered in a 3mm x 3mm QFN module and supports the 868MHz – 915MHz licence-free ISM […] The post Power amplifier in 3x3mm QFN targets ISM-band radio appeared first on Electronics Weekly .",
+    "published": "2026-10-19T11:12:12+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/power-amplifier-in-3x3mm-qfn-targets-ism-band-radio-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "ORCA launches PT-3 photonic quantum computer",
+    "source": "Electronics Weekly",
+    "snippet": "ORCA Computing, a spin out from the University of Oxford, is launching the PT-3, the latest generation of its photonic quantum computers. The first system is live in the Digital […] The post ORCA launches PT-3 photonic quantum computer appeared first on Electronics Weekly .",
+    "published": "2026-10-19T10:08:32+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/orca-launches-pt-3-photonic-quantum-computer-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
     "source": "IEEE Spectrum",
     "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management. What you will learn about: How the shift from smart ci",
@@ -54,6 +108,24 @@
     "category": "计算 / 通信系统"
   },
   {
+    "title": "Multi-band RF module suports “all major” low bands",
+    "source": "Electronics Weekly",
+    "snippet": "A multi-band mobile radio front-end module, the FFM51010 is available from Forefront RF. It is claimed to be the only front-end module that suports all major low bands in the […] The post Multi-band RF module suports “all major” low bands appeared first on Electronics Weekly .",
+    "published": "2026-10-19T09:57:38+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/multi-band-rf-module-suports-all-major-low-bands-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "UKDI powers-up Tactical Power Challenge for military innovation",
+    "source": "Electronics Weekly",
+    "snippet": "The UKDI (UK Defence Innovation) department is launching a “Tactical Power Challenge” on behalf of the British Army, with support from the Defence Science and Technology Laboratory (Dstl). The £2.45 […] The post UKDI powers-up Tactical Power Challenge for military innovation appeared first on Electr",
+    "published": "2026-10-19T09:12:59+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/ukdi-powers-up-tactical-power-challenge-for-military-innovation-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "From Macro to Micro, and Back",
     "source": "EE Times",
     "snippet": "This year’s Nobel prizes explained large systems through their smallest parts. What can chip design learn from them, and can AI help us design in the other direction too? The post From Macro to Micro, and Back appeared first on EE Times .",
@@ -61,6 +133,42 @@
     "authors": "Moshe Zalcberg",
     "link": "https://www.eetimes.com/from-macro-to-micro-and-back/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "MS pulls out of Nscale UK datacentre project",
+    "source": "Electronics Weekly",
+    "snippet": "Nscale, the London neocloud startup, has had another setback to its IPO plans with Microsoft pulling out of a deal to be the anchor tenant on Nscale’s Loughton, Essex, datacentre […] The post MS pulls out of Nscale UK datacentre project appeared first on Electronics Weekly .",
+    "published": "2026-10-19T05:16:57+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ms-pulls-out-of-nscale-uk-datacentre-project-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Samsung, Micron, Hynix to use TSMC base dies for NVHBM",
+    "source": "Electronics Weekly",
+    "snippet": "Nvidia has asked Samsung, Hynix and Micron to use base dies made on TSMC’s 3nm node for its custom HBM called NVHBM (pictured), reports the Seoul Economic Daily. The base […] The post Samsung, Micron, Hynix to use TSMC base dies for NVHBM appeared first on Electronics Weekly .",
+    "published": "2026-10-19T05:15:21+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "SSCB to scale with the 800VDC transition",
+    "source": "Electronics Weekly",
+    "snippet": "Power Integrations and Ideal Power, developer of the B-TRAN bidirectional power switch (pictured), are getting together to deliver a solid-state circuit breaker (SSCB), which scales with the 800VDC transition. The […] The post SSCB to scale with the 800VDC transition appeared first on Electronics We",
+    "published": "2026-10-19T05:09:10+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/sscb-which-scales-with-the-800-vdc-transition-power-integrations-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Elektrobit software + Microchip hardware to accelerate vehicle production",
+    "source": "Electronics Weekly",
+    "snippet": "Elektrobit, an automotive software specialist, and Microchip are to simplify and accelerate AUTOSAR-based software development for automotive manufacturers and suppliers. By combining Microchip’s automotive hardware platforms with Elektrobit’s AUTOSAR software, […] The post Elektrobit software + Mic",
+    "published": "2026-10-19T05:08:37+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/elektrobit-software-microchip-hardware-to-accelerate-vehicle-production-2026-10/",
+    "category": "电子周刊"
   },
   {
     "title": "Fiber optic gyroscopes: Elegant engineering of modern inertial navigation",
@@ -196,24 +304,6 @@
     "authors": "Glenn Zorpette",
     "link": "https://spectrum.ieee.org/monazite-rare-earth",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Data Orchestration: The Foundation for the Next-generation Semiconductor Enterprise",
-    "source": "EE Times",
-    "snippet": "Data orchestration gives semiconductor engineering teams a practical way to unify disconnected equipment, systems, and data without replacing existing infrastructure. By creating a connected execution layer across engineering, OT, IT, facilities, and production environments, the solution contextuali",
-    "published": "2026-10-15T14:00:00+00:00",
-    "authors": "Siemens Digital Industries",
-    "link": "https://www.eetimes.com/data-orchestration-the-foundation-for-the-next-generation-semiconductor-enterprise/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "HUSB237: The Cost-Effective PD Sink with Just 2 Passives",
-    "source": "EE Times",
-    "snippet": "Discover Hynetek’s HUSB237, a compact USB-PD sink controller enabling firmware-free USB-C upgrades up to 100W with only two external components. The post HUSB237: The Cost-Effective PD Sink with Just 2 Passives appeared first on EE Times .",
-    "published": "2026-10-15T13:00:00+00:00",
-    "authors": "Hynetek Semiconductor Co., Ltd.",
-    "link": "https://www.eetimes.com/husb237-the-cost-effective-pd-sink-with-just-2-passives/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Not all diodes use electrons",
