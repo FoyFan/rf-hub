@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "SFP: The multimode module autopsy",
+      "source": "EDN",
+      "snippet": "A dissimilar laser technology trades off range for cost, at least theoretically. But it’s still faster than the LED-based predecessor. The post SFP: The multimode module autopsy appeared first on EDN .",
+      "published": "2026-10-19T12:00:19+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/sfp-the-multimode-module-autopsy/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Fiber optic gyroscopes: Elegant engineering of modern inertial navigation",
       "source": "EDN",
       "snippet": "Fiber optic gyroscope (FOG), a marvel of solid-state engineering, bridges Einstein’s relativity with modern tactical guidance. The post Fiber optic gyroscopes: Elegant engineering of modern inertial navigation appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-14T15:25:29+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/100-v-gan-fets-lower-switching-fom/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Updated rack enclosures offer flexible design options",
-      "source": "EDN",
-      "snippet": "METCASE has redesigned its COMBIMET 19-in. rack-mount enclosures to provide greater rigidity and more usable panel space. The post Updated rack enclosures offer flexible design options appeared first on EDN .",
-      "published": "2026-10-14T15:23:58+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/updated-rack-enclosures-offer-flexible-design-options/",
       "category": "EDN 电子设计新闻"
     }
   ]

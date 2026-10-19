@@ -1,8 +1,80 @@
 [
   {
+    "title": "SFP: The multimode module autopsy",
+    "source": "EDN",
+    "snippet": "A dissimilar laser technology trades off range for cost, at least theoretically. But it’s still faster than the LED-based predecessor. The post SFP: The multimode module autopsy appeared first on EDN .",
+    "published": "2026-10-19T12:00:19+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/sfp-the-multimode-module-autopsy/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Power amplifier in 3x3mm QFN targets ISM-band radio",
+    "source": "Electronics Weekly",
+    "snippet": "CML Micro has released a power amplifier for ISM-band radio designs. The CMX90A002 is delivered in a 3mm x 3mm QFN module and supports the 868MHz – 915MHz licence-free ISM […] The post Power amplifier in 3x3mm QFN targets ISM-band radio appeared first on Electronics Weekly .",
+    "published": "2026-10-19T11:12:12+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/power-amplifier-in-3x3mm-qfn-targets-ism-band-radio-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "ORCA launches PT-3 photonic quantum computer",
+    "source": "Electronics Weekly",
+    "snippet": "ORCA Computing, a spin out from the University of Oxford, is launching the PT-3, the latest generation of its photonic quantum computers. The first system is live in the Digital […] The post ORCA launches PT-3 photonic quantum computer appeared first on Electronics Weekly .",
+    "published": "2026-10-19T10:08:32+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/orca-launches-pt-3-photonic-quantum-computer-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
+    "source": "IEEE Spectrum",
+    "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management. What you will learn about: How the shift from smart ci",
+    "published": "2026-10-19T10:00:04+00:00",
+    "authors": "Intel",
+    "link": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management. What you will learn about: How the shift from smart ci",
+    "published": "2026-10-19T10:00:04+00:00",
+    "authors": "Intel",
+    "link": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Multi-band RF module suports “all major” low bands",
+    "source": "Electronics Weekly",
+    "snippet": "A multi-band mobile radio front-end module, the FFM51010 is available from Forefront RF. It is claimed to be the only front-end module that suports all major low bands in the […] The post Multi-band RF module suports “all major” low bands appeared first on Electronics Weekly .",
+    "published": "2026-10-19T09:57:38+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/multi-band-rf-module-suports-all-major-low-bands-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "UKDI powers-up Tactical Power Challenge for military innovation",
+    "source": "Electronics Weekly",
+    "snippet": "The UKDI (UK Defence Innovation) department is launching a “Tactical Power Challenge” on behalf of the British Army, with support from the Defence Science and Technology Laboratory (Dstl). The £2.45 […] The post UKDI powers-up Tactical Power Challenge for military innovation appeared first on Electr",
+    "published": "2026-10-19T09:12:59+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/ukdi-powers-up-tactical-power-challenge-for-military-innovation-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "From Macro to Micro, and Back",
+    "source": "EE Times",
+    "snippet": "This year’s Nobel prizes explained large systems through their smallest parts. What can chip design learn from them, and can AI help us design in the other direction too? The post From Macro to Micro, and Back appeared first on EE Times .",
+    "published": "2026-10-19T08:19:07+00:00",
+    "authors": "Moshe Zalcberg",
+    "link": "https://www.eetimes.com/from-macro-to-micro-and-back/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "MS pulls out of Nscale UK datacentre project",
     "source": "Electronics Weekly",
-    "snippet": "Nscale, the London neocloud startup, has had another setback to its IPO plans with Microsoft pulling out of a deal to be the anchor tenant on Nscale’s Loughton, Essex datacentre […] The post MS pulls out of Nscale UK datacentre project appeared first on Electronics Weekly .",
+    "snippet": "Nscale, the London neocloud startup, has had another setback to its IPO plans with Microsoft pulling out of a deal to be the anchor tenant on Nscale’s Loughton, Essex, datacentre […] The post MS pulls out of Nscale UK datacentre project appeared first on Electronics Weekly .",
     "published": "2026-10-19T05:16:57+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/ms-pulls-out-of-nscale-uk-datacentre-project-2026-10/",
@@ -11,16 +83,16 @@
   {
     "title": "Samsung, Micron, Hynix to use TSMC base dies for NVHBM",
     "source": "Electronics Weekly",
-    "snippet": "Nvidia has asked Samsung. Hynix and Micron to use base dies made on TSMC’s 3nm node for its custom HBM called NVHBM (pictured), reports the Seoul Economic Daily. The base dies […] The post Samsung, Micron, Hynix to use TSMC base dies for NVHBM appeared first on Electronics Weekly .",
+    "snippet": "Nvidia has asked Samsung, Hynix and Micron to use base dies made on TSMC’s 3nm node for its custom HBM called NVHBM (pictured), reports the Seoul Economic Daily. The base […] The post Samsung, Micron, Hynix to use TSMC base dies for NVHBM appeared first on Electronics Weekly .",
     "published": "2026-10-19T05:15:21+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/",
     "category": "电子周刊"
   },
   {
-    "title": "SSCB to scale with the 800 VDC transition",
+    "title": "SSCB to scale with the 800VDC transition",
     "source": "Electronics Weekly",
-    "snippet": "Power Integrations and Ideal Power, developer of the B-TRAN bidirectional power switch (pictured), are getting together to deliver a solid-state circuit breaker (SSCB) which scales with the 800 VDC transition. […] The post SSCB to scale with the 800 VDC transition appeared first on Electronics Weekl",
+    "snippet": "Power Integrations and Ideal Power, developer of the B-TRAN bidirectional power switch (pictured), are getting together to deliver a solid-state circuit breaker (SSCB), which scales with the 800VDC transition. The […] The post SSCB to scale with the 800VDC transition appeared first on Electronics We",
     "published": "2026-10-19T05:09:10+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/sscb-which-scales-with-the-800-vdc-transition-power-integrations-2026-10/",
@@ -29,16 +101,16 @@
   {
     "title": "Elektrobit software + Microchip hardware to accelerate vehicle production",
     "source": "Electronics Weekly",
-    "snippet": "Elektrobit, the automotive software specialist, and Microchip are to simplify and accelerate AUTOSAR-based software development for automotive manufacturers and suppliers. By combining Microchip’s automotive hardware platforms with Elektrobit’s AUTOSAR software, […] The post Elektrobit software + Mi",
+    "snippet": "Elektrobit, an automotive software specialist, and Microchip are to simplify and accelerate AUTOSAR-based software development for automotive manufacturers and suppliers. By combining Microchip’s automotive hardware platforms with Elektrobit’s AUTOSAR software, […] The post Elektrobit software + Mic",
     "published": "2026-10-19T05:08:37+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/elektrobit-software-microchip-hardware-to-accelerate-vehicle-production-2026-10/",
     "category": "电子周刊"
   },
   {
-    "title": "Q3 PC units down 22.4% YoY",
+    "title": "Q3 PC units down 22.4% y-o-y",
     "source": "Electronics Weekly",
-    "snippet": "Q3 PC shipments of 55.4 million units were down 22.4% YoY, according to Gartner. “The impact of higher memory and storage costs is now fully reflected in PC pricing. DRAM […] The post Q3 PC units down 22.4% YoY appeared first on Electronics Weekly .",
+    "snippet": "Q3 PC shipments of 55.4 million units were down 22.4% y-o-y, according to Gartner. “The impact of higher memory and storage costs is now fully reflected in PC pricing. DRAM […] The post Q3 PC units down 22.4% y-o-y appeared first on Electronics Weekly .",
     "published": "2026-10-19T05:06:13+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/q3-pc-units-down-22-4-yoy-2026-10/",
@@ -117,33 +189,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
-    "source": "Electronics Weekly",
-    "snippet": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
-    "published": "2026-10-16T14:24:13+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
-    "source": "Electronics Weekly",
-    "snippet": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
-    "published": "2026-10-16T13:38:02+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "When Mandy Became A Revolutionary",
-    "source": "Electronics Weekly",
-    "snippet": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
-    "published": "2026-10-16T13:32:30+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Apollo 11 corner reflector",
     "source": "EDN",
     "snippet": "Hard science data is typically no barrier to enduring belief for the conspiracy theorist. Nevertheless, this engineer tries, tries again. The post Apollo 11 corner reflector appeared first on EDN .",
@@ -151,15 +196,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/apollo-11-corner-reflector/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
-    "source": "Electronics Weekly",
-    "snippet": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
-    "published": "2026-10-16T11:12:17+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Taiwan’s AI Ambitions Run into Talent Gap",
@@ -288,15 +324,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching",
-    "source": "EE Times",
-    "snippet": "Grid modernization is expanding the energy sector’s cyberattack surface, while limited visibility across IT and OT networks leaves connected assets exposed. The post Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching appeared first on EE Times .",
-    "published": "2026-10-15T08:00:00+00:00",
-    "authors": "David Montoya",
-    "link": "https://www.eetimes.com/grid-modernization-hidden-cost-a-growing-attack-surface-few-are-watching/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "IEEE Continues Preparations for the Realignment of Its Regions",
     "source": "IEEE Spectrum",
     "snippet": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “ IEEE Is Realigning Its Geographic Regions .” The “Region 1” designation will no longer be used. The new Region 2 will merge what is currently Region 1 (Northeastern U.S.) with the cu",
@@ -339,15 +366,6 @@
     "published": "2026-10-14T15:25:29+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/100-v-gan-fets-lower-switching-fom/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Updated rack enclosures offer flexible design options",
-    "source": "EDN",
-    "snippet": "METCASE has redesigned its COMBIMET 19-in. rack-mount enclosures to provide greater rigidity and more usable panel space. The post Updated rack enclosures offer flexible design options appeared first on EDN .",
-    "published": "2026-10-14T15:23:58+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/updated-rack-enclosures-offer-flexible-design-options/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -582,15 +600,6 @@
     "published": "2026-09-28T18:00:03+00:00",
     "authors": "Danielle Cann",
     "link": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
-    "source": "IEEE Spectrum",
-    "snippet": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school bus when, for the third time in a week, the power goes out. No lights, no mixer to finish my daughte",
-    "published": "2026-09-28T13:00:04+00:00",
-    "authors": "Mini Shaji Thomas",
-    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
     "category": "IEEE 综合新闻"
   },
   {
@@ -933,15 +942,6 @@
     "published": "2026-07-18T13:00:01+00:00",
     "authors": "Charles Q. Choi",
     "link": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-    "category": "计算 / 通信系统"
-  },
-  {
-    "title": "How I Turned AI to the Dark Side",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc",
-    "published": "2026-07-14T15:59:35+00:00",
-    "authors": "David Kuszmar",
-    "link": "https://spectrum.ieee.org/jailbreaking-llms",
     "category": "计算 / 通信系统"
   },
   {
