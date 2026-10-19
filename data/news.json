@@ -1,5 +1,32 @@
 [
   {
+    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
+    "source": "IEEE Spectrum",
+    "snippet": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the time. IEEE’s recently released 2025 Social Impact Report showcases a variety of programs volunteers wo",
+    "published": "2026-10-19T18:00:03+00:00",
+    "authors": "Kathy Pretz",
+    "link": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
+    "source": "EE Times",
+    "snippet": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times .",
+    "published": "2026-10-19T16:13:37+00:00",
+    "authors": "Pablo Valerio",
+    "link": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "The Robot I Didn’t Expect to Build",
+    "source": "IEEE Spectrum",
+    "snippet": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the",
+    "published": "2026-10-19T13:00:03+00:00",
+    "authors": "Jonathan W. Hurst",
+    "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "SFP: The multimode module autopsy",
     "source": "EDN",
     "snippet": "A dissimilar laser technology trades off range for cost, at least theoretically. But it’s still faster than the LED-based predecessor. The post SFP: The multimode module autopsy appeared first on EDN .",
@@ -7,24 +34,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/sfp-the-multimode-module-autopsy/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Power amplifier in 3x3mm QFN targets ISM-band radio",
-    "source": "Electronics Weekly",
-    "snippet": "CML Micro has released a power amplifier for ISM-band radio designs. The CMX90A002 is delivered in a 3mm x 3mm QFN module and supports the 868MHz – 915MHz licence-free ISM […] The post Power amplifier in 3x3mm QFN targets ISM-band radio appeared first on Electronics Weekly .",
-    "published": "2026-10-19T11:12:12+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/power-amplifier-in-3x3mm-qfn-targets-ism-band-radio-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "ORCA launches PT-3 photonic quantum computer",
-    "source": "Electronics Weekly",
-    "snippet": "ORCA Computing, a spin out from the University of Oxford, is launching the PT-3, the latest generation of its photonic quantum computers. The first system is live in the Digital […] The post ORCA launches PT-3 photonic quantum computer appeared first on Electronics Weekly .",
-    "published": "2026-10-19T10:08:32+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/orca-launches-pt-3-photonic-quantum-computer-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
@@ -45,24 +54,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Multi-band RF module suports “all major” low bands",
-    "source": "Electronics Weekly",
-    "snippet": "A multi-band mobile radio front-end module, the FFM51010 is available from Forefront RF. It is claimed to be the only front-end module that suports all major low bands in the […] The post Multi-band RF module suports “all major” low bands appeared first on Electronics Weekly .",
-    "published": "2026-10-19T09:57:38+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/multi-band-rf-module-suports-all-major-low-bands-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "UKDI powers-up Tactical Power Challenge for military innovation",
-    "source": "Electronics Weekly",
-    "snippet": "The UKDI (UK Defence Innovation) department is launching a “Tactical Power Challenge” on behalf of the British Army, with support from the Defence Science and Technology Laboratory (Dstl). The £2.45 […] The post UKDI powers-up Tactical Power Challenge for military innovation appeared first on Electr",
-    "published": "2026-10-19T09:12:59+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/ukdi-powers-up-tactical-power-challenge-for-military-innovation-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "From Macro to Micro, and Back",
     "source": "EE Times",
     "snippet": "This year’s Nobel prizes explained large systems through their smallest parts. What can chip design learn from them, and can AI help us design in the other direction too? The post From Macro to Micro, and Back appeared first on EE Times .",
@@ -72,51 +63,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "MS pulls out of Nscale UK datacentre project",
-    "source": "Electronics Weekly",
-    "snippet": "Nscale, the London neocloud startup, has had another setback to its IPO plans with Microsoft pulling out of a deal to be the anchor tenant on Nscale’s Loughton, Essex, datacentre […] The post MS pulls out of Nscale UK datacentre project appeared first on Electronics Weekly .",
-    "published": "2026-10-19T05:16:57+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/ms-pulls-out-of-nscale-uk-datacentre-project-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Samsung, Micron, Hynix to use TSMC base dies for NVHBM",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia has asked Samsung, Hynix and Micron to use base dies made on TSMC’s 3nm node for its custom HBM called NVHBM (pictured), reports the Seoul Economic Daily. The base […] The post Samsung, Micron, Hynix to use TSMC base dies for NVHBM appeared first on Electronics Weekly .",
-    "published": "2026-10-19T05:15:21+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "SSCB to scale with the 800VDC transition",
-    "source": "Electronics Weekly",
-    "snippet": "Power Integrations and Ideal Power, developer of the B-TRAN bidirectional power switch (pictured), are getting together to deliver a solid-state circuit breaker (SSCB), which scales with the 800VDC transition. The […] The post SSCB to scale with the 800VDC transition appeared first on Electronics We",
-    "published": "2026-10-19T05:09:10+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/sscb-which-scales-with-the-800-vdc-transition-power-integrations-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Elektrobit software + Microchip hardware to accelerate vehicle production",
-    "source": "Electronics Weekly",
-    "snippet": "Elektrobit, an automotive software specialist, and Microchip are to simplify and accelerate AUTOSAR-based software development for automotive manufacturers and suppliers. By combining Microchip’s automotive hardware platforms with Elektrobit’s AUTOSAR software, […] The post Elektrobit software + Mic",
-    "published": "2026-10-19T05:08:37+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/elektrobit-software-microchip-hardware-to-accelerate-vehicle-production-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Q3 PC units down 22.4% y-o-y",
-    "source": "Electronics Weekly",
-    "snippet": "Q3 PC shipments of 55.4 million units were down 22.4% y-o-y, according to Gartner. “The impact of higher memory and storage costs is now fully reflected in PC pricing. DRAM […] The post Q3 PC units down 22.4% y-o-y appeared first on Electronics Weekly .",
-    "published": "2026-10-19T05:06:13+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/q3-pc-units-down-22-4-yoy-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Fiber optic gyroscopes: Elegant engineering of modern inertial navigation",
     "source": "EDN",
     "snippet": "Fiber optic gyroscope (FOG), a marvel of solid-state engineering, bridges Einstein’s relativity with modern tactical guidance. The post Fiber optic gyroscopes: Elegant engineering of modern inertial navigation appeared first on EDN .",
@@ -124,15 +70,6 @@
     "authors": "T.K. Hareendran",
     "link": "https://www.edn.com/fiber-optic-gyroscopes-elegant-engineering-of-modern-inertial-navigation/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Ed Sets Out To Corrupt The Continentals",
-    "source": "Electronics Weekly",
-    "snippet": "There are few things more venal than a Europol with their nose in the trough and I am in pole position to prove it, Ed confides to his diary. Last […] The post Ed Sets Out To Corrupt The Continentals appeared first on Electronics Weekly .",
-    "published": "2026-10-19T00:04:22+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-sets-out-to-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
@@ -295,15 +232,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/nas-upgrades-proprietary-lockouts-and-surmounts/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
-    "source": "EE Times",
-    "snippet": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most advanced chipmaking. The post Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking appeared first on EE Times .",
-    "published": "2026-10-15T10:54:08+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Compact Analog Signal Generators for Fast RF Testing",
@@ -583,24 +511,6 @@
     "authors": "ChipAgents",
     "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-    "source": "IEEE Spectrum",
-    "snippet": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence. In this Robots Guide profile, Kemp shar",
-    "published": "2026-09-28T21:48:56+00:00",
-    "authors": "IEEE Spectrum",
-    "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
-    "source": "IEEE Spectrum",
-    "snippet": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children. The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean exploration, are evolving rapidly. Helping young learners understand the concepts is essential to pre",
-    "published": "2026-09-28T18:00:03+00:00",
-    "authors": "Danielle Cann",
-    "link": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Poetry for Engineers: The UI Designer’s Dream",
