@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Fiber optic gyroscopes: Elegant engineering of modern inertial navigation",
+      "source": "EDN",
+      "snippet": "Fiber optic gyroscope (FOG), a marvel of solid-state engineering, bridges Einstein’s relativity with modern tactical guidance. The post Fiber optic gyroscopes: Elegant engineering of modern inertial navigation appeared first on EDN .",
+      "published": "2026-10-19T02:53:29+00:00",
+      "authors": "T.K. Hareendran",
+      "link": "https://www.edn.com/fiber-optic-gyroscopes-elegant-engineering-of-modern-inertial-navigation/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Automotive demands driving passive components to extreme performance",
       "source": "EDN",
       "snippet": "High-end passive components for vehicle battery measurements can be used elsewhere. The post Automotive demands driving passive components to extreme performance appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-14T15:23:58+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/updated-rack-enclosures-offer-flexible-design-options/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Nifty nulling of non-negligible dpot “scale” errors",
-      "source": "EDN",
-      "snippet": "This silly simple circuit cancels out potentially serious digital potentiometer zero- and full-scale errors. The post Nifty nulling of non-negligible dpot “scale” errors appeared first on EDN .",
-      "published": "2026-10-14T12:00:03+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/nifty-nulling-of-non-negligible-dpot-scale-errors/",
       "category": "EDN 电子设计新闻"
     }
   ]

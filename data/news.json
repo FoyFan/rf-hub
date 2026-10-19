@@ -1,5 +1,59 @@
 [
   {
+    "title": "MS pulls out of Nscale UK datacentre project",
+    "source": "Electronics Weekly",
+    "snippet": "Nscale, the London neocloud startup, has had another setback to its IPO plans with Microsoft pulling out of a deal to be the anchor tenant on Nscale’s Loughton, Essex datacentre […] The post MS pulls out of Nscale UK datacentre project appeared first on Electronics Weekly .",
+    "published": "2026-10-19T05:16:57+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ms-pulls-out-of-nscale-uk-datacentre-project-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Samsung, Micron, Hynix to use TSMC base dies for NVHBM",
+    "source": "Electronics Weekly",
+    "snippet": "Nvidia has asked Samsung. Hynix and Micron to use base dies made on TSMC’s 3nm node for its custom HBM called NVHBM (pictured), reports the Seoul Economic Daily. The base dies […] The post Samsung, Micron, Hynix to use TSMC base dies for NVHBM appeared first on Electronics Weekly .",
+    "published": "2026-10-19T05:15:21+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "SSCB to scale with the 800 VDC transition",
+    "source": "Electronics Weekly",
+    "snippet": "Power Integrations and Ideal Power, developer of the B-TRAN bidirectional power switch (pictured), are getting together to deliver a solid-state circuit breaker (SSCB) which scales with the 800 VDC transition. […] The post SSCB to scale with the 800 VDC transition appeared first on Electronics Weekl",
+    "published": "2026-10-19T05:09:10+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/sscb-which-scales-with-the-800-vdc-transition-power-integrations-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Elektrobit software + Microchip hardware to accelerate vehicle production",
+    "source": "Electronics Weekly",
+    "snippet": "Elektrobit, the automotive software specialist, and Microchip are to simplify and accelerate AUTOSAR-based software development for automotive manufacturers and suppliers. By combining Microchip’s automotive hardware platforms with Elektrobit’s AUTOSAR software, […] The post Elektrobit software + Mi",
+    "published": "2026-10-19T05:08:37+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/elektrobit-software-microchip-hardware-to-accelerate-vehicle-production-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Q3 PC units down 22.4% YoY",
+    "source": "Electronics Weekly",
+    "snippet": "Q3 PC shipments of 55.4 million units were down 22.4% YoY, according to Gartner. “The impact of higher memory and storage costs is now fully reflected in PC pricing. DRAM […] The post Q3 PC units down 22.4% YoY appeared first on Electronics Weekly .",
+    "published": "2026-10-19T05:06:13+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/q3-pc-units-down-22-4-yoy-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Fiber optic gyroscopes: Elegant engineering of modern inertial navigation",
+    "source": "EDN",
+    "snippet": "Fiber optic gyroscope (FOG), a marvel of solid-state engineering, bridges Einstein’s relativity with modern tactical guidance. The post Fiber optic gyroscopes: Elegant engineering of modern inertial navigation appeared first on EDN .",
+    "published": "2026-10-19T02:53:29+00:00",
+    "authors": "T.K. Hareendran",
+    "link": "https://www.edn.com/fiber-optic-gyroscopes-elegant-engineering-of-modern-inertial-navigation/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
     "title": "Ed Sets Out To Corrupt The Continentals",
     "source": "Electronics Weekly",
     "snippet": "There are few things more venal than a Europol with their nose in the trough and I am in pole position to prove it, Ed confides to his diary. Last […] The post Ed Sets Out To Corrupt The Continentals appeared first on Electronics Weekly .",
@@ -117,33 +171,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "R&S extends amplifier range for satellite use",
-    "source": "Electronics Weekly",
-    "snippet": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
-    "published": "2026-10-16T10:54:42+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Raltron monolithic crystal filter series for gateway ground stations",
-    "source": "Electronics Weekly",
-    "snippet": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
-    "published": "2026-10-16T10:20:32+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Data services the growth engine for Satellite Connectivity revenue – Novaspace",
-    "source": "Electronics Weekly",
-    "snippet": "Novaspace, the French space consulting company, has released the 33rd edition of its Satellite Connectivity and Video Market report, which charts satellite connectivity moving firmly into the mainstream. Headline findings […] The post Data services the growth engine for Satellite Connectivity revenu",
-    "published": "2026-10-16T09:16:31+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/data-services-the-growth-engine-for-satellite-connectivity-revenue-novaspace-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Your Chip Works. Prove It Is Secure.",
     "source": "EE Times",
     "snippet": "Join this 30-Minute BitCast as our expert demonstrates how information flow tracking follows security-sensitive assets during existing simulation or emulation runs. The post Your Chip Works. Prove It Is Secure. appeared first on EE Times .",
@@ -153,15 +180,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Anglia addresses alternative analogue",
-    "source": "Electronics Weekly",
-    "snippet": "In response to customer frustration around the supply of some analogue components, Anglia Components has announced its strategy to supply the entire signal chain. Industrial, comms, test and measurement and […] The post Anglia addresses alternative analogue appeared first on Electronics Weekly .",
-    "published": "2026-10-16T08:04:07+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/anglia-addresses-alternative-analogue-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
     "source": "EE Times",
     "snippet": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, and system design to support AI development. The post AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value appeared first on EE Times .",
@@ -169,15 +187,6 @@
     "authors": "Susan Hong",
     "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "IonQ and Cavendish Lab open Quantum Innovation Centre",
-    "source": "Electronics Weekly",
-    "snippet": "IonQ, the Maryland manufacturer of general purpose quantum computers based on trapped ion technology, and Cambridge University’s Cavendish Lab have opened the IonQ Quantum Innovation Centre at the Ray Dolby […] The post IonQ and Cavendish Lab open Quantum Innovation Centre appeared first on Electron",
-    "published": "2026-10-16T05:15:27+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/ionq-and-cavendish-lab-open-quantum-innovation-centre-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
@@ -339,15 +348,6 @@
     "published": "2026-10-14T15:23:58+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/updated-rack-enclosures-offer-flexible-design-options/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Nifty nulling of non-negligible dpot “scale” errors",
-    "source": "EDN",
-    "snippet": "This silly simple circuit cancels out potentially serious digital potentiometer zero- and full-scale errors. The post Nifty nulling of non-negligible dpot “scale” errors appeared first on EDN .",
-    "published": "2026-10-14T12:00:03+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/nifty-nulling-of-non-negligible-dpot-scale-errors/",
     "category": "EDN 电子设计新闻"
   },
   {
