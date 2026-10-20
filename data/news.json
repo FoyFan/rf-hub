@@ -1,5 +1,14 @@
 [
   {
+    "title": "Innodisk’s DDR5 8000 RDIMM addresses edge AI",
+    "source": "Electronics Weekly",
+    "snippet": "Innodisk is expanding its DDR5 portfolio with 8000 RDIMM for compute-intensive applications, such as edge AI and enterprise servers. As the name indicates, the modules deliver data transfer speeds of […] The post Innodisk’s DDR5 8000 RDIMM addresses edge AI appeared first on Electronics Weekly .",
+    "published": "2026-10-20T15:03:32+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/memory/innodisks-ddr5-8000-rdimm-addresses-edge-ai-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Foreigners buying US shares for AI bet",
     "source": "Electronics Weekly",
     "snippet": "Foreign buying of US shares has increased sharply in the last four years, according to the IMF. The figures published in the IMF Global Financial Stability Report this October are […] The post Foreigners buying US shares for AI bet appeared first on Electronics Weekly .",
@@ -51,6 +60,15 @@
     "published": "2026-10-20T11:00:00+00:00",
     "authors": "Sally Ward-Foxton",
     "link": "https://www.eetimes.com/chris-lattner-ai-code-generation-doesnt-solve-software-engineering/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "How Singapore Connects Chip Research, Startups, and Manufacturing",
+    "source": "EE Times",
+    "snippet": "From SiC power devices to silicon photonics, Singapore is building the infrastructure and industrial partnerships needed to bring deep-tech research to market. The post How Singapore Connects Chip Research, Startups, and Manufacturing appeared first on EE Times .",
+    "published": "2026-10-20T10:55:00+00:00",
+    "authors": "Susan Hong",
+    "link": "https://www.eetimes.com/how-singapore-connects-chip-research-startups-and-manufacturing/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -114,15 +132,6 @@
     "published": "2026-10-20T05:11:38+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/adaptronics-wins-infineons-humanoid-robotics-startup-challenge-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Datacentre CPU growth outpaces GPUs and ASICs",
-    "source": "Electronics Weekly",
-    "snippet": "Agentic AI is reviving data center CPU demand, with CPU revenues up 35%, ahead of AI ASICs (+23%) and GPUs (+13%), according to the Data Centers Processor Market Monitor, Q3 […] The post Datacentre CPU growth outpaces GPUs and ASICs appeared first on Electronics Weekly .",
-    "published": "2026-10-20T05:09:12+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/descent-cpus-outpace-gpus-and-asics-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -285,15 +294,6 @@
     "published": "2026-10-16T10:55:42+00:00",
     "authors": "Sally Ward-Foxton",
     "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Your Chip Works. Prove It Is Secure.",
-    "source": "EE Times",
-    "snippet": "Join this 30-Minute BitCast as our expert demonstrates how information flow tracking follows security-sensitive assets during existing simulation or emulation runs. The post Your Chip Works. Prove It Is Secure. appeared first on EE Times .",
-    "published": "2026-10-16T08:37:49+00:00",
-    "authors": "Arteris",
-    "link": "https://www.eetimes.com/your-chip-works-prove-it-is-secure/",
     "category": "EE Times 行业新闻"
   },
   {
