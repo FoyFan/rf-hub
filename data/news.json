@@ -1,5 +1,14 @@
 [
   {
+    "title": "Good Golly It’s MOLY",
+    "source": "Electronics Weekly",
+    "snippet": "65 years ago this ad for TI diodes packaged using its Molybdenum Glass hermetic seal technique appeared in Electronics Weekly’s edition of May 3 1961: The post Good Golly It’s MOLY appeared first on Electronics Weekly .",
+    "published": "2026-10-20T00:01:00+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/good-golly-its-moly-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Precision Timing Special Report",
     "source": "EE Times",
     "snippet": "Choose timing with confidence: compare crystals, oscillators, RTCs, MEMS, and atomic references for reliable designs—download the guide. The post Precision Timing Special Report appeared first on EE Times .",
@@ -159,15 +168,6 @@
     "published": "2026-10-19T05:09:10+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/sscb-which-scales-with-the-800-vdc-transition-power-integrations-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Elektrobit software + Microchip hardware to accelerate vehicle production",
-    "source": "Electronics Weekly",
-    "snippet": "Elektrobit, an automotive software specialist, and Microchip are to simplify and accelerate AUTOSAR-based software development for automotive manufacturers and suppliers. By combining Microchip’s automotive hardware platforms with Elektrobit’s AUTOSAR software, […] The post Elektrobit software + Mic",
-    "published": "2026-10-19T05:08:37+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/elektrobit-software-microchip-hardware-to-accelerate-vehicle-production-2026-10/",
     "category": "电子周刊"
   },
   {
