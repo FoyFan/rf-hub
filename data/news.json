@@ -1,5 +1,77 @@
 [
   {
+    "title": "DigiKey scales distribution centre for 50% company growth",
+    "source": "Electronics Weekly",
+    "snippet": "DigiKey is investing $100 million over the next 18 months to scale its global product distribution centre (PDC) and order management system (OMS). The investment is to keep pace with […] The post DigiKey scales distribution centre for 50% company growth appeared first on Electronics Weekly .",
+    "published": "2026-10-20T09:46:07+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/distribution/digikey-scales-distribution-centre-for-50-company-growth-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Elbit Systems buys Canadian International Submarine Engineering",
+    "source": "Electronics Weekly",
+    "snippet": "Elbit Systems has acquired Canadian company, International Submarine Engineering (ISE), adding underwater capabilities to the defence company’s portfolio, Based in Vancouver, ISE specialises in autonomous underwater and remotely operated systems […] The post Elbit Systems buys Canadian International",
+    "published": "2026-10-20T08:19:17+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/products/sensors-products/elbit-systems-buys-canadian-international-submarine-engineering-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Building Physical AI Systems That Can Work in the Real World",
+    "source": "EE Times",
+    "snippet": "Build scalable physical AI by balancing compute, power, safety, and cost—see why system architecture outperforms raw model size. The post Building Physical AI Systems That Can Work in the Real World appeared first on EE Times .",
+    "published": "2026-10-20T08:00:00+00:00",
+    "authors": "Dermot O’Driscoll",
+    "link": "https://www.eetimes.com/building-physical-ai-systems-that-can-work-in-the-real-world/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Tenstorrent Series E raises $1.5bn",
+    "source": "Electronics Weekly",
+    "snippet": "Tenstorrent, the AI chips-to-computers manufacturer, has raised $1.5 billion in a Series E round at a $6.2 billion post-money valuation. The round was led by Trace Capital and Innovation X, with […] The post Tenstorrent Series E raises $1.5bn appeared first on Electronics Weekly .",
+    "published": "2026-10-20T05:15:04+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/tenstorrent-series-e-raises-1-5bn-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Q2 EDA revenues up 12.2% YoY",
+    "source": "Electronics Weekly",
+    "snippet": "Electronic System Design (ESD) industry revenue increased 12.2% to $5,710.8 million in Q2, up from the $5,089.4 million of Q2 2025, says the ESD Alliance. “The electronic design automation industry […] The post Q2 EDA revenues up 12.2% YoY appeared first on Electronics Weekly .",
+    "published": "2026-10-20T05:14:26+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/q2-eda-revenues-up-12-2-yoy-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "AdapTronics wins Infineon’s humanoid robotics startup challenge",
+    "source": "Electronics Weekly",
+    "snippet": "AdapTronics from Italy has won the Infineon Startup Challenge 2026 focussed on key technologies for humanoid robots. COSMzoke of Korea was runner up and TECHiFAB from Germany third. The three winning […] The post AdapTronics wins Infineon’s humanoid robotics startup challenge appeared first on Elect",
+    "published": "2026-10-20T05:11:38+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/adaptronics-wins-infineons-humanoid-robotics-startup-challenge-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Datacentre CPU growth outpaces GPUs and ASICs",
+    "source": "Electronics Weekly",
+    "snippet": "Agentic AI is reviving data center CPU demand, with CPU revenues up 35%, ahead of AI ASICs (+23%) and GPUs (+13%), according to the Data Centers Processor Market Monitor, Q3 […] The post Datacentre CPU growth outpaces GPUs and ASICs appeared first on Electronics Weekly .",
+    "published": "2026-10-20T05:09:12+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/descent-cpus-outpace-gpus-and-asics-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Hyperscaler CSPs pile on the capex",
+    "source": "Electronics Weekly",
+    "snippet": "Combined Capex among the world’s nine leading CSPs (cloud service providers) is projected to surge 106% YoY to $957 billion in 2026 and to $1.5 trillion in 2027, says TrendForce. […] The post Hyperscaler CSPs pile on the capex appeared first on Electronics Weekly .",
+    "published": "2026-10-20T05:08:24+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/hyperscaler-csps-pile-on-the-capex-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Good Golly It’s MOLY",
     "source": "Electronics Weekly",
     "snippet": "65 years ago this ad for TI diodes packaged using its Molybdenum Glass hermetic seal technique appeared in Electronics Weekly’s edition of May 3 1961: The post Good Golly It’s MOLY appeared first on Electronics Weekly .",
@@ -81,24 +153,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Power amplifier in 3x3mm QFN targets ISM-band radio",
-    "source": "Electronics Weekly",
-    "snippet": "CML Micro has released a power amplifier for ISM-band radio designs. The CMX90A002 is delivered in a 3mm x 3mm QFN module and supports the 868MHz – 915MHz licence-free ISM […] The post Power amplifier in 3x3mm QFN targets ISM-band radio appeared first on Electronics Weekly .",
-    "published": "2026-10-19T11:12:12+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/power-amplifier-in-3x3mm-qfn-targets-ism-band-radio-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "ORCA launches PT-3 photonic quantum computer",
-    "source": "Electronics Weekly",
-    "snippet": "ORCA Computing, a spin out from the University of Oxford, is launching the PT-3, the latest generation of its photonic quantum computers. The first system is live in the Digital […] The post ORCA launches PT-3 photonic quantum computer appeared first on Electronics Weekly .",
-    "published": "2026-10-19T10:08:32+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/orca-launches-pt-3-photonic-quantum-computer-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
     "source": "IEEE Spectrum",
     "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management. What you will learn about: How the shift from smart ci",
@@ -117,24 +171,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Multi-band RF module suports “all major” low bands",
-    "source": "Electronics Weekly",
-    "snippet": "A multi-band mobile radio front-end module, the FFM51010 is available from Forefront RF. It is claimed to be the only front-end module that suports all major low bands in the […] The post Multi-band RF module suports “all major” low bands appeared first on Electronics Weekly .",
-    "published": "2026-10-19T09:57:38+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/multi-band-rf-module-suports-all-major-low-bands-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "UKDI powers-up Tactical Power Challenge for military innovation",
-    "source": "Electronics Weekly",
-    "snippet": "The UKDI (UK Defence Innovation) department is launching a “Tactical Power Challenge” on behalf of the British Army, with support from the Defence Science and Technology Laboratory (Dstl). The £2.45 […] The post UKDI powers-up Tactical Power Challenge for military innovation appeared first on Electr",
-    "published": "2026-10-19T09:12:59+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/ukdi-powers-up-tactical-power-challenge-for-military-innovation-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "From Macro to Micro, and Back",
     "source": "EE Times",
     "snippet": "This year’s Nobel prizes explained large systems through their smallest parts. What can chip design learn from them, and can AI help us design in the other direction too? The post From Macro to Micro, and Back appeared first on EE Times .",
@@ -142,33 +178,6 @@
     "authors": "Moshe Zalcberg",
     "link": "https://www.eetimes.com/from-macro-to-micro-and-back/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "MS pulls out of Nscale UK datacentre project",
-    "source": "Electronics Weekly",
-    "snippet": "Nscale, the London neocloud startup, has had another setback to its IPO plans with Microsoft pulling out of a deal to be the anchor tenant on Nscale’s Loughton, Essex, datacentre […] The post MS pulls out of Nscale UK datacentre project appeared first on Electronics Weekly .",
-    "published": "2026-10-19T05:16:57+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/ms-pulls-out-of-nscale-uk-datacentre-project-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Samsung, Micron, Hynix to use TSMC base dies for NVHBM",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia has asked Samsung, Hynix and Micron to use base dies made on TSMC’s 3nm node for its custom HBM called NVHBM (pictured), reports the Seoul Economic Daily. The base […] The post Samsung, Micron, Hynix to use TSMC base dies for NVHBM appeared first on Electronics Weekly .",
-    "published": "2026-10-19T05:15:21+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "SSCB to scale with the 800VDC transition",
-    "source": "Electronics Weekly",
-    "snippet": "Power Integrations and Ideal Power, developer of the B-TRAN bidirectional power switch (pictured), are getting together to deliver a solid-state circuit breaker (SSCB), which scales with the 800VDC transition. The […] The post SSCB to scale with the 800VDC transition appeared first on Electronics We",
-    "published": "2026-10-19T05:09:10+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/sscb-which-scales-with-the-800-vdc-transition-power-integrations-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Fiber optic gyroscopes: Elegant engineering of modern inertial navigation",
@@ -267,15 +276,6 @@
     "published": "2026-10-16T07:18:34+00:00",
     "authors": "Susan Hong",
     "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
-    "source": "EE Times",
-    "snippet": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. The post Japan Offers GlobalFoundries $21B for U.S. Fab Expansion appeared first on EE Times .",
-    "published": "2026-10-15T19:00:00+00:00",
-    "authors": "Alan Patterson",
-    "link": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/",
     "category": "EE Times 行业新闻"
   },
   {
