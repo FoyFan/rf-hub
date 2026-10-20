@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Automotive sensor power supply without a switching pre-regulator",
+      "source": "EDN",
+      "snippet": "An automotive sensor power supply appears deceptively simple to design but in fact poses many formidable challenges. The post Automotive sensor power supply without a switching pre-regulator appeared first on EDN .",
+      "published": "2026-10-20T12:00:12+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/automotive-sensor-power-supply-without-a-switching-pre-regulator/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "SFP: The multimode module autopsy",
       "source": "EDN",
       "snippet": "A dissimilar laser technology trades off range for cost, at least theoretically. But it’s still faster than the LED-based predecessor. The post SFP: The multimode module autopsy appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-14T15:25:56+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "100-V GaN FETs lower switching FOM",
-      "source": "EDN",
-      "snippet": "Renesas Electronics has launched its first family of 100-V enhancement-mode (E-mode) discrete GaN power transistors. The post 100-V GaN FETs lower switching FOM appeared first on EDN .",
-      "published": "2026-10-14T15:25:29+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/100-v-gan-fets-lower-switching-fom/",
       "category": "EDN 电子设计新闻"
     }
   ]

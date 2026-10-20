@@ -1,5 +1,68 @@
 [
   {
+    "title": "Foreigners buying US shares for AI bet",
+    "source": "Electronics Weekly",
+    "snippet": "Foreign buying of US shares has increased sharply in the last four years, according to the IMF. The figures published in the IMF Global Financial Stability Report this October are […] The post Foreigners buying US shares for AI bet appeared first on Electronics Weekly .",
+    "published": "2026-10-20T13:26:35+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/foreigners-buying-us-shares-for-ai-bet-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared. By 2030, investments in manufacturing, design, materials, and packaging facilities in the United States will create demand for 189,000 new full-time semiconductor jobs. But the supply of such",
+    "published": "2026-10-20T13:00:02+00:00",
+    "authors": "Katherine Bourzac",
+    "link": "https://spectrum.ieee.org/community-college-semiconductors",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Automotive sensor power supply without a switching pre-regulator",
+    "source": "EDN",
+    "snippet": "An automotive sensor power supply appears deceptively simple to design but in fact poses many formidable challenges. The post Automotive sensor power supply without a switching pre-regulator appeared first on EDN .",
+    "published": "2026-10-20T12:00:12+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/automotive-sensor-power-supply-without-a-switching-pre-regulator/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "UK Space Agency makes grant call for Emissions Monitoring",
+    "source": "Electronics Weekly",
+    "snippet": "The UK Space Agency (UKSA) is making another grant call under its Unlocking Space for Business (USB) programme, with funding of up to £2 million available to UK-based companies. It […] The post UK Space Agency makes grant call for Emissions Monitoring appeared first on Electronics Weekly .",
+    "published": "2026-10-20T11:29:01+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/uk-space-agency-makes-grant-call-for-emissions-monitoring-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The rise of MEMS switches in electronics",
+    "source": "Electronics Weekly",
+    "snippet": "When voltage is applied, the beam touches the substrate. The MEMS switch turns on MEMS switches are gaining popularity in AI-driven optical networks, datacentres and other areas, and are considered […] The post The rise of MEMS switches in electronics appeared first on Electronics Weekly .",
+    "published": "2026-10-20T11:00:09+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/the-rise-of-mems-switches-in-electronics-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering",
+    "source": "EE Times",
+    "snippet": "AI can generate low-level code, but code generation is also making it harder to build and maintain the software ecosystems we need. The post Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering appeared first on EE Times .",
+    "published": "2026-10-20T11:00:00+00:00",
+    "authors": "Sally Ward-Foxton",
+    "link": "https://www.eetimes.com/chris-lattner-ai-code-generation-doesnt-solve-software-engineering/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+    "published": "2026-10-20T09:48:02+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "DigiKey scales distribution centre for 50% company growth",
     "source": "Electronics Weekly",
     "snippet": "DigiKey is investing $100 million over the next 18 months to scale its global product distribution centre (PDC) and order management system (OMS). The investment is to keep pace with […] The post DigiKey scales distribution centre for 50% company growth appeared first on Electronics Weekly .",
@@ -47,7 +110,7 @@
   {
     "title": "AdapTronics wins Infineon’s humanoid robotics startup challenge",
     "source": "Electronics Weekly",
-    "snippet": "AdapTronics from Italy has won the Infineon Startup Challenge 2026 focussed on key technologies for humanoid robots. COSMzoke of Korea was runner up and TECHiFAB from Germany third. The three winning […] The post AdapTronics wins Infineon’s humanoid robotics startup challenge appeared first on Elect",
+    "snippet": "AdapTronics from Italy has won the Infineon Startup Challenge 2026 focused on key technologies for humanoid robots. COSMzoke of Korea was runner up and TECHiFAB from Germany third. The three […] The post AdapTronics wins Infineon’s humanoid robotics startup challenge appeared first on Electronics We",
     "published": "2026-10-20T05:11:38+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/adaptronics-wins-infineons-humanoid-robotics-startup-challenge-2026-10/",
@@ -60,24 +123,6 @@
     "published": "2026-10-20T05:09:12+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/descent-cpus-outpace-gpus-and-asics-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Hyperscaler CSPs pile on the capex",
-    "source": "Electronics Weekly",
-    "snippet": "Combined Capex among the world’s nine leading CSPs (cloud service providers) is projected to surge 106% YoY to $957 billion in 2026 and to $1.5 trillion in 2027, says TrendForce. […] The post Hyperscaler CSPs pile on the capex appeared first on Electronics Weekly .",
-    "published": "2026-10-20T05:08:24+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/hyperscaler-csps-pile-on-the-capex-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Good Golly It’s MOLY",
-    "source": "Electronics Weekly",
-    "snippet": "65 years ago this ad for TI diodes packaged using its Molybdenum Glass hermetic seal technique appeared in Electronics Weekly’s edition of May 3 1961: The post Good Golly It’s MOLY appeared first on Electronics Weekly .",
-    "published": "2026-10-20T00:01:00+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/good-golly-its-moly-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -108,15 +153,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Spectrum Instrumentation digitisers get onboard averaging function",
-    "source": "Electronics Weekly",
-    "snippet": "Spectrum Instrumentation has introduced a new firmware option for its high-resolution 59xx series digitizers to perform onboard summation averaging. The tool is for reducing unwanted signal noise while and improving […] The post Spectrum Instrumentation digitisers get onboard averaging function appe",
-    "published": "2026-10-19T16:55:49+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/spectrum-instrumentation-digitisers-get-onboard-averaging-function-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
     "source": "EE Times",
     "snippet": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times .",
@@ -124,15 +160,6 @@
     "authors": "Pablo Valerio",
     "link": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Who Wants A Sports Car?",
-    "source": "Electronics Weekly",
-    "snippet": "Tesla unveiled its flying Roadster last week, marking a return to the company’s roots. The very first vehicle Tesla ever sold was an electric sports car. The new Roadster is […] The post Who Wants A Sports Car? appeared first on Electronics Weekly .",
-    "published": "2026-10-19T13:11:11+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/who-wants-a-sports-car-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "The Robot I Didn’t Expect to Build",
@@ -191,7 +218,7 @@
   {
     "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
     "source": "IEEE Spectrum",
-    "snippet": "This article was originally published by Canary Media . America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation — from polluting gas turbines to cleaner developments like solar farms and geothermal plants . But gigawatts of power are already ",
+    "snippet": "This article was originally published by Canary Media . America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation —from polluting gas turbines to cleaner developments like solar farms and geothermal plants . But gigawatts of power are already a",
     "published": "2026-10-17T13:00:02+00:00",
     "authors": "Maria Gallucci",
     "link": "https://spectrum.ieee.org/variable-frequency-drives",
@@ -267,15 +294,6 @@
     "published": "2026-10-16T08:37:49+00:00",
     "authors": "Arteris",
     "link": "https://www.eetimes.com/your-chip-works-prove-it-is-secure/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
-    "source": "EE Times",
-    "snippet": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, and system design to support AI development. The post AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value appeared first on EE Times .",
-    "published": "2026-10-16T07:18:34+00:00",
-    "authors": "Susan Hong",
-    "link": "https://www.eetimes.com/ai-moves-to-system-level-co-design-how-can-taiwan-capture-more-value/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -375,15 +393,6 @@
     "published": "2026-10-14T15:25:56+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "100-V GaN FETs lower switching FOM",
-    "source": "EDN",
-    "snippet": "Renesas Electronics has launched its first family of 100-V enhancement-mode (E-mode) discrete GaN power transistors. The post 100-V GaN FETs lower switching FOM appeared first on EDN .",
-    "published": "2026-10-14T15:25:29+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/100-v-gan-fets-lower-switching-fom/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -1041,15 +1050,6 @@
     "published": "2026-06-04T13:00:01+00:00",
     "authors": "Lucas Laursen",
     "link": "https://spectrum.ieee.org/nsf-x-labs",
-    "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Finding Success in Industry as a Chip Designer",
-    "source": "IEEE Spectrum 半导体",
-    "snippet": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the ",
-    "published": "2026-05-28T13:00:01+00:00",
-    "authors": "Maysam Ghovanloo",
-    "link": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
     "category": "半导体 / RFIC / 射频器件"
   },
   {
