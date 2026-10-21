@@ -1,5 +1,68 @@
 [
   {
+    "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+    "source": "EE Times",
+    "snippet": "GPS jamming is rising. Learn how 4G, 5G, and NTN positioning give mission-critical devices a trusted fallback when GNSS fails. The post When GPS Isn’t Enough: Building a Second Layer of Positioning appeared first on EE Times .",
+    "published": "2026-10-21T19:00:00+00:00",
+    "authors": "Steve Caliguri",
+    "link": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Altera extends Agilex FPGAs to defense systems",
+    "source": "EDN",
+    "snippet": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range of -55°C to +125°C. The post Altera extends Agilex FPGAs to defense systems appeared first on EDN .",
+    "published": "2026-10-21T18:34:30+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/altera-extends-agilex-fpgas-to-defense-systems/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "MCUs accelerate multimodal edge AI",
+    "source": "EDN",
+    "snippet": "The Synaptics Astra SR200 series of xMCUs runs multimodal AI workloads without the memory and compute limitations of conventional MCUs. The post MCUs accelerate multimodal edge AI appeared first on EDN .",
+    "published": "2026-10-21T18:33:33+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/mcus-accelerate-multimodal-edge-ai/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Rad-tolerant GaN converter powers space electronics",
+    "source": "EDN",
+    "snippet": "Microchip’s POL-05-20S-T GaN converter delivers up to 20 A to power FPGAs, MCUs, and other processing-intensive digital loads in space. The post Rad-tolerant GaN converter powers space electronics appeared first on EDN .",
+    "published": "2026-10-21T18:33:05+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Processor IP brings generative AI to edge devices",
+    "source": "EDN",
+    "snippet": "BrainChip’s Sequora processor IP core runs generative AI and large language models (LLMs) directly on battery-powered edge devices. The post Processor IP brings generative AI to edge devices appeared first on EDN .",
+    "published": "2026-10-21T18:32:19+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "AMD defines rack-scale infrastructure for agentic AI",
+    "source": "EDN",
+    "snippet": "AMD Helion is a rack-scale reference design for agentic AI infrastructure, combining open-source hardware and software. The post AMD defines rack-scale infrastructure for agentic AI appeared first on EDN .",
+    "published": "2026-10-21T18:31:08+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/amd-defines-rack-scale-infrastructure-for-agentic-ai/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
+    "source": "IEEE Spectrum",
+    "snippet": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect . He will begin serving as president on 1 January 2028. Schindler, who was nominated by the IEEE Board of Directors , received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874",
+    "published": "2026-10-21T18:00:03+00:00",
+    "authors": "Joanna Goodrich",
+    "link": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "Littelfuse automotive TVS diodes deliver low, flat-clamping voltage",
     "source": "Electronics Weekly",
     "snippet": "Littelfuse is launching its TP7.0SMD-XC series of automotive TVS (transient voltage suppression) diodes. The surface-mount parts delivers 7000 W peak pulse power and a low, flat-clamping voltage to protect sensitive […] The post Littelfuse automotive TVS diodes deliver low, flat-clamping voltage app",
@@ -216,15 +279,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
-    "source": "EE Times",
-    "snippet": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times .",
-    "published": "2026-10-19T16:13:37+00:00",
-    "authors": "Pablo Valerio",
-    "link": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "The Robot I Didn’t Expect to Build",
     "source": "IEEE Spectrum",
     "snippet": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the",
@@ -306,15 +360,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Apollo 11 corner reflector",
-    "source": "EDN",
-    "snippet": "Hard science data is typically no barrier to enduring belief for the conspiracy theorist. Nevertheless, this engineer tries, tries again. The post Apollo 11 corner reflector appeared first on EDN .",
-    "published": "2026-10-16T12:00:15+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/apollo-11-corner-reflector/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Chasing China’s Monazite Monopoly",
     "source": "IEEE Spectrum",
     "snippet": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings ",
@@ -342,24 +387,6 @@
     "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "Not all diodes use electrons",
-    "source": "EDN",
-    "snippet": "Sometimes thinking like a geek pays off. Especially when you're dealing with overheated Judge Judy fanatics. The post Not all diodes use electrons appeared first on EDN .",
-    "published": "2026-10-15T12:00:47+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/not-all-diodes-use-electrons/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "NAS upgrades: Proprietary lockouts and surmounts",
-    "source": "EDN",
-    "snippet": "A speedier LAN “freeway” is irrelevant if its “vehicles” remain slow. Updates are fortunately available both used and already in inventory. The post NAS upgrades: Proprietary lockouts and surmounts appeared first on EDN .",
-    "published": "2026-10-15T12:00:12+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/nas-upgrades-proprietary-lockouts-and-surmounts/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Compact Analog Signal Generators for Fast RF Testing",
     "source": "IEEE Spectrum",
     "snippet": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution. What you will learn about: How to m",
@@ -385,24 +412,6 @@
     "authors": "IEEE Member and Geographic Activities",
     "link": "https://spectrum.ieee.org/realignment-ieee-regions",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Integrated FEMs ease 2.4-GHz RF design",
-    "source": "EDN",
-    "snippet": "pSemi offers the PE566212 and PE566213 2.4-GHz SOI front-end modules (FEMs) for Bluetooth, Zigbee, and Thread applications. The post Integrated FEMs ease 2.4-GHz RF design appeared first on EDN .",
-    "published": "2026-10-14T15:27:23+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/integrated-fems-ease-2-4-ghz-rf-design/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Diamond spreader tames AI GPU hotspots",
-    "source": "EDN",
-    "snippet": "A liquid-cooling coldplate, Frore’s LiquidJet Diamond integrates a diamond heat spreader to cool hotspots in high-power-density AI GPUs. The post Diamond spreader tames AI GPU hotspots appeared first on EDN .",
-    "published": "2026-10-14T15:26:48+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/diamond-spreader-tames-ai-gpu-hotspots/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "U.S. Chip Firms Bet Big on R&D",
@@ -592,15 +601,6 @@
     "authors": "Allison Marsh",
     "link": "https://spectrum.ieee.org/bloomberg-terminal",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
-    "source": "IEEE Spectrum",
-    "snippet": "Seventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing their model human lung. It was smaller than a USB stick and made of a clear polymer slab containing na",
-    "published": "2026-09-29T13:00:02+00:00",
-    "authors": "Brandon Keim",
-    "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",

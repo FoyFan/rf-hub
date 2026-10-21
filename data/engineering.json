@@ -382,6 +382,51 @@
   ],
   "news": [
     {
+      "title": "Altera extends Agilex FPGAs to defense systems",
+      "source": "EDN",
+      "snippet": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range of -55°C to +125°C. The post Altera extends Agilex FPGAs to defense systems appeared first on EDN .",
+      "published": "2026-10-21T18:34:30+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/altera-extends-agilex-fpgas-to-defense-systems/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "MCUs accelerate multimodal edge AI",
+      "source": "EDN",
+      "snippet": "The Synaptics Astra SR200 series of xMCUs runs multimodal AI workloads without the memory and compute limitations of conventional MCUs. The post MCUs accelerate multimodal edge AI appeared first on EDN .",
+      "published": "2026-10-21T18:33:33+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/mcus-accelerate-multimodal-edge-ai/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Rad-tolerant GaN converter powers space electronics",
+      "source": "EDN",
+      "snippet": "Microchip’s POL-05-20S-T GaN converter delivers up to 20 A to power FPGAs, MCUs, and other processing-intensive digital loads in space. The post Rad-tolerant GaN converter powers space electronics appeared first on EDN .",
+      "published": "2026-10-21T18:33:05+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Processor IP brings generative AI to edge devices",
+      "source": "EDN",
+      "snippet": "BrainChip’s Sequora processor IP core runs generative AI and large language models (LLMs) directly on battery-powered edge devices. The post Processor IP brings generative AI to edge devices appeared first on EDN .",
+      "published": "2026-10-21T18:32:19+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "AMD defines rack-scale infrastructure for agentic AI",
+      "source": "EDN",
+      "snippet": "AMD Helion is a rack-scale reference design for agentic AI infrastructure, combining open-source hardware and software. The post AMD defines rack-scale infrastructure for agentic AI appeared first on EDN .",
+      "published": "2026-10-21T18:31:08+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/amd-defines-rack-scale-infrastructure-for-agentic-ai/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Clustered-bit PWM DAC pedals and settles in a “unicycle”",
       "source": "EDN",
       "snippet": "This engineer combines a fellow contributor's design and analysis data with his own to deliver a \"bit\" better circuit result. The post Clustered-bit PWM DAC pedals and settles in a “unicycle” appeared first on EDN .",
@@ -424,51 +469,6 @@
       "published": "2026-10-16T17:03:13+00:00",
       "authors": "C aliou cisse",
       "link": "https://www.edn.com/automotive-demands-driving-passive-components-to-extreme-performance/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Apollo 11 corner reflector",
-      "source": "EDN",
-      "snippet": "Hard science data is typically no barrier to enduring belief for the conspiracy theorist. Nevertheless, this engineer tries, tries again. The post Apollo 11 corner reflector appeared first on EDN .",
-      "published": "2026-10-16T12:00:15+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/apollo-11-corner-reflector/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Not all diodes use electrons",
-      "source": "EDN",
-      "snippet": "Sometimes thinking like a geek pays off. Especially when you're dealing with overheated Judge Judy fanatics. The post Not all diodes use electrons appeared first on EDN .",
-      "published": "2026-10-15T12:00:47+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/not-all-diodes-use-electrons/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "NAS upgrades: Proprietary lockouts and surmounts",
-      "source": "EDN",
-      "snippet": "A speedier LAN “freeway” is irrelevant if its “vehicles” remain slow. Updates are fortunately available both used and already in inventory. The post NAS upgrades: Proprietary lockouts and surmounts appeared first on EDN .",
-      "published": "2026-10-15T12:00:12+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/nas-upgrades-proprietary-lockouts-and-surmounts/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Integrated FEMs ease 2.4-GHz RF design",
-      "source": "EDN",
-      "snippet": "pSemi offers the PE566212 and PE566213 2.4-GHz SOI front-end modules (FEMs) for Bluetooth, Zigbee, and Thread applications. The post Integrated FEMs ease 2.4-GHz RF design appeared first on EDN .",
-      "published": "2026-10-14T15:27:23+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/integrated-fems-ease-2-4-ghz-rf-design/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Diamond spreader tames AI GPU hotspots",
-      "source": "EDN",
-      "snippet": "A liquid-cooling coldplate, Frore’s LiquidJet Diamond integrates a diamond heat spreader to cool hotspots in high-power-density AI GPUs. The post Diamond spreader tames AI GPU hotspots appeared first on EDN .",
-      "published": "2026-10-14T15:26:48+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/diamond-spreader-tames-ai-gpu-hotspots/",
       "category": "EDN 电子设计新闻"
     }
   ]
