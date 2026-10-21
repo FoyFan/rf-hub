@@ -1,5 +1,68 @@
 [
   {
+    "title": "Iceye expands SAR satellite constellation",
+    "source": "Electronics Weekly",
+    "snippet": "Iceye has successfully launched and deployed four further SAR satellites into orbit, expanding its LEO constellation for Earth Observation. The four craft include two satellites for Portugal’s Atlantic Constellation with […] The post Iceye expands SAR satellite constellation appeared first on Electr",
+    "published": "2026-10-21T09:12:18+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/iceye-expands-sar-satellite-constellation-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
+    "source": "EE Times",
+    "snippet": "A new MCU combines AI-native acceleration with integrated high-bandwidth DRAM scalable to hundreds of megabytes. The post Edge AI MCU Features Multimodal Compute, Tiered Memory appeared first on EE Times .",
+    "published": "2026-10-21T07:30:00+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "1,208,577 ideas for tech startups for free",
+    "source": "Electronics Weekly",
+    "snippet": "Idealab.ai kicked off on Monday with 1,208,577 ideas for starting up a new tech business. The site was set up by serial entrepreneur Bill Gross (pictured ) the billionaire founder […] The post 1,208,577 ideas for tech startups for free appeared first on Electronics Weekly .",
+    "published": "2026-10-21T05:16:40+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/12-ideas-for-startups-for-free-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Qualcomm to start worldwide layoffs",
+    "source": "Electronics Weekly",
+    "snippet": "Qualcomm is to lay off staff worldwide according to a memo from CEO Cristiano Amon to employees seen by Reuters. Notifications are to start next month. The number involved is […] The post Qualcomm to start worldwide layoffs appeared first on Electronics Weekly .",
+    "published": "2026-10-21T05:14:39+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/qualcomm-to-start-worldwide-layoffs-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Google and Synaptics launch xMCUs",
+    "source": "Electronics Weekly",
+    "snippet": "Synaptics and Google have introduced the xMCU – an MCU that combines heterogeneous, AI-native compute and acceleration with integrated high-bandwidth custom DRAM scalable to hundreds of megabytes, enabling larger AI […] The post Google and Synaptics launch xMCUs appeared first on Electronics Weekly ",
+    "published": "2026-10-21T05:12:43+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/google-and-synaptics-launch-xmcus-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Qinetiq to help DCMS deliver TechFirst",
+    "source": "Electronics Weekly",
+    "snippet": "QinetiQ is to help deliver the government’s skills and employability programme, TechFirst. Run by the Department of Digital, Culture, Media and Sport (DCMS), TechFirst is designed to engage a million […] The post Qinetiq to help DCMS deliver TechFirst appeared first on Electronics Weekly .",
+    "published": "2026-10-21T05:09:24+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/qinetiq-to-help-dcms-deliver-techfirst-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Qualcomm vs Arm (cont’d)",
+    "source": "Electronics Weekly",
+    "snippet": "Yesterday the judge in the Qualcomm vs Arm case heard the closing arguments on the two points in the case that are decided by the judge not the jury. The […] The post Qualcomm vs Arm (cont’d) appeared first on Electronics Weekly .",
+    "published": "2026-10-21T05:03:49+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/qualcomm-vs-arm-nudge-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Top Ten Chinese Semiconductor Companies",
     "source": "Electronics Weekly",
     "snippet": "1. SMIC (Semiconductor Manufacturing International Corporation) – China’s largest foundry, ~$9.3 billion revenue in 2025. 2. CXMT (ChangXin Memory Technologies) – Leading domestic DRAM maker, revenue surged past $8 billion. […] The post Top Ten Chinese Semiconductor Companies appeared first on Elect",
@@ -63,15 +126,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "The rise of MEMS switches in electronics",
-    "source": "Electronics Weekly",
-    "snippet": "When voltage is applied, the beam touches the substrate. The MEMS switch turns on MEMS switches are gaining popularity in AI-driven optical networks, datacentres and other areas, and are considered […] The post The rise of MEMS switches in electronics appeared first on Electronics Weekly .",
-    "published": "2026-10-20T11:00:09+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/the-rise-of-mems-switches-in-electronics-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering",
     "source": "EE Times",
     "snippet": "AI can generate low-level code, but code generation is also making it harder to build and maintain the software ecosystems we need. The post Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering appeared first on EE Times .",
@@ -90,33 +144,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-    "source": "Electronics Weekly",
-    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-    "published": "2026-10-20T09:48:02+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "DigiKey scales distribution centre for 50% company growth",
-    "source": "Electronics Weekly",
-    "snippet": "DigiKey is investing $100 million over the next 18 months to scale its global product distribution centre (PDC) and order management system (OMS). The investment is to keep pace with […] The post DigiKey scales distribution centre for 50% company growth appeared first on Electronics Weekly .",
-    "published": "2026-10-20T09:46:07+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/distribution/digikey-scales-distribution-centre-for-50-company-growth-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Elbit Systems buys Canadian International Submarine Engineering",
-    "source": "Electronics Weekly",
-    "snippet": "Elbit Systems has acquired Canadian company, International Submarine Engineering (ISE), adding underwater capabilities to the defence company’s portfolio, Based in Vancouver, ISE specialises in autonomous underwater and remotely operated systems […] The post Elbit Systems buys Canadian International",
-    "published": "2026-10-20T08:19:17+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/products/sensors-products/elbit-systems-buys-canadian-international-submarine-engineering-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Building Physical AI Systems That Can Work in the Real World",
     "source": "EE Times",
     "snippet": "Build scalable physical AI by balancing compute, power, safety, and cost—see why system architecture outperforms raw model size. The post Building Physical AI Systems That Can Work in the Real World appeared first on EE Times .",
@@ -124,24 +151,6 @@
     "authors": "Dermot O’Driscoll",
     "link": "https://www.eetimes.com/building-physical-ai-systems-that-can-work-in-the-real-world/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Tenstorrent Series E raises $1.5bn",
-    "source": "Electronics Weekly",
-    "snippet": "Tenstorrent, the AI chips-to-computers manufacturer, has raised $1.5 billion in a Series E round at a $6.2 billion post-money valuation. The round was led by Trace Capital and Innovation X, with […] The post Tenstorrent Series E raises $1.5bn appeared first on Electronics Weekly .",
-    "published": "2026-10-20T05:15:04+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/tenstorrent-series-e-raises-1-5bn-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Q2 EDA revenues up 12.2% YoY",
-    "source": "Electronics Weekly",
-    "snippet": "Electronic System Design (ESD) industry revenue increased 12.2% to $5,710.8 million in Q2, up from the $5,089.4 million of Q2 2025, says the ESD Alliance. “The electronic design automation industry […] The post Q2 EDA revenues up 12.2% YoY appeared first on Electronics Weekly .",
-    "published": "2026-10-20T05:14:26+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/q2-eda-revenues-up-12-2-yoy-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Precision Timing Special Report",
@@ -277,15 +286,6 @@
     "authors": "Brianne Costa",
     "link": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Data Center Power a Prominent Highlight of OCP 2026",
-    "source": "EE Times",
-    "snippet": "The OCP Summit showcased power delivery boards, PSU designs, hot-swap controllers, and event-based telemetry. The post Data Center Power a Prominent Highlight of OCP 2026 appeared first on EE Times .",
-    "published": "2026-10-16T15:00:00+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.eetimes.com/data-center-power-a-prominent-highlight-of-ocp-2026/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Apollo 11 corner reflector",
