@@ -1,5 +1,59 @@
 [
   {
+    "title": "Littelfuse automotive TVS diodes deliver low, flat-clamping voltage",
+    "source": "Electronics Weekly",
+    "snippet": "Littelfuse is launching its TP7.0SMD-XC series of automotive TVS (transient voltage suppression) diodes. The surface-mount parts delivers 7000 W peak pulse power and a low, flat-clamping voltage to protect sensitive […] The post Littelfuse automotive TVS diodes deliver low, flat-clamping voltage app",
+    "published": "2026-10-21T14:04:41+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/passives/littelfuse-automotive-tvs-diodes-deliver-low-flat-clamping-voltage-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "India’s OSAT Buildout Puts Semiconductor Testing in Focus",
+    "source": "EE Times",
+    "snippet": "NI said Kaynes Semicon has selected its semiconductor test systems, while other Indian OSATs continue to evaluate equipment as manufacturers prepare for production. The post India’s OSAT Buildout Puts Semiconductor Testing in Focus appeared first on EE Times .",
+    "published": "2026-10-21T13:39:13+00:00",
+    "authors": "Yashasvini Razdan",
+    "link": "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "$13.5bn Halloween spend in US",
+    "source": "Electronics Weekly",
+    "snippet": "Americans will spend $13.5 billion on Halloween this year, according to the US National Retail Federation. It will go on nightmarish costumes, spooky decorations for the house and candy for […] The post $13.5bn Halloween spend in US appeared first on Electronics Weekly .",
+    "published": "2026-10-21T13:30:57+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/13-5bn-halloween-spend-in-us-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+    "source": "IEEE Spectrum",
+    "snippet": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volun",
+    "published": "2026-10-21T13:00:02+00:00",
+    "authors": "Eliza Strickland",
+    "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Why Chip Design AI Benchmarks Must Go Beyond Functional Correctness",
+    "source": "EE Times",
+    "snippet": "Demand for custom silicon is rising as physical AI, data centers, automotive systems, and edge devices require architectures optimized for specific workloads, memory bandwidth, latency, and energy efficiency. Delivering these designs requires teams to coordinate heterogeneous compute blocks, complex",
+    "published": "2026-10-21T13:00:00+00:00",
+    "authors": "Surya Gunukula, Jerry Yicheng Wang, Kevin Zhang",
+    "link": "https://www.eetimes.com/why-chip-design-ai-benchmarks-must-go-beyond-functional-correctness/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Clustered-bit PWM DAC pedals and settles in a “unicycle”",
+    "source": "EDN",
+    "snippet": "This engineer combines a fellow contributor's design and analysis data with his own to deliver a \"bit\" better circuit result. The post Clustered-bit PWM DAC pedals and settles in a “unicycle” appeared first on EDN .",
+    "published": "2026-10-21T12:00:14+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/clustered-bit-pwm-dac-pedals-and-settles-in-a-unicycle/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
     "title": "Iceye expands SAR satellite constellation",
     "source": "Electronics Weekly",
     "snippet": "Iceye has successfully launched and deployed four further SAR satellites into orbit, expanding its LEO constellation for Earth Observation. The four craft include two satellites for Portugal’s Atlantic Constellation with […] The post Iceye expands SAR satellite constellation appeared first on Electr",
@@ -90,15 +144,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Foreigners buying US shares for AI bet",
-    "source": "Electronics Weekly",
-    "snippet": "Foreign buying of US shares has increased sharply in the last four years, according to the IMF. The figures published in the IMF Global Financial Stability Report this October are […] The post Foreigners buying US shares for AI bet appeared first on Electronics Weekly .",
-    "published": "2026-10-20T13:26:35+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/foreigners-buying-us-shares-for-ai-bet-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
     "source": "IEEE Spectrum 半导体",
     "snippet": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared. By 2030, investments in manufacturing, design, materials, and packaging facilities in the United States will create demand for 189,000 new full-time semiconductor jobs. But the supply of such",
@@ -115,15 +160,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/automotive-sensor-power-supply-without-a-switching-pre-regulator/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "UK Space Agency makes grant call for Emissions Monitoring",
-    "source": "Electronics Weekly",
-    "snippet": "The UK Space Agency (UKSA) is making another grant call under its Unlocking Space for Business (USB) programme, with funding of up to £2 million available to UK-based companies. It […] The post UK Space Agency makes grant call for Emissions Monitoring appeared first on Electronics Weekly .",
-    "published": "2026-10-20T11:29:01+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/uk-space-agency-makes-grant-call-for-emissions-monitoring-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering",
@@ -225,15 +261,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "From Macro to Micro, and Back",
-    "source": "EE Times",
-    "snippet": "This year’s Nobel prizes explained large systems through their smallest parts. What can chip design learn from them, and can AI help us design in the other direction too? The post From Macro to Micro, and Back appeared first on EE Times .",
-    "published": "2026-10-19T08:19:07+00:00",
-    "authors": "Moshe Zalcberg",
-    "link": "https://www.eetimes.com/from-macro-to-micro-and-back/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Fiber optic gyroscopes: Elegant engineering of modern inertial navigation",
     "source": "EDN",
     "snippet": "Fiber optic gyroscope (FOG), a marvel of solid-state engineering, bridges Einstein’s relativity with modern tactical guidance. The post Fiber optic gyroscopes: Elegant engineering of modern inertial navigation appeared first on EDN .",
@@ -250,15 +277,6 @@
     "authors": "Maria Gallucci",
     "link": "https://spectrum.ieee.org/variable-frequency-drives",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
-    "source": "EE Times",
-    "snippet": "The trillion-dollar semiconductor industry is ready to adapt and expand its fab infrastructure for the AI wave. The post SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development appeared first on EE Times .",
-    "published": "2026-10-16T20:59:50+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
@@ -384,15 +402,6 @@
     "published": "2026-10-14T15:26:48+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/diamond-spreader-tames-ai-gpu-hotspots/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Systems reduce latency in edge AI automation",
-    "source": "EDN",
-    "snippet": "AIE-KT78/68 edge AI systems from Aetina are powered by NVIDIA Jetson Thor and Blackwell architectures for deterministic industrial control. The post Systems reduce latency in edge AI automation appeared first on EDN .",
-    "published": "2026-10-14T15:25:56+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -591,15 +600,6 @@
     "published": "2026-09-29T13:00:02+00:00",
     "authors": "Brandon Keim",
     "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-    "source": "IEEE Spectrum",
-    "snippet": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle. Key Takeaways Explore four critical technologies enabling silicon design autonomy Understand how autonomous AI accelerates comp",
-    "published": "2026-09-29T10:00:06+00:00",
-    "authors": "ChipAgents",
-    "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
     "category": "IEEE 综合新闻"
   },
   {
