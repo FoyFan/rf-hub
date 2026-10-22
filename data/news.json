@@ -1,5 +1,14 @@
 [
   {
+    "title": "Carbon Capture Scratching The Surface",
+    "source": "Electronics Weekly",
+    "snippet": "According to the Global Status of CCS (Carbon Capture and Storage) report, there are currently 132 commercial CCS projects in operation around the world. Together, these facilities are capable of […] The post Carbon Capture Scratching The Surface appeared first on Electronics Weekly .",
+    "published": "2026-10-22T00:01:06+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/carbon-capture-scratching-the-surface-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
     "source": "EE Times",
     "snippet": "GPS jamming is rising. Learn how 4G, 5G, and NTN positioning give mission-critical devices a trusted fallback when GNSS fails. The post When GPS Isn’t Enough: Building a Second Layer of Positioning appeared first on EE Times .",
@@ -196,15 +205,6 @@
     "authors": "Gary Hilson",
     "link": "https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Innodisk’s DDR5 8000 RDIMM addresses edge AI",
-    "source": "Electronics Weekly",
-    "snippet": "Innodisk is expanding its DDR5 portfolio with 8000 RDIMM for compute-intensive applications, such as edge AI and enterprise servers. As the name indicates, the modules deliver data transfer speeds of […] The post Innodisk’s DDR5 8000 RDIMM addresses edge AI appeared first on Electronics Weekly .",
-    "published": "2026-10-20T15:03:32+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/memory/innodisks-ddr5-8000-rdimm-addresses-edge-ai-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
