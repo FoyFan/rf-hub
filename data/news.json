@@ -1,5 +1,59 @@
 [
   {
+    "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
+    "source": "EE Times",
+    "snippet": "In an exclusive EE Times interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems appeared first on EE Times .",
+    "published": "2026-10-22T09:58:39+00:00",
+    "authors": "Yashasvini Razdan",
+    "link": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Hydrogen truck for Dakar Rally",
+    "source": "Electronics Weekly",
+    "snippet": "Toyota is to enter a hydrogen-powered truck (pictured with driver Dania Akeel) in the January 2027 Dakar Rally. The truck is a hydrogen fuel cell version of the ICE Hilux […] The post Hydrogen truck for Dakar Rally appeared first on Electronics Weekly .",
+    "published": "2026-10-22T05:15:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/hydrogen-truck-for-dakar-rally-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Flapping Airplanes raises $1bn",
+    "source": "Electronics Weekly",
+    "snippet": "Flapping Airplanes, a one year-old San Francisco AI neolab, has raised $1 billion at a $6 billion valuation before it has put a product on the market. ‘Neolab’ denotes an […] The post Flapping Airplanes raises $1bn appeared first on Electronics Weekly .",
+    "published": "2026-10-22T05:14:58+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/flapping-airplanes-raises-1bn-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Photon Bridge raises €10m",
+    "source": "Electronics Weekly",
+    "snippet": "Photon Bridge, the Dutch photonics specialist, has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly […] The post Photon Bridge raises €10m appeared first on Electronics Weekly .",
+    "published": "2026-10-22T05:11:49+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/photon-bridge-raises-e10m-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Q3 phone market sinks 22% YoY",
+    "source": "Electronics Weekly",
+    "snippet": "The global smartphone market shrank 22.0% YoY to 255.3 million, according to IDC., Shipments marking the highest YoY decline to date of any quarter.. “The sharp downturn the industry has […] The post Q3 phone market sinks 22% YoY appeared first on Electronics Weekly .",
+    "published": "2026-10-22T05:07:23+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/q3-phone-market-sinks-22-yoy-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Private wireless RAN revenue growth slows",
+    "source": "Electronics Weekly",
+    "snippet": "Private Wireless Radio Access Network (RAN) revenue growth slowed to the mid-single digits in H1, reports Dell’Oro. Wide-area private wireless networks are increasingly supporting market growth, driven by opportunities in […] The post Private wireless RAN revenue growth slows appeared first on Elect",
+    "published": "2026-10-22T05:06:48+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/h1-slow-down-in-private-wireless-ran-revenue-growth-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Carbon Capture Scratching The Surface",
     "source": "Electronics Weekly",
     "snippet": "According to the Global Status of CCS (Carbon Capture and Storage) report, there are currently 132 commercial CCS projects in operation around the world. Together, these facilities are capable of […] The post Carbon Capture Scratching The Surface appeared first on Electronics Weekly .",
@@ -153,51 +207,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Qualcomm to start worldwide layoffs",
-    "source": "Electronics Weekly",
-    "snippet": "Qualcomm is to lay off staff worldwide according to a memo from CEO Cristiano Amon to employees seen by Reuters. Notifications are to start next month. The number involved is […] The post Qualcomm to start worldwide layoffs appeared first on Electronics Weekly .",
-    "published": "2026-10-21T05:14:39+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/qualcomm-to-start-worldwide-layoffs-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Google and Synaptics launch xMCUs",
-    "source": "Electronics Weekly",
-    "snippet": "Synaptics and Google have introduced the xMCU – an MCU that combines heterogeneous, AI-native compute and acceleration with integrated high-bandwidth custom DRAM scalable to hundreds of megabytes, enabling larger AI […] The post Google and Synaptics launch xMCUs appeared first on Electronics Weekly ",
-    "published": "2026-10-21T05:12:43+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/google-and-synaptics-launch-xmcus-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Qinetiq to help DCMS deliver TechFirst",
-    "source": "Electronics Weekly",
-    "snippet": "QinetiQ is to help deliver the government’s skills and employability programme, TechFirst. Run by the Department of Digital, Culture, Media and Sport (DCMS), TechFirst is designed to engage a million […] The post Qinetiq to help DCMS deliver TechFirst appeared first on Electronics Weekly .",
-    "published": "2026-10-21T05:09:24+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/qinetiq-to-help-dcms-deliver-techfirst-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Qualcomm vs Arm (cont’d)",
-    "source": "Electronics Weekly",
-    "snippet": "Yesterday the judge in the Qualcomm vs Arm case heard the closing arguments on the two points in the case that are decided by the judge not the jury. The […] The post Qualcomm vs Arm (cont’d) appeared first on Electronics Weekly .",
-    "published": "2026-10-21T05:03:49+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/qualcomm-vs-arm-nudge-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Top Ten Chinese Semiconductor Companies",
-    "source": "Electronics Weekly",
-    "snippet": "1. SMIC (Semiconductor Manufacturing International Corporation) – China’s largest foundry, ~$9.3 billion revenue in 2025. 2. CXMT (ChangXin Memory Technologies) – Leading domestic DRAM maker, revenue surged past $8 billion. […] The post Top Ten Chinese Semiconductor Companies appeared first on Elect",
-    "published": "2026-10-21T00:01:20+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-stent-chinese-semiconductor-companies-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
     "source": "EE Times",
     "snippet": "A company on Canada’s east coast is pushing acoustic telemetry toward lighter payloads and decade-scale deployments by treating energy, sensing, and animal welfare as a single systems problem. The post Innovasea Packs Long-Life Electronics into Fish Tags appeared first on EE Times .",
@@ -258,15 +267,6 @@
     "published": "2026-10-19T20:30:16+00:00",
     "authors": "SiTime, Micro Crystal, Abracon, ECS Inc. International,  Kyocera AVX",
     "link": "https://www.eetimes.com/precision-timing-special-report/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
-    "source": "EE Times",
-    "snippet": "Following the unveiling of its EPIC Center, Applied Materials revealed strong financial projections. We look at how it all ties together and feature a new video interview with CEO Gary Dickerson. The post Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet appeared first ",
-    "published": "2026-10-19T20:00:00+00:00",
-    "authors": "Nitin Dahad",
-    "link": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/",
     "category": "EE Times 行业新闻"
   },
   {
