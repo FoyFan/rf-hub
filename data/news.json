@@ -1,8 +1,62 @@
 [
   {
+    "title": "Fable: The CEO Who Cut The Cr*p",
+    "source": "Electronics Weekly",
+    "snippet": "There was once a company expecting to lose $17 billion one year who bought in a new CEO. He mortgaged all the assets of the company to raise a $23.5 […] The post Fable: The CEO Who Cut The Cr*p appeared first on Electronics Weekly .",
+    "published": "2026-10-22T13:25:18+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-ceo-who-cut-the-crp-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Why Engineers Should Brave Capitol Hill",
+    "source": "IEEE Spectrum",
+    "snippet": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an",
+    "published": "2026-10-22T13:00:02+00:00",
+    "authors": "Lucas Laursen",
+    "link": "https://spectrum.ieee.org/engineers-lobbying-congress",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Why Engineers Should Brave Capitol Hill",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an",
+    "published": "2026-10-22T13:00:02+00:00",
+    "authors": "Lucas Laursen",
+    "link": "https://spectrum.ieee.org/engineers-lobbying-congress",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
+    "source": "EE Times",
+    "snippet": "Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems. The post How Goodram Validates DRAM and SSD Reliability in Europe appeared first on EE Times .",
+    "published": "2026-10-22T13:00:00+00:00",
+    "authors": "GOODRAM",
+    "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Hacking a network switch for management enhancements",
+    "source": "EDN",
+    "snippet": "Interim steps to the end destination are often wise. And non-bleeding-edge gear can be made wiser in the process, too. The post Hacking a network switch for management enhancements appeared first on EDN .",
+    "published": "2026-10-22T12:00:00+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/hacking-a-network-switch-for-management-enhancements/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Why embedded engineering is becoming a bottleneck for industrial automation",
+    "source": "Electronics Weekly",
+    "snippet": "Industrial automation is increasingly becoming a strategic priority for manufacturers, with robotics, AI and connected production systems promising productivity, flexibility and resilience, writes Payam Pajoohi of PHYTEC. Despite this, adopting […] The post Why embedded engineering is becoming a bot",
+    "published": "2026-10-22T11:00:40+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/why-embedded-engineering-is-becoming-a-bottleneck-for-industrial-automation-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
     "source": "EE Times",
-    "snippet": "In an exclusive EE Times interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems appeared first on EE Times .",
+    "snippet": "In an exclusive interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems appeared first on EE Times .",
     "published": "2026-10-22T09:58:39+00:00",
     "authors": "Yashasvini Razdan",
     "link": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
@@ -180,15 +234,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Iceye expands SAR satellite constellation",
-    "source": "Electronics Weekly",
-    "snippet": "Iceye has successfully launched and deployed four further SAR satellites into orbit, expanding its LEO constellation for Earth Observation. The four craft include two satellites for Portugal’s Atlantic Constellation with […] The post Iceye expands SAR satellite constellation appeared first on Electr",
-    "published": "2026-10-21T09:12:18+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/iceye-expands-sar-satellite-constellation-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
     "source": "EE Times",
     "snippet": "A new MCU combines AI-native acceleration with integrated high-bandwidth DRAM scalable to hundreds of megabytes. The post Edge AI MCU Features Multimodal Compute, Tiered Memory appeared first on EE Times .",
@@ -196,15 +241,6 @@
     "authors": "Majeed Ahmad",
     "link": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "1,208,577 ideas for tech startups for free",
-    "source": "Electronics Weekly",
-    "snippet": "Idealab.ai kicked off on Monday with 1,208,577 ideas for starting up a new tech business. The site was set up by serial entrepreneur Bill Gross (pictured ) the billionaire founder […] The post 1,208,577 ideas for tech startups for free appeared first on Electronics Weekly .",
-    "published": "2026-10-21T05:16:40+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/12-ideas-for-startups-for-free-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
@@ -258,15 +294,6 @@
     "published": "2026-10-20T08:00:00+00:00",
     "authors": "Dermot O’Driscoll",
     "link": "https://www.eetimes.com/building-physical-ai-systems-that-can-work-in-the-real-world/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Precision Timing Special Report",
-    "source": "EE Times",
-    "snippet": "Choose timing with confidence: compare crystals, oscillators, RTCs, MEMS, and atomic references for reliable designs—download the guide. The post Precision Timing Special Report appeared first on EE Times .",
-    "published": "2026-10-19T20:30:16+00:00",
-    "authors": "SiTime, Micro Crystal, Abracon, ECS Inc. International,  Kyocera AVX",
-    "link": "https://www.eetimes.com/precision-timing-special-report/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -340,15 +367,6 @@
     "authors": "Georges Zissis",
     "link": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Automotive demands driving passive components to extreme performance",
-    "source": "EDN",
-    "snippet": "High-end passive components for vehicle battery measurements can be used elsewhere. The post Automotive demands driving passive components to extreme performance appeared first on EDN .",
-    "published": "2026-10-16T17:03:13+00:00",
-    "authors": "C aliou cisse",
-    "link": "https://www.edn.com/automotive-demands-driving-passive-components-to-extreme-performance/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Simulation App Speeds Up Electric Truck Battery Design",
@@ -582,15 +600,6 @@
     "published": "2026-09-30T18:00:02+00:00",
     "authors": "IEEE Awards Board",
     "link": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "A Brief History of the Bloomberg Terminal",
-    "source": "IEEE Spectrum",
-    "snippet": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to fiber-optic cables conducting trades in microseconds , traders have embraced any adva",
-    "published": "2026-09-30T13:00:02+00:00",
-    "authors": "Allison Marsh",
-    "link": "https://spectrum.ieee.org/bloomberg-terminal",
     "category": "IEEE 综合新闻"
   },
   {
@@ -943,15 +952,6 @@
     "authors": "Paul Bogard",
     "link": "https://spectrum.ieee.org/led-light-pollution",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Largest Probabilistic Computer Hits 1 Million P-Bits",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "Probabilistic computers might one day tackle certain problems well beyond standard computers while at the same time avoiding the many hardware challenges that currently vex quantum computing. Now scientists reveal they have created the largest probabilistic computer yet, one with 1 million “probabil",
-    "published": "2026-07-18T13:00:01+00:00",
-    "authors": "Charles Q. Choi",
-    "link": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-    "category": "计算 / 通信系统"
   },
   {
     "title": "The Memory in Your Thumb Drive Could Fix AI’s Big Problem",

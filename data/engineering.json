@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Hacking a network switch for management enhancements",
+      "source": "EDN",
+      "snippet": "Interim steps to the end destination are often wise. And non-bleeding-edge gear can be made wiser in the process, too. The post Hacking a network switch for management enhancements appeared first on EDN .",
+      "published": "2026-10-22T12:00:00+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/hacking-a-network-switch-for-management-enhancements/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Altera extends Agilex FPGAs to defense systems",
       "source": "EDN",
       "snippet": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range of -55°C to +125°C. The post Altera extends Agilex FPGAs to defense systems appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-19T02:53:29+00:00",
       "authors": "T.K. Hareendran",
       "link": "https://www.edn.com/fiber-optic-gyroscopes-elegant-engineering-of-modern-inertial-navigation/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Automotive demands driving passive components to extreme performance",
-      "source": "EDN",
-      "snippet": "High-end passive components for vehicle battery measurements can be used elsewhere. The post Automotive demands driving passive components to extreme performance appeared first on EDN .",
-      "published": "2026-10-16T17:03:13+00:00",
-      "authors": "C aliou cisse",
-      "link": "https://www.edn.com/automotive-demands-driving-passive-components-to-extreme-performance/",
       "category": "EDN 电子设计新闻"
     }
   ]
