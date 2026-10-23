@@ -1,12 +1,12 @@
 [
   {
-    "title": "Apple To Take 25% Of 2026 Foldables Market",
-    "source": "Electronics Weekly",
-    "snippet": "Apple is expected to take a 25% share of the 2026 foldables market despite shipping its first foldable this week, says Counterpoint Research. Nonetheless Samsung is expected to remain […] The post Apple To Take 25% Of 2026 Foldables Market appeared first on Electronics Weekly .",
-    "published": "2026-10-23T00:01:07+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/apple-to-take-25-of-foldables-market-2026-10/",
-    "category": "电子周刊"
+    "title": "Two Dollars and a Test Suite",
+    "source": "EE Times",
+    "snippet": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times .",
+    "published": "2026-10-23T08:03:27+00:00",
+    "authors": "Moshe Zalcberg",
+    "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
+    "category": "EE Times 行业新闻"
   },
   {
     "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -34,15 +34,6 @@
     "authors": "Brian Jenney",
     "link": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Fable: The CEO Who Cut The Cr*p",
-    "source": "Electronics Weekly",
-    "snippet": "There was once a company expecting to lose $17 billion one year who bought in a new CEO. He mortgaged all the assets of the company to raise a $23.5 […] The post Fable: The CEO Who Cut The Cr*p appeared first on Electronics Weekly .",
-    "published": "2026-10-22T13:25:18+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-ceo-who-cut-the-crp-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Why Engineers Should Brave Capitol Hill",
@@ -81,15 +72,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Why embedded engineering is becoming a bottleneck for industrial automation",
-    "source": "Electronics Weekly",
-    "snippet": "Industrial automation is increasingly becoming a strategic priority for manufacturers, with robotics, AI and connected production systems promising productivity, flexibility and resilience, writes Payam Pajoohi of PHYTEC. Despite this, adopting […] The post Why embedded engineering is becoming a bot",
-    "published": "2026-10-22T11:00:40+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/why-embedded-engineering-is-becoming-a-bottleneck-for-industrial-automation-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
     "source": "EE Times",
     "snippet": "In an exclusive interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems appeared first on EE Times .",
@@ -97,60 +79,6 @@
     "authors": "Yashasvini Razdan",
     "link": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Hydrogen truck for Dakar Rally",
-    "source": "Electronics Weekly",
-    "snippet": "Toyota is to enter a hydrogen-powered truck (pictured with driver Dania Akeel) in the January 2027 Dakar Rally. The truck is a hydrogen fuel cell version of the ICE Hilux […] The post Hydrogen truck for Dakar Rally appeared first on Electronics Weekly .",
-    "published": "2026-10-22T05:15:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/hydrogen-truck-for-dakar-rally-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Flapping Airplanes raises $1bn",
-    "source": "Electronics Weekly",
-    "snippet": "Flapping Airplanes, a one year-old San Francisco AI neolab, has raised $1 billion at a $6 billion valuation before it has put a product on the market. ‘Neolab’ denotes an […] The post Flapping Airplanes raises $1bn appeared first on Electronics Weekly .",
-    "published": "2026-10-22T05:14:58+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/flapping-airplanes-raises-1bn-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Photon Bridge raises €10m",
-    "source": "Electronics Weekly",
-    "snippet": "Photon Bridge, the Dutch photonics specialist, has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly […] The post Photon Bridge raises €10m appeared first on Electronics Weekly .",
-    "published": "2026-10-22T05:11:49+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/photon-bridge-raises-e10m-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Q3 phone market sinks 22% YoY",
-    "source": "Electronics Weekly",
-    "snippet": "The global smartphone market shrank 22.0% YoY to 255.3 million, according to IDC., Shipments marking the highest YoY decline to date of any quarter.. “The sharp downturn the industry has […] The post Q3 phone market sinks 22% YoY appeared first on Electronics Weekly .",
-    "published": "2026-10-22T05:07:23+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/q3-phone-market-sinks-22-yoy-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Private wireless RAN revenue growth slows",
-    "source": "Electronics Weekly",
-    "snippet": "Private Wireless Radio Access Network (RAN) revenue growth slowed to the mid-single digits in H1, reports Dell’Oro. Wide-area private wireless networks are increasingly supporting market growth, driven by opportunities in […] The post Private wireless RAN revenue growth slows appeared first on Elect",
-    "published": "2026-10-22T05:06:48+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/h1-slow-down-in-private-wireless-ran-revenue-growth-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Carbon Capture Scratching The Surface",
-    "source": "Electronics Weekly",
-    "snippet": "According to the Global Status of CCS (Carbon Capture and Storage) report, there are currently 132 commercial CCS projects in operation around the world. Together, these facilities are capable of […] The post Carbon Capture Scratching The Surface appeared first on Electronics Weekly .",
-    "published": "2026-10-22T00:01:06+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/carbon-capture-scratching-the-surface-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
@@ -214,15 +142,6 @@
     "authors": "Joanna Goodrich",
     "link": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Littelfuse automotive TVS diodes deliver low, flat-clamping voltage",
-    "source": "Electronics Weekly",
-    "snippet": "Littelfuse is launching its TP7.0SMD-XC series of automotive TVS (transient voltage suppression) diodes. The surface-mount parts delivers 7000 W peak pulse power and a low, flat-clamping voltage to protect sensitive […] The post Littelfuse automotive TVS diodes deliver low, flat-clamping voltage app",
-    "published": "2026-10-21T14:04:41+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/passives/littelfuse-automotive-tvs-diodes-deliver-low-flat-clamping-voltage-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "India’s OSAT Buildout Puts Semiconductor Testing in Focus",
@@ -295,15 +214,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/automotive-sensor-power-supply-without-a-switching-pre-regulator/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering",
-    "source": "EE Times",
-    "snippet": "AI can generate low-level code, but code generation is also making it harder to build and maintain the software ecosystems we need. The post Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering appeared first on EE Times .",
-    "published": "2026-10-20T11:00:00+00:00",
-    "authors": "Sally Ward-Foxton",
-    "link": "https://www.eetimes.com/chris-lattner-ai-code-generation-doesnt-solve-software-engineering/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
