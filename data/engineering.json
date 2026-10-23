@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Creating higher voltages, part 2: Voltage multipliers",
+      "source": "EDN",
+      "snippet": "There are several ways to boost a relatively low voltage by a factor of two or three, or even hundreds—but there are also many risks. The post Creating higher voltages, part 2: Voltage multipliers appeared first on EDN .",
+      "published": "2026-10-23T12:00:52+00:00",
+      "authors": "C aliou cisse",
+      "link": "https://www.edn.com/creating-higher-voltages-part-2-voltage-multipliers/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Hacking a network switch for management enhancements",
       "source": "EDN",
       "snippet": "Interim steps to the end destination are often wise. And non-bleeding-edge gear can be made wiser in the process, too. The post Hacking a network switch for management enhancements appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-19T12:00:19+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/sfp-the-multimode-module-autopsy/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Fiber optic gyroscopes: Elegant engineering of modern inertial navigation",
-      "source": "EDN",
-      "snippet": "Fiber optic gyroscope (FOG), a marvel of solid-state engineering, bridges Einstein’s relativity with modern tactical guidance. The post Fiber optic gyroscopes: Elegant engineering of modern inertial navigation appeared first on EDN .",
-      "published": "2026-10-19T02:53:29+00:00",
-      "authors": "T.K. Hareendran",
-      "link": "https://www.edn.com/fiber-optic-gyroscopes-elegant-engineering-of-modern-inertial-navigation/",
       "category": "EDN 电子设计新闻"
     }
   ]
