@@ -1,5 +1,32 @@
 [
   {
+    "title": "From Chip Lab to Center Stage",
+    "source": "IEEE Spectrum",
+    "snippet": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
+    "published": "2026-10-23T18:00:03+00:00",
+    "authors": "Joanna Goodrich",
+    "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "From Chip Lab to Center Stage",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
+    "published": "2026-10-23T18:00:03+00:00",
+    "authors": "Joanna Goodrich",
+    "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+    "source": "Electronics Weekly",
+    "snippet": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+    "published": "2026-10-23T15:16:25+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Space Tech Expo Europe to say farewell to Bremen",
     "source": "Electronics Weekly",
     "snippet": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
@@ -96,15 +123,6 @@
     "published": "2026-10-23T05:01:41+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/china-q3-phone-market-down-10-yoy-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Apple To Take 25% Of 2026 Foldables Market",
-    "source": "Electronics Weekly",
-    "snippet": "Apple is expected to take a 25% share of the 2026 foldables market despite shipping its first foldable this week, says Counterpoint Research. Nonetheless Samsung is expected to remain […] The post Apple To Take 25% Of 2026 Foldables Market appeared first on Electronics Weekly .",
-    "published": "2026-10-23T00:01:07+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/apple-to-take-25-of-foldables-market-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -594,15 +612,6 @@
     "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
-    "source": "IEEE Spectrum",
-    "snippet": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. Th is leaking of electricity happens when it vanishes as heat as w ell as whe n it is pilfered by thieves and nonpaying customers. More than half of the countries that track these metrics los",
-    "published": "2026-10-01T12:00:02+00:00",
-    "authors": "Emily Waltz",
-    "link": "https://spectrum.ieee.org/electricity-theft",
-    "category": "IEEE 综合新闻"
-  },
-  {
     "title": "A Brief History of the Bloomberg Terminal",
     "source": "IEEE Spectrum 计算",
     "snippet": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to fiber-optic cables conducting trades in microseconds , traders have embraced any adva",
@@ -1041,15 +1050,6 @@
     "published": "2026-06-16T10:00:02+00:00",
     "authors": "Alan Patterson",
     "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacy-chips-oems",
-    "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "NSF Experiments With New Kind of Science Funding",
-    "source": "IEEE Spectrum 半导体",
-    "snippet": "Uncle Sam wants you to solve big scientific and engineering bottlenecks outside the hallowed walls of academia. On 14 May, the U.S. National Science Foundation (NSF) issued a solicitation inviting what it calls “X-Labs,” or independent research organizations, to apply for a total of US $1.5 billion ",
-    "published": "2026-06-04T13:00:01+00:00",
-    "authors": "Lucas Laursen",
-    "link": "https://spectrum.ieee.org/nsf-x-labs",
     "category": "半导体 / RFIC / 射频器件"
   },
   {
