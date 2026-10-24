@@ -1,5 +1,14 @@
 [
   {
+    "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+    "source": "EE Times",
+    "snippet": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times .",
+    "published": "2026-10-24T00:00:00+00:00",
+    "authors": "Pablo Valerio",
+    "link": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "From Chip Lab to Center Stage",
     "source": "IEEE Spectrum",
     "snippet": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
@@ -303,15 +312,6 @@
     "published": "2026-10-21T07:30:00+00:00",
     "authors": "Majeed Ahmad",
     "link": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
-    "source": "EE Times",
-    "snippet": "A company on Canada’s east coast is pushing acoustic telemetry toward lighter payloads and decade-scale deployments by treating energy, sensing, and animal welfare as a single systems problem. The post Innovasea Packs Long-Life Electronics into Fish Tags appeared first on EE Times .",
-    "published": "2026-10-20T22:06:10+00:00",
-    "authors": "Gary Hilson",
-    "link": "https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/",
     "category": "EE Times 行业新闻"
   },
   {
