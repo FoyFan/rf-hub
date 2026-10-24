@@ -1,5 +1,14 @@
 [
   {
+    "title": "What Biometric Technology Does and Doesn’t Add to Voting",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Whether voters are alive or dead is of vital interest to democracies. Yet unscrupulous political operators have long voted on behalf of the dead or absent and otherwise committed electoral frauds exploiting the weaknesses of paper identification systems. So some 50 countries now use biometric techno",
+    "published": "2026-10-24T13:00:01+00:00",
+    "authors": "Edd Gent",
+    "link": "https://spectrum.ieee.org/biometric-voting-technology",
+    "category": "计算 / 通信系统"
+  },
+  {
     "title": "Arm Comments on Jury Decision in Qualcomm Trial",
     "source": "EE Times",
     "snippet": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times .",
@@ -943,15 +952,6 @@
     "authors": "Zeiss",
     "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a",
-    "published": "2026-07-20T15:55:00+00:00",
-    "authors": "Zeiss",
-    "link": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
-    "category": "计算 / 通信系统"
   },
   {
     "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
