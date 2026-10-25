@@ -1,5 +1,14 @@
 [
   {
+    "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments",
+    "published": "2026-10-25T12:00:02+00:00",
+    "authors": "Ralph Earle",
+    "link": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+    "category": "计算 / 通信系统"
+  },
+  {
     "title": "What Biometric Technology Does and Doesn’t Add to Voting",
     "source": "IEEE Spectrum 计算",
     "snippet": "Whether voters are alive or dead is of vital interest to democracies. Yet unscrupulous political operators have long voted on behalf of the dead or absent and otherwise committed electoral frauds exploiting the weaknesses of paper identification systems. So some 50 countries now use biometric techno",
@@ -934,15 +943,6 @@
     "authors": "Alex Music",
     "link": "https://spectrum.ieee.org/sleep-monitoring-device",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "The Computer That Helped Win World War II",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "One summer day in 1941, a British radio operator was monitoring German military frequencies and heard something unexpected in her headphones. A later report called it “strange new music.” Sounding unlike the familiar Morse dit-dit-dah of enciphered messages sent over the German Enigma network, the “",
-    "published": "2026-07-22T18:00:01+00:00",
-    "authors": "B. Jack Copeland",
-    "link": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-    "category": "计算 / 通信系统"
   },
   {
     "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
