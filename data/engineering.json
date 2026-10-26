@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "Fetal dopplers: Physics, anatomy, and audio signatures of prenatal listening",
+      "source": "EDN",
+      "snippet": "Here is how it works and what are the realistic pros and cons of this at-home listening medical device. The post Fetal dopplers: Physics, anatomy, and audio signatures of prenatal listening appeared first on EDN .",
+      "published": "2026-10-26T12:52:37+00:00",
+      "authors": "T.K. Hareendran",
+      "link": "https://www.edn.com/fetal-dopplers-physics-anatomy-and-audio-signatures-of-prenatal-listening/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Disassembling a low-tech liquid-leak detector",
+      "source": "EDN",
+      "snippet": "What good is a non-networked water sensor? Still good, as long as you remember its existence, and specifically its battery’s impermanence. The post Disassembling a low-tech liquid-leak detector appeared first on EDN .",
+      "published": "2026-10-26T12:00:58+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/disassembling-a-low-tech-liquid-leak-detector/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Creating higher voltages, part 2: Voltage multipliers",
       "source": "EDN",
       "snippet": "There are several ways to boost a relatively low voltage by a factor of two or three, or even hundreds—but there are also many risks. The post Creating higher voltages, part 2: Voltage multipliers appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-10-21T12:00:14+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/clustered-bit-pwm-dac-pedals-and-settles-in-a-unicycle/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Automotive sensor power supply without a switching pre-regulator",
-      "source": "EDN",
-      "snippet": "An automotive sensor power supply appears deceptively simple to design but in fact poses many formidable challenges. The post Automotive sensor power supply without a switching pre-regulator appeared first on EDN .",
-      "published": "2026-10-20T12:00:12+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/automotive-sensor-power-supply-without-a-switching-pre-regulator/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "SFP: The multimode module autopsy",
-      "source": "EDN",
-      "snippet": "A dissimilar laser technology trades off range for cost, at least theoretically. But it’s still faster than the LED-based predecessor. The post SFP: The multimode module autopsy appeared first on EDN .",
-      "published": "2026-10-19T12:00:19+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/sfp-the-multimode-module-autopsy/",
       "category": "EDN 电子设计新闻"
     }
   ]
