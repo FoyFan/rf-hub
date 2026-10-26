@@ -1,5 +1,14 @@
 [
   {
+    "title": "In Orbit, Useful Life Becomes a Performance Metric",
+    "source": "EE Times",
+    "snippet": "Google’s Project Suncatcher is testing AI hardware in space, where radiation, cooling, power, and hardware lifetime determine the economics of computing. The post In Orbit, Useful Life Becomes a Performance Metric appeared first on EE Times .",
+    "published": "2026-10-26T08:25:36+00:00",
+    "authors": "Ron Honig",
+    "link": "https://www.eetimes.com/in-orbit-useful-life-becomes-a-performance-metric/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
     "source": "IEEE Spectrum",
     "snippet": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments",
@@ -241,15 +250,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/clustered-bit-pwm-dac-pedals-and-settles-in-a-unicycle/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Edge AI MCU Features Multimodal Compute, Tiered Memory",
-    "source": "EE Times",
-    "snippet": "A new MCU combines AI-native acceleration with integrated high-bandwidth DRAM scalable to hundreds of megabytes. The post Edge AI MCU Features Multimodal Compute, Tiered Memory appeared first on EE Times .",
-    "published": "2026-10-21T07:30:00+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.eetimes.com/edge-ai-mcu-features-multimodal-compute-tiered-memory/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
