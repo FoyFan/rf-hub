@@ -1,6 +1,15 @@
 [
   {
     "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+    "source": "IEEE Spectrum",
+    "snippet": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments",
+    "published": "2026-10-25T12:00:02+00:00",
+    "authors": "Ralph Earle",
+    "link": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
     "source": "IEEE Spectrum 计算",
     "snippet": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments",
     "published": "2026-10-25T12:00:02+00:00",
@@ -45,33 +54,6 @@
     "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-    "source": "Electronics Weekly",
-    "snippet": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
-    "published": "2026-10-23T15:16:25+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Space Tech Expo Europe to say farewell to Bremen",
-    "source": "Electronics Weekly",
-    "snippet": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
-    "published": "2026-10-23T14:38:42+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Soft Switching Or Hard?",
-    "source": "Electronics Weekly",
-    "snippet": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
-    "published": "2026-10-23T13:18:44+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Creating higher voltages, part 2: Voltage multipliers",
     "source": "EDN",
     "snippet": "There are several ways to boost a relatively low voltage by a factor of two or three, or even hundreds—but there are also many risks. The post Creating higher voltages, part 2: Voltage multipliers appeared first on EDN .",
@@ -81,24 +63,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-    "source": "Electronics Weekly",
-    "snippet": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
-    "published": "2026-10-23T10:22:54+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-    "source": "Electronics Weekly",
-    "snippet": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
-    "published": "2026-10-23T09:06:10+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Two Dollars and a Test Suite",
     "source": "EE Times",
     "snippet": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times .",
@@ -106,51 +70,6 @@
     "authors": "Moshe Zalcberg",
     "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Electronics production growth accelerating, says SI",
-    "source": "Electronics Weekly",
-    "snippet": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
-    "published": "2026-10-23T05:16:45+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "The AI Race, by imec",
-    "source": "Electronics Weekly",
-    "snippet": "“The AI race is often framed as a race for bigger models, faster chips and larger datacentres, – that framing is outdated,” says Patrick Vandenameele (pictured below), CEO of imec, […] The post The AI Race, by imec appeared first on Electronics Weekly .",
-    "published": "2026-10-23T05:15:48+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/the-ai-race-by-imec-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Washington takes stake in fusion company",
-    "source": "Electronics Weekly",
-    "snippet": "The US government has taken a share in fusion energy company Helios in return for a $175 million Chips Act grant. The grant comes with an additional private investment of […] The post Washington takes stake in fusion company appeared first on Electronics Weekly .",
-    "published": "2026-10-23T05:13:35+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/washington-takes-stake-in-fusion-company-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Mouser signs ControlByWeb",
-    "source": "Electronics Weekly",
-    "snippet": "Mouser has signed a new global distribution agreement with ControlByWeb, a manufacturer of industrial IoT controllers for remote monitoring, control and data acquisition. The platform has optional cloud and cellular […] The post Mouser signs ControlByWeb appeared first on Electronics Weekly .",
-    "published": "2026-10-23T05:02:14+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/mouser-signs-controlbyweb-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "China Q3 phone market down 10% YoY",
-    "source": "Electronics Weekly",
-    "snippet": "China’s smartphone shipments fell 10% YoY in Q3 2026, marking the lowest Q3 level since 2012, according to Counterpoint Research. Huawei and Apple captured 40% of shipments, widening their lead […] The post China Q3 phone market down 10% YoY appeared first on Electronics Weekly .",
-    "published": "2026-10-23T05:01:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/china-q3-phone-market-down-10-yoy-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -609,15 +528,6 @@
     "published": "2026-10-02T18:00:02+00:00",
     "authors": "Willie D. Jones",
     "link": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
-    "source": "IEEE Spectrum",
-    "snippet": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ",
-    "published": "2026-10-02T10:00:03+00:00",
-    "authors": "COMSOL",
-    "link": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
     "category": "IEEE 综合新闻"
   },
   {
