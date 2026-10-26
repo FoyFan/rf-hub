@@ -1,5 +1,32 @@
 [
   {
+    "title": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
+    "source": "EE Times",
+    "snippet": "Getting the most power from an urban-sited panel requires deep understanding of its surroundings. The post Using a Single Image to Optimize Urban Solar-Panel Orientation appeared first on EE Times .",
+    "published": "2026-10-26T22:00:00+00:00",
+    "authors": "Bill Schweber",
+    "link": "https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Tearing down the Apple iPhone Duo",
+    "source": "Electronics Weekly",
+    "snippet": "Apple will take 25% of the Foldable Smartphone market in 2026, according to Counterpoint Research. But how repairable will the iPhone Duo prove to be? The post Tearing down the Apple iPhone Duo appeared first on Electronics Weekly .",
+    "published": "2026-10-26T18:00:12+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/consumer-electronics/tearing-down-the-apple-iphone-duo-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "IEEE Xplore Digital Library Adds AI Assistant",
+    "source": "IEEE Spectrum",
+    "snippet": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, magazines, conference proceedings, and more. Researchers who use the AI s",
+    "published": "2026-10-26T18:00:03+00:00",
+    "authors": "Claire Olini",
+    "link": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings",
     "source": "EE Times",
     "snippet": "Stricter European safety assessment criteria are prompting car companies to replace steering-wheel sensors with consolidated in-cabin systems. The post Automakers Reconsider In-Cabin Sensing for Euro NCAP Ratings appeared first on EE Times .",
@@ -144,15 +171,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Ed Gets Handy",
-    "source": "Electronics Weekly",
-    "snippet": "Humanoid robots are supposed to be the NBT and the thing holding up their commercial deployment is hands, Ed confides to his diary. Robotic hands tend to either be strong […] The post Ed Gets Handy appeared first on Electronics Weekly .",
-    "published": "2026-10-26T01:00:24+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-the-handyman-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
     "source": "IEEE Spectrum",
     "snippet": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments",
@@ -286,15 +304,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/hacking-a-network-switch-for-management-enhancements/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
-    "source": "EE Times",
-    "snippet": "In an exclusive interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems appeared first on EE Times .",
-    "published": "2026-10-22T09:58:39+00:00",
-    "authors": "Yashasvini Razdan",
-    "link": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Altera extends Agilex FPGAs to defense systems",
@@ -609,15 +618,6 @@
     "published": "2026-10-06T09:21:18+00:00",
     "authors": "IEEE",
     "link": "https://spectrum.ieee.org/ieee-day",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "6 Guidelines for Governing AI",
-    "source": "IEEE Spectrum",
-    "snippet": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business sy",
-    "published": "2026-10-05T18:00:02+00:00",
-    "authors": "Sravan Vadigepalli",
-    "link": "https://spectrum.ieee.org/6-guidelines-governing-ai",
     "category": "IEEE 综合新闻"
   },
   {
