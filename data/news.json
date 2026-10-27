@@ -1,5 +1,50 @@
 [
   {
+    "title": "Intel buys Classiq to become full-stack quantum computing provider",
+    "source": "Electronics Weekly",
+    "snippet": "Intel is to buy Classiq, a provider of quantum computing software. The combination of Classiq’s synthesis platform with Intel’s spin-qubit manufacturing and existing software would create a user-friendly full-stack quantum […] The post Intel buys Classiq to become full-stack quantum computing provid",
+    "published": "2026-10-27T06:17:35+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/intel-buys-classiq-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Cadence Maestro powers agents",
+    "source": "Electronics Weekly",
+    "snippet": "Cadence has announced the Maestro AI Model Portfolio, which powers Cadence AI Super Agents across semiconductor and system design workflows. By integrating these models with reinforcement learning (RL) loops and […] The post Cadence Maestro powers agents appeared first on Electronics Weekly .",
+    "published": "2026-10-27T06:16:12+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/cadence-maestro-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Anglia signs Novosense",
+    "source": "Electronics Weekly",
+    "snippet": "Anglia Components has signed a Pan-European franchise agreement with NOVOSENSE Microelectronics, the Chinese manufacturer of analogue and mixed signal ICs. Explains John Bowman, Anglia’s Marketing Director: “This agreement is part […] The post Anglia signs Novosense appeared first on Electronics Wee",
+    "published": "2026-10-27T06:13:44+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/anglia-signs-novosensr-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "European tech companies have raised $62bn so far this year",
+    "source": "Electronics Weekly",
+    "snippet": "Tracxn Technologies has released the Europe Tech – 9M 2026 Report, covering funding, investors, exits, unicorns and city-level activity across Europe’s tech industry from Jan 1, 2026 to Sep 30, […] The post European tech companies have raised $62bn so far this year appeared first on Electronics Week",
+    "published": "2026-10-27T06:12:49+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/european-tech-companies-have-raised-62bn-so-far-this-year-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Q3 PCs down 21%, Q4 forecast to be down 27%",
+    "source": "Electronics Weekly",
+    "snippet": "Q3 PC shipments fell 21%, says Counterpoint Research, and a further 27% drop is expected in Q4. Q3 shipments fell to 57 million units versus 72.2 million units in Q3 […] The post Q3 PCs down 21%, Q4 forecast to be down 27% appeared first on Electronics Weekly .",
+    "published": "2026-10-27T06:08:34+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/q3-pcs-down-21-q4-forecast-to-be-down-27-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Exploiting Piezoelectricity",
     "source": "Electronics Weekly",
     "snippet": "A PROPERTY of many semiconductors which so far has not been exploited is that of piezoelectricity. So, 65 years ago, started a story in the ‘Tomorrow’s Thinking’ column of […] The post Exploiting Piezoelectricity appeared first on Electronics Weekly .",
@@ -117,15 +162,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites",
-    "source": "Electronics Weekly",
-    "snippet": "What caught our eye this last week? The launch of the Apprenticeship Talent Bridge, the Flapping Airplanes startup story, and Iceye continuing to expand its SAR satellite constellation... The post What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites appeared first on Electronics",
-    "published": "2026-10-26T10:04:00+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-apprenticeships-flapping-airplanes-sar-satellites-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "In Orbit, Useful Life Becomes a Performance Metric",
     "source": "EE Times",
     "snippet": "Google’s Project Suncatcher is testing AI hardware in space, where radiation, cooling, power, and hardware lifetime determine the economics of computing. The post In Orbit, Useful Life Becomes a Performance Metric appeared first on EE Times .",
@@ -133,42 +169,6 @@
     "authors": "Ron Honig",
     "link": "https://www.eetimes.com/in-orbit-useful-life-becomes-a-performance-metric/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Government to set up Biosecurity Lab for biological AI threats",
-    "source": "Electronics Weekly",
-    "snippet": "The government is to invest £100m in an AI Biosecurity Lab (AIBL) to counter biological risks posed by AI. Anthropic and OpenAI will contribute £200m in compute and model credits. […] The post Government to set up Biosecurity Lab for biological AI threats appeared first on Electronics Weekly .",
-    "published": "2026-10-26T06:16:23+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/government-to-set-up-biosecurity-lab-for-ai-threats-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Anti-matter particle trapped in Illinois cage",
-    "source": "Electronics Weekly",
-    "snippet": "Northwestern University physicists have trapped a particle of anti-matter in a cage (pictured) and are preparing to take measurements of its properties and compare them with the properties of matter. […] The post Anti-matter particle trapped in Illinois cage appeared first on Electronics Weekly .",
-    "published": "2026-10-26T06:15:24+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/anti-matter-particle-trapped-in-cage-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Atomera and IQE hook up to advance RF GaN",
-    "source": "Electronics Weekly",
-    "snippet": "Atomera, a semiconductor transistor materials and technology licensing company, has entered into a Joint Development Agreement (JDA) with IQE to bring high-performance, cost-effective RF GaN to market. The collaboration leverages […] The post Atomera and IQE hook up to advance RF GaN appeared first ",
-    "published": "2026-10-26T06:15:05+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/atomera-and-iqe-hook-up-for-rf-gan-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Lab-grown muscles power robots",
-    "source": "Electronics Weekly",
-    "snippet": "Lab-grown skeletal muscle tissue can contract, but the movement is often so slight that it is barely visible. This poses a problem for biohybrid robots designed to move using living […] The post Lab-grown muscles power robots appeared first on Electronics Weekly .",
-    "published": "2026-10-26T06:14:33+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/lab-grown-muscles-power-robots-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
