@@ -1,5 +1,59 @@
 [
   {
+    "title": "Raspberry Pi emulates Apollo Command Module and Lunar Module",
+    "source": "Electronics Weekly",
+    "snippet": "Thanks to the Raspberry Pi team highlighting this amazing project, which recreates an Apollo Command Module and Lunar Module using a Raspberry Pi. The post Raspberry Pi emulates Apollo Command Module and Lunar Module appeared first on Electronics Weekly .",
+    "published": "2026-10-27T17:17:51+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/raspberry-pi-emulates-apollo-command-module-and-lunar-module-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
+    "published": "2026-10-27T16:14:39+00:00",
+    "authors": "VicOne",
+    "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Announcing the finalists for Elektra Awards 2026",
+    "source": "Electronics Weekly",
+    "snippet": "Electronics Weekly is proud to announce the finalists for this year’s Elektra Awards. You can view the full list of finalists across the Elektra categories on the dedicated Elektra website […] The post Announcing the finalists for Elektra Awards 2026 appeared first on Electronics Weekly .",
+    "published": "2026-10-27T16:13:03+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/elektra-awards-news/announcing-the-finalists-for-elektra-awards-2026-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "X-capacitor discharge IC for stringent standby, no-load requirements",
+    "source": "Electronics Weekly",
+    "snippet": "Power Integrations is expanding its CAPZero family of X-capacitor discharge ICs with the fourth-gen CAPZero-4 device, for industrial and consumer applications. The latest member of the CAPZero family reduces system […] The post X-capacitor discharge IC for stringent standby, no-load requirements app",
+    "published": "2026-10-27T15:24:44+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/power-supplies/x-capacitor-discharge-ic-for-stringent-standby-no-load-requirements-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "CHIIPS #40 – CHIIPs with Michal Siwinski of Arteris",
+    "source": "Electronics Weekly",
+    "snippet": "Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Michal Siwinski, the EVP, Chief Product and Marketing Officer, GM Security Solutions at Arteris. The post CHIIPS #40 – CHIIPs with Michal Siwinski of Arteris appeared first on Electronics Weekly .",
+    "published": "2026-10-27T14:34:50+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-40-chiips-with-michal-siwinski-of-arteris-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Canaries Or Jitters?",
+    "source": "Electronics Weekly",
+    "snippet": "Canaries in the mine or wobbles in the bubble? Although Jensen remains bullish, Elon is getting bearish. “Debt markets have almost entirely shut off access to money for any company […] The post Canaries Or Jitters? appeared first on Electronics Weekly .",
+    "published": "2026-10-27T14:13:22+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/canaries-or-jitters-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Electronics Mentoring launches to better support mid-career professionals",
     "source": "Electronics Weekly",
     "snippet": "Electronics Mentoring is launching an initiative to help support mid-career professionals, in terms of career development, with industry colleagues committing to helping others progress. Essentially, the mentoring initiative will connect […] The post Electronics Mentoring launches to better support ",
@@ -40,7 +94,7 @@
     "source": "EDN",
     "snippet": "Inductor-inductor-capacitor (LLC) applications that don’t require a closed control loop can benefit from simple and low-cost implementations. The post Power Tips #158: Using a programmable logic device as an LLC controller appeared first on EDN .",
     "published": "2026-10-27T12:00:20+00:00",
-    "authors": "Brian Dipert",
+    "authors": "Björn Görner",
     "link": "https://www.edn.com/power-tips-158-using-a-programmable-logic-device-as-an-llc-controller/",
     "category": "EDN 电子设计新闻"
   },
@@ -81,42 +135,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Anglia signs Novosense",
-    "source": "Electronics Weekly",
-    "snippet": "Anglia Components has signed a Pan-European franchise agreement with NOVOSENSE Microelectronics, the Chinese manufacturer of analogue and mixed signal ICs. Explains John Bowman, Anglia’s Marketing Director: “This agreement is part […] The post Anglia signs Novosense appeared first on Electronics Wee",
-    "published": "2026-10-27T06:13:44+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/anglia-signs-novosensr-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "European tech companies raise $62bn so far this year",
-    "source": "Electronics Weekly",
-    "snippet": "Tracxn Technologies has released the Europe Tech – 9M 2026 Report, covering funding, investors, exits, unicorns and city-level activity across Europe’s tech industry from Jan 1, 2026 to Sep 30, […] The post European tech companies raise $62bn so far this year appeared first on Electronics Weekly .",
-    "published": "2026-10-27T06:12:49+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/european-tech-companies-have-raised-62bn-so-far-this-year-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Q3 PCs down 21%, Q4 forecast to be down 27%",
-    "source": "Electronics Weekly",
-    "snippet": "Q3 PC shipments fell 21%, says Counterpoint Research, and a further 27% drop is expected in Q4. Q3 shipments fell to 57 million units versus 72.2 million units in Q3 […] The post Q3 PCs down 21%, Q4 forecast to be down 27% appeared first on Electronics Weekly .",
-    "published": "2026-10-27T06:08:34+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/q3-pcs-down-21-q4-forecast-to-be-down-27-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Exploiting Piezoelectricity",
-    "source": "Electronics Weekly",
-    "snippet": "A PROPERTY of many semiconductors which so far has not been exploited is that of piezoelectricity. So, 65 years ago, started a story in the ‘Tomorrow’s Thinking’ column of […] The post Exploiting Piezoelectricity appeared first on Electronics Weekly .",
-    "published": "2026-10-27T01:01:08+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/the-inexplicability-of-piezoelectricity-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
     "source": "EE Times",
     "snippet": "Getting the most power from an urban-sited panel requires deep understanding of its surroundings. The post Using a Single Image to Optimize Urban Solar-Panel Orientation appeared first on EE Times .",
@@ -124,15 +142,6 @@
     "authors": "Bill Schweber",
     "link": "https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Tearing down the Apple iPhone Duo",
-    "source": "Electronics Weekly",
-    "snippet": "Apple will take 25% of the Foldable Smartphone market in 2026, according to Counterpoint Research. But how repairable will the iPhone Duo prove to be? The post Tearing down the Apple iPhone Duo appeared first on Electronics Weekly .",
-    "published": "2026-10-26T18:00:12+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/consumer-electronics/tearing-down-the-apple-iphone-duo-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "IEEE Xplore Digital Library Adds AI Assistant",
@@ -591,15 +600,6 @@
     "published": "2026-10-07T17:04:02+00:00",
     "authors": "Brian Jenney",
     "link": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-    "source": "IEEE Spectrum",
-    "snippet": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid",
-    "published": "2026-10-07T13:49:48+00:00",
-    "authors": "Noitom Robotics",
-    "link": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
     "category": "IEEE 综合新闻"
   },
   {
