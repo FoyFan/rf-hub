@@ -1,5 +1,23 @@
 [
   {
+    "title": "A viable alternative to braided shielded cable",
+    "source": "EDN",
+    "snippet": "Braided shielded cable is the standard, but a new alternative may provide superior RF performance along with other beneficial attributes. The post A viable alternative to braided shielded cable appeared first on EDN .",
+    "published": "2026-10-27T23:28:13+00:00",
+    "authors": "C aliou cisse",
+    "link": "https://www.edn.com/a-viable-alternative-to-braided-shielded-cable/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies",
+    "source": "EE Times",
+    "snippet": "High-density switching supplies help modernize legacy aircraft power systems while addressing obsolescence, efficiency, integration, and compliance challenges. The post Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies appeared first on EE Times .",
+    "published": "2026-10-27T23:00:00+00:00",
+    "authors": "Emily Newton",
+    "link": "https://www.eetimes.com/transitioning-legacy-aircraft-power-architectures-to-high-density-switching-supplies/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "Raspberry Pi emulates Apollo Command Module and Lunar Module",
     "source": "Electronics Weekly",
     "snippet": "Thanks to the Raspberry Pi team highlighting this amazing project, which recreates an Apollo Command Module and Lunar Module using a Raspberry Pi. The post Raspberry Pi emulates Apollo Command Module and Lunar Module appeared first on Electronics Weekly .",
@@ -288,15 +306,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
-    "source": "EE Times",
-    "snippet": "See how BIWIN’s SSD, embedded storage, and memory portfolio supports faster, efficient AI from cloud data centers to edge wearables. The post From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions appeared first on EE Times .",
-    "published": "2026-10-22T18:24:39+00:00",
-    "authors": "EE Times",
-    "link": "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Why AI Can’t Replace Engineering Teams",
     "source": "IEEE Spectrum",
     "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! If you’re an engineer, you may feel like your ski",
@@ -366,15 +375,6 @@
     "published": "2026-10-21T18:32:19+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "AMD defines rack-scale infrastructure for agentic AI",
-    "source": "EDN",
-    "snippet": "AMD Helion is a rack-scale reference design for agentic AI infrastructure, combining open-source hardware and software. The post AMD defines rack-scale infrastructure for agentic AI appeared first on EDN .",
-    "published": "2026-10-21T18:31:08+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/amd-defines-rack-scale-infrastructure-for-agentic-ai/",
     "category": "EDN 电子设计新闻"
   },
   {
