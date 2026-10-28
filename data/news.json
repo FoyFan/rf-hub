@@ -1,5 +1,77 @@
 [
   {
+    "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
+    "source": "EE Times",
+    "snippet": "Toronto-based Meissner Technologies uses AI and laboratory testing to discover superconducting materials that could cut cooling costs and help quantum computers scale. The post Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’ appeared first on EE Times .",
+    "published": "2026-10-28T20:50:32+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/canadian-startup-aims-to-be-quantums-picks-and-shovels/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Amazon, Apple and Microsoft: New mobile computing platforms take off",
+    "source": "EDN",
+    "snippet": "Considering current semiconductor constraints, this has been a surprisingly busy October from a systems-release standpoint. The post Amazon, Apple and Microsoft: New mobile computing platforms take off appeared first on EDN .",
+    "published": "2026-10-28T19:44:20+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/amazon-apple-and-microsoft-new-mobile-computing-platforms-take-off/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Analog in-memory computing advances to 12 nm",
+    "source": "EDN",
+    "snippet": "TetraMem has completed tapeout of the MLX300, a 12-nm analog in-memory computing (A-IMC) SoC based on multi-level RRAM technology. The post Analog in-memory computing advances to 12 nm appeared first on EDN .",
+    "published": "2026-10-28T19:13:16+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/analog-in-memory-computing-advances-to-12-nm/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Motion sensor combo ICs target vehicle dynamics",
+    "source": "EDN",
+    "snippet": "ST has launched an automotive sensor platform that combines multi-axis accelerometers and angular-rate sensors in a single package. The post Motion sensor combo ICs target vehicle dynamics appeared first on EDN .",
+    "published": "2026-10-28T19:12:30+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/motion-sensor-combo-ics-target-vehicle-dynamics/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Hall switch adds diagnostics for automotive safety",
+    "source": "EDN",
+    "snippet": "A programmable Hall switch from Melexis, the MLX92342, simplifies remote position detection in automotive systems such as seatbelt buckles. The post Hall switch adds diagnostics for automotive safety appeared first on EDN .",
+    "published": "2026-10-28T19:11:48+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/hall-switch-adds-diagnostics-for-automotive-safety/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Camera kit simplifies multi-camera AI development",
+    "source": "EDN",
+    "snippet": "Innodisk offers the GMSL2 camera starter kit, which bundles four 3-Mpixel cameras, a MIPI CSI-2-to- GMSL2 capture card, and accessories. The post Camera kit simplifies multi-camera AI development appeared first on EDN .",
+    "published": "2026-10-28T19:11:22+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/camera-kit-simplifies-multi-camera-ai-development/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Industrial MCUs pair 600-MHz cores with MRAM",
+    "source": "EDN",
+    "snippet": "The Renesas RX74M and RX74N 32-bit MCUs are the first in the RX family to use a 22-nm process and incorporate embedded MRAM. The post Industrial MCUs pair 600-MHz cores with MRAM appeared first on EDN .",
+    "published": "2026-10-28T19:10:44+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/industrial-mcus-pair-600-mhz-cores-with-mram/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Systems Thinking Is Vital in the Age of AI",
+    "source": "IEEE Spectrum",
+    "snippet": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare the results. The engi",
+    "published": "2026-10-28T18:00:02+00:00",
+    "authors": "Sufian Aldogom",
+    "link": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
     "source": "EE Times",
     "snippet": "Long-term customer contracts and rising chip prices point to a change in how memory manufacturers manage multi-year production capacity and capex. The post SK Hynix Reports Record Q3 Results Driven by AI Memory Surge appeared first on EE Times .",
@@ -252,33 +324,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Framing the Shift to 48V",
-    "source": "EE Times",
-    "snippet": "From lighter wiring to automated assembly, 48V architectures are reshaping vehicle connectivity and laying the groundwork for next generation mobility. The post Framing the Shift to 48V appeared first on EE Times .",
-    "published": "2026-10-26T13:00:00+00:00",
-    "authors": "Vasanth Sista, Field Application Engineer, TE Connectivity",
-    "link": "https://www.eetimes.com/framing-the-shift-to-48v/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Fetal dopplers: Physics, anatomy, and audio signatures of prenatal listening",
-    "source": "EDN",
-    "snippet": "Here is how it works and what are the realistic pros and cons of this at-home listening medical device. The post Fetal dopplers: Physics, anatomy, and audio signatures of prenatal listening appeared first on EDN .",
-    "published": "2026-10-26T12:52:37+00:00",
-    "authors": "T.K. Hareendran",
-    "link": "https://www.edn.com/fetal-dopplers-physics-anatomy-and-audio-signatures-of-prenatal-listening/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Disassembling a low-tech liquid-leak detector",
-    "source": "EDN",
-    "snippet": "What good is a non-networked water sensor? Still good, as long as you remember its existence, and specifically its battery’s impermanence. The post Disassembling a low-tech liquid-leak detector appeared first on EDN .",
-    "published": "2026-10-26T12:00:58+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/disassembling-a-low-tech-liquid-leak-detector/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
     "source": "IEEE Spectrum",
     "snippet": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments",
@@ -324,15 +369,6 @@
     "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "Creating higher voltages, part 2: Voltage multipliers",
-    "source": "EDN",
-    "snippet": "There are several ways to boost a relatively low voltage by a factor of two or three, or even hundreds—but there are also many risks. The post Creating higher voltages, part 2: Voltage multipliers appeared first on EDN .",
-    "published": "2026-10-23T12:00:52+00:00",
-    "authors": "C aliou cisse",
-    "link": "https://www.edn.com/creating-higher-voltages-part-2-voltage-multipliers/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Why AI Can’t Replace Engineering Teams",
     "source": "IEEE Spectrum",
     "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! If you’re an engineer, you may feel like your ski",
@@ -358,33 +394,6 @@
     "authors": "Lucas Laursen",
     "link": "https://spectrum.ieee.org/engineers-lobbying-congress",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Hacking a network switch for management enhancements",
-    "source": "EDN",
-    "snippet": "Interim steps to the end destination are often wise. And non-bleeding-edge gear can be made wiser in the process, too. The post Hacking a network switch for management enhancements appeared first on EDN .",
-    "published": "2026-10-22T12:00:00+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/hacking-a-network-switch-for-management-enhancements/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Altera extends Agilex FPGAs to defense systems",
-    "source": "EDN",
-    "snippet": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range of -55°C to +125°C. The post Altera extends Agilex FPGAs to defense systems appeared first on EDN .",
-    "published": "2026-10-21T18:34:30+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/altera-extends-agilex-fpgas-to-defense-systems/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "MCUs accelerate multimodal edge AI",
-    "source": "EDN",
-    "snippet": "The Synaptics Astra SR200 series of xMCUs runs multimodal AI workloads without the memory and compute limitations of conventional MCUs. The post MCUs accelerate multimodal edge AI appeared first on EDN .",
-    "published": "2026-10-21T18:33:33+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/mcus-accelerate-multimodal-edge-ai/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
@@ -591,15 +600,6 @@
     "published": "2026-10-09T12:00:02+00:00",
     "authors": "Cynthia J. Finelli",
     "link": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "IEEE Report Predicts Tech That Will Transform Lives",
-    "source": "IEEE Spectrum",
-    "snippet": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE. “We are seeing a fundamental shift in how technology evolves,” says IEE",
-    "published": "2026-10-07T18:00:02+00:00",
-    "authors": "Liz Wegerer",
-    "link": "https://spectrum.ieee.org/ieee-report-predicts-tech",
     "category": "IEEE 综合新闻"
   },
   {

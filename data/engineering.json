@@ -382,6 +382,60 @@
   ],
   "news": [
     {
+      "title": "Amazon, Apple and Microsoft: New mobile computing platforms take off",
+      "source": "EDN",
+      "snippet": "Considering current semiconductor constraints, this has been a surprisingly busy October from a systems-release standpoint. The post Amazon, Apple and Microsoft: New mobile computing platforms take off appeared first on EDN .",
+      "published": "2026-10-28T19:44:20+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/amazon-apple-and-microsoft-new-mobile-computing-platforms-take-off/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Analog in-memory computing advances to 12 nm",
+      "source": "EDN",
+      "snippet": "TetraMem has completed tapeout of the MLX300, a 12-nm analog in-memory computing (A-IMC) SoC based on multi-level RRAM technology. The post Analog in-memory computing advances to 12 nm appeared first on EDN .",
+      "published": "2026-10-28T19:13:16+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/analog-in-memory-computing-advances-to-12-nm/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Motion sensor combo ICs target vehicle dynamics",
+      "source": "EDN",
+      "snippet": "ST has launched an automotive sensor platform that combines multi-axis accelerometers and angular-rate sensors in a single package. The post Motion sensor combo ICs target vehicle dynamics appeared first on EDN .",
+      "published": "2026-10-28T19:12:30+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/motion-sensor-combo-ics-target-vehicle-dynamics/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Hall switch adds diagnostics for automotive safety",
+      "source": "EDN",
+      "snippet": "A programmable Hall switch from Melexis, the MLX92342, simplifies remote position detection in automotive systems such as seatbelt buckles. The post Hall switch adds diagnostics for automotive safety appeared first on EDN .",
+      "published": "2026-10-28T19:11:48+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/hall-switch-adds-diagnostics-for-automotive-safety/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Camera kit simplifies multi-camera AI development",
+      "source": "EDN",
+      "snippet": "Innodisk offers the GMSL2 camera starter kit, which bundles four 3-Mpixel cameras, a MIPI CSI-2-to- GMSL2 capture card, and accessories. The post Camera kit simplifies multi-camera AI development appeared first on EDN .",
+      "published": "2026-10-28T19:11:22+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/camera-kit-simplifies-multi-camera-ai-development/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Industrial MCUs pair 600-MHz cores with MRAM",
+      "source": "EDN",
+      "snippet": "The Renesas RX74M and RX74N 32-bit MCUs are the first in the RX family to use a 22-nm process and incorporate embedded MRAM. The post Industrial MCUs pair 600-MHz cores with MRAM appeared first on EDN .",
+      "published": "2026-10-28T19:10:44+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/industrial-mcus-pair-600-mhz-cores-with-mram/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "An equation-driven guide to designing a CrM/DCM boost PFC",
       "source": "EDN",
       "snippet": "Here is a step-by-step methodology for designing a boost PFC stage that operates in CrM under worst-case conditions and falls back to discontinuous conduction mode at lighter loads. The post An equation-driven guide to designing a CrM/DCM boost PFC appeared first on EDN .",
@@ -415,60 +469,6 @@
       "published": "2026-10-27T12:00:20+00:00",
       "authors": "Björn Görner",
       "link": "https://www.edn.com/power-tips-158-using-a-programmable-logic-device-as-an-llc-controller/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Fetal dopplers: Physics, anatomy, and audio signatures of prenatal listening",
-      "source": "EDN",
-      "snippet": "Here is how it works and what are the realistic pros and cons of this at-home listening medical device. The post Fetal dopplers: Physics, anatomy, and audio signatures of prenatal listening appeared first on EDN .",
-      "published": "2026-10-26T12:52:37+00:00",
-      "authors": "T.K. Hareendran",
-      "link": "https://www.edn.com/fetal-dopplers-physics-anatomy-and-audio-signatures-of-prenatal-listening/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Disassembling a low-tech liquid-leak detector",
-      "source": "EDN",
-      "snippet": "What good is a non-networked water sensor? Still good, as long as you remember its existence, and specifically its battery’s impermanence. The post Disassembling a low-tech liquid-leak detector appeared first on EDN .",
-      "published": "2026-10-26T12:00:58+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/disassembling-a-low-tech-liquid-leak-detector/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Creating higher voltages, part 2: Voltage multipliers",
-      "source": "EDN",
-      "snippet": "There are several ways to boost a relatively low voltage by a factor of two or three, or even hundreds—but there are also many risks. The post Creating higher voltages, part 2: Voltage multipliers appeared first on EDN .",
-      "published": "2026-10-23T12:00:52+00:00",
-      "authors": "C aliou cisse",
-      "link": "https://www.edn.com/creating-higher-voltages-part-2-voltage-multipliers/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Hacking a network switch for management enhancements",
-      "source": "EDN",
-      "snippet": "Interim steps to the end destination are often wise. And non-bleeding-edge gear can be made wiser in the process, too. The post Hacking a network switch for management enhancements appeared first on EDN .",
-      "published": "2026-10-22T12:00:00+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/hacking-a-network-switch-for-management-enhancements/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Altera extends Agilex FPGAs to defense systems",
-      "source": "EDN",
-      "snippet": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range of -55°C to +125°C. The post Altera extends Agilex FPGAs to defense systems appeared first on EDN .",
-      "published": "2026-10-21T18:34:30+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/altera-extends-agilex-fpgas-to-defense-systems/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "MCUs accelerate multimodal edge AI",
-      "source": "EDN",
-      "snippet": "The Synaptics Astra SR200 series of xMCUs runs multimodal AI workloads without the memory and compute limitations of conventional MCUs. The post MCUs accelerate multimodal edge AI appeared first on EDN .",
-      "published": "2026-10-21T18:33:33+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/mcus-accelerate-multimodal-edge-ai/",
       "category": "EDN 电子设计新闻"
     }
   ]
