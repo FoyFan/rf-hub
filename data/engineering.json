@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "An equation-driven guide to designing a CrM/DCM boost PFC",
+      "source": "EDN",
+      "snippet": "Here is a step-by-step methodology for designing a boost PFC stage that operates in CrM under worst-case conditions and falls back to discontinuous conduction mode at lighter loads. The post An equation-driven guide to designing a CrM/DCM boost PFC appeared first on EDN .",
+      "published": "2026-10-28T15:49:48+00:00",
+      "authors": "Rafael Collado",
+      "link": "https://www.edn.com/an-equation-driven-guide-to-designing-a-crm-dcm-boost-pfc/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Adding open-load fault detection to the DRV103 PWM driver",
       "source": "EDN",
       "snippet": "A simple circuit adds a relevant status-reporting bit to the device's existing already-sizeable capabilities suite. The post Adding open-load fault detection to the DRV103 PWM driver appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-21T18:33:33+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/mcus-accelerate-multimodal-edge-ai/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Rad-tolerant GaN converter powers space electronics",
-      "source": "EDN",
-      "snippet": "Microchip’s POL-05-20S-T GaN converter delivers up to 20 A to power FPGAs, MCUs, and other processing-intensive digital loads in space. The post Rad-tolerant GaN converter powers space electronics appeared first on EDN .",
-      "published": "2026-10-21T18:33:05+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics/",
       "category": "EDN 电子设计新闻"
     }
   ]

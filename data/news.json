@@ -1,5 +1,68 @@
 [
   {
+    "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
+    "source": "EE Times",
+    "snippet": "Long-term customer contracts and rising chip prices point to a change in how memory manufacturers manage multi-year production capacity and capex. The post SK Hynix Reports Record Q3 Results Driven by AI Memory Surge appeared first on EE Times .",
+    "published": "2026-10-28T16:43:42+00:00",
+    "authors": "News Desk",
+    "link": "https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "An equation-driven guide to designing a CrM/DCM boost PFC",
+    "source": "EDN",
+    "snippet": "Here is a step-by-step methodology for designing a boost PFC stage that operates in CrM under worst-case conditions and falls back to discontinuous conduction mode at lighter loads. The post An equation-driven guide to designing a CrM/DCM boost PFC appeared first on EDN .",
+    "published": "2026-10-28T15:49:48+00:00",
+    "authors": "Rafael Collado",
+    "link": "https://www.edn.com/an-equation-driven-guide-to-designing-a-crm-dcm-boost-pfc/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "DigiKey adds to its Standard Product range",
+    "source": "Electronics Weekly",
+    "snippet": "DigiKey has expanded its DigiKey Standard Product range, which addresses the “everyday needs of engineers, technicians and makers”. Its own-label product line now includes a soldering station, an ESD silicone […] The post DigiKey adds to its Standard Product range appeared first on Electronics Weekl",
+    "published": "2026-10-28T15:35:30+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/digikey-adds-to-its-standard-product-range-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Tesla’s R&D Costs Rising",
+    "source": "Electronics Weekly",
+    "snippet": "Tesla’s R&D spending is rising significantly faster than its revenue. In Q1 2026, the company’s R&D-to-revenue ratio reached a new high of 8.7%, up from 3.3% in early 2023. By […] The post Tesla’s R&D Costs Rising appeared first on Electronics Weekly .",
+    "published": "2026-10-28T14:12:28+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/tealas-rd-costs-rising-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Secure Safety and Security Communications",
+    "source": "EE Times",
+    "snippet": "This whitepaper explores how building safety and security systems can overcome the limitations of legacy RS-485 networks by adopting Single Pair Ethernet (SPE). It examines the growing demands of AI-enabled surveillance, access control, cybersecurity, and system convergence, while highlighting how S",
+    "published": "2026-10-28T14:00:00+00:00",
+    "authors": "Analog Devices",
+    "link": "https://www.eetimes.com/secure-safety-and-security-communications/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Full-Stack Semiconductor Solutions for Embodied AI & Robotics",
+    "source": "EE Times",
+    "snippet": "NSING Technologies, a Singapore-founded semiconductor company, presents this whitepaper on its full-stack semiconductor solutions for embodied AI and robotics, built around high-performance MCUs, security ICs, wireless connectivity and BMS ICs. The document explains the industry shift toward distrib",
+    "published": "2026-10-28T14:00:00+00:00",
+    "authors": "NSING",
+    "link": "https://www.eetimes.com/full-stack-semiconductor-solutions-for-embodied-ai-robotics/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
+    "source": "IEEE Spectrum",
+    "snippet": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward. At the back of the aircraft, the five-blade pusher propeller snaps awak",
+    "published": "2026-10-28T13:00:03+00:00",
+    "authors": "Tom Clynes",
+    "link": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "Adding open-load fault detection to the DRV103 PWM driver",
     "source": "EDN",
     "snippet": "A simple circuit adds a relevant status-reporting bit to the device's existing already-sizeable capabilities suite. The post Adding open-load fault detection to the DRV103 PWM driver appeared first on EDN .",
@@ -117,24 +180,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Announcing the finalists for Elektra Awards 2026",
-    "source": "Electronics Weekly",
-    "snippet": "Electronics Weekly is proud to announce the finalists for this year’s Elektra Awards. You can view the full list of finalists across the Elektra categories on the dedicated Elektra website […] The post Announcing the finalists for Elektra Awards 2026 appeared first on Electronics Weekly .",
-    "published": "2026-10-27T16:13:03+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/elektra-awards-news/announcing-the-finalists-for-elektra-awards-2026-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "X-capacitor discharge IC for stringent standby, no-load requirements",
-    "source": "Electronics Weekly",
-    "snippet": "Power Integrations is expanding its CAPZero family of X-capacitor discharge ICs with the fourth-gen CAPZero-4 device, for industrial and consumer applications. The latest member of the CAPZero family reduces system […] The post X-capacitor discharge IC for stringent standby, no-load requirements app",
-    "published": "2026-10-27T15:24:44+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/power-supplies/x-capacitor-discharge-ic-for-stringent-standby-no-load-requirements-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design",
     "source": "EE Times",
     "snippet": "CopperPilot’s CEO said the startup has built its AI design agent so that “no hardware team is ever blocked because a board is too hard to design.” The post CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design appeared first on EE Times .",
@@ -216,15 +261,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum",
-    "source": "EE Times",
-    "snippet": "As AI pushes chip packages beyond traditional wafer limits, panel-level processing is emerging as a critical path to scale advanced packaging. The post The AI Packaging Challenge: 5 Reasons Panels Are Gaining Momentum appeared first on EE Times .",
-    "published": "2026-10-26T13:00:00+00:00",
-    "authors": "Aaron Fellis, corporate vice president and general manager, Wet Equipment Technology Systems, Lam Research",
-    "link": "https://www.eetimes.com/the-ai-packaging-challenge-5-reasons-panels-are-gaining-momentum/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Fetal dopplers: Physics, anatomy, and audio signatures of prenatal listening",
     "source": "EDN",
     "snippet": "Here is how it works and what are the realistic pros and cons of this at-home listening medical device. The post Fetal dopplers: Physics, anatomy, and audio signatures of prenatal listening appeared first on EDN .",
@@ -241,15 +277,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/disassembling-a-low-tech-liquid-leak-detector/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "In Orbit, Useful Life Becomes a Performance Metric",
-    "source": "EE Times",
-    "snippet": "Google’s Project Suncatcher is testing AI hardware in space, where radiation, cooling, power, and hardware lifetime determine the economics of computing. The post In Orbit, Useful Life Becomes a Performance Metric appeared first on EE Times .",
-    "published": "2026-10-26T08:25:36+00:00",
-    "authors": "Ron Honig",
-    "link": "https://www.eetimes.com/in-orbit-useful-life-becomes-a-performance-metric/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
@@ -277,15 +304,6 @@
     "authors": "Edd Gent",
     "link": "https://spectrum.ieee.org/biometric-voting-technology",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Arm Comments on Jury Decision in Qualcomm Trial",
-    "source": "EE Times",
-    "snippet": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times .",
-    "published": "2026-10-24T00:00:00+00:00",
-    "authors": "Pablo Valerio",
-    "link": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "From Chip Lab to Center Stage",
@@ -366,15 +384,6 @@
     "published": "2026-10-21T18:33:33+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/mcus-accelerate-multimodal-edge-ai/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Rad-tolerant GaN converter powers space electronics",
-    "source": "EDN",
-    "snippet": "Microchip’s POL-05-20S-T GaN converter delivers up to 20 A to power FPGAs, MCUs, and other processing-intensive digital loads in space. The post Rad-tolerant GaN converter powers space electronics appeared first on EDN .",
-    "published": "2026-10-21T18:33:05+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -591,15 +600,6 @@
     "published": "2026-10-07T18:00:02+00:00",
     "authors": "Liz Wegerer",
     "link": "https://spectrum.ieee.org/ieee-report-predicts-tech",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Changing Your Career Isn’t Easy",
-    "source": "IEEE Spectrum",
-    "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! When I changed careers at 30 to become a software",
-    "published": "2026-10-07T17:04:02+00:00",
-    "authors": "Brian Jenney",
-    "link": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
     "category": "IEEE 综合新闻"
   },
   {
