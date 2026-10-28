@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Adding open-load fault detection to the DRV103 PWM driver",
+      "source": "EDN",
+      "snippet": "A simple circuit adds a relevant status-reporting bit to the device's existing already-sizeable capabilities suite. The post Adding open-load fault detection to the DRV103 PWM driver appeared first on EDN .",
+      "published": "2026-10-28T12:00:49+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/adding-open-load-fault-detection-to-the-drv103-pwm-driver/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "A viable alternative to braided shielded cable",
       "source": "EDN",
       "snippet": "Braided shielded cable is the standard, but a new alternative may provide superior RF performance along with other beneficial attributes. The post A viable alternative to braided shielded cable appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-21T18:33:05+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Processor IP brings generative AI to edge devices",
-      "source": "EDN",
-      "snippet": "BrainChip’s Sequora processor IP core runs generative AI and large language models (LLMs) directly on battery-powered edge devices. The post Processor IP brings generative AI to edge devices appeared first on EDN .",
-      "published": "2026-10-21T18:32:19+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices/",
       "category": "EDN 电子设计新闻"
     }
   ]

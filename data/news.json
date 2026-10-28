@@ -1,5 +1,77 @@
 [
   {
+    "title": "Adding open-load fault detection to the DRV103 PWM driver",
+    "source": "EDN",
+    "snippet": "A simple circuit adds a relevant status-reporting bit to the device's existing already-sizeable capabilities suite. The post Adding open-load fault detection to the DRV103 PWM driver appeared first on EDN .",
+    "published": "2026-10-28T12:00:49+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/adding-open-load-fault-detection-to-the-drv103-pwm-driver/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Microchip adds LX-820 Quartz Oscillator to L-Series for LEO apps",
+    "source": "Electronics Weekly",
+    "snippet": "Microchip is adding the LX-820 Radiation-Tolerant Quartz Oscillator to its L-Series of timing devices. The part is designed for Low Earth Orbit (LEO) and other space applications. The L-Series is […] The post Microchip adds LX-820 Quartz Oscillator to L-Series for LEO apps appeared first on Electron",
+    "published": "2026-10-28T11:22:08+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/market-sectors/military-aerospace-electronics/microchip-adds-lx-820-quartz-oscillator-to-l-series-for-leo-apps-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Intel Wants a Quantum Business, Classiq Could Help Build One",
+    "source": "EE Times",
+    "snippet": "After years of hardware research, Intel plans to acquire a software platform that connects quantum developers with enterprise users. The post Intel Wants a Quantum Business, Classiq Could Help Build One appeared first on EE Times .",
+    "published": "2026-10-28T08:05:29+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/intel-wants-a-quantum-business-classiq-could-help-build-one/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Anduril and Qualcomm hook up for ruggedised laptop",
+    "source": "Electronics Weekly",
+    "snippet": "Yesterday, Anduril and Qualcomm said they had developed a prototype of a ruggedised laptop assembled in the US with 90% of its components sourced in the US. They call it […] The post Anduril and Qualcomm hook up for ruggedised laptop appeared first on Electronics Weekly .",
+    "published": "2026-10-28T06:18:23+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/a-duel-and-qualcomm-hook-up-for-ruggedised-laptop-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Lam and Imec pursue 3-D integration",
+    "source": "Electronics Weekly",
+    "snippet": "Lam and imec are collaborating to accelerate manufacturing readiness for 3D integration technologies supporting advanced packaging and next-generation memory. By bringing together Lam’s capabilities in deposition and etch with imec’s […] The post Lam and Imec pursue 3-D integration appeared first on",
+    "published": "2026-10-28T06:16:08+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/lam-and-imec-pursue-3-d-integration-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Japan argues Emissions vs Net Zero",
+    "source": "Electronics Weekly",
+    "snippet": "Japan, like the UK, is embroiled in the net zero versus economic reality argument. Prime Minister Sanae Takaichi is for trimming subsidies on EVs , funding growth investments and cutting […] The post Japan argues Emissions vs Net Zero appeared first on Electronics Weekly .",
+    "published": "2026-10-28T06:14:59+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/japan-argues-emissions-vs-net-zero-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Infineon to put €1.1bn into GaN fab",
+    "source": "Electronics Weekly",
+    "snippet": "Infineon intends to build the first high-volume 300mm GaN fab by investing around €1.1 billion in its Villach site by 2034. The EU is contributing €319 million towards the cost. […] The post Infineon to put €1.1bn into GaN fab appeared first on Electronics Weekly .",
+    "published": "2026-10-28T06:13:58+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/infineon-to-put-e1-1bn-into-gan-fab-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Panasonic adds to EVP series of tactile switches",
+    "source": "Electronics Weekly",
+    "snippet": "Panasonic has expanded its EVP-BD, EVP-0B, EVP-CD, and EVP-BX Series of 6.0mm x 6.0mm SMD top-push, 2-terminal tactile switches with the introduction of the EVP-BX (quiet-type) switch. The new addition […] The post Panasonic adds to EVP series of tactile switches appeared first on Electronics Weekly",
+    "published": "2026-10-28T06:06:18+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/panasonic-adds-to-evp-series-of-tactile-switches-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Top Ten Q2 EV Vendors",
     "source": "Electronics Weekly",
     "snippet": "Thanks to TrendForce for this one – the top ten EV vendors in Q2: The post Top Ten Q2 EV Vendors appeared first on Electronics Weekly .",
@@ -63,33 +135,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "CHIIPS #40 – CHIIPs with Michal Siwinski of Arteris",
-    "source": "Electronics Weekly",
-    "snippet": "Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Michal Siwinski, the EVP, Chief Product and Marketing Officer, GM Security Solutions at Arteris. The post CHIIPS #40 – CHIIPs with Michal Siwinski of Arteris appeared first on Electronics Weekly .",
-    "published": "2026-10-27T14:34:50+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-40-chiips-with-michal-siwinski-of-arteris-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Canaries Or Jitters?",
-    "source": "Electronics Weekly",
-    "snippet": "Canaries in the mine or wobbles in the bubble? Although Jensen remains bullish, Elon is getting bearish. “Debt markets have almost entirely shut off access to money for any company […] The post Canaries Or Jitters? appeared first on Electronics Weekly .",
-    "published": "2026-10-27T14:13:22+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/canaries-or-jitters-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronics Mentoring launches to better support mid-career professionals",
-    "source": "Electronics Weekly",
-    "snippet": "Electronics Mentoring is launching an initiative to help support mid-career professionals, in terms of career development, with industry colleagues committing to helping others progress. Essentially, the mentoring initiative will connect […] The post Electronics Mentoring launches to better support ",
-    "published": "2026-10-27T14:06:00+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/electronics-mentoring-launches-to-better-support-mid-career-professionals-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design",
     "source": "EE Times",
     "snippet": "CopperPilot’s CEO said the startup has built its AI design agent so that “no hardware team is ever blocked because a board is too hard to design.” The post CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design appeared first on EE Times .",
@@ -108,15 +153,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Improving measurement accuracy in modern medical device testing systems",
-    "source": "Electronics Weekly",
-    "snippet": "Understanding the error sources in medical device testing is essential for appraising the systems, writes Aditi Jaiswal. Medical device testing imposes accuracy requirements that push conventional bench instrumentation to its […] The post Improving measurement accuracy in modern medical device testi",
-    "published": "2026-10-27T12:00:44+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/improving-measurement-accuracy-in-modern-medical-device-testing-systems-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Power Tips #158: Using a programmable logic device as an LLC controller",
     "source": "EDN",
     "snippet": "Inductor-inductor-capacitor (LLC) applications that don’t require a closed control loop can benefit from simple and low-cost implementations. The post Power Tips #158: Using a programmable logic device as an LLC controller appeared first on EDN .",
@@ -126,15 +162,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Solstar demonstrates space-to-space Wi-Fi connectivity for Nasa",
-    "source": "Electronics Weekly",
-    "snippet": "Solstar Space, a space-based communications startup, has successfully demonstrated on-orbit Wi-Fi communications. This was during NASA’s R5-S10 CubeSat proximity operations near the Momentus Vigoride-7 spacecraft. The mission collected images and […] The post Solstar demonstrates space-to-space Wi-F",
-    "published": "2026-10-27T10:58:22+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/solstar-demonstrates-space-to-space-wi-fi-connectivity-for-nasa-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Quantum Computing’s Energy Bill Is Coming, and We Haven’t Priced It In",
     "source": "EE Times",
     "snippet": "Quantum computing’s future depends on measuring useful processing power against energy consumption and cost, not just qubit counts. The post Quantum Computing’s Energy Bill Is Coming, and We Haven’t Priced It In appeared first on EE Times .",
@@ -142,15 +169,6 @@
     "authors": "Matt Rijlaarsdam",
     "link": "https://www.eetimes.com/quantum-computing-energy-bill-is-coming-and-we-havent-priced-it-in/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Intel buys Classiq to become full-stack quantum computing provider",
-    "source": "Electronics Weekly",
-    "snippet": "Intel is to buy Classiq, a provider of quantum computing software. The combination of Classiq’s synthesis platform with Intel’s spin-qubit manufacturing and existing software would create a user-friendly full-stack quantum […] The post Intel buys Classiq to become full-stack quantum computing provid",
-    "published": "2026-10-27T06:17:35+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/intel-buys-classiq-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
@@ -297,15 +315,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Two Dollars and a Test Suite",
-    "source": "EE Times",
-    "snippet": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times .",
-    "published": "2026-10-23T08:03:27+00:00",
-    "authors": "Moshe Zalcberg",
-    "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Why AI Can’t Replace Engineering Teams",
     "source": "IEEE Spectrum",
     "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! If you’re an engineer, you may feel like your ski",
@@ -366,15 +375,6 @@
     "published": "2026-10-21T18:33:05+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Processor IP brings generative AI to edge devices",
-    "source": "EDN",
-    "snippet": "BrainChip’s Sequora processor IP core runs generative AI and large language models (LLMs) directly on battery-powered edge devices. The post Processor IP brings generative AI to edge devices appeared first on EDN .",
-    "published": "2026-10-21T18:32:19+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices/",
     "category": "EDN 电子设计新闻"
   },
   {
