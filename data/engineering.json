@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Cloud to edge AI: If and when, to what degree, and how and why",
+      "source": "EDN",
+      "snippet": "AI inference remains cloud-mostly, albeit not for long. Whether it shifts to client devices in part or completely, who will the winners be? The post Cloud to edge AI: If and when, to what degree, and how and why appeared first on EDN .",
+      "published": "2026-10-29T12:00:09+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/cloud-to-edge-ai-if-and-when-to-what-degree-and-how-and-why/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Amazon, Apple and Microsoft: New mobile computing platforms take off",
       "source": "EDN",
       "snippet": "Considering current semiconductor constraints, this has been a surprisingly busy October from a systems-release standpoint. The post Amazon, Apple and Microsoft: New mobile computing platforms take off appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-27T23:28:13+00:00",
       "authors": "C aliou cisse",
       "link": "https://www.edn.com/a-viable-alternative-to-braided-shielded-cable/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Power Tips #158: Using a programmable logic device as an LLC controller",
-      "source": "EDN",
-      "snippet": "Inductor-inductor-capacitor (LLC) applications that don’t require a closed control loop can benefit from simple and low-cost implementations. The post Power Tips #158: Using a programmable logic device as an LLC controller appeared first on EDN .",
-      "published": "2026-10-27T12:00:20+00:00",
-      "authors": "Björn Görner",
-      "link": "https://www.edn.com/power-tips-158-using-a-programmable-logic-device-as-an-llc-controller/",
       "category": "EDN 电子设计新闻"
     }
   ]

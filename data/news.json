@@ -1,5 +1,77 @@
 [
   {
+    "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+    "source": "EE Times",
+    "snippet": "Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile. The post Samsung Electronics Posts $80B Operating Profit on AI Memory Demand appeared first on EE Times .",
+    "published": "2026-10-29T16:20:34+00:00",
+    "authors": "News Desk",
+    "link": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "How Vision and Connectivity Enable Autonomous Agriculture",
+    "source": "EE Times",
+    "snippet": "Join this webinar to explore how Gigabit Multimedia Serial Link (GMSL) technology helps enable the next generation of autonomous agricultural equipment. The post How Vision and Connectivity Enable Autonomous Agriculture appeared first on EE Times .",
+    "published": "2026-10-29T16:07:54+00:00",
+    "authors": "Analog Devices, Arrow Electronics",
+    "link": "https://www.eetimes.com/how-vision-and-connectivity-enable-autonomous-agriculture/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Fable: The Thing That Was Too Good For Its Own Good",
+    "source": "Electronics Weekly",
+    "snippet": "27 years ago a university student looked for a way round having to buy CDs to get single tracks. He coded a programme letting students share tracks stored on their […] The post Fable: The Thing That Was Too Good For Its Own Good appeared first on Electronics Weekly .",
+    "published": "2026-10-29T14:25:23+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-thing-that-was-too-good-for-its-own-good-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Smarter Power Sequencing with GreenPAK™",
+    "source": "EE Times",
+    "snippet": "Programmable mixed-signal devices can replace sprawling RC networks and firmware-dependent control with compact, deterministic, and adaptable multi-rail sequencing. The post Smarter Power Sequencing with GreenPAK™ appeared first on EE Times .",
+    "published": "2026-10-29T13:00:00+00:00",
+    "authors": "Dima Mymrikov, Sr. Director of GreenPAK Product Marketing, Renesas Electronics",
+    "link": "https://www.eetimes.com/smarter-power-sequencing-with-greenpak/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "What should a sensor decide before its signal becomes electronic?",
+    "source": "Electronics Weekly",
+    "snippet": "A sensing architecture can leave transport, sequencing and bounded local decisions in the fluidic domain before an optical or electrical readout hands a validated state to conventional electronics Operations can […] The post What should a sensor decide before its signal becomes electronic? appeared ",
+    "published": "2026-10-29T12:00:52+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/what-should-a-sensor-decide-before-its-signal-becomes-electronic-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Cloud to edge AI: If and when, to what degree, and how and why",
+    "source": "EDN",
+    "snippet": "AI inference remains cloud-mostly, albeit not for long. Whether it shifts to client devices in part or completely, who will the winners be? The post Cloud to edge AI: If and when, to what degree, and how and why appeared first on EDN .",
+    "published": "2026-10-29T12:00:09+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/cloud-to-edge-ai-if-and-when-to-what-degree-and-how-and-why/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "STMicroelectronics Weighs Developing More Powerful MCUs, MPUs for Humanoid Robots",
+    "source": "EE Times",
+    "snippet": "With humanoid robot designs still evolving and volumes low, STMicroelectronics is watching how the market develops before deciding what to build. The post STMicroelectronics Weighs Developing More Powerful MCUs, MPUs for Humanoid Robots appeared first on EE Times .",
+    "published": "2026-10-29T11:48:02+00:00",
+    "authors": "Yashasvini Razdan",
+    "link": "https://www.eetimes.com/stmicroelectronics-weighs-developing-more-powerful-mcus-mpus-for-humanoid-robots/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "ST forecasts $4bn Q4",
+    "source": "Electronics Weekly",
+    "snippet": "ST reported Q3 revenues of $3.76bn, gross margin of 37.3%, operating income of $367m and net income of $291m and operating income of $429m. Jean-Marc Chery, ST president & CEO, […] The post ST forecasts $4bn Q4 appeared first on Electronics Weekly .",
+    "published": "2026-10-29T08:45:13+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/st-forecasts-4bn-q4-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
     "source": "EE Times",
     "snippet": "AI chip advances depend on more than design, requiring new materials, manufacturing equipment, and packaging technologies to meet rising performance demands. The post How AI Redefines Semiconductor Manufacturing, From Materials Up appeared first on EE Times .",
@@ -7,6 +79,60 @@
     "authors": "Mahiro Tsujino",
     "link": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "“Reassuringly boring” budget",
+    "source": "Electronics Weekly",
+    "snippet": "“Reassuringly boring“ was one judgement on yesterday’s budget, meaning that it didn’t upset the bond market. £18m has been allocated for a new UK advanced chip design academy at Edinburgh […] The post “Reassuringly boring” budget appeared first on Electronics Weekly .",
+    "published": "2026-10-29T06:18:56+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Onsemi rumoured to be in talks to acquire Ferric",
+    "source": "Electronics Weekly",
+    "snippet": "Onsemi is in talks to acquire Ferric, a 16-year-old New York-based semiconductor startup for close to $1bn, reports The Information. Ferric specialises in integrated voltage regulators (IVRs) and thin-film magnetic […] The post Onsemi rumoured to be in talks to acquire Ferric appeared first on Elect",
+    "published": "2026-10-29T06:14:25+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/onsemi-rumoured-to-be-in-talks-to-acquire-ferric-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Seoul Viosys produces white LEDs without rare earths",
+    "source": "Electronics Weekly",
+    "snippet": "Seoul Semiconductor and its affiliate Seoul Viosys have begun mass production of WICOP 3 – an LED that emits white light without using rare earths. White LEDs have depended on […] The post Seoul Viosys produces white LEDs without rare earths appeared first on Electronics Weekly .",
+    "published": "2026-10-29T06:13:36+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/seoul-viosys-producing-white-leds-without-rare-earths-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "PCB industry succumbing to ‘semiconducterisation’",
+    "source": "Electronics Weekly",
+    "snippet": "The PCB industry closed 2025 at about $88bn in revenue and a conservative forecast puts it at $140bn by 2031, following an 8.1% CAGR. That headline figure averages two industries […] The post PCB industry succumbing to ‘semiconducterisation’ appeared first on Electronics Weekly .",
+    "published": "2026-10-29T06:12:27+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/pcb-industry-to-hit-140bn-by-2031-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Toshiba in mass production of entry-class M4H Group MCUs",
+    "source": "Electronics Weekly",
+    "snippet": "Toshiba has started mass production of three Entry-Class M4H Group MCUs for system control in consumer and industrial equipment. The MCUs are designed for consumer products such as air conditioners […] The post Toshiba in mass production of entry-class M4H Group MCUs appeared first on Electronics We",
+    "published": "2026-10-29T06:02:09+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/toshiba-in-mass-production-of-entry-class-m4h-group-mcus-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Netflix revenue shrinking but operating margin and subscribers increasing",
+    "source": "Electronics Weekly",
+    "snippet": "While subscriber additions have been growing steadily, Netflix’s revenue growth is slowing. In 2026 to-date, revenue was up 13.7% YoY, compared with 15.9% for the full year 2025 […] The post Netflix revenue shrinking but operating margin and subscribers increasing appeared first on Electronics Weekl",
+    "published": "2026-10-29T01:01:40+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/netflix-revenue-shrinking-but-margin-increasing-2026-10/",
+    "category": "电子周刊"
   },
   {
     "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
@@ -99,6 +225,15 @@
     "category": "EDN 电子设计新闻"
   },
   {
+    "title": "DigiKey adds to its Standard Product range",
+    "source": "Electronics Weekly",
+    "snippet": "DigiKey has expanded its DigiKey Standard Product range, which addresses the “everyday needs of engineers, technicians and makers”. Its own-label product line now includes a soldering station, an ESD silicone […] The post DigiKey adds to its Standard Product range appeared first on Electronics Weekl",
+    "published": "2026-10-28T15:35:30+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/digikey-adds-to-its-standard-product-range-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Secure Safety and Security Communications",
     "source": "EE Times",
     "snippet": "This whitepaper explores how building safety and security systems can overcome the limitations of legacy RS-485 networks by adopting Single Pair Ethernet (SPE). It examines the growing demands of AI-enabled surveillance, access control, cybersecurity, and system convergence, while highlighting how S",
@@ -153,15 +288,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies",
-    "source": "EE Times",
-    "snippet": "High-density switching supplies help modernize legacy aircraft power systems while addressing obsolescence, efficiency, integration, and compliance challenges. The post Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies appeared first on EE Times .",
-    "published": "2026-10-27T23:00:00+00:00",
-    "authors": "Emily Newton",
-    "link": "https://www.eetimes.com/transitioning-legacy-aircraft-power-architectures-to-high-density-switching-supplies/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
     "source": "IEEE Spectrum",
     "snippet": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
@@ -171,15 +297,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design",
-    "source": "EE Times",
-    "snippet": "CopperPilot’s CEO said the startup has built its AI design agent so that “no hardware team is ever blocked because a board is too hard to design.” The post CopperPilot Raises Pre-seed to Develop AI Agent for PCB Design appeared first on EE Times .",
-    "published": "2026-10-27T13:58:33+00:00",
-    "authors": "Yashasvini Razdan",
-    "link": "https://www.eetimes.com/copperpilot-raises-pre-seed-to-develop-ai-agent-for-pcb-design/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
     "source": "IEEE Spectrum",
     "snippet": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited ",
@@ -187,33 +304,6 @@
     "authors": "Benjamin Skuse",
     "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Power Tips #158: Using a programmable logic device as an LLC controller",
-    "source": "EDN",
-    "snippet": "Inductor-inductor-capacitor (LLC) applications that don’t require a closed control loop can benefit from simple and low-cost implementations. The post Power Tips #158: Using a programmable logic device as an LLC controller appeared first on EDN .",
-    "published": "2026-10-27T12:00:20+00:00",
-    "authors": "Björn Görner",
-    "link": "https://www.edn.com/power-tips-158-using-a-programmable-logic-device-as-an-llc-controller/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Quantum Computing’s Energy Bill Is Coming, and We Haven’t Priced It In",
-    "source": "EE Times",
-    "snippet": "Quantum computing’s future depends on measuring useful processing power against energy consumption and cost, not just qubit counts. The post Quantum Computing’s Energy Bill Is Coming, and We Haven’t Priced It In appeared first on EE Times .",
-    "published": "2026-10-27T09:05:54+00:00",
-    "authors": "Matt Rijlaarsdam",
-    "link": "https://www.eetimes.com/quantum-computing-energy-bill-is-coming-and-we-havent-priced-it-in/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
-    "source": "EE Times",
-    "snippet": "Getting the most power from an urban-sited panel requires deep understanding of its surroundings. The post Using a Single Image to Optimize Urban Solar-Panel Orientation appeared first on EE Times .",
-    "published": "2026-10-26T22:00:00+00:00",
-    "authors": "Bill Schweber",
-    "link": "https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "IEEE Xplore Digital Library Adds AI Assistant",
