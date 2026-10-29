@@ -1,5 +1,14 @@
 [
   {
+    "title": "Netflix revenue shrinking but operating margin and subscribers increasing",
+    "source": "Electronics Weekly",
+    "snippet": "While subscriber additions have been growing steadily, Netflix’s revenue growth is slowing. In 2026 to-date, revenue was up 13.7% YoY, compared with 15.9% for the full year 2025 […] The post Netflix revenue shrinking but operating margin and subscribers increasing appeared first on Electronics Weekl",
+    "published": "2026-10-29T01:01:40+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/netflix-revenue-shrinking-but-margin-increasing-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
     "source": "EE Times",
     "snippet": "Toronto-based Meissner Technologies uses AI and laboratory testing to discover superconducting materials that could cut cooling costs and help quantum computers scale. The post Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’ appeared first on EE Times .",
@@ -232,15 +241,6 @@
     "authors": "Emily Newton",
     "link": "https://www.eetimes.com/transitioning-legacy-aircraft-power-architectures-to-high-density-switching-supplies/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Raspberry Pi emulates Apollo Command Module and Lunar Module",
-    "source": "Electronics Weekly",
-    "snippet": "Thanks to the Raspberry Pi team highlighting this amazing project, which recreates an Apollo Command Module and Lunar Module using a Raspberry Pi. The post Raspberry Pi emulates Apollo Command Module and Lunar Module appeared first on Electronics Weekly .",
-    "published": "2026-10-27T17:17:51+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/raspberry-pi-emulates-apollo-command-module-and-lunar-module-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
