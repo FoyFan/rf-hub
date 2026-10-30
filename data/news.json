@@ -1,5 +1,41 @@
 [
   {
+    "title": "Google: Agentic AI Will Drive New Demands on Data Center CPUs",
+    "source": "EE Times",
+    "snippet": "Agents present a bursty workload, leaving CPUs frequently idle, which is placing new demands on CPU infrastructure. The post Google: Agentic AI Will Drive New Demands on Data Center CPUs appeared first on EE Times .",
+    "published": "2026-10-30T20:13:41+00:00",
+    "authors": "Sally Ward-Foxton",
+    "link": "https://www.eetimes.com/google-agentic-ai-will-drive-new-demands-on-data-center-cpus/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Siglent SSG6M80A expands microwave signal generation for up to 20 GHz",
+    "source": "Electronics Weekly",
+    "snippet": "Siglent’s new microwave signal generators, the SSG6M80A series, feature phase-coherent signal generation with two or four channels up to 20 GHz. The company highlights that the requirements placed on RF […] The post Siglent SSG6M80A expands microwave signal generation for up to 20 GHz appeared first",
+    "published": "2026-10-30T16:41:08+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-ssg6m80a-expands-microwave-signal-generation-for-up-to-20-ghz-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge",
+    "source": "EE Times",
+    "snippet": "Intel faces a tough challenge as manufacturing bottlenecks and rising memory costs impact PC sales despite strong data center growth. The post Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge appeared first on EE Times .",
+    "published": "2026-10-30T16:37:20+00:00",
+    "authors": "News Desk",
+    "link": "https://www.eetimes.com/intels-q3-results-show-supply-chain-disruptions-and-pc-plunge/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "GomSpace launches OBRIA NANO for Ukrainian satcoms",
+    "source": "Electronics Weekly",
+    "snippet": "Ukraine’s HIMERA – a defence startup – and Denmark’s GomSpace – which manufactures satellites – have announced the launch of OBRIA NANO. This is the first test satellite for an […] The post GomSpace launches OBRIA NANO for Ukrainian satcoms appeared first on Electronics Weekly .",
+    "published": "2026-10-30T15:45:11+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/gomspace-launches-obria-nano-for-ukrainian-satcoms-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Can eBooks survive?",
     "source": "Electronics Weekly",
     "snippet": "in 1998 the eBook was emerging to meet with considerable scepticism. In October 1998 EW carried this account of the debate. ‘At a recent eBook conference in the US, […] The post Can eBooks survive? appeared first on Electronics Weekly .",
@@ -135,15 +171,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Fable: The Thing That Was Too Good For Its Own Good",
-    "source": "Electronics Weekly",
-    "snippet": "27 years ago a university student looked for a way round having to buy CDs to get single tracks. He coded a programme letting students share tracks stored on their […] The post Fable: The Thing That Was Too Good For Its Own Good appeared first on Electronics Weekly .",
-    "published": "2026-10-29T14:25:23+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-thing-that-was-too-good-for-its-own-good-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Smarter Power Sequencing with GreenPAK™",
     "source": "EE Times",
     "snippet": "Programmable mixed-signal devices can replace sprawling RC networks and firmware-dependent control with compact, deterministic, and adaptable multi-rail sequencing. The post Smarter Power Sequencing with GreenPAK™ appeared first on EE Times .",
@@ -151,15 +178,6 @@
     "authors": "Dima Mymrikov, Sr. Director of GreenPAK Product Marketing, Renesas Electronics",
     "link": "https://www.eetimes.com/smarter-power-sequencing-with-greenpak/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "What should a sensor decide before its signal becomes electronic?",
-    "source": "Electronics Weekly",
-    "snippet": "A sensing architecture can leave transport, sequencing and bounded local decisions in the fluidic domain before an optical or electrical readout hands a validated state to conventional electronics Operations can […] The post What should a sensor decide before its signal becomes electronic? appeared ",
-    "published": "2026-10-29T12:00:52+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/what-should-a-sensor-decide-before-its-signal-becomes-electronic-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Cloud to edge AI: If and when, to what degree, and how and why",
@@ -261,15 +279,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "SK Hynix Reports Record Q3 Results Driven by AI Memory Surge",
-    "source": "EE Times",
-    "snippet": "Long-term customer contracts and rising chip prices point to a change in how memory manufacturers manage multi-year production capacity and capex. The post SK Hynix Reports Record Q3 Results Driven by AI Memory Surge appeared first on EE Times .",
-    "published": "2026-10-28T16:43:42+00:00",
-    "authors": "News Desk",
-    "link": "https://www.eetimes.com/sk-hynix-reports-record-q3-results-driven-by-ai-memory-surge/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "An equation-driven guide to designing a CrM/DCM boost PFC",
     "source": "EDN",
     "snippet": "Here is a step-by-step methodology for designing a boost PFC stage that operates in CrM under worst-case conditions and falls back to discontinuous conduction mode at lighter loads. The post An equation-driven guide to designing a CrM/DCM boost PFC appeared first on EDN .",
@@ -277,15 +286,6 @@
     "authors": "Rafael Collado",
     "link": "https://www.edn.com/an-equation-driven-guide-to-designing-a-crm-dcm-boost-pfc/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Secure Safety and Security Communications",
-    "source": "EE Times",
-    "snippet": "This whitepaper explores how building safety and security systems can overcome the limitations of legacy RS-485 networks by adopting Single Pair Ethernet (SPE). It examines the growing demands of AI-enabled surveillance, access control, cybersecurity, and system convergence, while highlighting how S",
-    "published": "2026-10-28T14:00:00+00:00",
-    "authors": "Analog Devices",
-    "link": "https://www.eetimes.com/secure-safety-and-security-communications/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
