@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "AI can design the chip, manufacturing it is harder",
+      "source": "EDN",
+      "snippet": "Design lives primarily in a structured environment of models, rules, constraints, libraries, and solver outputs while manufacturing doesn’t. The post AI can design the chip, manufacturing it is harder appeared first on EDN .",
+      "published": "2026-10-30T02:48:03+00:00",
+      "authors": "Dr. Moh Kolbehdari",
+      "link": "https://www.edn.com/ai-can-design-the-chip-manufacturing-it-is-harder/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Cloud to edge AI: If and when, to what degree, and how and why",
       "source": "EDN",
       "snippet": "AI inference remains cloud-mostly, albeit not for long. Whether it shifts to client devices in part or completely, who will the winners be? The post Cloud to edge AI: If and when, to what degree, and how and why appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-28T12:00:49+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/adding-open-load-fault-detection-to-the-drv103-pwm-driver/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "A viable alternative to braided shielded cable",
-      "source": "EDN",
-      "snippet": "Braided shielded cable is the standard, but a new alternative may provide superior RF performance along with other beneficial attributes. The post A viable alternative to braided shielded cable appeared first on EDN .",
-      "published": "2026-10-27T23:28:13+00:00",
-      "authors": "C aliou cisse",
-      "link": "https://www.edn.com/a-viable-alternative-to-braided-shielded-cable/",
       "category": "EDN 电子设计新闻"
     }
   ]

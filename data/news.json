@@ -1,5 +1,59 @@
 [
   {
+    "title": "BEAMA sets up power grid group",
+    "source": "Electronics Weekly",
+    "snippet": "BEAMA has launched a new group for UK companies delivering power grid infrastructure, including those working in civil engineering, construction, design, specification and wider services. The Electricity Networks Infrastructure (ENI) […] The post BEAMA sets up power grid group appeared first on Elec",
+    "published": "2026-10-30T06:14:18+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/beama-sets-up-power-grid-group-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Intel Q4 forecast disappoints",
+    "source": "Electronics Weekly",
+    "snippet": "Intel’s Q3 revenue was $16.5 billion, up 21% YoY. Q4 revenue was forecast at $15 billion to $16 billion; “Our Q3 results demonstrate improving execution, meaningful progress expanding supply and […] The post Intel Q4 forecast disappoints appeared first on Electronics Weekly .",
+    "published": "2026-10-30T06:13:45+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/intel-q3-disappoints-stock-falls-20-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Nordic demo-es Bluetooth HDT",
+    "source": "Electronics Weekly",
+    "snippet": "Nordic Semiconductor, the low-power wireless connectivity specialist. Has demo-ed the upcoming Bluetooth® High Data Throughput (HDT) feature in silicon through its video demonstration. With support for longer packets, Bluetooth HDT […] The post Nordic demo-es Bluetooth HDT appeared first on Electron",
+    "published": "2026-10-30T06:12:28+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nordic-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The Pickering Remote Gateway",
+    "source": "Electronics Weekly",
+    "snippet": "Pickering Interfaces of Clacton-on-sea, provider of modular signal switching and simulation solutions for electronic test and verification, has introduced the Pickering Remote Gateway. The new gRPC-based software enables engineers to […] The post The Pickering Remote Gateway appeared first on Electr",
+    "published": "2026-10-30T06:11:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/the-pickering-remote-gateway-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "CELUS offers trial of agentic workflow for electronic design",
+    "source": "Electronics Weekly",
+    "snippet": "CELUS today launched an agentic workflow for its Design Assistant. The workflow helps hardware engineers plan the architecture and component work at the start of an electronics design, before schematic capture, […] The post CELUS offers trial of agentic workflow for electronic design appeared first ",
+    "published": "2026-10-30T06:10:36+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/celus-offers-trial-of-agentic-workflow-for-electronic-design-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "AI can design the chip, manufacturing it is harder",
+    "source": "EDN",
+    "snippet": "Design lives primarily in a structured environment of models, rules, constraints, libraries, and solver outputs while manufacturing doesn’t. The post AI can design the chip, manufacturing it is harder appeared first on EDN .",
+    "published": "2026-10-30T02:48:03+00:00",
+    "authors": "Dr. Moh Kolbehdari",
+    "link": "https://www.edn.com/ai-can-design-the-chip-manufacturing-it-is-harder/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
     "title": "Voters’ Issues In Midterms",
     "source": "Electronics Weekly",
     "snippet": "Next week’s midterm elections in the US see voters putting the economy and the future of democracy as the most important topics, according to a survey by Pugh Research Centre. […] The post Voters’ Issues In Midterms appeared first on Electronics Weekly .",
@@ -114,51 +168,6 @@
     "published": "2026-10-29T06:18:56+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Onsemi rumoured to be in talks to acquire Ferric",
-    "source": "Electronics Weekly",
-    "snippet": "Onsemi is in talks to acquire Ferric, a 16-year-old New York-based semiconductor startup for close to $1bn, reports The Information. Ferric specialises in integrated voltage regulators (IVRs) and thin-film magnetic […] The post Onsemi rumoured to be in talks to acquire Ferric appeared first on Elect",
-    "published": "2026-10-29T06:14:25+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/onsemi-rumoured-to-be-in-talks-to-acquire-ferric-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Seoul Viosys produces white LEDs without rare earths",
-    "source": "Electronics Weekly",
-    "snippet": "Seoul Semiconductor and its affiliate Seoul Viosys have begun mass production of WICOP 3 – an LED that emits white light without using rare earths. White LEDs have depended on […] The post Seoul Viosys produces white LEDs without rare earths appeared first on Electronics Weekly .",
-    "published": "2026-10-29T06:13:36+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/seoul-viosys-producing-white-leds-without-rare-earths-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "PCB industry succumbing to ‘semiconducterisation’",
-    "source": "Electronics Weekly",
-    "snippet": "The PCB industry closed 2025 at about $88bn in revenue and a conservative forecast puts it at $140bn by 2031, following an 8.1% CAGR. That headline figure averages two industries […] The post PCB industry succumbing to ‘semiconducterisation’ appeared first on Electronics Weekly .",
-    "published": "2026-10-29T06:12:27+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/pcb-industry-to-hit-140bn-by-2031-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Toshiba in mass production of entry-class M4H Group MCUs",
-    "source": "Electronics Weekly",
-    "snippet": "Toshiba has started mass production of three Entry-Class M4H Group MCUs for system control in consumer and industrial equipment. The MCUs are designed for consumer products such as air conditioners […] The post Toshiba in mass production of entry-class M4H Group MCUs appeared first on Electronics We",
-    "published": "2026-10-29T06:02:09+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/toshiba-in-mass-production-of-entry-class-m4h-group-mcus-2026-10/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Netflix revenue shrinking but operating margin and subscribers increasing",
-    "source": "Electronics Weekly",
-    "snippet": "While subscriber additions have been growing steadily, Netflix’s revenue growth is slowing. In 2026 to-date, revenue was up 13.7% YoY, compared with 15.9% for the full year 2025 […] The post Netflix revenue shrinking but operating margin and subscribers increasing appeared first on Electronics Weekl",
-    "published": "2026-10-29T01:01:40+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/netflix-revenue-shrinking-but-margin-increasing-2026-10/",
     "category": "电子周刊"
   },
   {
@@ -285,15 +294,6 @@
     "published": "2026-10-28T12:00:49+00:00",
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/adding-open-load-fault-detection-to-the-drv103-pwm-driver/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "A viable alternative to braided shielded cable",
-    "source": "EDN",
-    "snippet": "Braided shielded cable is the standard, but a new alternative may provide superior RF performance along with other beneficial attributes. The post A viable alternative to braided shielded cable appeared first on EDN .",
-    "published": "2026-10-27T23:28:13+00:00",
-    "authors": "C aliou cisse",
-    "link": "https://www.edn.com/a-viable-alternative-to-braided-shielded-cable/",
     "category": "EDN 电子设计新闻"
   },
   {
