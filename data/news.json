@@ -1,5 +1,41 @@
 [
   {
+    "title": "Can eBooks survive?",
+    "source": "Electronics Weekly",
+    "snippet": "in 1998 the eBook was emerging to meet with considerable scepticism. In October 1998 EW carried this account of the debate. ‘At a recent eBook conference in the US, […] The post Can eBooks survive? appeared first on Electronics Weekly .",
+    "published": "2026-10-30T14:30:43+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/can-ebooks-survive-2026-10/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Discerning and coding: the exponential equation process",
+    "source": "EDN",
+    "snippet": "Most physical processes in nature have exponential properties, even if the underlying data looks noisy or otherwise messy. The post Discerning and coding: the exponential equation process appeared first on EDN .",
+    "published": "2026-10-30T12:00:40+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/discerning-and-coding-the-exponential-equation-process/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Why Shrinking Component Geometries Force a Rethink of BGA Rework Heating Methods",
+    "source": "EE Times",
+    "snippet": "As components shrink to 01005 scale and board densities rise, BGA rework requires more precise heat control. The post Why Shrinking Component Geometries Force a Rethink of BGA Rework Heating Methods appeared first on EE Times .",
+    "published": "2026-10-30T10:32:26+00:00",
+    "authors": "Emily Newton",
+    "link": "https://www.eetimes.com/why-shrinking-component-geometries-force-a-rethink-of-bga-rework-heating-methods/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Thales Alenia Space wins contract for two further Galileo satellites",
+    "source": "Electronics Weekly",
+    "snippet": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
+    "published": "2026-10-30T10:27:30+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/thales-alenia-space-wins-contract-for-two-further-galileo-satellites-2026-10/",
+    "category": "电子周刊"
+  },
+  {
     "title": "BEAMA sets up power grid group",
     "source": "Electronics Weekly",
     "snippet": "BEAMA has launched a new group for UK companies delivering power grid infrastructure, including those working in civil engineering, construction, design, specification and wider services. The Electricity Networks Infrastructure (ENI) […] The post BEAMA sets up power grid group appeared first on Elec",
@@ -20,7 +56,7 @@
   {
     "title": "Nordic demo-es Bluetooth HDT",
     "source": "Electronics Weekly",
-    "snippet": "Nordic Semiconductor, the low-power wireless connectivity specialist. Has demo-ed the upcoming Bluetooth® High Data Throughput (HDT) feature in silicon through its video demonstration. With support for longer packets, Bluetooth HDT […] The post Nordic demo-es Bluetooth HDT appeared first on Electron",
+    "snippet": "Nordic Semiconductor, the low-power wireless connectivity specialist. Has demo-ed the upcoming Bluetooth High Data Throughput (HDT) feature in silicon through its video demonstration (see below). With support for longer packets, […] The post Nordic demo-es Bluetooth HDT appeared first on Electronics",
     "published": "2026-10-30T06:12:28+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/nordic-2026-10/",
@@ -144,15 +180,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "ST forecasts $4bn Q4",
-    "source": "Electronics Weekly",
-    "snippet": "ST reported Q3 revenues of $3.76bn, gross margin of 37.3%, operating income of $367m and net income of $291m and operating income of $429m. Jean-Marc Chery, ST president & CEO, […] The post ST forecasts $4bn Q4 appeared first on Electronics Weekly .",
-    "published": "2026-10-29T08:45:13+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/st-forecasts-4bn-q4-2026-10/",
-    "category": "电子周刊"
-  },
-  {
     "title": "How AI Redefines Semiconductor Manufacturing, From Materials Up",
     "source": "EE Times",
     "snippet": "AI chip advances depend on more than design, requiring new materials, manufacturing equipment, and packaging technologies to meet rising performance demands. The post How AI Redefines Semiconductor Manufacturing, From Materials Up appeared first on EE Times .",
@@ -160,15 +187,6 @@
     "authors": "Mahiro Tsujino",
     "link": "https://www.eetimes.com/how-ai-redefines-semiconductor-manufacturing-from-materials-up/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "“Reassuringly boring” budget",
-    "source": "Electronics Weekly",
-    "snippet": "“Reassuringly boring“ was one judgement on yesterday’s budget, meaning that it didn’t upset the bond market. £18m has been allocated for a new UK advanced chip design academy at Edinburgh […] The post “Reassuringly boring” budget appeared first on Electronics Weekly .",
-    "published": "2026-10-29T06:18:56+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/reassuringly-boring-budget-2026-10/",
-    "category": "电子周刊"
   },
   {
     "title": "Canadian Startup Aims to Be Quantum’s ‘Picks’ and ‘Shovels’",
@@ -270,15 +288,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Full-Stack Semiconductor Solutions for Embodied AI & Robotics",
-    "source": "EE Times",
-    "snippet": "NSING Technologies, a Singapore-founded semiconductor company, presents this whitepaper on its full-stack semiconductor solutions for embodied AI and robotics, built around high-performance MCUs, security ICs, wireless connectivity and BMS ICs. The document explains the industry shift toward distrib",
-    "published": "2026-10-28T14:00:00+00:00",
-    "authors": "NSING",
-    "link": "https://www.eetimes.com/full-stack-semiconductor-solutions-for-embodied-ai-robotics/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
     "source": "IEEE Spectrum",
     "snippet": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward. At the back of the aircraft, the five-blade pusher propeller snaps awak",
@@ -286,15 +295,6 @@
     "authors": "Tom Clynes",
     "link": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Adding open-load fault detection to the DRV103 PWM driver",
-    "source": "EDN",
-    "snippet": "A simple circuit adds a relevant status-reporting bit to the device's existing already-sizeable capabilities suite. The post Adding open-load fault detection to the DRV103 PWM driver appeared first on EDN .",
-    "published": "2026-10-28T12:00:49+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/adding-open-load-fault-detection-to-the-drv103-pwm-driver/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",

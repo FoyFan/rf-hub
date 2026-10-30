@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Discerning and coding: the exponential equation process",
+      "source": "EDN",
+      "snippet": "Most physical processes in nature have exponential properties, even if the underlying data looks noisy or otherwise messy. The post Discerning and coding: the exponential equation process appeared first on EDN .",
+      "published": "2026-10-30T12:00:40+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/discerning-and-coding-the-exponential-equation-process/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "AI can design the chip, manufacturing it is harder",
       "source": "EDN",
       "snippet": "Design lives primarily in a structured environment of models, rules, constraints, libraries, and solver outputs while manufacturing doesn’t. The post AI can design the chip, manufacturing it is harder appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-28T15:49:48+00:00",
       "authors": "Rafael Collado",
       "link": "https://www.edn.com/an-equation-driven-guide-to-designing-a-crm-dcm-boost-pfc/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Adding open-load fault detection to the DRV103 PWM driver",
-      "source": "EDN",
-      "snippet": "A simple circuit adds a relevant status-reporting bit to the device's existing already-sizeable capabilities suite. The post Adding open-load fault detection to the DRV103 PWM driver appeared first on EDN .",
-      "published": "2026-10-28T12:00:49+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/adding-open-load-fault-detection-to-the-drv103-pwm-driver/",
       "category": "EDN 电子设计新闻"
     }
   ]
