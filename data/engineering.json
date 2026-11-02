@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Disassembling a SFP Ethernet adapter",
+      "source": "EDN",
+      "snippet": "If you need a spare RJ45 switch port but none are available, use a spare SFP instead. Ethernet adapters can’t be beat, but mind the heat. The post Disassembling a SFP Ethernet adapter appeared first on EDN .",
+      "published": "2026-11-02T13:00:15+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/disassembling-a-sfp-ethernet-adapter/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Ground penetrating radar: How RF waves map the unseen world",
       "source": "EDN",
       "snippet": "Ground penetrating radar (GPR) turns invisible transitions beneath our feet into readable signals. The post Ground penetrating radar: How RF waves map the unseen world appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-28T19:11:22+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/camera-kit-simplifies-multi-camera-ai-development/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Industrial MCUs pair 600-MHz cores with MRAM",
-      "source": "EDN",
-      "snippet": "The Renesas RX74M and RX74N 32-bit MCUs are the first in the RX family to use a 22-nm process and incorporate embedded MRAM. The post Industrial MCUs pair 600-MHz cores with MRAM appeared first on EDN .",
-      "published": "2026-10-28T19:10:44+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/industrial-mcus-pair-600-mhz-cores-with-mram/",
       "category": "EDN 电子设计新闻"
     }
   ]
