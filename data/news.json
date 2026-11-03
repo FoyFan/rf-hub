@@ -1,5 +1,77 @@
 [
   {
+    "title": "Marvell Snaps Photonics Chipmaker Lumentum to Bolster AI Connectivity",
+    "source": "EE Times",
+    "snippet": "The $115 billion deal aims to create a category leader in AI connectivity by co-designing network processors and lasers for optical transceivers. The post Marvell Snaps Photonics Chipmaker Lumentum to Bolster AI Connectivity appeared first on EE Times .",
+    "published": "2026-11-03T08:50:21+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.eetimes.com/marvell-snaps-photonics-chipmaker-lumentum-to-bolster-ai-connectivity/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Marvell buys Lumentum",
+    "source": "Electronics Weekly",
+    "snippet": "Marvell is to buy photonics specialist Lumentum for $115 billion in what is being seen as a bet on the continuation of the datacentre build out. “AI infrastructure is undergoing […] The post Marvell buys Lumentum appeared first on Electronics Weekly .",
+    "published": "2026-11-03T06:13:40+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/marvell-buys-lumentum-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Greece unveils semiconductor strategy",
+    "source": "Electronics Weekly",
+    "snippet": "Greece has opened a draft national strategy for semiconductors and microelectronics for public consultation, setting out how the country hopes to build a larger role in chip design, research and […] The post Greece unveils semiconductor strategy appeared first on Electronics Weekly .",
+    "published": "2026-11-03T06:12:39+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/greece-unveils-semiconductor-strategy-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Imec spin-off Noak raises €5m",
+    "source": "Electronics Weekly",
+    "snippet": "Noak, a spin-off of imec and UHasselt, has raised €5 million to scale and industrialize the development of the next generation of solar: perovskite–silicon tandem PV. The seed investment, provided […] The post Imec spin-off Noak raises €5m appeared first on Electronics Weekly .",
+    "published": "2026-11-03T06:11:57+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/imec-spin-off-noak-raises-e5m-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Hynix Q3 breaks all records",
+    "source": "Electronics Weekly",
+    "snippet": "Hynix had record Q3 results with revenue of $78.14 billion, up 31.9% QoQ and 327.9% YoY. Profit of$62.25 billion was up 37.6% QoQ and 632% YoY. Operating margin was around […] The post Hynix Q3 breaks all records appeared first on Electronics Weekly .",
+    "published": "2026-11-03T06:10:06+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/hynix-q3-breaks-all-records-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Infineon and Qualcomm hook up for in-car computing",
+    "source": "Electronics Weekly",
+    "snippet": "Infineon and Qualcomm are working together to accelerate the development and deployment of central car computers in software-defined vehicles (SDVs). The companies have signed a technology agreement to have a […] The post Infineon and Qualcomm hook up for in-car computing appeared first on Electroni",
+    "published": "2026-11-03T06:08:47+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/infineon-and-qualcomm-book-up-for-in-car-computing-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Macronix Builds Hardware Security into NOR Flash Ahead of EU Cyber Resilience Act",
+    "source": "EE Times",
+    "snippet": "The European Union's Cyber Resilience Act (CRA), which becomes mandatory in December 2027, is raising the bar for cybersecurity in connected devices. Rather than relying on software patches to address vulnerabilities after they emerge, manufacturers are under growing pressure to build security into ",
+    "published": "2026-11-03T05:30:00+00:00",
+    "authors": "EE Times Taiwan",
+    "link": "https://www.eetimes.com/macronix-builds-hardware-security-into-nor-flash-ahead-of-eu-cyber-resilience-act/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Future Military Trends",
+    "source": "Electronics Weekly",
+    "snippet": "PROBLEMS facing military communicators – past, present, and future – were described by Major-General Eric Cole, Director of Telecommunications, War Office, in his presidential address to the Radio Society of […] The post Future Military Trends appeared first on Electronics Weekly .",
+    "published": "2026-11-03T01:01:24+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/future-military-trends-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Inside Automotive DMS & OMS: Technology, Challenges & Power Solutions",
     "source": "EE Times",
     "snippet": "Join our expert for an in-depth look inside today's DMS and OMS architectures. You'll gain practical insights into camera design, power delivery, and thermal management strategies, while learning how advanced IR LED driver solutions can help improve performance, reliability, and system efficiency. T",
@@ -126,60 +198,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Toyota and Waymo to launch robotaxis in Japan",
-    "source": "Electronics Weekly",
-    "snippet": "Toyota and Waymo are to start an autonomous robotaxi service in Japan in 2027, it was announced at the weekend. The service will use the bZ4X EV (pictured). They intend to bring […] The post Toyota and Waymo to launch robotaxis in Japan appeared first on Electronics Weekly .",
-    "published": "2026-11-02T06:15:35+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/toyota-and-waymo-to-launch-robotaxis-in-tokyo-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "ASML links exec pay to employee morale",
-    "source": "Electronics Weekly",
-    "snippet": "ASML CEO Christophe Fouquet (pictured) is linking executive compensation to employee morale. The company selected six key questions from its staff survey designed to assess employee morale to form a […] The post ASML links exec pay to employee morale appeared first on Electronics Weekly .",
-    "published": "2026-11-02T06:14:16+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/asml-links-exec-pay-to-employee-morale-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Japan to build underwater drones",
-    "source": "Electronics Weekly",
-    "snippet": "Japan’s Defence Ministry will begin research next fiscal year on mass-producing drones for the detection and attack of foreign submarines. Japanese companies will be selected for the development programme in […] The post Japan to build underwater drones appeared first on Electronics Weekly .",
-    "published": "2026-11-02T06:11:53+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/japan-to-build-underwater-drones-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Group14 expands into Spain",
-    "source": "Electronics Weekly",
-    "snippet": "Group14 Technologies, a manufacturer and supplier of advanced silicon battery materials, has closed a €150m (~$169m) Series D equity extension. As part of the funding, Group14 has committed to expanding […] The post Group14 expands into Spain appeared first on Electronics Weekly .",
-    "published": "2026-11-02T06:08:42+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/group-14-expands-into-spain-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "MIKROE Click board for south-pole sensing",
-    "source": "Electronics Weekly",
-    "snippet": "UNI Hall 3 Click from MIKROE is a compact add-on Click board designed for contactless magnetic sensing applications. This board is based on the A31015KEWALT-47SN, a nanopower, ratiometric 1D linear […] The post MIKROE Click board for south-pole sensing appeared first on Electronics Weekly .",
-    "published": "2026-11-02T06:07:08+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/products/sensors-products/mikroe-clickboard-for-south-pole-sensing-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio",
-    "source": "EE Times",
-    "snippet": "AI-driven high-bandwidth memory demand is reshaping memory markets, boosting mature flash products as Macronix expands its portfolio for AI workloads. The post AI Reshapes Memory Architecture as Macronix Expands Flash Portfolio appeared first on EE Times .",
-    "published": "2026-11-02T05:00:00+00:00",
-    "authors": "EE Times Taiwan",
-    "link": "https://www.eetimes.com/ai-reshapes-memory-architecture-as-macronix-expands-flash-portfolio/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Ground penetrating radar: How RF waves map the unseen world",
     "source": "EDN",
     "snippet": "Ground penetrating radar (GPR) turns invisible transitions beneath our feet into readable signals. The post Ground penetrating radar: How RF waves map the unseen world appeared first on EDN .",
@@ -189,15 +207,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Ed Works The Whitehall Angles",
-    "source": "Electronics Weekly",
-    "snippet": "The budget may have been a bit hum-drum but behind the scenes Turf Wars over the AI Biosecurity Lab’s £300 million budget are being fought by the Whitehall Warriors, Ed […] The post Ed Works The Whitehall Angles appeared first on Electronics Weekly .",
-    "published": "2026-11-02T01:01:29+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-works-a-whitehall-angle-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Guarding the Gates of Knowledge",
     "source": "IEEE Spectrum",
     "snippet": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it delibera",
@@ -205,15 +214,6 @@
     "authors": "Harry Goldstein",
     "link": "https://spectrum.ieee.org/ai-slop-trust-science",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Designing for the Long Haul: Building Obsolescence-Resilient Product Lifecycles",
-    "source": "EE Times",
-    "snippet": "Semiconductor obsolescence is a design issue. Engineers protect long-life systems with critical-parts planning, authorized sourcing, and early dialogue. The post Designing for the Long Haul: Building Obsolescence-Resilient Product Lifecycles appeared first on EE Times .",
-    "published": "2026-11-01T14:00:00+00:00",
-    "authors": "Rochester Electronics",
-    "link": "https://www.eetimes.com/designing-for-the-long-haul-building-obsolescence-resilient-product-lifecycles/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "When Electric Cars Were for Women",
