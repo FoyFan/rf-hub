@@ -1,8 +1,35 @@
 [
   {
-    "title": "Nordic Semi celebrates with micro:bit class kit programme",
+    "title": "Inside Automotive DMS & OMS: Technology, Challenges & Power Solutions",
+    "source": "EE Times",
+    "snippet": "Join our expert for an in-depth look inside today's DMS and OMS architectures. You'll gain practical insights into camera design, power delivery, and thermal management strategies, while learning how advanced IR LED driver solutions can help improve performance, reliability, and system efficiency. T",
+    "published": "2026-11-02T19:33:59+00:00",
+    "authors": "Monotlithic Power Systems",
+    "link": "https://www.eetimes.com/inside-automotive-dms-oms-technology-challenges-power-solutions/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
+    "source": "EE Times",
+    "snippet": "Defense procurement, patient capital, and shared infrastructure will help Canadian quantum firms scale at home. The post Canada’s Quantum Sector Sets Sights on Commercialization appeared first on EE Times .",
+    "published": "2026-11-02T18:58:45+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems",
+    "source": "EE Times",
+    "snippet": "Designed for embedded engineers, robotics developers, AI practitioners, and technical leaders, this webinar explores how generative intelligence is helping shape the future of physical AI. The post AI to the Edge: Generative Intelligence for Robotics and Autonomous Systems appeared first on EE Times",
+    "published": "2026-11-02T18:29:50+00:00",
+    "authors": "MediaTek",
+    "link": "https://www.eetimes.com/ai-to-the-edge-generative-intelligence-for-robotics-and-autonomous-systems/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Nordic Semi celebrates micro:bit decade with class kit programme",
     "source": "Electronics Weekly",
-    "snippet": "Nordic Semiconductor is celebrating its 10 years of involvement in the BBC micro:bit with its “micro:bit class kit” programme to help kids start coding. Nordic is offering BBC micro:bit Club […] The post Nordic Semi celebrates with micro:bit class kit programme appeared first on Electronics Weekly .",
+    "snippet": "Nordic Semiconductor is celebrating its 10 years of involvement in the BBC micro:bit with its “micro:bit class kit” programme to help kids start coding. Nordic is offering BBC micro:bit Club […] The post Nordic Semi celebrates micro:bit decade with class kit programme appeared first on Electronics W",
     "published": "2026-11-02T15:15:36+00:00",
     "authors": "Alun Williams",
     "link": "https://www.electronicsweekly.com/news/design/stem/nordic-semi-celebrates-with-microbit-class-kit-programme-2026-11/",
@@ -78,15 +105,6 @@
     "published": "2026-11-02T11:51:34+00:00",
     "authors": "Caroline Hayes",
     "link": "https://www.electronicsweekly.com/news/business/formalos-organises-formal-rtl-verification-and-sign-off-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "STMicroelectronics introduces integrated angular rate sensors for ADAS",
-    "source": "Electronics Weekly",
-    "snippet": "STMicroelectronics is introducing its first automotive safety combination sensors aimed at mass-market applications, following the integration of NXP’s sensors division. They enable advanced safety and driver-assistance features across categories from […] The post STMicroelectronics introduces integ",
-    "published": "2026-11-02T11:11:20+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/sensors-products/stmicroelectronics-introduces-integrated-angular-rate-sensors-for-adas-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -171,6 +189,15 @@
     "category": "EDN 电子设计新闻"
   },
   {
+    "title": "Ed Works The Whitehall Angles",
+    "source": "Electronics Weekly",
+    "snippet": "The budget may have been a bit hum-drum but behind the scenes Turf Wars over the AI Biosecurity Lab’s £300 million budget are being fought by the Whitehall Warriors, Ed […] The post Ed Works The Whitehall Angles appeared first on Electronics Weekly .",
+    "published": "2026-11-02T01:01:29+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-works-a-whitehall-angle-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Guarding the Gates of Knowledge",
     "source": "IEEE Spectrum",
     "snippet": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it delibera",
@@ -189,15 +216,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "How Small Electronics Manufacturers Prevent Component Shortages",
-    "source": "EE Times",
-    "snippet": "Discover how electronics manufacturers can reduce material shortages by improving inventory accuracy, connecting purchasing to production, and using BOMs. The post How Small Electronics Manufacturers Prevent Component Shortages appeared first on EE Times .",
-    "published": "2026-11-01T14:00:00+00:00",
-    "authors": "MRPeasy",
-    "link": "https://www.eetimes.com/how-small-electronics-manufacturers-prevent-component-shortages/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "When Electric Cars Were for Women",
     "source": "IEEE Spectrum",
     "snippet": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies produced 7,000 vehicles. By 1910, production had reached 181,000. For s",
@@ -205,24 +223,6 @@
     "authors": "Allison Marsh",
     "link": "https://spectrum.ieee.org/early-electric-vehicles",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Google: Agentic AI Will Drive New Demands on Data Center CPUs",
-    "source": "EE Times",
-    "snippet": "Agents present a bursty workload, leaving CPUs frequently idle, which is placing new demands on CPU infrastructure. The post Google: Agentic AI Will Drive New Demands on Data Center CPUs appeared first on EE Times .",
-    "published": "2026-10-30T20:13:41+00:00",
-    "authors": "Sally Ward-Foxton",
-    "link": "https://www.eetimes.com/google-agentic-ai-will-drive-new-demands-on-data-center-cpus/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge",
-    "source": "EE Times",
-    "snippet": "Intel faces a tough challenge as manufacturing bottlenecks and rising memory costs impact PC sales despite strong data center growth. The post Intel’s Q3 Results Show Supply Chain Disruptions and PC Plunge appeared first on EE Times .",
-    "published": "2026-10-30T16:37:20+00:00",
-    "authors": "News Desk",
-    "link": "https://www.eetimes.com/intels-q3-results-show-supply-chain-disruptions-and-pc-plunge/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Discerning and coding: the exponential equation process",
