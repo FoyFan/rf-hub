@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "A wide-range, linearly-programmable DC/DC converter",
+      "source": "EDN",
+      "snippet": "This Design Idea presents a simple, low-cost, highly flexible, and scalable DC/DC converter, complete with measured prototype results. The post A wide-range, linearly-programmable DC/DC converter appeared first on EDN .",
+      "published": "2026-11-03T13:00:44+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/a-wide-range-linearly-programmable-dc-dc-converter/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Why reliability metrics must dictate advanced-node physical implementation flow",
+      "source": "EDN",
+      "snippet": "Dynamic voltage drops, electromigration, and timing are not three axes to be optimized in sequence; they are one physical system. The post Why reliability metrics must dictate advanced-node physical implementation flow appeared first on EDN .",
+      "published": "2026-11-03T10:19:38+00:00",
+      "authors": "Vignesh Sunderrajan",
+      "link": "https://www.edn.com/why-reliability-metrics-must-dictate-advanced-node-physical-implementation-flow/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Disassembling a SFP Ethernet adapter",
       "source": "EDN",
       "snippet": "If you need a spare RJ45 switch port but none are available, use a spare SFP instead. Ethernet adapters can’t be beat, but mind the heat. The post Disassembling a SFP Ethernet adapter appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-10-28T19:12:30+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/motion-sensor-combo-ics-target-vehicle-dynamics/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Hall switch adds diagnostics for automotive safety",
-      "source": "EDN",
-      "snippet": "A programmable Hall switch from Melexis, the MLX92342, simplifies remote position detection in automotive systems such as seatbelt buckles. The post Hall switch adds diagnostics for automotive safety appeared first on EDN .",
-      "published": "2026-10-28T19:11:48+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/hall-switch-adds-diagnostics-for-automotive-safety/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Camera kit simplifies multi-camera AI development",
-      "source": "EDN",
-      "snippet": "Innodisk offers the GMSL2 camera starter kit, which bundles four 3-Mpixel cameras, a MIPI CSI-2-to- GMSL2 capture card, and accessories. The post Camera kit simplifies multi-camera AI development appeared first on EDN .",
-      "published": "2026-10-28T19:11:22+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/camera-kit-simplifies-multi-camera-ai-development/",
       "category": "EDN 电子设计新闻"
     }
   ]
