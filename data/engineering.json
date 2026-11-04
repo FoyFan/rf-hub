@@ -382,6 +382,42 @@
   ],
   "news": [
     {
+      "title": "Handheld enclosures gain IP65 protection",
+      "source": "EDN",
+      "snippet": "Large and extra-large SMART-CASE handheld enclosures from OKW are now available with optional IP65 ingress protection. The post Handheld enclosures gain IP65 protection appeared first on EDN .",
+      "published": "2026-11-04T21:13:23+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/handheld-enclosures-gain-ip65-protection/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "SiC MOSFETs cut switching losses and resistance",
+      "source": "EDN",
+      "snippet": "SemiQ has launched 750-V and 1200-V Gen4 QSiC MOSFETs which the company says reduce on-resistance by 21% and switching energy by 11%. The post SiC MOSFETs cut switching losses and resistance appeared first on EDN .",
+      "published": "2026-11-04T21:10:38+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/sic-mosfets-cut-switching-losses-and-resistance/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Murata shrinks RF test connector footprint",
+      "source": "EDN",
+      "snippet": "Murata’s SWL MM8330-2600 is one of the industry’s smallest RF/microwave coaxial connectors with an integrated mechanical switch. The post Murata shrinks RF test connector footprint appeared first on EDN .",
+      "published": "2026-11-04T21:08:15+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/murata-shrinks-rf-test-connector-footprint/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "MCUs drive smart appliance control",
+      "source": "EDN",
+      "snippet": "Joining the Renesas RL78 MCU family is the RL78/G21, an ultra-low-power 16-bit microcontroller optimized for smart appliance system control. The post MCUs drive smart appliance control appeared first on EDN .",
+      "published": "2026-11-04T21:07:14+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/mcus-drive-smart-appliance-control/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Significantly simpler square wave circuits for frequency division by even numbers",
       "source": "EDN",
       "snippet": "A simple AND gate replaces multiple comparators to significantly cut down a frequency divider’s chip count. The post Significantly simpler square wave circuits for frequency division by even numbers appeared first on EDN .",
@@ -433,42 +469,6 @@
       "published": "2026-10-30T12:00:40+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/discerning-and-coding-the-exponential-equation-process/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "AI can design the chip, manufacturing it is harder",
-      "source": "EDN",
-      "snippet": "Design lives primarily in a structured environment of models, rules, constraints, libraries, and solver outputs while manufacturing doesn’t. The post AI can design the chip, manufacturing it is harder appeared first on EDN .",
-      "published": "2026-10-30T02:48:03+00:00",
-      "authors": "Dr. Moh Kolbehdari",
-      "link": "https://www.edn.com/ai-can-design-the-chip-manufacturing-it-is-harder/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Cloud to edge AI: If and when, to what degree, and how and why",
-      "source": "EDN",
-      "snippet": "AI inference remains cloud-mostly, albeit not for long. Whether it shifts to client devices in part or completely, who will the winners be? The post Cloud to edge AI: If and when, to what degree, and how and why appeared first on EDN .",
-      "published": "2026-10-29T12:00:09+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/cloud-to-edge-ai-if-and-when-to-what-degree-and-how-and-why/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Amazon, Apple and Microsoft: New mobile computing platforms take off",
-      "source": "EDN",
-      "snippet": "Considering current semiconductor constraints, this has been a surprisingly busy October from a systems-release standpoint. The post Amazon, Apple and Microsoft: New mobile computing platforms take off appeared first on EDN .",
-      "published": "2026-10-28T19:44:20+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/amazon-apple-and-microsoft-new-mobile-computing-platforms-take-off/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Analog in-memory computing advances to 12 nm",
-      "source": "EDN",
-      "snippet": "TetraMem has completed tapeout of the MLX300, a 12-nm analog in-memory computing (A-IMC) SoC based on multi-level RRAM technology. The post Analog in-memory computing advances to 12 nm appeared first on EDN .",
-      "published": "2026-10-28T19:13:16+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/analog-in-memory-computing-advances-to-12-nm/",
       "category": "EDN 电子设计新闻"
     }
   ]

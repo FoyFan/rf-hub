@@ -1,5 +1,95 @@
 [
   {
+    "title": "Handheld enclosures gain IP65 protection",
+    "source": "EDN",
+    "snippet": "Large and extra-large SMART-CASE handheld enclosures from OKW are now available with optional IP65 ingress protection. The post Handheld enclosures gain IP65 protection appeared first on EDN .",
+    "published": "2026-11-04T21:13:23+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/handheld-enclosures-gain-ip65-protection/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "SiC MOSFETs cut switching losses and resistance",
+    "source": "EDN",
+    "snippet": "SemiQ has launched 750-V and 1200-V Gen4 QSiC MOSFETs which the company says reduce on-resistance by 21% and switching energy by 11%. The post SiC MOSFETs cut switching losses and resistance appeared first on EDN .",
+    "published": "2026-11-04T21:10:38+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/sic-mosfets-cut-switching-losses-and-resistance/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Murata shrinks RF test connector footprint",
+    "source": "EDN",
+    "snippet": "Murata’s SWL MM8330-2600 is one of the industry’s smallest RF/microwave coaxial connectors with an integrated mechanical switch. The post Murata shrinks RF test connector footprint appeared first on EDN .",
+    "published": "2026-11-04T21:08:15+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/murata-shrinks-rf-test-connector-footprint/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "MCUs drive smart appliance control",
+    "source": "EDN",
+    "snippet": "Joining the Renesas RL78 MCU family is the RL78/G21, an ultra-low-power 16-bit microcontroller optimized for smart appliance system control. The post MCUs drive smart appliance control appeared first on EDN .",
+    "published": "2026-11-04T21:07:14+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/mcus-drive-smart-appliance-control/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evolution of AI Model",
+    "source": "EE Times",
+    "snippet": "This event session is presented by Olivia Wu, Distinguished Engineer at Meta AI model architectures are evolving faster than traditional chip development cycles, and at Meta’s scale—serving billions of users across ranking & recommendation and generative AI workloads—this mismatch is untenable. Meta",
+    "published": "2026-11-04T20:30:12+00:00",
+    "authors": "AspenCore Events",
+    "link": "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Silicon Photonics Hits the Big Time",
+    "source": "EE Times",
+    "snippet": "The land grab for silicon photonics aims to beat the power wall associated with copper interconnects. We also interviewed Salience Labs about its $125 million funding for optical circuit switching. The post Silicon Photonics Hits the Big Time appeared first on EE Times .",
+    "published": "2026-11-04T19:51:38+00:00",
+    "authors": "Nitin Dahad",
+    "link": "https://www.eetimes.com/silicon-photonics-hits-the-big-time/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Sony IMX742 1mm square image sensor serves single-use endoscopes",
+    "source": "Electronics Weekly",
+    "snippet": "Sony has announced its IMX742, a CMOS image sensor for single-use endoscopes. The company highlights it as the industry’s first to support digital output and data transmission through a 5m […] The post Sony IMX742 1mm square image sensor serves single-use endoscopes appeared first on Electronics Wee",
+    "published": "2026-11-04T17:27:47+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/sensors-products/sony-imx742-1mm-square-image-sensor-serves-single-use-endoscopes-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors",
+    "source": "EE Times",
+    "snippet": "ABLIC’s Satoshi Hanazawa discusses its low-power analog semiconductor strategy, target markets, product innovation and development approach. The post ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors appeared first on EE Times .",
+    "published": "2026-11-04T17:00:00+00:00",
+    "authors": "ABLIC",
+    "link": "https://www.eetimes.com/ablics-small-smart-and-simple-strategy-for-high-value-analog-semicondutors/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Samtec VITA 90 VNX+ for RF backplane, optical, and power connectivity",
+    "source": "Electronics Weekly",
+    "snippet": "Mouser Electronics is stocking Samtec’s VITA 90 VNX+, which combines RF backplane, optical, and power connectivity. It is for harsh or space‑constrained applications. The interconnect product family supports small-form-factor, modular, […] The post Samtec VITA 90 VNX+ for RF backplane, optical, and ",
+    "published": "2026-11-04T16:01:22+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/connectors/samtec-vita-90-vnx-for-rf-backplane-optical-and-power-connectivity-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI",
+    "source": "EE Times",
+    "snippet": "Unified STM32 platform adds automotive-grade STM32A and power-focused STM32G5 MCUs. The post STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI appeared first on EE Times .",
+    "published": "2026-11-04T14:37:17+00:00",
+    "authors": "Yashasvini Razdan",
+    "link": "https://www.eetimes.com/stmicroelectronics-expands-stm32-roadmap-for-cloud-ai-and-physical-ai/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "Significantly simpler square wave circuits for frequency division by even numbers",
     "source": "EDN",
     "snippet": "A simple AND gate replaces multiple comparators to significantly cut down a frequency divider’s chip count. The post Significantly simpler square wave circuits for frequency division by even numbers appeared first on EDN .",
@@ -90,24 +180,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Alliance adds to SDRAM line-up",
-    "source": "Electronics Weekly",
-    "snippet": "Alliance Memory has expanded its offering of high-speed CMOS mobile low-power SDRAMs with new 4Gb LPDDR4 and 8Gb and 16Gb LPDDR4X devices that combine low power ratings with fast clock […] The post Alliance adds to SDRAM line-up appeared first on Electronics Weekly .",
-    "published": "2026-11-04T06:04:47+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/alliance-adds-to-sdram-line-up-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Top Ten (+10) Semiconductor Companies In Q2",
-    "source": "Electronics Weekly",
-    "snippet": "Thanks to Semiconductor Intelligence for this one – the top 20 semiconductor manufacturers in Q2 measured by revenue. The post Top Ten (+10) Semiconductor Companies In Q2 appeared first on Electronics Weekly .",
-    "published": "2026-11-04T01:01:02+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-10-semiconductor-companies-in-q2-2-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?",
     "source": "EE Times",
     "snippet": "Small OSATs in India can start with ₹1.5–₹2 billion (~$15.8–$21 million), consultant Nitin Dodia said. But anchor customers, skilled staff, and qualification determine who survives. The post Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom? appeared first on EE Times .",
@@ -162,15 +234,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Five Things You Didn’t Know About Co-Packaged Optics",
-    "source": "EE Times",
-    "snippet": "CPO may be a photonics breakthrough, but commercial success hinges equally on advanced packaging that integrates, connects and protects components at scale. The post Five Things You Didn’t Know About Co-Packaged Optics appeared first on EE Times .",
-    "published": "2026-11-03T14:00:00+00:00",
-    "authors": "Chee Ping Lee, managing director of Advanced Packaging Strategic Marketing at Lam Research",
-    "link": "https://www.eetimes.com/five-things-you-didnt-know-about-co-packaged-optics/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "A wide-range, linearly-programmable DC/DC converter",
     "source": "EDN",
     "snippet": "This Design Idea presents a simple, low-cost, highly flexible, and scalable DC/DC converter, complete with measured prototype results. The post A wide-range, linearly-programmable DC/DC converter appeared first on EDN .",
@@ -187,33 +250,6 @@
     "authors": "Vignesh Sunderrajan",
     "link": "https://www.edn.com/why-reliability-metrics-must-dictate-advanced-node-physical-implementation-flow/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Marvell Snaps Photonics Chipmaker Lumentum to Bolster AI Connectivity",
-    "source": "EE Times",
-    "snippet": "The $115 billion deal aims to create a category leader in AI connectivity by co-designing network processors and lasers for optical transceivers. The post Marvell Snaps Photonics Chipmaker Lumentum to Bolster AI Connectivity appeared first on EE Times .",
-    "published": "2026-11-03T08:50:21+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.eetimes.com/marvell-snaps-photonics-chipmaker-lumentum-to-bolster-ai-connectivity/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Macronix Builds Hardware Security into NOR Flash Ahead of EU Cyber Resilience Act",
-    "source": "EE Times",
-    "snippet": "The European Union's Cyber Resilience Act (CRA), which becomes mandatory in December 2027, is raising the bar for cybersecurity in connected devices. Rather than relying on software patches to address vulnerabilities after they emerge, manufacturers are under growing pressure to build security into ",
-    "published": "2026-11-03T05:30:00+00:00",
-    "authors": "EE Times Taiwan",
-    "link": "https://www.eetimes.com/macronix-builds-hardware-security-into-nor-flash-ahead-of-eu-cyber-resilience-act/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Inside Automotive DMS & OMS: Technology, Challenges & Power Solutions",
-    "source": "EE Times",
-    "snippet": "Join our expert for an in-depth look inside today's DMS and OMS architectures. You'll gain practical insights into camera design, power delivery, and thermal management strategies, while learning how advanced IR LED driver solutions can help improve performance, reliability, and system efficiency. T",
-    "published": "2026-11-02T19:33:59+00:00",
-    "authors": "Monotlithic Power Systems",
-    "link": "https://www.eetimes.com/inside-automotive-dms-oms-technology-challenges-power-solutions/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Disassembling a SFP Ethernet adapter",
@@ -270,15 +306,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "AI can design the chip, manufacturing it is harder",
-    "source": "EDN",
-    "snippet": "Design lives primarily in a structured environment of models, rules, constraints, libraries, and solver outputs while manufacturing doesn’t. The post AI can design the chip, manufacturing it is harder appeared first on EDN .",
-    "published": "2026-10-30T02:48:03+00:00",
-    "authors": "Dr. Moh Kolbehdari",
-    "link": "https://www.edn.com/ai-can-design-the-chip-manufacturing-it-is-harder/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Consumer Appetite for Personal AI Goes Mainstream",
     "source": "IEEE Spectrum",
     "snippet": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the advent of new classes o",
@@ -286,33 +313,6 @@
     "authors": "Qualcomm Technologies",
     "link": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Cloud to edge AI: If and when, to what degree, and how and why",
-    "source": "EDN",
-    "snippet": "AI inference remains cloud-mostly, albeit not for long. Whether it shifts to client devices in part or completely, who will the winners be? The post Cloud to edge AI: If and when, to what degree, and how and why appeared first on EDN .",
-    "published": "2026-10-29T12:00:09+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/cloud-to-edge-ai-if-and-when-to-what-degree-and-how-and-why/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Amazon, Apple and Microsoft: New mobile computing platforms take off",
-    "source": "EDN",
-    "snippet": "Considering current semiconductor constraints, this has been a surprisingly busy October from a systems-release standpoint. The post Amazon, Apple and Microsoft: New mobile computing platforms take off appeared first on EDN .",
-    "published": "2026-10-28T19:44:20+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/amazon-apple-and-microsoft-new-mobile-computing-platforms-take-off/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Analog in-memory computing advances to 12 nm",
-    "source": "EDN",
-    "snippet": "TetraMem has completed tapeout of the MLX300, a 12-nm analog in-memory computing (A-IMC) SoC based on multi-level RRAM technology. The post Analog in-memory computing advances to 12 nm appeared first on EDN .",
-    "published": "2026-10-28T19:13:16+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/analog-in-memory-computing-advances-to-12-nm/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Systems Thinking Is Vital in the Age of AI",
