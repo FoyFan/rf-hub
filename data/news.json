@@ -1,5 +1,104 @@
 [
   {
+    "title": "Significantly simpler square wave circuits for frequency division by even numbers",
+    "source": "EDN",
+    "snippet": "A simple AND gate replaces multiple comparators to significantly cut down a frequency divider’s chip count. The post Significantly simpler square wave circuits for frequency division by even numbers appeared first on EDN .",
+    "published": "2026-11-04T13:00:29+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/significantly-simpler-square-wave-circuits-for-frequency-division-by-even-numbers/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "AI’s Legacy",
+    "source": "Electronics Weekly",
+    "snippet": "It is often said that war is the greatest accelerator of technology because governments will invest any money in weapons development to get a jump on their enemy, but this […] The post AI’s Legacy appeared first on Electronics Weekly .",
+    "published": "2026-11-04T12:30:20+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/ais-legacy-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Aircraft demand higher-voltage power",
+    "source": "Electronics Weekly",
+    "snippet": "Developed by Airbus, Daher and Safran, the EcoPulse hybrid-electric demonstrator used an 800VDC system delivering up to 350kW to support six wing-mounted electric propellers (source: Airbus) Silicon carbide power electronics, […] The post Aircraft demand higher-voltage power appeared first on Electr",
+    "published": "2026-11-04T12:00:37+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/aircraft-demand-higher-voltage-power-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+    "published": "2026-11-04T10:48:02+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "HMGCC Challenge seeks technology to identify hostile RF emitters",
+    "source": "Electronics Weekly",
+    "snippet": "The HMGCC (His Majesty’s Government Communications Centre) is launching a challenge – via the Satellite Applications Catapult – to create technology that can identify hostile RF emitters in battlefield situations. […] The post HMGCC Challenge seeks technology to identify hostile RF emitters appeared",
+    "published": "2026-11-04T10:43:35+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/hmgcc-challenge-seeks-technology-to-identify-hostile-rf-emitters-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Quantum Roadmaps Are Finally Meeting Reality",
+    "source": "EE Times",
+    "snippet": "Quantum computing revenue surpassed $1 billion in 2025, but missed forecasts highlight the gap between commercial expectations and delivery. The post Quantum Roadmaps Are Finally Meeting Reality appeared first on EE Times .",
+    "published": "2026-11-04T09:11:15+00:00",
+    "authors": "Marie Lepske",
+    "link": "https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Efficient Computer’s Electron E1 processor adopted by edgeAI",
+    "source": "Electronics Weekly",
+    "snippet": "Efficient Computer, the company claiming to build the world’s most energy-efficient processors, has announced that edgeAI has selected its Electron E1 processor to develop high-performance, energy-efficient solutions for physical AI […] The post Efficient Computer’s Electron E1 processor adopted by ",
+    "published": "2026-11-04T06:15:42+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/efficient-computers-electron-e1-processor-adopted-by-edgeai-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "GPS-based speed limiters introduced on US roads",
+    "source": "Electronics Weekly",
+    "snippet": "The US has started deploying GPS-based speed-limiting devices on cars to prevent reckless drivers from exceeding speed limits. Convicted speed merchants will be given a choice: “Your license or a […] The post GPS-based speed limiters introduced on US roads appeared first on Electronics Weekly .",
+    "published": "2026-11-04T06:12:27+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/speed-limiters-on-us-roads-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Antenna for railway applications",
+    "source": "Electronics Weekly",
+    "snippet": "Taoglas, the RF and antenna specialist, has announced the MA8020 Raptor X, a railway-certified, multi-function antenna platform designed to support cellular, GNSS and Wi‑Fi connectivity for rail applications. Built on […] The post Antenna for railway applications appeared first on Electronics Weekly",
+    "published": "2026-11-04T06:05:46+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/antenna-for-railway-applications-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Filtronic wins £1.9m DCMS contract",
+    "source": "Electronics Weekly",
+    "snippet": "Filtronic has been awarded a £1.9 million contract under the Contracts for Innovation: Advanced Connectivity Technologies (ACT) competition. Delivered by Innovate UK, part of UK Research and Innovation (UKRI), the […] The post Filtronic wins £1.9m DCMS contract appeared first on Electronics Weekly .",
+    "published": "2026-11-04T06:04:59+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/filtronic-wins-1-9m-dcms-contract-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Alliance adds to SDRAM line-up",
+    "source": "Electronics Weekly",
+    "snippet": "Alliance Memory has expanded its offering of high-speed CMOS mobile low-power SDRAMs with new 4Gb LPDDR4 and 8Gb and 16Gb LPDDR4X devices that combine low power ratings with fast clock […] The post Alliance adds to SDRAM line-up appeared first on Electronics Weekly .",
+    "published": "2026-11-04T06:04:47+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/alliance-adds-to-sdram-line-up-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Top Ten (+10) Semiconductor Companies In Q2",
     "source": "Electronics Weekly",
     "snippet": "Thanks to Semiconductor Intelligence for this one – the top 20 semiconductor manufacturers in Q2 measured by revenue. The post Top Ten (+10) Semiconductor Companies In Q2 appeared first on Electronics Weekly .",
@@ -45,24 +144,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "UK Space Agency invites proposals for international space partnerships",
-    "source": "Electronics Weekly",
-    "snippet": "The UK Space Agency is inviting proposals for space-based projects that will help strengthen international partnerships for the UK space sector. Funding will be through the government’s International Bilateral Fund […] The post UK Space Agency invites proposals for international space partnerships a",
-    "published": "2026-11-03T15:43:08+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/uk-space-agency-invites-proposals-for-international-space-partnerships-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Sony IMX742 1mm square image sensor serves single-use endoscopes",
-    "source": "Electronics Weekly",
-    "snippet": "Sony has announced its IMX742, a CMOS image sensor for single-use endoscopes. The company highlights it as the industry’s first to support digital output and data transmission through a 5m […] The post Sony IMX742 1mm square image sensor serves single-use endoscopes appeared first on Electronics Wee",
-    "published": "2026-11-03T15:07:47+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/sensors-products/sony-imx742-1mm-square-image-sensor-serves-single-use-endoscopes-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Bringing Design Data Management into the Developer Workflow",
     "source": "EE Times",
     "snippet": "As digital design workflows increasingly center on modern, text-based development environments, engineers expect the same efficiency from design data management as they do from coding tools. Visual Studio Code (VS Code) has become a preferred platform for developing RTL, HDL, scripts, and verificati",
@@ -70,15 +151,6 @@
     "authors": "Keysight Technologies",
     "link": "https://www.eetimes.com/bringing-design-data-management-into-the-developer-workflow/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Meta Dominates The Smart Specs Market",
-    "source": "Electronics Weekly",
-    "snippet": "Meta’s new Audio AI glasses started selling yesterday after the company’s Gen 3 smart glasses hit markets about three weeks ago. Most notably, the new audio-only model features the usual […] The post Meta Dominates The Smart Specs Market appeared first on Electronics Weekly .",
-    "published": "2026-11-03T14:21:35+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/meta-dominates-the-smart-specs-market-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "AI Hardware’s Hidden Cost: Between Orders and Output",
@@ -108,33 +180,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Bosch to spin off semis",
-    "source": "Electronics Weekly",
-    "snippet": "Bosch will spin off its semiconductor division ‌in January 2028, it said today. The move comes as part of a strategy to run semis as a foundry business as well […] The post Bosch to spin off semis appeared first on Electronics Weekly .",
-    "published": "2026-11-03T11:39:44+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/bosch-to-spin-off-semis-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-    "published": "2026-11-03T10:49:29+00:00",
-    "authors": "Staff",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "OpenUK’s Space Tech Radar report plots open technology in space",
-    "source": "Electronics Weekly",
-    "snippet": "OpenUK has launched its first Space Tech Radar report, covering both Earth observation (EO) and space observation (SO), in terms of open technology projects. It is a non-profit organisation covering […] The post OpenUK’s Space Tech Radar report plots open technology in space appeared first on Electr",
-    "published": "2026-11-03T10:47:17+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/openuks-space-tech-radar-report-plots-open-technology-in-space-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Why reliability metrics must dictate advanced-node physical implementation flow",
     "source": "EDN",
     "snippet": "Dynamic voltage drops, electromigration, and timing are not three axes to be optimized in sequence; they are one physical system. The post Why reliability metrics must dictate advanced-node physical implementation flow appeared first on EDN .",
@@ -153,33 +198,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Marvell buys Lumentum",
-    "source": "Electronics Weekly",
-    "snippet": "Marvell is to buy photonics specialist Lumentum for $115 billion in what is being seen as a bet on the continuation of the datacentre build out. “AI infrastructure is undergoing […] The post Marvell buys Lumentum appeared first on Electronics Weekly .",
-    "published": "2026-11-03T06:13:40+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/marvell-buys-lumentum-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Greece unveils semiconductor strategy",
-    "source": "Electronics Weekly",
-    "snippet": "Greece has opened a draft national strategy for semiconductors and microelectronics for public consultation, setting out how the country hopes to build a larger role in chip design, research and […] The post Greece unveils semiconductor strategy appeared first on Electronics Weekly .",
-    "published": "2026-11-03T06:12:39+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/greece-unveils-semiconductor-strategy-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Imec spin-off Noak raises €5m",
-    "source": "Electronics Weekly",
-    "snippet": "Noak, a spin-off of imec and UHasselt, has raised €5 million to scale and industrialize the development of the next generation of solar: perovskite–silicon tandem PV. The seed investment, provided […] The post Imec spin-off Noak raises €5m appeared first on Electronics Weekly .",
-    "published": "2026-11-03T06:11:57+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/imec-spin-off-noak-raises-e5m-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Macronix Builds Hardware Security into NOR Flash Ahead of EU Cyber Resilience Act",
     "source": "EE Times",
     "snippet": "The European Union's Cyber Resilience Act (CRA), which becomes mandatory in December 2027, is raising the bar for cybersecurity in connected devices. Rather than relying on software patches to address vulnerabilities after they emerge, manufacturers are under growing pressure to build security into ",
@@ -195,15 +213,6 @@
     "published": "2026-11-02T19:33:59+00:00",
     "authors": "Monotlithic Power Systems",
     "link": "https://www.eetimes.com/inside-automotive-dms-oms-technology-challenges-power-solutions/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Canada’s Quantum Sector Sets Sights on Commercialization",
-    "source": "EE Times",
-    "snippet": "Defense procurement, patient capital, and shared infrastructure will help Canadian quantum firms scale at home. The post Canada’s Quantum Sector Sets Sights on Commercialization appeared first on EE Times .",
-    "published": "2026-11-02T18:58:45+00:00",
-    "authors": "Gary Hilson",
-    "link": "https://www.eetimes.com/canadas-quantum-sector-sets-sights-on-commercialization/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -303,15 +312,6 @@
     "published": "2026-10-28T19:13:16+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/analog-in-memory-computing-advances-to-12-nm/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Motion sensor combo ICs target vehicle dynamics",
-    "source": "EDN",
-    "snippet": "ST has launched an automotive sensor platform that combines multi-axis accelerometers and angular-rate sensors in a single package. The post Motion sensor combo ICs target vehicle dynamics appeared first on EDN .",
-    "published": "2026-10-28T19:12:30+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/motion-sensor-combo-ics-target-vehicle-dynamics/",
     "category": "EDN 电子设计新闻"
   },
   {

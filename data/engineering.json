@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Significantly simpler square wave circuits for frequency division by even numbers",
+      "source": "EDN",
+      "snippet": "A simple AND gate replaces multiple comparators to significantly cut down a frequency divider’s chip count. The post Significantly simpler square wave circuits for frequency division by even numbers appeared first on EDN .",
+      "published": "2026-11-04T13:00:29+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/significantly-simpler-square-wave-circuits-for-frequency-division-by-even-numbers/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "A wide-range, linearly-programmable DC/DC converter",
       "source": "EDN",
       "snippet": "This Design Idea presents a simple, low-cost, highly flexible, and scalable DC/DC converter, complete with measured prototype results. The post A wide-range, linearly-programmable DC/DC converter appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-10-28T19:13:16+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/analog-in-memory-computing-advances-to-12-nm/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Motion sensor combo ICs target vehicle dynamics",
-      "source": "EDN",
-      "snippet": "ST has launched an automotive sensor platform that combines multi-axis accelerometers and angular-rate sensors in a single package. The post Motion sensor combo ICs target vehicle dynamics appeared first on EDN .",
-      "published": "2026-10-28T19:12:30+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/motion-sensor-combo-ics-target-vehicle-dynamics/",
       "category": "EDN 电子设计新闻"
     }
   ]
