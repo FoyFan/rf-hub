@@ -1,5 +1,77 @@
 [
   {
+    "title": "RS announces strong half year results",
+    "source": "Electronics Weekly",
+    "snippet": "RS Group has announced strong results for H1 2026 with outperformance in all regions: “We have had a good start to 2026/27,” says RS CEO Simon Pryce, “manufacturing sentiment remained […] The post RS announces strong half year results appeared first on Electronics Weekly .",
+    "published": "2026-11-05T09:36:31+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/rs-announces-strong-half-year-results-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Why Magnetic Sensor Selection Has Become a System Architecture Decision",
+    "source": "EE Times",
+    "snippet": "Kiloampere busbars, 2,000 V solar platforms, hollow-shaft robot joints and nanoamp standby budgets are pulling magnetic sensing in directions no single sensing principle can follow. Ask a traction inverter designer, a robotics engineer and someone building a battery-powered water meter what they nee",
+    "published": "2026-11-05T09:00:00+00:00",
+    "authors": "Christopher McGrady",
+    "link": "https://www.eetimes.com/why-magnetic-sensor-selection-has-become-a-system-architecture-decision/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "What Makes a Quantum Company Valuable?",
+    "source": "EE Times",
+    "snippet": "Quantum investors weigh technical progress against customer demand, commercial timing, and the ability to build lasting value. The post What Makes a Quantum Company Valuable? appeared first on EE Times .",
+    "published": "2026-11-05T07:00:28+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/what-makes-a-quantum-company-valuable/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "YMTC pulls IPO",
+    "source": "Electronics Weekly",
+    "snippet": "Yangtze Memory (YMTC) has put its Shanghai IPO on hold, reports Reuters. The company intended to raise $4.9 billion dollars. In a note to employees YMTC says the IPO was […] The post YMTC pulls IPO appeared first on Electronics Weekly .",
+    "published": "2026-11-05T06:14:47+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ymtc-pulls-ipo-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Qualcomm to supply Starlink Mobile’s 5G radio equipment",
+    "source": "Electronics Weekly",
+    "snippet": "Qualcomm is to supply SpaceX with radio equipment, baseband units and software for Starlink Mobile’s planned nationwide terrestrial 5G network. Starlink Mobile is Musk’s attempt to take on the established […] The post Qualcomm to supply Starlink Mobile’s 5G radio equipment appeared first on Electron",
+    "published": "2026-11-05T06:13:17+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/qualcomm-to-supply-starlink-mobiles-5g-radio-equipment-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "EU to put up €525m for IC design startups",
+    "source": "Electronics Weekly",
+    "snippet": "Yesterday, Brussels tech commissioner Henna Virkkunen unveiled a €525 million aimed at chip startups, split into €425 million in grants for developing commercially viable chips and $85? million to build […] The post EU to put up €525m for IC design startups appeared first on Electronics Weekly .",
+    "published": "2026-11-05T06:12:47+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/eu-to-put-up-e525m-for-ic-design-startups-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The shortage of Systems Thinkers",
+    "source": "Electronics Weekly",
+    "snippet": "The shortage of systems thinkers should be at the top of the agenda for senior executives. This is the key recommendation of the Delft Systems Declaration, adopted by more than […] The post The shortage of Systems Thinkers appeared first on Electronics Weekly .",
+    "published": "2026-11-05T06:12:16+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/the-shortage-of-systems-thinkers-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Element 6 and Entegris to bring diamond to GPU and RF packaging",
+    "source": "Electronics Weekly",
+    "snippet": "Element Six (E6), the industrial synthetic diamond specialist, and materials supplier Entegris, plan to accelerate the integration of diamond-enabled thermal management solutions into advanced packaging for GPU and RF devices. […] The post Element 6 and Entegris to bring diamond to GPU and RF packag",
+    "published": "2026-11-05T06:11:52+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/element-6-and-entegris-plan-to-bring-tic-diamond-to-gpu-and-rf-device-packaging-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Apple’s harvest",
     "source": "Electronics Weekly",
     "snippet": "On Monday, Apple reported Q4 results with sales of $114.5 billion bringing the annual total to $478.8 billion – a 15% jump YoY. Annual profit was $132 billion, which was […] The post Apple’s harvest appeared first on Electronics Weekly .",
@@ -126,33 +198,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Aircraft demand higher-voltage power",
-    "source": "Electronics Weekly",
-    "snippet": "Developed by Airbus, Daher and Safran, the EcoPulse hybrid-electric demonstrator used an 800VDC system delivering up to 350kW to support six wing-mounted electric propellers (source: Airbus) Silicon carbide power electronics, […] The post Aircraft demand higher-voltage power appeared first on Electr",
-    "published": "2026-11-04T12:00:37+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/aircraft-demand-higher-voltage-power-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-    "source": "Electronics Weekly",
-    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-    "published": "2026-11-04T10:48:02+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "HMGCC Challenge seeks technology to identify hostile RF emitters",
-    "source": "Electronics Weekly",
-    "snippet": "The HMGCC (His Majesty’s Government Communications Centre) is launching a challenge – via the Satellite Applications Catapult – to create technology that can identify hostile RF emitters in battlefield situations. […] The post HMGCC Challenge seeks technology to identify hostile RF emitters appeared",
-    "published": "2026-11-04T10:43:35+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/hmgcc-challenge-seeks-technology-to-identify-hostile-rf-emitters-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Quantum Roadmaps Are Finally Meeting Reality",
     "source": "EE Times",
     "snippet": "Quantum computing revenue surpassed $1 billion in 2025, but missed forecasts highlight the gap between commercial expectations and delivery. The post Quantum Roadmaps Are Finally Meeting Reality appeared first on EE Times .",
@@ -160,33 +205,6 @@
     "authors": "Marie Lepske",
     "link": "https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Efficient Computer’s Electron E1 processor adopted by edgeAI",
-    "source": "Electronics Weekly",
-    "snippet": "Efficient Computer, the company claiming to build the world’s most energy-efficient processors, has announced that edgeAI has selected its Electron E1 processor to develop high-performance, energy-efficient solutions for physical AI […] The post Efficient Computer’s Electron E1 processor adopted by ",
-    "published": "2026-11-04T06:15:42+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/efficient-computers-electron-e1-processor-adopted-by-edgeai-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "GPS-based speed limiters introduced on US roads",
-    "source": "Electronics Weekly",
-    "snippet": "The US has started deploying GPS-based speed-limiting devices on cars to prevent reckless drivers from exceeding speed limits. Convicted speed merchants will be given a choice: “Your license or a […] The post GPS-based speed limiters introduced on US roads appeared first on Electronics Weekly .",
-    "published": "2026-11-04T06:12:27+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/speed-limiters-on-us-roads-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Antenna for railway applications",
-    "source": "Electronics Weekly",
-    "snippet": "Taoglas, the RF and antenna specialist, has announced the MA8020 Raptor X, a railway-certified, multi-function antenna platform designed to support cellular, GNSS and Wi‑Fi connectivity for rail applications. Built on […] The post Antenna for railway applications appeared first on Electronics Weekly",
-    "published": "2026-11-04T06:05:46+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/antenna-for-railway-applications-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?",
@@ -222,24 +240,6 @@
     "published": "2026-11-03T15:54:08+00:00",
     "authors": "USHIO INC.",
     "link": "https://www.eetimes.com/accepting-orders-for-the-led-light-sourced-projection-aligners/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Bringing Design Data Management into the Developer Workflow",
-    "source": "EE Times",
-    "snippet": "As digital design workflows increasingly center on modern, text-based development environments, engineers expect the same efficiency from design data management as they do from coding tools. Visual Studio Code (VS Code) has become a preferred platform for developing RTL, HDL, scripts, and verificati",
-    "published": "2026-11-03T15:00:00+00:00",
-    "authors": "Keysight Technologies",
-    "link": "https://www.eetimes.com/bringing-design-data-management-into-the-developer-workflow/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "AI Hardware’s Hidden Cost: Between Orders and Output",
-    "source": "EE Times",
-    "snippet": "Alphabet’s TPU inventory, Intel’s manufacturing tradeoffs, and equipment suppliers’ balance sheets show how capital builds up along the path to usable AI computing capacity. The post AI Hardware’s Hidden Cost: Between Orders and Output appeared first on EE Times .",
-    "published": "2026-11-03T14:08:41+00:00",
-    "authors": "Ron Honig",
-    "link": "https://www.eetimes.com/ai-hardwares-hidden-cost-between-orders-and-output/",
     "category": "EE Times 行业新闻"
   },
   {
