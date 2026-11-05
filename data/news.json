@@ -1,8 +1,143 @@
 [
   {
-    "title": "RS announces strong half year results",
+    "title": "From PyTorch to Product: Accelerating Edge AI Through Open Ecosystems",
+    "source": "EE Times",
+    "snippet": "In this 30-Minute BitCast, discover how open-source technologies are helping developers accelerate AI deployment on resource-constrained embedded devices. The post From PyTorch to Product: Accelerating Edge AI Through Open Ecosystems appeared first on EE Times .",
+    "published": "2026-11-05T18:12:42+00:00",
+    "authors": "Renesas",
+    "link": "https://www.eetimes.com/from-pytorch-to-product-accelerating-edge-ai-through-open-ecosystems/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Accelerate Analog Design with Flexible, AI-Native Workflows",
+    "source": "EE Times",
+    "snippet": "Join this webinar to learn how ChipAgents’ IC-star chip neural engine automates analog design, simulation, and verification in one unified, flexible agentic loop. The post Accelerate Analog Design with Flexible, AI-Native Workflows appeared first on EE Times .",
+    "published": "2026-11-05T17:40:24+00:00",
+    "authors": "ChipsAgents",
+    "link": "https://www.eetimes.com/accelerate-analog-design-with-flexible-ai-native-workflows/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "GSA Awards 2026 nominees",
     "source": "Electronics Weekly",
-    "snippet": "RS Group has announced strong results for H1 2026 with outperformance in all regions: “We have had a good start to 2026/27,” says RS CEO Simon Pryce, “manufacturing sentiment remained […] The post RS announces strong half year results appeared first on Electronics Weekly .",
+    "snippet": "The Global Semiconductor Alliance (GSA) has announced its 2026 award nominees. The awards will be presented at the GSA Awards Celebration on Thursday, Dec. 10, 2026. The 2026 Dr. Morris […] The post GSA Awards 2026 nominees appeared first on Electronics Weekly .",
+    "published": "2026-11-05T17:27:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
+    "source": "EE Times",
+    "snippet": "City officials are moving beyond isolated pilot projects toward local computing infrastructure and AI. The post Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure appeared first on EE Times .",
+    "published": "2026-11-05T16:09:46+00:00",
+    "authors": "Pablo Valerio",
+    "link": "https://www.eetimes.com/nvidia-municipal-leaders-frame-ai-as-critical-urban-infrastructure/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Use Your Year-End Review to Reach for a Promotion",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! Hard work rarely speaks for itself. When I landed",
+    "published": "2026-11-05T16:08:03+00:00",
+    "authors": "Brian Jenney",
+    "link": "https://spectrum.ieee.org/how-to-get-a-promotion",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Converge Space Challenge boosts Scottish space sector",
+    "source": "Electronics Weekly",
+    "snippet": "Pleiades Dynamics, an Edinburgh start-up, has won the Converge Space Challenge – building a rocket engine from off the shelf parts to dramatically cut the cost of launching into space. […] The post Converge Space Challenge boosts Scottish space sector appeared first on Electronics Weekly .",
+    "published": "2026-11-05T15:35:27+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/converge-space-challenge-boosts-scottish-space-sector-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Fable: RIP",
+    "source": "Electronics Weekly",
+    "snippet": "The final stop for a genius on whose shoulders Einstein said he stood. Moral: Genius does not need a monument The post Fable: RIP appeared first on Electronics Weekly .",
+    "published": "2026-11-05T14:25:37+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-rip-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica: Synov-Proto launches as online PCB prototyping service",
+    "source": "Electronics Weekly",
+    "snippet": "Synov Group will be introducing Synov-Proto, its online PCB rapid prototyping service, at electronica in Munich ahead of its launch on 1 December 2026. Aimed at design offices, manufacturers and […] The post Electronica: Synov-Proto launches as online PCB prototyping service appeared first on Electr",
+    "published": "2026-11-05T14:17:39+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/manufacturing/electronica-synov-proto-launches-as-online-pcb-prototyping-service-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
+    "source": "IEEE Spectrum",
+    "snippet": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza , it appears that a few puffy white clouds have started to block the sun. That’s vexing. A group of researchers, some wearing cardboard eclipse glasses, is clust",
+    "published": "2026-11-05T14:00:02+00:00",
+    "authors": "Tereza Pultarova",
+    "link": "https://spectrum.ieee.org/2026-solar-eclipse",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza , it appears that a few puffy white clouds have started to block the sun. That’s vexing. A group of researchers, some wearing cardboard eclipse glasses, is clust",
+    "published": "2026-11-05T14:00:02+00:00",
+    "authors": "Tereza Pultarova",
+    "link": "https://spectrum.ieee.org/2026-solar-eclipse",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Physical AI in action at OktoberTech Silicon Valley 2026",
+    "source": "EDN",
+    "snippet": "The event showcased robot designs as a major use case for physical AI deployment. The post Physical AI in action at OktoberTech Silicon Valley 2026 appeared first on EDN .",
+    "published": "2026-11-05T13:20:18+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.edn.com/physical-ai-in-action-at-oktobertech-silicon-valley-2026/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "A belated Google Pixel Watch update: In retrospect, why’d I wait?",
+    "source": "EDN",
+    "snippet": "Sometimes the primary benefits of a hardware swap end up not being the key features highlighted in the successor’s press release. The post A belated Google Pixel Watch update: In retrospect, why’d I wait? appeared first on EDN .",
+    "published": "2026-11-05T13:00:23+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/a-belated-google-pixel-watch-update-in-retrospect-whyd-i-wait/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Talking vehicles",
+    "source": "Electronics Weekly",
+    "snippet": "Automotive vehicle-to-everything is the bridge between today’s traffic challenges and tomorrow’s seamless mobility, writes Payam Pajoohi. The National Highway Traffic Safety Administration estimates that vehicle-to-vehicle (V2V) alone could cut crashes […] The post Talking vehicles appeared first on",
+    "published": "2026-11-05T12:00:48+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/talking-vehicles-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "RAMageddon pushes Raspberry Pi pricing higher",
+    "source": "Electronics Weekly",
+    "snippet": "Some people call it RAMageddon, which may be a bit extreme, but there's no doubting the tech backwash in terms of memory supply. As well as drinking the water, the AI hyperscalers are distorting the market for consumer memory... The post RAMageddon pushes Raspberry Pi pricing higher appeared first o",
+    "published": "2026-11-05T11:56:27+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/ramageddon-pushes-raspberry-pi-pricing-higher-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "MP Space raises $16 million for spacecraft power development",
+    "source": "Electronics Weekly",
+    "snippet": "MP Space has raised $16 million in seed funding to develop its spacecraft power technology – generating, storing and managing power for satellites. The round was led by Blackbird VC, […] The post MP Space raises $16 million for spacecraft power development appeared first on Electronics Weekly .",
+    "published": "2026-11-05T10:14:04+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/mp-space-raises-16-million-for-spacecraft-power-development-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "RS announces strong half-year results",
+    "source": "Electronics Weekly",
+    "snippet": "RS Group has announced strong results for H1 2026 with outperformance in all regions. “We have had a good start to 2026/27,” says RS CEO Simon Pryce. “Manufacturing sentiment remained […] The post RS announces strong half-year results appeared first on Electronics Weekly .",
     "published": "2026-11-05T09:36:31+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/rs-announces-strong-half-year-results-2026-11/",
@@ -29,7 +164,7 @@
   {
     "title": "YMTC pulls IPO",
     "source": "Electronics Weekly",
-    "snippet": "Yangtze Memory (YMTC) has put its Shanghai IPO on hold, reports Reuters. The company intended to raise $4.9 billion dollars. In a note to employees YMTC says the IPO was […] The post YMTC pulls IPO appeared first on Electronics Weekly .",
+    "snippet": "Yangtze Memory (YMTC) has put its Shanghai IPO on hold, reports Reuters. The company intended to raise $4.9bn. In a note to employees YMTC says the IPO was pulled due […] The post YMTC pulls IPO appeared first on Electronics Weekly .",
     "published": "2026-11-05T06:14:47+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/ymtc-pulls-ipo-2026-11/",
@@ -38,46 +173,10 @@
   {
     "title": "Qualcomm to supply Starlink Mobile’s 5G radio equipment",
     "source": "Electronics Weekly",
-    "snippet": "Qualcomm is to supply SpaceX with radio equipment, baseband units and software for Starlink Mobile’s planned nationwide terrestrial 5G network. Starlink Mobile is Musk’s attempt to take on the established […] The post Qualcomm to supply Starlink Mobile’s 5G radio equipment appeared first on Electron",
+    "snippet": "Qualcomm is to supply SpaceX with radio equipment, baseband units and software for Starlink Mobile’s planned nationwide terrestrial 5G network. Starlink Mobile is Elon Musk’s attempt to take on the […] The post Qualcomm to supply Starlink Mobile’s 5G radio equipment appeared first on Electronics Wee",
     "published": "2026-11-05T06:13:17+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/qualcomm-to-supply-starlink-mobiles-5g-radio-equipment-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "EU to put up €525m for IC design startups",
-    "source": "Electronics Weekly",
-    "snippet": "Yesterday, Brussels tech commissioner Henna Virkkunen unveiled a €525 million aimed at chip startups, split into €425 million in grants for developing commercially viable chips and $85? million to build […] The post EU to put up €525m for IC design startups appeared first on Electronics Weekly .",
-    "published": "2026-11-05T06:12:47+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/eu-to-put-up-e525m-for-ic-design-startups-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "The shortage of Systems Thinkers",
-    "source": "Electronics Weekly",
-    "snippet": "The shortage of systems thinkers should be at the top of the agenda for senior executives. This is the key recommendation of the Delft Systems Declaration, adopted by more than […] The post The shortage of Systems Thinkers appeared first on Electronics Weekly .",
-    "published": "2026-11-05T06:12:16+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/the-shortage-of-systems-thinkers-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Element 6 and Entegris to bring diamond to GPU and RF packaging",
-    "source": "Electronics Weekly",
-    "snippet": "Element Six (E6), the industrial synthetic diamond specialist, and materials supplier Entegris, plan to accelerate the integration of diamond-enabled thermal management solutions into advanced packaging for GPU and RF devices. […] The post Element 6 and Entegris to bring diamond to GPU and RF packag",
-    "published": "2026-11-05T06:11:52+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/element-6-and-entegris-plan-to-bring-tic-diamond-to-gpu-and-rf-device-packaging-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Apple’s harvest",
-    "source": "Electronics Weekly",
-    "snippet": "On Monday, Apple reported Q4 results with sales of $114.5 billion bringing the annual total to $478.8 billion – a 15% jump YoY. Annual profit was $132 billion, which was […] The post Apple’s harvest appeared first on Electronics Weekly .",
-    "published": "2026-11-05T01:10:05+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/apples-harvest-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -144,31 +243,13 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Sony IMX742 1mm square image sensor serves single-use endoscopes",
-    "source": "Electronics Weekly",
-    "snippet": "Sony has announced its IMX742, a CMOS image sensor for single-use endoscopes. The company highlights it as the industry’s first to support digital output and data transmission through a 5m […] The post Sony IMX742 1mm square image sensor serves single-use endoscopes appeared first on Electronics Wee",
-    "published": "2026-11-04T17:27:47+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/sensors-products/sony-imx742-1mm-square-image-sensor-serves-single-use-endoscopes-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors",
+    "title": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semiconductors",
     "source": "EE Times",
-    "snippet": "ABLIC’s Satoshi Hanazawa discusses its low-power analog semiconductor strategy, target markets, product innovation and development approach. The post ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semicondutors appeared first on EE Times .",
+    "snippet": "ABLIC’s Satoshi Hanazawa discusses its low-power analog semiconductor strategy, target markets, product innovation and development approach. The post ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semiconductors appeared first on EE Times .",
     "published": "2026-11-04T17:00:00+00:00",
     "authors": "ABLIC",
     "link": "https://www.eetimes.com/ablics-small-smart-and-simple-strategy-for-high-value-analog-semicondutors/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Samtec VITA 90 VNX+ for RF backplane, optical, and power connectivity",
-    "source": "Electronics Weekly",
-    "snippet": "Mouser Electronics is stocking Samtec’s VITA 90 VNX+, which combines RF backplane, optical, and power connectivity. It is for harsh or space‑constrained applications. The interconnect product family supports small-form-factor, modular, […] The post Samtec VITA 90 VNX+ for RF backplane, optical, and ",
-    "published": "2026-11-04T16:01:22+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/connectors/samtec-vita-90-vnx-for-rf-backplane-optical-and-power-connectivity-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI",
@@ -189,39 +270,12 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "AI’s Legacy",
-    "source": "Electronics Weekly",
-    "snippet": "It is often said that war is the greatest accelerator of technology because governments will invest any money in weapons development to get a jump on their enemy, but this […] The post AI’s Legacy appeared first on Electronics Weekly .",
-    "published": "2026-11-04T12:30:20+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/ais-legacy-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Quantum Roadmaps Are Finally Meeting Reality",
     "source": "EE Times",
     "snippet": "Quantum computing revenue surpassed $1 billion in 2025, but missed forecasts highlight the gap between commercial expectations and delivery. The post Quantum Roadmaps Are Finally Meeting Reality appeared first on EE Times .",
     "published": "2026-11-04T09:11:15+00:00",
     "authors": "Marie Lepske",
     "link": "https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?",
-    "source": "EE Times",
-    "snippet": "Small OSATs in India can start with ₹1.5–₹2 billion (~$15.8–$21 million), consultant Nitin Dodia said. But anchor customers, skilled staff, and qualification determine who survives. The post Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom? appeared first on EE Times .",
-    "published": "2026-11-03T23:30:00+00:00",
-    "authors": "Yashasvini Razdan",
-    "link": "https://www.eetimes.com/is-there-room-for-small-scale-osats-in-india-chip-packaging-boom/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "U.S. Manufacturing Activity Gains Momentum in October",
-    "source": "EE Times",
-    "snippet": "Economic activity in the U.S. manufacturing sector expanded in October driven by accelerating production and steady gains in new orders. The post U.S. Manufacturing Activity Gains Momentum in October appeared first on EE Times .",
-    "published": "2026-11-03T19:08:38+00:00",
-    "authors": "News Desk",
-    "link": "https://www.eetimes.com/u-s-manufacturing-activity-gains-momentum-in-october/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -232,15 +286,6 @@
     "authors": "Siva Rama Krishna Varma Bayyavarapu",
     "link": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Accepting Orders for the LED Light-Sourced Projection Aligners",
-    "source": "EE Times",
-    "snippet": "Ushio has been accepting orders for LED-based UX-4 wafer aligners since July 2026, offering mercury-free, high-throughput lithography. The post Accepting Orders for the LED Light-Sourced Projection Aligners appeared first on EE Times .",
-    "published": "2026-11-03T15:54:08+00:00",
-    "authors": "USHIO INC.",
-    "link": "https://www.eetimes.com/accepting-orders-for-the-led-light-sourced-projection-aligners/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "A wide-range, linearly-programmable DC/DC converter",
@@ -261,15 +306,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Disassembling a SFP Ethernet adapter",
-    "source": "EDN",
-    "snippet": "If you need a spare RJ45 switch port but none are available, use a spare SFP instead. Ethernet adapters can’t be beat, but mind the heat. The post Disassembling a SFP Ethernet adapter appeared first on EDN .",
-    "published": "2026-11-02T13:00:15+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/disassembling-a-sfp-ethernet-adapter/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "The PHP2Shell Vulnerability Heralds Cybersecurity Hell",
     "source": "IEEE Spectrum 计算",
     "snippet": "In late October, a slew of major cybersecurity issues came to light. But none were bigger than the so-called PHP2Shell vulnerability , which put a plethora of websites, including those of NASA, Wikipedia, the White House, and all other sites that run on Wordpress or Drupal (among others) at risk of ",
@@ -277,15 +313,6 @@
     "authors": "Dina Genkina",
     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Ground penetrating radar: How RF waves map the unseen world",
-    "source": "EDN",
-    "snippet": "Ground penetrating radar (GPR) turns invisible transitions beneath our feet into readable signals. The post Ground penetrating radar: How RF waves map the unseen world appeared first on EDN .",
-    "published": "2026-11-02T03:50:19+00:00",
-    "authors": "T.K. Hareendran",
-    "link": "https://www.edn.com/ground-penetrating-radar-how-rf-waves-map-the-unseen-world/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Guarding the Gates of Knowledge",
@@ -304,6 +331,24 @@
     "authors": "Allison Marsh",
     "link": "https://spectrum.ieee.org/early-electric-vehicles",
     "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
+    "source": "IEEE Spectrum",
+    "snippet": "Advances in sensing, manufacturing, computational resources, and data-driven methods are enabling new approaches to electromagnetic sensing, non-destructive evaluation, and advanced materials processing. This webinar will demonstrate how the COMSOL Multiphysics software supports predictive modeling ",
+    "published": "2026-10-30T12:29:43+00:00",
+    "authors": "COMSOL",
+    "link": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Advances in sensing, manufacturing, computational resources, and data-driven methods are enabling new approaches to electromagnetic sensing, non-destructive evaluation, and advanced materials processing. This webinar will demonstrate how the COMSOL Multiphysics software supports predictive modeling ",
+    "published": "2026-10-30T12:29:43+00:00",
+    "authors": "COMSOL",
+    "link": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
+    "category": "计算 / 通信系统"
   },
   {
     "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -559,30 +604,12 @@
   },
   {
     "title": "Compact Analog Signal Generators for Fast RF Testing",
-    "source": "IEEE Spectrum",
-    "snippet": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution. What you will learn about: How to m",
-    "published": "2026-10-15T10:00:04+00:00",
-    "authors": "Electro Rent",
-    "link": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Compact Analog Signal Generators for Fast RF Testing",
     "source": "IEEE Spectrum 计算",
     "snippet": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution. What you will learn about: How to m",
     "published": "2026-10-15T10:00:04+00:00",
     "authors": "Electro Rent",
     "link": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "IEEE Continues Preparations for the Realignment of Its Regions",
-    "source": "IEEE Spectrum",
-    "snippet": "Progress continues in restructuring IEEE’s geographic regions, as outlined in The Institute’s February 2023 article “ IEEE Is Realigning Its Geographic Regions .” The “Region 1” designation will no longer be used. The new Region 2 will merge what is currently Region 1 (Northeastern U.S.) with the cu",
-    "published": "2026-10-14T18:00:03+00:00",
-    "authors": "IEEE Member and Geographic Activities",
-    "link": "https://spectrum.ieee.org/realignment-ieee-regions",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "U.S. Chip Firms Bet Big on R&D",
@@ -592,15 +619,6 @@
     "authors": "Lucas Laursen",
     "link": "https://spectrum.ieee.org/semiconductor-research",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
-    "source": "IEEE Spectrum",
-    "snippet": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senio",
-    "published": "2026-10-12T18:00:02+00:00",
-    "authors": "Amanda Davis",
-    "link": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
@@ -897,24 +915,6 @@
     "published": "2026-08-03T11:38:22+00:00",
     "authors": "Joseph Carew",
     "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-    "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Fridays With Bob",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen",
-    "published": "2026-08-01T12:00:01+00:00",
-    "authors": "Harry Goldstein",
-    "link": "https://spectrum.ieee.org/risk",
-    "category": "计算 / 通信系统"
-  },
-  {
-    "title": "IBM Claims Quantum Advantage With New Validation Techniques",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "Quantum computers promise to solve problems beyond the most powerful classical supercomputers. But this raises a fundamental challenge: How do you prove the validity of answers that can’t be calculated any other way? In a trio of papers released yesterday, IBM and collaborators say they have demonst",
-    "published": "2026-07-31T14:00:01+00:00",
-    "authors": "Edd Gent",
-    "link": "https://spectrum.ieee.org/ibm-verifiable-quantum-advantage",
     "category": "计算 / 通信系统"
   },
   {

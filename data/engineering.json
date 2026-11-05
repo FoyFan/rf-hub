@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "Physical AI in action at OktoberTech Silicon Valley 2026",
+      "source": "EDN",
+      "snippet": "The event showcased robot designs as a major use case for physical AI deployment. The post Physical AI in action at OktoberTech Silicon Valley 2026 appeared first on EDN .",
+      "published": "2026-11-05T13:20:18+00:00",
+      "authors": "Majeed Ahmad",
+      "link": "https://www.edn.com/physical-ai-in-action-at-oktobertech-silicon-valley-2026/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "A belated Google Pixel Watch update: In retrospect, why’d I wait?",
+      "source": "EDN",
+      "snippet": "Sometimes the primary benefits of a hardware swap end up not being the key features highlighted in the successor’s press release. The post A belated Google Pixel Watch update: In retrospect, why’d I wait? appeared first on EDN .",
+      "published": "2026-11-05T13:00:23+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/a-belated-google-pixel-watch-update-in-retrospect-whyd-i-wait/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Wi-Fi SoCs pair low power with edge AI",
       "source": "EDN",
       "snippet": "Nordic reports that its nRF71 series of Wi-Fi SoCs delivers up to 20 times lower standby power consumption than the nRF70 series. The post Wi-Fi SoCs pair low power with edge AI appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-11-03T10:19:38+00:00",
       "authors": "Vignesh Sunderrajan",
       "link": "https://www.edn.com/why-reliability-metrics-must-dictate-advanced-node-physical-implementation-flow/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Disassembling a SFP Ethernet adapter",
-      "source": "EDN",
-      "snippet": "If you need a spare RJ45 switch port but none are available, use a spare SFP instead. Ethernet adapters can’t be beat, but mind the heat. The post Disassembling a SFP Ethernet adapter appeared first on EDN .",
-      "published": "2026-11-02T13:00:15+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/disassembling-a-sfp-ethernet-adapter/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Ground penetrating radar: How RF waves map the unseen world",
-      "source": "EDN",
-      "snippet": "Ground penetrating radar (GPR) turns invisible transitions beneath our feet into readable signals. The post Ground penetrating radar: How RF waves map the unseen world appeared first on EDN .",
-      "published": "2026-11-02T03:50:19+00:00",
-      "authors": "T.K. Hareendran",
-      "link": "https://www.edn.com/ground-penetrating-radar-how-rf-waves-map-the-unseen-world/",
       "category": "EDN 电子设计新闻"
     }
   ]
