@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Wi-Fi SoCs pair low power with edge AI",
+      "source": "EDN",
+      "snippet": "Nordic reports that its nRF71 series of Wi-Fi SoCs delivers up to 20 times lower standby power consumption than the nRF70 series. The post Wi-Fi SoCs pair low power with edge AI appeared first on EDN .",
+      "published": "2026-11-04T21:14:24+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/wi-fi-socs-pair-low-power-with-edge-ai/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Handheld enclosures gain IP65 protection",
       "source": "EDN",
       "snippet": "Large and extra-large SMART-CASE handheld enclosures from OKW are now available with optional IP65 ingress protection. The post Handheld enclosures gain IP65 protection appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-02T03:50:19+00:00",
       "authors": "T.K. Hareendran",
       "link": "https://www.edn.com/ground-penetrating-radar-how-rf-waves-map-the-unseen-world/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Discerning and coding: the exponential equation process",
-      "source": "EDN",
-      "snippet": "Most physical processes in nature have exponential properties, even if the underlying data looks noisy or otherwise messy. The post Discerning and coding: the exponential equation process appeared first on EDN .",
-      "published": "2026-10-30T12:00:40+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/discerning-and-coding-the-exponential-equation-process/",
       "category": "EDN 电子设计新闻"
     }
   ]

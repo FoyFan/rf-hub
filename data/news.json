@@ -1,5 +1,23 @@
 [
   {
+    "title": "Apple’s harvest",
+    "source": "Electronics Weekly",
+    "snippet": "On Monday, Apple reported Q4 results with sales of $114.5 billion bringing the annual total to $478.8 billion – a 15% jump YoY. Annual profit was $132 billion, which was […] The post Apple’s harvest appeared first on Electronics Weekly .",
+    "published": "2026-11-05T01:10:05+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/apples-harvest-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Wi-Fi SoCs pair low power with edge AI",
+    "source": "EDN",
+    "snippet": "Nordic reports that its nRF71 series of Wi-Fi SoCs delivers up to 20 times lower standby power consumption than the nRF70 series. The post Wi-Fi SoCs pair low power with edge AI appeared first on EDN .",
+    "published": "2026-11-04T21:14:24+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/wi-fi-socs-pair-low-power-with-edge-ai/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
     "title": "Handheld enclosures gain IP65 protection",
     "source": "EDN",
     "snippet": "Large and extra-large SMART-CASE handheld enclosures from OKW are now available with optional IP65 ingress protection. The post Handheld enclosures gain IP65 protection appeared first on EDN .",
@@ -171,15 +189,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Filtronic wins £1.9m DCMS contract",
-    "source": "Electronics Weekly",
-    "snippet": "Filtronic has been awarded a £1.9 million contract under the Contracts for Innovation: Advanced Connectivity Technologies (ACT) competition. Delivered by Innovate UK, part of UK Research and Innovation (UKRI), the […] The post Filtronic wins £1.9m DCMS contract appeared first on Electronics Weekly .",
-    "published": "2026-11-04T06:04:59+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/filtronic-wins-1-9m-dcms-contract-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom?",
     "source": "EE Times",
     "snippet": "Small OSATs in India can start with ₹1.5–₹2 billion (~$15.8–$21 million), consultant Nitin Dodia said. But anchor customers, skilled staff, and qualification determine who survives. The post Is There Room for Small-Scale OSATs in India’s Chip Packaging Boom? appeared first on EE Times .",
@@ -295,15 +304,6 @@
     "authors": "Allison Marsh",
     "link": "https://spectrum.ieee.org/early-electric-vehicles",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Discerning and coding: the exponential equation process",
-    "source": "EDN",
-    "snippet": "Most physical processes in nature have exponential properties, even if the underlying data looks noisy or otherwise messy. The post Discerning and coding: the exponential equation process appeared first on EDN .",
-    "published": "2026-10-30T12:00:40+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/discerning-and-coding-the-exponential-equation-process/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Consumer Appetite for Personal AI Goes Mainstream",
