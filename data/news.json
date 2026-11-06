@@ -1,5 +1,41 @@
 [
   {
+    "title": "EE Times Magazine – November 2026",
+    "source": "EE Times",
+    "snippet": "This edition of EE Times Magazine explores advances in semiconductor manufacturing and packaging, farm autonomy, and Canada’s efforts to commercialize emerging technologies. The post EE Times Magazine – November 2026 appeared first on EE Times .",
+    "published": "2026-11-05T22:30:00+00:00",
+    "authors": "Anne-Françoise Pelé",
+    "link": "https://www.eetimes.com/ee-times-magazine-november-2026/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech",
+    "source": "EE Times",
+    "snippet": "Sponsored: Infineon’s Andreas Urschitz and Maher Matta talk to EE Times at OktoberTech Silicon Valley 2026, looking back on a decade of innovation and growth. The post Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech appeared first on EE Times .",
+    "published": "2026-11-05T19:30:52+00:00",
+    "authors": "EE Times",
+    "link": "https://www.eetimes.com/infineon-leaders-andreas-urschitz-and-maher-matta-on-a-decade-of-oktobertech/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech",
+    "source": "EE Times",
+    "snippet": "Sponsored: PEN’s Aalyia Shaukat talks to Infineon’s Johannes Schoiswohl about the GaN market at OktoberTech Silicon Valley 2026, the event’s 10th anniversary. The post Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech appeared first on EE Times .",
+    "published": "2026-11-05T19:15:17+00:00",
+    "authors": "EE Times",
+    "link": "https://www.eetimes.com/infineons-johannes-schoiswohl-on-the-gan-market-at-oktobertech/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Infineon’s Steve Tateosian Talks IoT, Consumer, and Industrial MCUs at OktoberTech",
+    "source": "EE Times",
+    "snippet": "Sponsored: EDN's Majeed Ahmad talks to Infineon's Steve Tateosian on edge systems, application examples, and the growth of the market. The post Infineon’s Steve Tateosian Talks IoT, Consumer, and Industrial MCUs at OktoberTech appeared first on EE Times .",
+    "published": "2026-11-05T18:59:48+00:00",
+    "authors": "EE Times",
+    "link": "https://www.eetimes.com/infineons-steve-tateosian-talks-iot-consumer-and-industrial-mcus-at-oktobertech/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "From PyTorch to Product: Accelerating Edge AI Through Open Ecosystems",
     "source": "EE Times",
     "snippet": "In this 30-Minute BitCast, discover how open-source technologies are helping developers accelerate AI deployment on resource-constrained embedded devices. The post From PyTorch to Product: Accelerating Edge AI Through Open Ecosystems appeared first on EE Times .",
@@ -16,15 +52,6 @@
     "authors": "ChipsAgents",
     "link": "https://www.eetimes.com/accelerate-analog-design-with-flexible-ai-native-workflows/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "GSA Awards 2026 nominees",
-    "source": "Electronics Weekly",
-    "snippet": "The Global Semiconductor Alliance (GSA) has announced its 2026 award nominees. The awards will be presented at the GSA Awards Celebration on Thursday, Dec. 10, 2026. The 2026 Dr. Morris […] The post GSA Awards 2026 nominees appeared first on Electronics Weekly .",
-    "published": "2026-11-05T17:27:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
@@ -180,6 +207,15 @@
     "category": "电子周刊"
   },
   {
+    "title": "EU to put up €525m for IC design startups",
+    "source": "Electronics Weekly",
+    "snippet": "Yesterday, Brussels tech commissioner Henna Virkkunen unveiled a €525m venture aimed at chip startups, split into €425m in grants for developing commercially viable chips and $85m to build a European […] The post EU to put up €525m for IC design startups appeared first on Electronics Weekly .",
+    "published": "2026-11-05T06:12:47+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/eu-to-put-up-e525m-for-ic-design-startups-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Wi-Fi SoCs pair low power with edge AI",
     "source": "EDN",
     "snippet": "Nordic reports that its nRF71 series of Wi-Fi SoCs delivers up to 20 times lower standby power consumption than the nRF70 series. The post Wi-Fi SoCs pair low power with edge AI appeared first on EDN .",
@@ -234,33 +270,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Silicon Photonics Hits the Big Time",
-    "source": "EE Times",
-    "snippet": "The land grab for silicon photonics aims to beat the power wall associated with copper interconnects. We also interviewed Salience Labs about its $125 million funding for optical circuit switching. The post Silicon Photonics Hits the Big Time appeared first on EE Times .",
-    "published": "2026-11-04T19:51:38+00:00",
-    "authors": "Nitin Dahad",
-    "link": "https://www.eetimes.com/silicon-photonics-hits-the-big-time/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semiconductors",
-    "source": "EE Times",
-    "snippet": "ABLIC’s Satoshi Hanazawa discusses its low-power analog semiconductor strategy, target markets, product innovation and development approach. The post ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semiconductors appeared first on EE Times .",
-    "published": "2026-11-04T17:00:00+00:00",
-    "authors": "ABLIC",
-    "link": "https://www.eetimes.com/ablics-small-smart-and-simple-strategy-for-high-value-analog-semicondutors/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI",
-    "source": "EE Times",
-    "snippet": "Unified STM32 platform adds automotive-grade STM32A and power-focused STM32G5 MCUs. The post STMicroelectronics Expands STM32 Roadmap for Cloud AI and Physical AI appeared first on EE Times .",
-    "published": "2026-11-04T14:37:17+00:00",
-    "authors": "Yashasvini Razdan",
-    "link": "https://www.eetimes.com/stmicroelectronics-expands-stm32-roadmap-for-cloud-ai-and-physical-ai/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Significantly simpler square wave circuits for frequency division by even numbers",
     "source": "EDN",
     "snippet": "A simple AND gate replaces multiple comparators to significantly cut down a frequency divider’s chip count. The post Significantly simpler square wave circuits for frequency division by even numbers appeared first on EDN .",
@@ -268,15 +277,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/significantly-simpler-square-wave-circuits-for-frequency-division-by-even-numbers/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Quantum Roadmaps Are Finally Meeting Reality",
-    "source": "EE Times",
-    "snippet": "Quantum computing revenue surpassed $1 billion in 2025, but missed forecasts highlight the gap between commercial expectations and delivery. The post Quantum Roadmaps Are Finally Meeting Reality appeared first on EE Times .",
-    "published": "2026-11-04T09:11:15+00:00",
-    "authors": "Marie Lepske",
-    "link": "https://www.eetimes.com/quantum-roadmaps-are-finally-meeting-reality/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
