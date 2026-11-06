@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "When trusting your tools is the wisest way",
+      "source": "EDN",
+      "snippet": "Sometimes, the best way to optimize a design is to stop trying to outsmart the tools. Relevant to today's AI tools? Comments are welcomed! The post When trusting your tools is the wisest way appeared first on EDN .",
+      "published": "2026-11-06T13:00:26+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/when-trusting-your-tools-is-the-wisest-way/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Five trends driving the chip industry in 2027",
+      "source": "EDN",
+      "snippet": "The AI-driven demand is disrupting the semiconductor world’s norms, and it’s apparent from the state of the memory chip industry. The post Five trends driving the chip industry in 2027 appeared first on EDN .",
+      "published": "2026-11-06T11:28:04+00:00",
+      "authors": "Majeed Ahmad",
+      "link": "https://www.edn.com/five-trends-driving-the-chip-industry-in-2027/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Physical AI in action at OktoberTech Silicon Valley 2026",
       "source": "EDN",
       "snippet": "The event showcased robot designs as a major use case for physical AI deployment. The post Physical AI in action at OktoberTech Silicon Valley 2026 appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-11-04T13:00:29+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/significantly-simpler-square-wave-circuits-for-frequency-division-by-even-numbers/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "A wide-range, linearly-programmable DC/DC converter",
-      "source": "EDN",
-      "snippet": "This Design Idea presents a simple, low-cost, highly flexible, and scalable DC/DC converter, complete with measured prototype results. The post A wide-range, linearly-programmable DC/DC converter appeared first on EDN .",
-      "published": "2026-11-03T13:00:44+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/a-wide-range-linearly-programmable-dc-dc-converter/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Why reliability metrics must dictate advanced-node physical implementation flow",
-      "source": "EDN",
-      "snippet": "Dynamic voltage drops, electromigration, and timing are not three axes to be optimized in sequence; they are one physical system. The post Why reliability metrics must dictate advanced-node physical implementation flow appeared first on EDN .",
-      "published": "2026-11-03T10:19:38+00:00",
-      "authors": "Vignesh Sunderrajan",
-      "link": "https://www.edn.com/why-reliability-metrics-must-dictate-advanced-node-physical-implementation-flow/",
       "category": "EDN 电子设计新闻"
     }
   ]

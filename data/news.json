@@ -1,11 +1,128 @@
 [
   {
-    "title": "Historic rivalry could be upended this quarter",
+    "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
     "source": "Electronics Weekly",
-    "snippet": "Q4 could be an historic quarter for the semiconductor industry in respect of one of the most intense rivalries the industry has ever seen. Although AMD founder Jerry Sanders had […] The post Historic rivalry could be upended this quarter appeared first on Electronics Weekly .",
-    "published": "2026-11-06T01:08:41+00:00",
+    "snippet": "What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions... The post What caught your eye? AI bust, Qualcomm MMIOs, RF emitters appeared first on Electronics Weekly .",
+    "published": "2026-11-06T14:33:14+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Partying like it’s 1999 with the hangover in 2001",
+    "source": "Electronics Weekly",
+    "snippet": "Partying like it’s 1999 without knowing that 2001 would see a 32% fall in the semi market, a chip analyst spun a rosy yarn A 1999 EW story started: ’The […] The post Partying like it’s 1999 with the hangover in 2001 appeared first on Electronics Weekly .",
+    "published": "2026-11-06T14:24:06+00:00",
     "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/historic-rivalry-could-be-upended-this-quarter-2026-11/",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
+    "source": "EE Times",
+    "snippet": "IBM, AMD, and Oak Ridge launch hybrid quantum-classical system to accelerate quantum-error correction research ahead of 2028. The post IBM, AMD Mix Quantum and AI at U.S. National Lab appeared first on EE Times .",
+    "published": "2026-11-06T14:10:57+00:00",
+    "authors": "Alan Patterson",
+    "link": "https://www.eetimes.com/ibm-amd-mix-quantum-and-ai-at-u-s-national-lab/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "When trusting your tools is the wisest way",
+    "source": "EDN",
+    "snippet": "Sometimes, the best way to optimize a design is to stop trying to outsmart the tools. Relevant to today's AI tools? Comments are welcomed! The post When trusting your tools is the wisest way appeared first on EDN .",
+    "published": "2026-11-06T13:00:26+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/when-trusting-your-tools-is-the-wisest-way/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Five trends driving the chip industry in 2027",
+    "source": "EDN",
+    "snippet": "The AI-driven demand is disrupting the semiconductor world’s norms, and it’s apparent from the state of the memory chip industry. The post Five trends driving the chip industry in 2027 appeared first on EDN .",
+    "published": "2026-11-06T11:28:04+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.edn.com/five-trends-driving-the-chip-industry-in-2027/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Emerson NI PXIe instruments for AI-accelerated automated testing",
+    "source": "Electronics Weekly",
+    "snippet": "Emerson has announced new NI PXI express instruments featuring an AI-accelerated approach to automated test. The goal, says the company, is to make the testing process more accessible to engineering […] The post Emerson NI PXIe instruments for AI-accelerated automated testing appeared first on Elect",
+    "published": "2026-11-06T11:03:56+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "MDA Space to provide digital antenna subsystems for IRIS² satellites",
+    "source": "Electronics Weekly",
+    "snippet": "Canadian space company MDA Space has won a contract from Thales Alenia Space for work on the development of Europe’s IRIS² satellites. Specifically it will begin work on MDA AURORA […] The post MDA Space to provide digital antenna subsystems for IRIS² satellites appeared first on Electronics Weekly ",
+    "published": "2026-11-06T10:12:42+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing",
+    "source": "Electronics Weekly",
+    "snippet": "Looking at the news stories written within the last week, the most popular articles on the site cover Greece unveiling its semiconductor strategy, ASML links exec pay to employee morale, and Toyota and Waymo planning to launch robotaxis in Japan. The post Most Read – ASML exec pay, Toyota robotaxis,",
+    "published": "2026-11-06T10:05:40+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-exec-pay-toyota-robotaxis-in-car-computing-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
+    "source": "EE Times",
+    "snippet": "At SEMICON Europa 2026, Europe’s chip industry will confront a “perfect storm” of geopolitical, technological, and competitive pressures. The post Europe’s Chip Industry: Perfect Storm or Perfect Timing? appeared first on EE Times .",
+    "published": "2026-11-06T09:53:05+00:00",
+    "authors": "Anne-Françoise Pelé",
+    "link": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "What to look out for at electronica 2026",
+    "source": "Electronics Weekly",
+    "snippet": "At next week’s electronica 2026 in Munich (10-13 November) attendees will focus on key industries that are at the forefront of technology advances, writes Anthony Coia. Don’t miss the Electronics Weekly […] The post What to look out for at electronica 2026 appeared first on Electronics Weekly .",
+    "published": "2026-11-06T09:30:18+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/products/what-to-look-out-for-at-electronica-2026-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "MS turns down option on Nscale’s Texas datacentre",
+    "source": "Electronics Weekly",
+    "snippet": "Nscale — the UK neocloud startup preparing to IPO in New York – has been told by Microsoft that it is turning down an option to more than double its […] The post MS turns down option on Nscale’s Texas datacentre appeared first on Electronics Weekly .",
+    "published": "2026-11-06T06:16:09+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ms-the-ns-down-expansion-option-on-nscales-texas-datacentre-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Arm Q2 revenue up 27% YoY",
+    "source": "Electronics Weekly",
+    "snippet": "Arm’s Q2 revenue increased 27% YoY to $1.44 billion, representing Arm’s highest ever second quarter. The record Q2 was driven by strong licensing and other revenue of $773 million, reflecting […] The post Arm Q2 revenue up 27% YoY appeared first on Electronics Weekly .",
+    "published": "2026-11-06T06:15:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/arm-q2-revenue-up-27-yoy-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Tenspresso bets on longer context windows",
+    "source": "Electronics Weekly",
+    "snippet": "Tenspresso, a startup founded a few months ago by ex-Google AI chip engineers, is in talks to raise $50 million at a $500 million valuation, reports Bloomberg. A few weeks ago, […] The post Tenspresso bets on longer context windows appeared first on Electronics Weekly .",
+    "published": "2026-11-06T06:14:03+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/tenspresso-bets-on-longer-context-windows-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "European Fabless Semiconductor Association founded",
+    "source": "Electronics Weekly",
+    "snippet": "The European Fabless Semiconductor Association was formally launched yesterday in Brussels. It is the first pan-European body for companies that design semiconductor chips without owning a fab. The European Fabless […] The post European Fabless Semiconductor Association founded appeared first on Ele",
+    "published": "2026-11-06T06:12:42+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/european-fabless-semiconductor-association-founded-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -81,33 +198,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Converge Space Challenge boosts Scottish space sector",
-    "source": "Electronics Weekly",
-    "snippet": "Pleiades Dynamics, an Edinburgh start-up, has won the Converge Space Challenge – building a rocket engine from off the shelf parts to dramatically cut the cost of launching into space. […] The post Converge Space Challenge boosts Scottish space sector appeared first on Electronics Weekly .",
-    "published": "2026-11-05T15:35:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/converge-space-challenge-boosts-scottish-space-sector-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Fable: RIP",
-    "source": "Electronics Weekly",
-    "snippet": "The final stop for a genius on whose shoulders Einstein said he stood. Moral: Genius does not need a monument The post Fable: RIP appeared first on Electronics Weekly .",
-    "published": "2026-11-05T14:25:37+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-rip-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Synov-Proto launches as online PCB prototyping service",
-    "source": "Electronics Weekly",
-    "snippet": "Synov Group will be introducing Synov-Proto, its online PCB rapid prototyping service, at electronica in Munich ahead of its launch on 1 December 2026. Aimed at design offices, manufacturers and […] The post Electronica: Synov-Proto launches as online PCB prototyping service appeared first on Electr",
-    "published": "2026-11-05T14:17:39+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/manufacturing/electronica-synov-proto-launches-as-online-pcb-prototyping-service-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
     "source": "IEEE Spectrum",
     "snippet": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza , it appears that a few puffy white clouds have started to block the sun. That’s vexing. A group of researchers, some wearing cardboard eclipse glasses, is clust",
@@ -144,42 +234,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Talking vehicles",
-    "source": "Electronics Weekly",
-    "snippet": "Automotive vehicle-to-everything is the bridge between today’s traffic challenges and tomorrow’s seamless mobility, writes Payam Pajoohi. The National Highway Traffic Safety Administration estimates that vehicle-to-vehicle (V2V) alone could cut crashes […] The post Talking vehicles appeared first on",
-    "published": "2026-11-05T12:00:48+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/talking-vehicles-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "RAMageddon pushes Raspberry Pi pricing higher",
-    "source": "Electronics Weekly",
-    "snippet": "Some people call it RAMageddon, which may be a bit extreme, but there's no doubting the tech backwash in terms of memory supply. As well as drinking the water, the AI hyperscalers are distorting the market for consumer memory... The post RAMageddon pushes Raspberry Pi pricing higher appeared first o",
-    "published": "2026-11-05T11:56:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/ramageddon-pushes-raspberry-pi-pricing-higher-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "MP Space raises $16 million for spacecraft power development",
-    "source": "Electronics Weekly",
-    "snippet": "MP Space has raised $16 million in seed funding to develop its spacecraft power technology – generating, storing and managing power for satellites. The round was led by Blackbird VC, […] The post MP Space raises $16 million for spacecraft power development appeared first on Electronics Weekly .",
-    "published": "2026-11-05T10:14:04+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/mp-space-raises-16-million-for-spacecraft-power-development-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "RS announces strong half-year results",
-    "source": "Electronics Weekly",
-    "snippet": "RS Group has announced strong results for H1 2026 with outperformance in all regions. “We have had a good start to 2026/27,” says RS CEO Simon Pryce. “Manufacturing sentiment remained […] The post RS announces strong half-year results appeared first on Electronics Weekly .",
-    "published": "2026-11-05T09:36:31+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/rs-announces-strong-half-year-results-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Why Magnetic Sensor Selection Has Become a System Architecture Decision",
     "source": "EE Times",
     "snippet": "Kiloampere busbars, 2,000 V solar platforms, hollow-shaft robot joints and nanoamp standby budgets are pulling magnetic sensing in directions no single sensing principle can follow. Ask a traction inverter designer, a robotics engineer and someone building a battery-powered water meter what they nee",
@@ -187,33 +241,6 @@
     "authors": "Christopher McGrady",
     "link": "https://www.eetimes.com/why-magnetic-sensor-selection-has-become-a-system-architecture-decision/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "What Makes a Quantum Company Valuable?",
-    "source": "EE Times",
-    "snippet": "Quantum investors weigh technical progress against customer demand, commercial timing, and the ability to build lasting value. The post What Makes a Quantum Company Valuable? appeared first on EE Times .",
-    "published": "2026-11-05T07:00:28+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/what-makes-a-quantum-company-valuable/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "YMTC pulls IPO",
-    "source": "Electronics Weekly",
-    "snippet": "Yangtze Memory (YMTC) has put its Shanghai IPO on hold, reports Reuters. The company intended to raise $4.9bn. In a note to employees YMTC says the IPO was pulled due […] The post YMTC pulls IPO appeared first on Electronics Weekly .",
-    "published": "2026-11-05T06:14:47+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/ymtc-pulls-ipo-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Qualcomm to supply Starlink Mobile’s 5G radio equipment",
-    "source": "Electronics Weekly",
-    "snippet": "Qualcomm is to supply SpaceX with radio equipment, baseband units and software for Starlink Mobile’s planned nationwide terrestrial 5G network. Starlink Mobile is Elon Musk’s attempt to take on the […] The post Qualcomm to supply Starlink Mobile’s 5G radio equipment appeared first on Electronics Wee",
-    "published": "2026-11-05T06:13:17+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/qualcomm-to-supply-starlink-mobiles-5g-radio-equipment-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Wi-Fi SoCs pair low power with edge AI",
@@ -261,15 +288,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evolution of AI Model",
-    "source": "EE Times",
-    "snippet": "This event session is presented by Olivia Wu, Distinguished Engineer at Meta AI model architectures are evolving faster than traditional chip development cycles, and at Meta’s scale—serving billions of users across ranking & recommendation and generative AI workloads—this mismatch is untenable. Meta",
-    "published": "2026-11-04T20:30:12+00:00",
-    "authors": "AspenCore Events",
-    "link": "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Significantly simpler square wave circuits for frequency division by even numbers",
     "source": "EDN",
     "snippet": "A simple AND gate replaces multiple comparators to significantly cut down a frequency divider’s chip count. The post Significantly simpler square wave circuits for frequency division by even numbers appeared first on EDN .",
@@ -286,24 +304,6 @@
     "authors": "Siva Rama Krishna Varma Bayyavarapu",
     "link": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "A wide-range, linearly-programmable DC/DC converter",
-    "source": "EDN",
-    "snippet": "This Design Idea presents a simple, low-cost, highly flexible, and scalable DC/DC converter, complete with measured prototype results. The post A wide-range, linearly-programmable DC/DC converter appeared first on EDN .",
-    "published": "2026-11-03T13:00:44+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/a-wide-range-linearly-programmable-dc-dc-converter/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Why reliability metrics must dictate advanced-node physical implementation flow",
-    "source": "EDN",
-    "snippet": "Dynamic voltage drops, electromigration, and timing are not three axes to be optimized in sequence; they are one physical system. The post Why reliability metrics must dictate advanced-node physical implementation flow appeared first on EDN .",
-    "published": "2026-11-03T10:19:38+00:00",
-    "authors": "Vignesh Sunderrajan",
-    "link": "https://www.edn.com/why-reliability-metrics-must-dictate-advanced-node-physical-implementation-flow/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "The PHP2Shell Vulnerability Heralds Cybersecurity Hell",
