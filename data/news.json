@@ -1,5 +1,14 @@
 [
   {
+    "title": "The Countdown to Q-Day Has Begun",
+    "source": "EE Times",
+    "snippet": "Will a quantum computer break blockchain cryptography in just two years' time? The post The Countdown to Q-Day Has Begun appeared first on EE Times .",
+    "published": "2026-11-06T21:00:00+00:00",
+    "authors": "Rebecca Pool",
+    "link": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "Cosmic at SEMICON Europa 2026: Advancing High-Complexity Semiconductor Test Solutions",
     "source": "EE Times",
     "snippet": "ALTOPASCIO, Italy — Nov. 9, 2026 — Cosmic Group will participate in SEMICON Europa 2026 in Munich, held concurrently with electronica from Nov. 10 to 13, 2026. Cosmic will be located at booth C1255. Rooted in the tradition of technological innovation “Made in Europe,” the group aligns perfectly with",
@@ -9,6 +18,15 @@
     "category": "EE Times 行业新闻"
   },
   {
+    "title": "Leap signs MoU to relaunch Sutherland space launches",
+    "source": "Electronics Weekly",
+    "snippet": "Leap, a startup aiming to develop mass-producible launch vehicles, has signed a Memorandum of Understanding (MoU) with Highlands and Islands Enterprise (HIE). This is to develop, and relaunch, space launch […] The post Leap signs MoU to relaunch Sutherland space launches appeared first on Electronic",
+    "published": "2026-11-06T16:03:52+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "How Do You Land on a Moon With Almost No Gravity?",
     "source": "IEEE Spectrum",
     "snippet": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover ’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos , the Martian moon named for the Greek god of fear and panic, was transiting the solar disk. Too small to darken the pale",
@@ -16,6 +34,24 @@
     "authors": "Andrew Jones",
     "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
     "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
+    "source": "Electronics Weekly",
+    "snippet": "What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions... The post What caught your eye? AI bust, Qualcomm MMIOs, RF emitters appeared first on Electronics Weekly .",
+    "published": "2026-11-06T14:33:14+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Partying like it’s 1999 with the hangover in 2001",
+    "source": "Electronics Weekly",
+    "snippet": "Partying like it’s 1999 without knowing that 2001 would see a 32% fall in the semi market, a chip analyst spun a rosy yarn A 1999 EW story started: ’The […] The post Partying like it’s 1999 with the hangover in 2001 appeared first on Electronics Weekly .",
+    "published": "2026-11-06T14:24:06+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
@@ -45,6 +81,33 @@
     "category": "EDN 电子设计新闻"
   },
   {
+    "title": "Emerson NI PXIe instruments for AI-accelerated automated testing",
+    "source": "Electronics Weekly",
+    "snippet": "Emerson has announced new NI PXI express instruments featuring an AI-accelerated approach to automated test. The goal, says the company, is to make the testing process more accessible to engineering […] The post Emerson NI PXIe instruments for AI-accelerated automated testing appeared first on Elect",
+    "published": "2026-11-06T11:03:56+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "MDA Space to provide digital antenna subsystems for IRIS² satellites",
+    "source": "Electronics Weekly",
+    "snippet": "Canadian space company MDA Space has won a contract from Thales Alenia Space for work on the development of Europe’s IRIS² satellites. Specifically it will begin work on MDA AURORA […] The post MDA Space to provide digital antenna subsystems for IRIS² satellites appeared first on Electronics Weekly ",
+    "published": "2026-11-06T10:12:42+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing",
+    "source": "Electronics Weekly",
+    "snippet": "Looking at the news stories written within the last week, the most popular articles on the site cover Greece unveiling its semiconductor strategy, ASML links exec pay to employee morale, and Toyota and Waymo planning to launch robotaxis in Japan. The post Most Read – ASML exec pay, Toyota robotaxis,",
+    "published": "2026-11-06T10:05:40+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-exec-pay-toyota-robotaxis-in-car-computing-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
     "source": "EE Times",
     "snippet": "At SEMICON Europa 2026, Europe’s chip industry will confront a “perfect storm” of geopolitical, technological, and competitive pressures. The post Europe’s Chip Industry: Perfect Storm or Perfect Timing? appeared first on EE Times .",
@@ -52,6 +115,42 @@
     "authors": "Anne-Françoise Pelé",
     "link": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "What to look out for at electronica 2026",
+    "source": "Electronics Weekly",
+    "snippet": "At next week’s electronica 2026 in Munich (10-13 November) attendees will focus on key industries that are at the forefront of technology advances, writes Anthony Coia. Don’t miss the Electronics Weekly […] The post What to look out for at electronica 2026 appeared first on Electronics Weekly .",
+    "published": "2026-11-06T09:30:18+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/products/what-to-look-out-for-at-electronica-2026-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "MS turns down option on Nscale’s Texas datacentre",
+    "source": "Electronics Weekly",
+    "snippet": "Nscale — the UK neocloud startup preparing to IPO in New York – has been told by Microsoft that it is turning down an option to more than double its […] The post MS turns down option on Nscale’s Texas datacentre appeared first on Electronics Weekly .",
+    "published": "2026-11-06T06:16:09+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ms-the-ns-down-expansion-option-on-nscales-texas-datacentre-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Arm Q2 revenue up 27% YoY",
+    "source": "Electronics Weekly",
+    "snippet": "Arm’s Q2 revenue increased 27% YoY to $1.44 billion, representing Arm’s highest ever second quarter. The record Q2 was driven by strong licensing and other revenue of $773 million, reflecting […] The post Arm Q2 revenue up 27% YoY appeared first on Electronics Weekly .",
+    "published": "2026-11-06T06:15:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/arm-q2-revenue-up-27-yoy-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Tenspresso bets on longer context windows",
+    "source": "Electronics Weekly",
+    "snippet": "Tenspresso, a startup founded a few months ago by ex-Google AI chip engineers, is in talks to raise $50 million at a $500 million valuation, reports Bloomberg. A few weeks ago, […] The post Tenspresso bets on longer context windows appeared first on Electronics Weekly .",
+    "published": "2026-11-06T06:14:03+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/tenspresso-bets-on-longer-context-windows-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "EE Times Magazine – November 2026",
@@ -114,15 +213,6 @@
     "published": "2026-11-05T17:40:24+00:00",
     "authors": "ChipsAgents",
     "link": "https://www.eetimes.com/accelerate-analog-design-with-flexible-ai-native-workflows/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
-    "source": "EE Times",
-    "snippet": "City officials are moving beyond isolated pilot projects toward local computing infrastructure and AI. The post Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure appeared first on EE Times .",
-    "published": "2026-11-05T16:09:46+00:00",
-    "authors": "Pablo Valerio",
-    "link": "https://www.eetimes.com/nvidia-municipal-leaders-frame-ai-as-critical-urban-infrastructure/",
     "category": "EE Times 行业新闻"
   },
   {
