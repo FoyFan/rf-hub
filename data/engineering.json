@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "The secret signals of keyless fobs",
+      "source": "EDN",
+      "snippet": "Here’s how your fob speaks to your car and the clever security engineering that keeps thieves from listening in. The post The secret signals of keyless fobs appeared first on EDN .",
+      "published": "2026-11-09T06:36:42+00:00",
+      "authors": "T.K. Hareendran",
+      "link": "https://www.edn.com/the-secret-signals-of-keyless-fobs/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "When trusting your tools is the wisest way",
       "source": "EDN",
       "snippet": "Sometimes, the best way to optimize a design is to stop trying to outsmart the tools. Relevant to today's AI tools? Comments are welcomed! The post When trusting your tools is the wisest way appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-04T21:07:14+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/mcus-drive-smart-appliance-control/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Significantly simpler square wave circuits for frequency division by even numbers",
-      "source": "EDN",
-      "snippet": "A simple AND gate replaces multiple comparators to significantly cut down a frequency divider’s chip count. The post Significantly simpler square wave circuits for frequency division by even numbers appeared first on EDN .",
-      "published": "2026-11-04T13:00:29+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/significantly-simpler-square-wave-circuits-for-frequency-division-by-even-numbers/",
       "category": "EDN 电子设计新闻"
     }
   ]

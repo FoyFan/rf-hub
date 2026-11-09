@@ -1,5 +1,95 @@
 [
   {
+    "title": "DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM",
+    "source": "EE Times",
+    "snippet": "DeepX is targeting edge markets including robotics with its second-generation AI accelerator, which can run large LLMs on device in under 5 W. The post DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM appeared first on EE Times .",
+    "published": "2026-11-09T06:47:26+00:00",
+    "authors": "Sally Ward-Foxton",
+    "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "The secret signals of keyless fobs",
+    "source": "EDN",
+    "snippet": "Here’s how your fob speaks to your car and the clever security engineering that keeps thieves from listening in. The post The secret signals of keyless fobs appeared first on EDN .",
+    "published": "2026-11-09T06:36:42+00:00",
+    "authors": "T.K. Hareendran",
+    "link": "https://www.edn.com/the-secret-signals-of-keyless-fobs/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Jensen Huang apologises: Nvidia board investigates",
+    "source": "Electronics Weekly",
+    "snippet": "After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior exec at Singapore datacentre company Megaspeed, who U.S. intelligence officials believe is a Chinese spy, the board of […] The post Jensen Huang apologises: Nvidia board investigates appeared first on Electronics Weekly .",
+    "published": "2026-11-09T06:18:52+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "TSMC rumoured to be eyeing 3D DRAM",
+    "source": "Electronics Weekly",
+    "snippet": "TSMC is said to have appointed vp Hsu Kuo-Chin to look at how the company could get into 3D DRAM according to multiple industry reports, but it would seem that […] The post TSMC rumoured to be eyeing 3D DRAM appeared first on Electronics Weekly .",
+    "published": "2026-11-09T06:17:29+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Toshiba gets £20m government contract to commercialise quantum",
+    "source": "Electronics Weekly",
+    "snippet": "Toshiba Europe has been awarded a contract by Innovate UK, part of UK Research and Innovation (UKRI), to develop technologies that can help unlock the commercial potential of quantum networks. […] The post Toshiba gets £20m government contract to commercialise quantum appeared first on Electronics W",
+    "published": "2026-11-09T06:16:36+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/toshiba-gets-20-million-government-contract-to-commercialise-quantum-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "European AI companies have raised $27.6bn this year",
+    "source": "Electronics Weekly",
+    "snippet": "Europe AI companies raised $27.6B in the first nine months of 2026, up 3.2x from $8.6B in 9M 2025, says Tracxn Technologies. The ten largest rounds raised $19.0B of that, […] The post European AI companies have raised $27.6bn this year appeared first on Electronics Weekly .",
+    "published": "2026-11-09T06:14:27+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/european-ai-companies-have-raised-27-6bn-this-year-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Consoles Take A Dive",
+    "source": "Electronics Weekly",
+    "snippet": "The world’s leading video game console makers Sony and Nintendo both reported a steep decline in Q3 hardware sales as recent price increases soured demand for the latest generation of […] The post Consoles Take A Dive appeared first on Electronics Weekly .",
+    "published": "2026-11-09T06:14:25+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/consoles-take-a-dive-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "GF to run 7nm process next year",
+    "source": "Electronics Weekly",
+    "snippet": "Globalfoundries says it intends to demo a 7nm FDSOI process in early 2027 called FDX Fusion. The process claims to deliver more than double the transistor density of first-generation 22FDX, […] The post GF to run 7nm process next year appeared first on Electronics Weekly .",
+    "published": "2026-11-09T06:11:54+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/gf-to-run-7nm-process-next-year-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "GSA Awards 2026 nominees",
+    "source": "Electronics Weekly",
+    "snippet": "The Global Semiconductor Alliance (GSA) has announced its 2026 award nominees. The awards will be presented at the GSA Awards Celebration on Thursday, Dec. 10, 2026. The 2026 Dr. Morris […] The post GSA Awards 2026 nominees appeared first on Electronics Weekly .",
+    "published": "2026-11-09T06:10:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Ed Takes Advantage From Project Fear",
+    "source": "Electronics Weekly",
+    "snippet": "The government is terrified that the behaviour of the revolting frogs will cross the channel and infect our own people who, enraged by the same problems of rising living costs […] The post Ed Takes Advantage From Project Fear appeared first on Electronics Weekly .",
+    "published": "2026-11-09T01:01:18+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-takes-advantage-from-project-fear-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "The Countdown to Q-Day Has Begun",
     "source": "EE Times",
     "snippet": "Will a quantum computer break blockchain cryptography in just two years' time? The post The Countdown to Q-Day Has Begun appeared first on EE Times .",
@@ -18,6 +108,15 @@
     "category": "EE Times 行业新闻"
   },
   {
+    "title": "Leap signs MoU to relaunch Sutherland space launches",
+    "source": "Electronics Weekly",
+    "snippet": "Leap, a startup aiming to develop mass-producible launch vehicles, has signed a Memorandum of Understanding (MoU) with Highlands and Islands Enterprise (HIE). This is to develop, and relaunch, space launch […] The post Leap signs MoU to relaunch Sutherland space launches appeared first on Electronic",
+    "published": "2026-11-06T16:03:52+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "How Do You Land on a Moon With Almost No Gravity?",
     "source": "IEEE Spectrum",
     "snippet": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover ’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos , the Martian moon named for the Greek god of fear and panic, was transiting the solar disk. Too small to darken the pale",
@@ -25,6 +124,15 @@
     "authors": "Andrew Jones",
     "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
     "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
+    "source": "Electronics Weekly",
+    "snippet": "What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions... The post What caught your eye? AI bust, Qualcomm MMIOs, RF emitters appeared first on Electronics Weekly .",
+    "published": "2026-11-06T14:33:14+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
@@ -117,15 +225,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Accelerate Analog Design with Flexible, AI-Native Workflows",
-    "source": "EE Times",
-    "snippet": "Join this webinar to learn how ChipAgents’ IC-star chip neural engine automates analog design, simulation, and verification in one unified, flexible agentic loop. The post Accelerate Analog Design with Flexible, AI-Native Workflows appeared first on EE Times .",
-    "published": "2026-11-05T17:40:24+00:00",
-    "authors": "ChipsAgents",
-    "link": "https://www.eetimes.com/accelerate-analog-design-with-flexible-ai-native-workflows/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Use Your Year-End Review to Reach for a Promotion",
     "source": "IEEE Spectrum",
     "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! Hard work rarely speaks for itself. When I landed",
@@ -213,15 +312,6 @@
     "published": "2026-11-04T21:07:14+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/mcus-drive-smart-appliance-control/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Significantly simpler square wave circuits for frequency division by even numbers",
-    "source": "EDN",
-    "snippet": "A simple AND gate replaces multiple comparators to significantly cut down a frequency divider’s chip count. The post Significantly simpler square wave circuits for frequency division by even numbers appeared first on EDN .",
-    "published": "2026-11-04T13:00:29+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/significantly-simpler-square-wave-circuits-for-frequency-division-by-even-numbers/",
     "category": "EDN 电子设计新闻"
   },
   {
