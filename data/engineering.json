@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Examining the insides of an economical phono preamp",
+      "source": "EDN",
+      "snippet": "Equalization, amplification, location. That’s a phono preamp in a nutshell. But the \"devil's in the details\". And then there’s the grounding… The post Examining the insides of an economical phono preamp appeared first on EDN .",
+      "published": "2026-11-09T13:00:51+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/examining-the-insides-of-an-economical-phono-preamp/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "The secret signals of keyless fobs",
       "source": "EDN",
       "snippet": "Here’s how your fob speaks to your car and the clever security engineering that keeps thieves from listening in. The post The secret signals of keyless fobs appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-04T21:08:15+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/murata-shrinks-rf-test-connector-footprint/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "MCUs drive smart appliance control",
-      "source": "EDN",
-      "snippet": "Joining the Renesas RL78 MCU family is the RL78/G21, an ultra-low-power 16-bit microcontroller optimized for smart appliance system control. The post MCUs drive smart appliance control appeared first on EDN .",
-      "published": "2026-11-04T21:07:14+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/mcus-drive-smart-appliance-control/",
       "category": "EDN 电子设计新闻"
     }
   ]

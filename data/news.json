@@ -1,5 +1,122 @@
 [
   {
+    "title": "Google expands its 8th-Gen TPU portfolio for agentic AI",
+    "source": "Electronics Weekly",
+    "snippet": "Google has expanded its eighth generation TPU portfolio with the TPU 8tx and TPU 8i Max. Following on from the TPU 8t and TPU 8i releases in April, it marks […] The post Google expands its 8th-Gen TPU portfolio for agentic AI appeared first on Electronics Weekly .",
+    "published": "2026-11-09T17:28:12+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/google-expands-its-8th-gen-tpu-portfolio-for-agentic-ai-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Can Jensen Keep His Job?",
+    "source": "EE Times",
+    "snippet": "Nvidia CEO admits to romantic affair with Megaspeed managing director, a known Chinese intelligence asset. The post Can Jensen Keep His Job? appeared first on EE Times .",
+    "published": "2026-11-09T17:14:27+00:00",
+    "authors": "Sally Ward-Foxton",
+    "link": "https://www.eetimes.com/can-jensen-keep-his-job/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is brought to you by Queen’s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information yield with a slight over",
+    "published": "2026-11-09T16:25:06+00:00",
+    "authors": "Vishal Sharma",
+    "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "This article is brought to you by Queen’s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information yield with a slight over",
+    "published": "2026-11-09T16:25:06+00:00",
+    "authors": "Vishal Sharma",
+    "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Aratas introduces G6TA series of reed relays for safety-monitoring",
+    "source": "Electronics Weekly",
+    "snippet": "Aratas is introducing its G6TA series of reed relays, providing 200V DC switching capability for safety-monitoring circuitry. Specifically, the relays comprise type-1a (SPST, single-pole single-throw) and type-2a (DPST, double-pole single-throw) […] The post Aratas introduces G6TA series of reed rel",
+    "published": "2026-11-09T15:26:00+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit",
+    "source": "EE Times",
+    "snippet": "Celestica and Broadcom explain how integrated optics can cut power and latency for AI data centers—watch the OCP Summit partner interview. The post Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit appeared first on EE Times .",
+    "published": "2026-11-09T14:20:32+00:00",
+    "authors": "EE Times",
+    "link": "https://www.eetimes.com/advancing-integrated-optics-celestica-broadcom-interview-at-ocp-global-summit/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth",
+    "source": "EE Times",
+    "snippet": "AI data centers need faster, resilient power; learn how microgrids, storage, and intelligent controls can ease grid constraints in this partner interview. The post Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth appeared first on EE Times .",
+    "published": "2026-11-09T14:00:51+00:00",
+    "authors": "EE Times Staff",
+    "link": "https://www.eetimes.com/powering-ai-data-centers-rethinking-energy-infrastructure-for-the-next-wave-of-ai-growth/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Still Looking for Diamonds",
+    "source": "EE Times",
+    "snippet": "Silicon carbide demand surges, but Europe risks hollow sovereignty as investment flows abroad; see why Bulgaria’s fab needs customers first. The post Still Looking for Diamonds appeared first on EE Times .",
+    "published": "2026-11-09T13:31:16+00:00",
+    "authors": "Moshe Zalcberg",
+    "link": "https://www.eetimes.com/still-looking-for-diamonds/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Designing Smarter Security and Portable Camera Systems",
+    "source": "EE Times",
+    "snippet": "Security and portable camera designers must balance image quality, power consumption, connectivity, and system cost across widely different operating environments. This guide provides a practical system-level reference for surveillance cameras, video doorbells, body cameras, trail cameras, action ca",
+    "published": "2026-11-09T13:27:35+00:00",
+    "authors": "onsemi",
+    "link": "https://www.eetimes.com/designing-smarter-security-and-portable-camera-systems/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Examining the insides of an economical phono preamp",
+    "source": "EDN",
+    "snippet": "Equalization, amplification, location. That’s a phono preamp in a nutshell. But the \"devil's in the details\". And then there’s the grounding… The post Examining the insides of an economical phono preamp appeared first on EDN .",
+    "published": "2026-11-09T13:00:51+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/examining-the-insides-of-an-economical-phono-preamp/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "The Race to Build a “Find My” for AI Chips",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over $300 million",
+    "published": "2026-11-09T13:00:02+00:00",
+    "authors": "Rina Diane Caballar",
+    "link": "https://spectrum.ieee.org/find-my-ai-chip",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "The Race to Build a “Find My” for AI Chips",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over $300 million",
+    "published": "2026-11-09T13:00:02+00:00",
+    "authors": "Rina Diane Caballar",
+    "link": "https://spectrum.ieee.org/find-my-ai-chip",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "CesiumAstro satellite antenna specialist raises $730m",
+    "source": "Electronics Weekly",
+    "snippet": "CesiumAstro, the satellite antenna specialist, has closed $730 million in Series D financing. Its payloads – the company highlights – combine active phased array antennas, RF front ends, analogue and […] The post CesiumAstro satellite antenna specialist raises $730m appeared first on Electronics Wee",
+    "published": "2026-11-09T10:07:40+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM",
     "source": "EE Times",
     "snippet": "DeepX is targeting edge markets including robotics with its second-generation AI accelerator, which can run large LLMs on device in under 5 W. The post DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM appeared first on EE Times .",
@@ -20,7 +137,7 @@
   {
     "title": "Jensen Huang apologises: Nvidia board investigates",
     "source": "Electronics Weekly",
-    "snippet": "After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior exec at Singapore datacentre company Megaspeed, who U.S. intelligence officials believe is a Chinese spy, the board of […] The post Jensen Huang apologises: Nvidia board investigates appeared first on Electronics Weekly .",
+    "snippet": "After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior executive at Singapore datacentre company Megaspeed, who US intelligence officials believe is a Chinese spy. The board of […] The post Jensen Huang apologises: Nvidia board investigates appeared first on Electronics Weekly .",
     "published": "2026-11-09T06:18:52+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/",
@@ -29,7 +146,7 @@
   {
     "title": "TSMC rumoured to be eyeing 3D DRAM",
     "source": "Electronics Weekly",
-    "snippet": "TSMC is said to have appointed vp Hsu Kuo-Chin to look at how the company could get into 3D DRAM according to multiple industry reports, but it would seem that […] The post TSMC rumoured to be eyeing 3D DRAM appeared first on Electronics Weekly .",
+    "snippet": "TSMC is said to have appointed vice-president Hsu Kuo-Chin to look at how the company could get into 3D DRAM, according to multiple industry reports, but it would seem that […] The post TSMC rumoured to be eyeing 3D DRAM appeared first on Electronics Weekly .",
     "published": "2026-11-09T06:17:29+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/",
@@ -47,7 +164,7 @@
   {
     "title": "European AI companies have raised $27.6bn this year",
     "source": "Electronics Weekly",
-    "snippet": "Europe AI companies raised $27.6B in the first nine months of 2026, up 3.2x from $8.6B in 9M 2025, says Tracxn Technologies. The ten largest rounds raised $19.0B of that, […] The post European AI companies have raised $27.6bn this year appeared first on Electronics Weekly .",
+    "snippet": "Europe AI companies raised $27.6bn in the first nine months of 2026, up 3.2-times from $8.6bn in 9M 2025, says Tracxn Technologies. The 10 largest rounds raised $19.0bn of that, […] The post European AI companies have raised $27.6bn this year appeared first on Electronics Weekly .",
     "published": "2026-11-09T06:14:27+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/european-ai-companies-have-raised-27-6bn-this-year-2026-11/",
@@ -74,19 +191,10 @@
   {
     "title": "GSA Awards 2026 nominees",
     "source": "Electronics Weekly",
-    "snippet": "The Global Semiconductor Alliance (GSA) has announced its 2026 award nominees. The awards will be presented at the GSA Awards Celebration on Thursday, Dec. 10, 2026. The 2026 Dr. Morris […] The post GSA Awards 2026 nominees appeared first on Electronics Weekly .",
+    "snippet": "The Global Semiconductor Alliance (GSA) has announced its 2026 award nominees. The awards will be presented at the GSA Awards Celebration on Thursday 10 December 2026. The 2026 Dr Morris […] The post GSA Awards 2026 nominees appeared first on Electronics Weekly .",
     "published": "2026-11-09T06:10:41+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Ed Takes Advantage From Project Fear",
-    "source": "Electronics Weekly",
-    "snippet": "The government is terrified that the behaviour of the revolting frogs will cross the channel and infect our own people who, enraged by the same problems of rising living costs […] The post Ed Takes Advantage From Project Fear appeared first on Electronics Weekly .",
-    "published": "2026-11-09T01:01:18+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-takes-advantage-from-project-fear-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -108,15 +216,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Leap signs MoU to relaunch Sutherland space launches",
-    "source": "Electronics Weekly",
-    "snippet": "Leap, a startup aiming to develop mass-producible launch vehicles, has signed a Memorandum of Understanding (MoU) with Highlands and Islands Enterprise (HIE). This is to develop, and relaunch, space launch […] The post Leap signs MoU to relaunch Sutherland space launches appeared first on Electronic",
-    "published": "2026-11-06T16:03:52+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "How Do You Land on a Moon With Almost No Gravity?",
     "source": "IEEE Spectrum",
     "snippet": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover ’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos , the Martian moon named for the Greek god of fear and panic, was transiting the solar disk. Too small to darken the pale",
@@ -124,15 +223,6 @@
     "authors": "Andrew Jones",
     "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
-    "source": "Electronics Weekly",
-    "snippet": "What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions... The post What caught your eye? AI bust, Qualcomm MMIOs, RF emitters appeared first on Electronics Weekly .",
-    "published": "2026-11-06T14:33:14+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
@@ -171,33 +261,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "EE Times Magazine – November 2026",
-    "source": "EE Times",
-    "snippet": "This edition of EE Times Magazine explores advances in semiconductor manufacturing and packaging, farm autonomy, and Canada’s efforts to commercialize emerging technologies. The post EE Times Magazine – November 2026 appeared first on EE Times .",
-    "published": "2026-11-05T22:30:00+00:00",
-    "authors": "Anne-Françoise Pelé",
-    "link": "https://www.eetimes.com/ee-times-magazine-november-2026/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech",
-    "source": "EE Times",
-    "snippet": "Sponsored: Infineon’s Andreas Urschitz and Maher Matta talk to EE Times at OktoberTech Silicon Valley 2026, looking back on a decade of innovation and growth. The post Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech appeared first on EE Times .",
-    "published": "2026-11-05T19:30:52+00:00",
-    "authors": "EE Times",
-    "link": "https://www.eetimes.com/infineon-leaders-andreas-urschitz-and-maher-matta-on-a-decade-of-oktobertech/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech",
-    "source": "EE Times",
-    "snippet": "Sponsored: PEN’s Aalyia Shaukat talks to Infineon’s Johannes Schoiswohl about the GaN market at OktoberTech Silicon Valley 2026, the event’s 10th anniversary. The post Infineon’s Johannes Schoiswohl on the GaN Market at OktoberTech appeared first on EE Times .",
-    "published": "2026-11-05T19:15:17+00:00",
-    "authors": "EE Times",
-    "link": "https://www.eetimes.com/infineons-johannes-schoiswohl-on-the-gan-market-at-oktobertech/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
     "source": "IEEE Spectrum",
     "snippet": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons. This year’s sessions, held across the United States, have focused on educating teachers",
@@ -205,24 +268,6 @@
     "authors": "Debra Gulick",
     "link": "https://spectrum.ieee.org/ieee-preuniversity",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Infineon’s Steve Tateosian Talks IoT, Consumer, and Industrial MCUs at OktoberTech",
-    "source": "EE Times",
-    "snippet": "Sponsored: EDN's Majeed Ahmad talks to Infineon's Steve Tateosian on edge systems, application examples, and the growth of the market. The post Infineon’s Steve Tateosian Talks IoT, Consumer, and Industrial MCUs at OktoberTech appeared first on EE Times .",
-    "published": "2026-11-05T18:59:48+00:00",
-    "authors": "EE Times",
-    "link": "https://www.eetimes.com/infineons-steve-tateosian-talks-iot-consumer-and-industrial-mcus-at-oktobertech/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "From PyTorch to Product: Accelerating Edge AI Through Open Ecosystems",
-    "source": "EE Times",
-    "snippet": "In this 30-Minute BitCast, discover how open-source technologies are helping developers accelerate AI deployment on resource-constrained embedded devices. The post From PyTorch to Product: Accelerating Edge AI Through Open Ecosystems appeared first on EE Times .",
-    "published": "2026-11-05T18:12:42+00:00",
-    "authors": "Renesas",
-    "link": "https://www.eetimes.com/from-pytorch-to-product-accelerating-edge-ai-through-open-ecosystems/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Use Your Year-End Review to Reach for a Promotion",
@@ -303,15 +348,6 @@
     "published": "2026-11-04T21:08:15+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/murata-shrinks-rf-test-connector-footprint/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "MCUs drive smart appliance control",
-    "source": "EDN",
-    "snippet": "Joining the Renesas RL78 MCU family is the RL78/G21, an ultra-low-power 16-bit microcontroller optimized for smart appliance system control. The post MCUs drive smart appliance control appeared first on EDN .",
-    "published": "2026-11-04T21:07:14+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/mcus-drive-smart-appliance-control/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -582,15 +618,6 @@
     "published": "2026-10-16T18:00:03+00:00",
     "authors": "Georges Zissis",
     "link": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Simulation App Speeds Up Electric Truck Battery Design",
-    "source": "IEEE Spectrum",
-    "snippet": "This article is brought to you by COMSOL . These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distributi on centers that have cropped up to meet the demand, delivery trucks still need to make considerably long",
-    "published": "2026-10-16T16:49:18+00:00",
-    "authors": "Brianne Costa",
-    "link": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
     "category": "IEEE 综合新闻"
   },
   {
@@ -891,15 +918,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Brazil Seeks Its Quantum State",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "Countries around the world are trying to find their place in a world of new and powerful quantum computing possibilities. China and the U.S. are investing tens of millions of U.S. dollars to build individual quantum computers for their national laboratories as part of a wider investment of tens of b",
-    "published": "2026-08-12T14:00:01+00:00",
-    "authors": "Lucas Laursen",
-    "link": "https://spectrum.ieee.org/brazil-quantum",
-    "category": "计算 / 通信系统"
-  },
-  {
     "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
     "source": "IEEE Spectrum 半导体",
     "snippet": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the i",
@@ -907,15 +925,6 @@
     "authors": "Joseph Carew",
     "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the i",
-    "published": "2026-08-03T11:38:22+00:00",
-    "authors": "Joseph Carew",
-    "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-    "category": "计算 / 通信系统"
   },
   {
     "title": "Exotic Quasiparticles Promise Next-Gen Interconnects",
@@ -1041,15 +1050,6 @@
     "published": "2026-06-23T10:00:03+00:00",
     "authors": "Rahul Rao",
     "link": "https://spectrum.ieee.org/europe-tech-sovereignty-package",
-    "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Semiconductor Startup Builds Alternatives for Vital Legacy Chips",
-    "source": "IEEE Spectrum 半导体",
-    "snippet": "When the U.S. Navy’s fleet of F/A-18F Super Hornet fighter jets is headed for the scrap heap because an essential chip is unavailable, what do they do? They turn to Ryan Hatcher , the CEO and founder of Phoenix Semiconductor. Hatcher repackages off-the-shelf semiconductors into devices that are virt",
-    "published": "2026-06-16T10:00:02+00:00",
-    "authors": "Alan Patterson",
-    "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacy-chips-oems",
     "category": "半导体 / RFIC / 射频器件"
   },
   {
