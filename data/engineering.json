@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh",
+      "source": "EDN",
+      "snippet": "The choice among LTE Cat 1bis, LTE-M, NB-IoT, and 5G RedCap should be made as an RF system decision, not from a modem datasheet alone. The post LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh appeared first on EDN .",
+      "published": "2026-11-10T15:19:24+00:00",
+      "authors": "Baha Badran",
+      "link": "https://www.edn.com/lte-cat-1bis-or-5g-redcap-rf-design-decisions-behind-an-iot-modem-refresh/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Simple circuit detects sequence errors and failure in three-phase power supplies",
+      "source": "EDN",
+      "snippet": "All-phases presence and correct phase sequencing are both critical conditions for proper three-phase line-powered equipment operation. The post Simple circuit detects sequence errors and failure in three-phase power supplies appeared first on EDN .",
+      "published": "2026-11-10T13:00:05+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/simple-circuit-detects-sequence-errors-and-failure-in-three-phase-power-supplies/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Examining the insides of an economical phono preamp",
       "source": "EDN",
       "snippet": "Equalization, amplification, location. That’s a phono preamp in a nutshell. But the \"devil's in the details\". And then there’s the grounding… The post Examining the insides of an economical phono preamp appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-11-04T21:13:23+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/handheld-enclosures-gain-ip65-protection/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "SiC MOSFETs cut switching losses and resistance",
-      "source": "EDN",
-      "snippet": "SemiQ has launched 750-V and 1200-V Gen4 QSiC MOSFETs which the company says reduce on-resistance by 21% and switching energy by 11%. The post SiC MOSFETs cut switching losses and resistance appeared first on EDN .",
-      "published": "2026-11-04T21:10:38+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/sic-mosfets-cut-switching-losses-and-resistance/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Murata shrinks RF test connector footprint",
-      "source": "EDN",
-      "snippet": "Murata’s SWL MM8330-2600 is one of the industry’s smallest RF/microwave coaxial connectors with an integrated mechanical switch. The post Murata shrinks RF test connector footprint appeared first on EDN .",
-      "published": "2026-11-04T21:08:15+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/murata-shrinks-rf-test-connector-footprint/",
       "category": "EDN 电子设计新闻"
     }
   ]

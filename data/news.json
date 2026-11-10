@@ -1,5 +1,140 @@
 [
   {
+    "title": "LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh",
+    "source": "EDN",
+    "snippet": "The choice among LTE Cat 1bis, LTE-M, NB-IoT, and 5G RedCap should be made as an RF system decision, not from a modem datasheet alone. The post LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh appeared first on EDN .",
+    "published": "2026-11-10T15:19:24+00:00",
+    "authors": "Baha Badran",
+    "link": "https://www.edn.com/lte-cat-1bis-or-5g-redcap-rf-design-decisions-behind-an-iot-modem-refresh/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "ESA signs OHB for next-gen Sentinel-3 topography mission",
+    "source": "Electronics Weekly",
+    "snippet": "The German space systems integrator OHB has been awarded, by the European Space Agency (ESA), a €554 million contract for two next-gen Sentinel-3 topography satellites. The Sentinel-3 Next Generation Topography […] The post ESA signs OHB for next-gen Sentinel-3 topography mission appeared first on E",
+    "published": "2026-11-10T15:18:15+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/esa-signs-ohb-for-next-gen-sentinel-3-topography-mission-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "People Detection in Confined Spaces: Elevator Application",
+    "source": "EE Times",
+    "snippet": "This technical white paper details an embedded occupancy-monitoring solution for elevator cabins combining the Melexis MLX90642 Far-Infrared (FIR) thermal sensor array with a hardware-agnostic People Detection Library. Engineered to overcome the limitations of optical cameras, PIR sensors, and floor",
+    "published": "2026-11-10T15:00:00+00:00",
+    "authors": "Thomas Parton",
+    "link": "https://www.eetimes.com/people-detection-in-confined-spaces-elevator-application/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
+    "source": "EE Times",
+    "snippet": "As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of the digital economy. The post The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk? appeared first on EE Times .",
+    "published": "2026-11-10T15:00:00+00:00",
+    "authors": "Ron Honig",
+    "link": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Tardy",
+    "source": "Electronics Weekly",
+    "snippet": "According to tech Taiwan, reported by Wcctech, MediaTek people who are using Intel’s EMIB-T packaging technology have had a complaint from Intel engineers about their demands for quick answers to […] The post Tardy appeared first on Electronics Weekly .",
+    "published": "2026-11-10T14:25:42+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/intel-sloth-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences",
+    "source": "EE Times",
+    "snippet": "Bluetooth® High Data Throughput enables faster data transfer, greater capacity, energy efficiency, and reliability for advanced wireless applications. The post Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences appeared first on EE Times .",
+    "published": "2026-11-10T14:00:00+00:00",
+    "authors": "Bluetooth SIG",
+    "link": "https://www.eetimes.com/bluetooth-high-data-throughput-a-foundation-for-next-generation-wireless-experiences/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Simple circuit detects sequence errors and failure in three-phase power supplies",
+    "source": "EDN",
+    "snippet": "All-phases presence and correct phase sequencing are both critical conditions for proper three-phase line-powered equipment operation. The post Simple circuit detects sequence errors and failure in three-phase power supplies appeared first on EDN .",
+    "published": "2026-11-10T13:00:05+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/simple-circuit-detects-sequence-errors-and-failure-in-three-phase-power-supplies/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Nickel/aluminium is the smarter alternative to traditional silver/aluminium EMI shielding materials",
+    "source": "Electronics Weekly",
+    "snippet": "Nickel-aluminium (Ni/Al) is emerging as an alternative to silver-aluminium (Ag/Al) in shielding applications, writes Rachid Ait El Cadi. For decades Ag/Al conductive elastomer gaskets have occupied a leading position in electromagnetic […] The post Nickel/aluminium is the smarter alternative to trad",
+    "published": "2026-11-10T12:00:03+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/nickel-aluminium-is-the-smarter-alternative-to-traditional-silver-aluminium-emi-shielding-materials-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "TSMC October revenues up 59.7% YoY",
+    "source": "Electronics Weekly",
+    "snippet": "TSMC today announced a 59.7% rise YoY and a $14.7% rise MoM for its October revenue of $17.8 billion. Revenue for January through October 2026 totaled $136.2 billion, an increase […] The post TSMC October revenues up 59.7% YoY appeared first on Electronics Weekly .",
+    "published": "2026-11-10T11:46:02+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/tsmc-october-revenues-up-59-7-yoy-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Infineon expects a €20bn 2027",
+    "source": "Electronics Weekly",
+    "snippet": "Infineon had Q4 FY 2026 revenue of €4.706 billion for profit of €1.119 billion at a margin of 23.8% For FY 2026 it had revenue of €16.353 billion, up 12up […] The post Infineon expects a €20bn 2027 appeared first on Electronics Weekly .",
+    "published": "2026-11-10T11:08:24+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/infineon-expects-a-e20bn-2027-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
+    "source": "IEEE Spectrum",
+    "snippet": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate electronics product development. What you will learn about: Why shock failures found during physica",
+    "published": "2026-11-10T11:00:02+00:00",
+    "authors": "Keysight",
+    "link": "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate electronics product development. What you will learn about: Why shock failures found during physica",
+    "published": "2026-11-10T11:00:02+00:00",
+    "authors": "Keysight",
+    "link": "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Get the Gadget Master newsletter!",
+    "source": "Electronics Weekly",
+    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
+    "published": "2026-11-10T10:57:29+00:00",
+    "authors": "Staff",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica: Sandisk iNAND CL EM181 Embedded Flash Drive for IoT",
+    "source": "Electronics Weekly",
+    "snippet": "Sandisk is introducing the SANDISK iNAND CL EM181 Embedded Flash Drive (EFD) for the physical AI and IoT markets. It officially announced the drive at electronica 2026. Available in 64GB, […] The post Electronica: Sandisk iNAND CL EM181 Embedded Flash Drive for IoT appeared first on Electronics Week",
+    "published": "2026-11-10T10:47:27+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/memory/electronica-sandisk-inand-cl-em181-embedded-flash-drive-for-iot-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica – The latest news roundup",
+    "source": "Electronics Weekly",
+    "snippet": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
+    "published": "2026-11-10T08:50:27+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "What It Takes to Let a Farm Robot Work Alone",
     "source": "EE Times",
     "snippet": "Safe agricultural autonomy depends on matching safeguards to the machine, its surroundings, and the people who interact with it. The post What It Takes to Let a Farm Robot Work Alone appeared first on EE Times .",
@@ -36,42 +171,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Ardian Semi raises €1bn",
-    "source": "Electronics Weekly",
-    "snippet": "A private equity company dedicated to making investments in the semiconductor supply chain has raised €1 billion The company, Ardian Semiconductor, is part of the French private equity company Ardian. […] The post Ardian Semi raises €1bn appeared first on Electronics Weekly .",
-    "published": "2026-11-10T06:10:08+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/ardian-semi-raises-e1bn-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Infineon first to fab SiC on 300mm wafers",
-    "source": "Electronics Weekly",
-    "snippet": "Infineon is processing 300mm SiC wafers into functional power devices at its fab in Villach, Austria. Infineon used existing silicon (Si) manufacturing equipment. The larger wafer diameter offers 2.3 times […] The post Infineon first to fab SiC on 300mm wafers appeared first on Electronics Weekly .",
-    "published": "2026-11-10T06:08:05+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/infineon-first-to-fab-sic-on-300mm-wafers-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Weebit Matrix prototypes IMC algorithms",
-    "source": "Electronics Weekly",
-    "snippet": "Weebit Nano, a developer and licensor of advanced technologies, has launched the Weebit Matrix In-Memory Compute (IMC) Research Program, designed to accelerate exploration of next-generation computing architectures. The program provides […] The post Electronica: Weebit Matrix prototypes IMC algorith",
-    "published": "2026-11-10T06:07:20+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/weebit-matrix-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Development platform for humanoid robots",
-    "source": "Electronics Weekly",
-    "snippet": "At electronica 2026, Inova Semiconductors is showcasing a development platform for humanoid robots built on Inova’s APXpress high-speed networking technology and low-power Lattice CertusPro and Lattice CrossLink NX FPGAs. DLR’s […] The post Electronica: Development platform for humanoid robots appea",
-    "published": "2026-11-10T06:06:50+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/electronica-gand-for-humanoid-robots-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications",
     "source": "EE Times",
     "snippet": "GigaDevice officially lunches its new-generation GD32H7 MCU portfolio built on a unified chip architecture. Discover More. The post GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications appeared first on EE Times .",
@@ -81,15 +180,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Tax Exporters Less",
-    "source": "Electronics Weekly",
-    "snippet": "As an incentive to export, the Government should seriously consider limiting the proposed “payroll tax” to firms exporting less than ten per cent of their output. so, 65 years ago, […] The post Tax Exporters Less appeared first on Electronics Weekly .",
-    "published": "2026-11-10T01:02:39+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/tax-exporters-less-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Can Jensen Keep His Job?",
     "source": "EE Times",
     "snippet": "Nvidia CEO admits to romantic affair with Megaspeed managing director, a known Chinese intelligence asset. The post Can Jensen Keep His Job? appeared first on EE Times .",
@@ -97,15 +187,6 @@
     "authors": "Sally Ward-Foxton",
     "link": "https://www.eetimes.com/can-jensen-keep-his-job/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Google expands its 8th-Gen TPU portfolio for agentic AI",
-    "source": "Electronics Weekly",
-    "snippet": "Google has expanded its eighth generation TPU portfolio with the TPU 8tx and TPU 8i Max. Following on from the TPU 8t and TPU 8i releases in April, it marks […] The post Google expands its 8th-Gen TPU portfolio for agentic AI appeared first on Electronics Weekly .",
-    "published": "2026-11-09T17:28:12+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/google-expands-its-8th-gen-tpu-portfolio-for-agentic-ai-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
@@ -124,15 +205,6 @@
     "authors": "Vishal Sharma",
     "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Aratas introduces G6TA series of reed relays for safety-monitoring",
-    "source": "Electronics Weekly",
-    "snippet": "Aratas is introducing its G6TA series of reed relays, providing 200V DC switching capability for safety-monitoring circuitry. Specifically, the relays comprise type-1a (SPST, single-pole single-throw) and type-2a (DPST, double-pole single-throw) […] The post Aratas introduces G6TA series of reed rel",
-    "published": "2026-11-09T15:26:00+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit",
@@ -159,15 +231,6 @@
     "published": "2026-11-09T13:31:16+00:00",
     "authors": "Moshe Zalcberg",
     "link": "https://www.eetimes.com/still-looking-for-diamonds/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Designing Smarter Security and Portable Camera Systems",
-    "source": "EE Times",
-    "snippet": "Security and portable camera designers must balance image quality, power consumption, connectivity, and system cost across widely different operating environments. This guide provides a practical system-level reference for surveillance cameras, video doorbells, body cameras, trail cameras, action ca",
-    "published": "2026-11-09T13:27:35+00:00",
-    "authors": "onsemi",
-    "link": "https://www.eetimes.com/designing-smarter-security-and-portable-camera-systems/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -198,24 +261,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "CesiumAstro satellite antenna specialist raises $730m",
-    "source": "Electronics Weekly",
-    "snippet": "CesiumAstro, the satellite antenna specialist, has closed $730 million in Series D financing. Its payloads – the company highlights – combine active phased array antennas, RF front ends, analogue and […] The post CesiumAstro satellite antenna specialist raises $730m appeared first on Electronics Wee",
-    "published": "2026-11-09T10:07:40+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM",
-    "source": "EE Times",
-    "snippet": "DeepX is targeting edge markets including robotics with its second-generation AI accelerator, which can run large LLMs on device in under 5 W. The post DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM appeared first on EE Times .",
-    "published": "2026-11-09T06:47:26+00:00",
-    "authors": "Sally Ward-Foxton",
-    "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "The secret signals of keyless fobs",
     "source": "EDN",
     "snippet": "Here’s how your fob speaks to your car and the clever security engineering that keeps thieves from listening in. The post The secret signals of keyless fobs appeared first on EDN .",
@@ -223,15 +268,6 @@
     "authors": "T.K. Hareendran",
     "link": "https://www.edn.com/the-secret-signals-of-keyless-fobs/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "The Countdown to Q-Day Has Begun",
-    "source": "EE Times",
-    "snippet": "Will a quantum computer break blockchain cryptography in just two years' time? The post The Countdown to Q-Day Has Begun appeared first on EE Times .",
-    "published": "2026-11-06T21:00:00+00:00",
-    "authors": "Rebecca Pool",
-    "link": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "How Do You Land on a Moon With Almost No Gravity?",
@@ -330,24 +366,6 @@
     "published": "2026-11-04T21:13:23+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/handheld-enclosures-gain-ip65-protection/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "SiC MOSFETs cut switching losses and resistance",
-    "source": "EDN",
-    "snippet": "SemiQ has launched 750-V and 1200-V Gen4 QSiC MOSFETs which the company says reduce on-resistance by 21% and switching energy by 11%. The post SiC MOSFETs cut switching losses and resistance appeared first on EDN .",
-    "published": "2026-11-04T21:10:38+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/sic-mosfets-cut-switching-losses-and-resistance/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Murata shrinks RF test connector footprint",
-    "source": "EDN",
-    "snippet": "Murata’s SWL MM8330-2600 is one of the industry’s smallest RF/microwave coaxial connectors with an integrated mechanical switch. The post Murata shrinks RF test connector footprint appeared first on EDN .",
-    "published": "2026-11-04T21:08:15+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/murata-shrinks-rf-test-connector-footprint/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -609,15 +627,6 @@
     "published": "2026-10-17T13:00:02+00:00",
     "authors": "Maria Gallucci",
     "link": "https://spectrum.ieee.org/variable-frequency-drives",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
-    "source": "IEEE Spectrum",
-    "snippet": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and deep learning programs",
-    "published": "2026-10-16T18:00:03+00:00",
-    "authors": "Georges Zissis",
-    "link": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
     "category": "IEEE 综合新闻"
   },
   {
@@ -906,15 +915,6 @@
     "published": "2026-08-14T17:27:12+00:00",
     "authors": "WIPL-D",
     "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-    "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production. Download this free whitepaper now!",
-    "published": "2026-08-12T14:18:05+00:00",
-    "authors": "Voxel51",
-    "link": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
     "category": "计算 / 通信系统"
   },
   {
