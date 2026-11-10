@@ -1,18 +1,9 @@
 [
   {
-    "title": "Google expands its 8th-Gen TPU portfolio for agentic AI",
-    "source": "Electronics Weekly",
-    "snippet": "Google has expanded its eighth generation TPU portfolio with the TPU 8tx and TPU 8i Max. Following on from the TPU 8t and TPU 8i releases in April, it marks […] The post Google expands its 8th-Gen TPU portfolio for agentic AI appeared first on Electronics Weekly .",
-    "published": "2026-11-09T17:28:12+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/google-expands-its-8th-gen-tpu-portfolio-for-agentic-ai-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Can Jensen Keep His Job?",
     "source": "EE Times",
     "snippet": "Nvidia CEO admits to romantic affair with Megaspeed managing director, a known Chinese intelligence asset. The post Can Jensen Keep His Job? appeared first on EE Times .",
-    "published": "2026-11-09T17:14:27+00:00",
+    "published": "2026-11-09T19:59:12+00:00",
     "authors": "Sally Ward-Foxton",
     "link": "https://www.eetimes.com/can-jensen-keep-his-job/",
     "category": "EE Times 行业新闻"
@@ -36,20 +27,11 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Aratas introduces G6TA series of reed relays for safety-monitoring",
-    "source": "Electronics Weekly",
-    "snippet": "Aratas is introducing its G6TA series of reed relays, providing 200V DC switching capability for safety-monitoring circuitry. Specifically, the relays comprise type-1a (SPST, single-pole single-throw) and type-2a (DPST, double-pole single-throw) […] The post Aratas introduces G6TA series of reed rel",
-    "published": "2026-11-09T15:26:00+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit",
     "source": "EE Times",
     "snippet": "Celestica and Broadcom explain how integrated optics can cut power and latency for AI data centers—watch the OCP Summit partner interview. The post Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit appeared first on EE Times .",
     "published": "2026-11-09T14:20:32+00:00",
-    "authors": "EE Times",
+    "authors": "EE Times Partner Content",
     "link": "https://www.eetimes.com/advancing-integrated-optics-celestica-broadcom-interview-at-ocp-global-summit/",
     "category": "EE Times 行业新闻"
   },
@@ -108,15 +90,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "CesiumAstro satellite antenna specialist raises $730m",
-    "source": "Electronics Weekly",
-    "snippet": "CesiumAstro, the satellite antenna specialist, has closed $730 million in Series D financing. Its payloads – the company highlights – combine active phased array antennas, RF front ends, analogue and […] The post CesiumAstro satellite antenna specialist raises $730m appeared first on Electronics Wee",
-    "published": "2026-11-09T10:07:40+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM",
     "source": "EE Times",
     "snippet": "DeepX is targeting edge markets including robotics with its second-generation AI accelerator, which can run large LLMs on device in under 5 W. The post DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM appeared first on EE Times .",
@@ -133,69 +106,6 @@
     "authors": "T.K. Hareendran",
     "link": "https://www.edn.com/the-secret-signals-of-keyless-fobs/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Jensen Huang apologises: Nvidia board investigates",
-    "source": "Electronics Weekly",
-    "snippet": "After Jensen Huang (pictured) admitted an affair with Alice Huang, a senior executive at Singapore datacentre company Megaspeed, who US intelligence officials believe is a Chinese spy. The board of […] The post Jensen Huang apologises: Nvidia board investigates appeared first on Electronics Weekly .",
-    "published": "2026-11-09T06:18:52+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/jensen-huang-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "TSMC rumoured to be eyeing 3D DRAM",
-    "source": "Electronics Weekly",
-    "snippet": "TSMC is said to have appointed vice-president Hsu Kuo-Chin to look at how the company could get into 3D DRAM, according to multiple industry reports, but it would seem that […] The post TSMC rumoured to be eyeing 3D DRAM appeared first on Electronics Weekly .",
-    "published": "2026-11-09T06:17:29+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/tsmc-rumoured-to-be-eyeing-3d-dram-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Toshiba gets £20m government contract to commercialise quantum",
-    "source": "Electronics Weekly",
-    "snippet": "Toshiba Europe has been awarded a contract by Innovate UK, part of UK Research and Innovation (UKRI), to develop technologies that can help unlock the commercial potential of quantum networks. […] The post Toshiba gets £20m government contract to commercialise quantum appeared first on Electronics W",
-    "published": "2026-11-09T06:16:36+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/toshiba-gets-20-million-government-contract-to-commercialise-quantum-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "European AI companies have raised $27.6bn this year",
-    "source": "Electronics Weekly",
-    "snippet": "Europe AI companies raised $27.6bn in the first nine months of 2026, up 3.2-times from $8.6bn in 9M 2025, says Tracxn Technologies. The 10 largest rounds raised $19.0bn of that, […] The post European AI companies have raised $27.6bn this year appeared first on Electronics Weekly .",
-    "published": "2026-11-09T06:14:27+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/european-ai-companies-have-raised-27-6bn-this-year-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Consoles Take A Dive",
-    "source": "Electronics Weekly",
-    "snippet": "The world’s leading video game console makers Sony and Nintendo both reported a steep decline in Q3 hardware sales as recent price increases soured demand for the latest generation of […] The post Consoles Take A Dive appeared first on Electronics Weekly .",
-    "published": "2026-11-09T06:14:25+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/consoles-take-a-dive-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "GF to run 7nm process next year",
-    "source": "Electronics Weekly",
-    "snippet": "Globalfoundries says it intends to demo a 7nm FDSOI process in early 2027 called FDX Fusion. The process claims to deliver more than double the transistor density of first-generation 22FDX, […] The post GF to run 7nm process next year appeared first on Electronics Weekly .",
-    "published": "2026-11-09T06:11:54+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/gf-to-run-7nm-process-next-year-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "GSA Awards 2026 nominees",
-    "source": "Electronics Weekly",
-    "snippet": "The Global Semiconductor Alliance (GSA) has announced its 2026 award nominees. The awards will be presented at the GSA Awards Celebration on Thursday 10 December 2026. The 2026 Dr Morris […] The post GSA Awards 2026 nominees appeared first on Electronics Weekly .",
-    "published": "2026-11-09T06:10:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/gsa-awards-2026-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "The Countdown to Q-Day Has Begun",
