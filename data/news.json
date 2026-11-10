@@ -1,5 +1,23 @@
 [
   {
+    "title": "Saskatchewan’s Semiconductor Strength Is Connecting the Pieces",
+    "source": "EE Times",
+    "snippet": "Saskatchewan brings together AI infrastructure, quantum research, chip design talent, and advanced materials expertise to expand its role in Canada’s technology ecosystem. The post Saskatchewan’s Semiconductor Strength Is Connecting the Pieces appeared first on EE Times .",
+    "published": "2026-11-10T20:00:00+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/saskatchewans-semiconductor-strength-is-connecting-the-pieces/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
+    "source": "IEEE Spectrum",
+    "snippet": "Bishnu Saroop Atal Acoustics and signal processing pioneer Life Fellow, 93; died 19 August Atal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T ’s Shannon Laboratory, in Florham Park, N.J. His pioneering work on voice-coding techniques became th",
+    "published": "2026-11-10T19:00:02+00:00",
+    "authors": "Amanda Davis",
+    "link": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh",
     "source": "EDN",
     "snippet": "The choice among LTE Cat 1bis, LTE-M, NB-IoT, and 5G RedCap should be made as an RF system decision, not from a modem datasheet alone. The post LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh appeared first on EDN .",
@@ -222,15 +240,6 @@
     "published": "2026-11-09T14:00:51+00:00",
     "authors": "EE Times Staff",
     "link": "https://www.eetimes.com/powering-ai-data-centers-rethinking-energy-infrastructure-for-the-next-wave-of-ai-growth/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Still Looking for Diamonds",
-    "source": "EE Times",
-    "snippet": "Silicon carbide demand surges, but Europe risks hollow sovereignty as investment flows abroad; see why Bulgaria’s fab needs customers first. The post Still Looking for Diamonds appeared first on EE Times .",
-    "published": "2026-11-09T13:31:16+00:00",
-    "authors": "Moshe Zalcberg",
-    "link": "https://www.eetimes.com/still-looking-for-diamonds/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -619,15 +628,6 @@
     "authors": "Intel",
     "link": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
-    "source": "IEEE Spectrum",
-    "snippet": "This article was originally published by Canary Media . America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation —from polluting gas turbines to cleaner developments like solar farms and geothermal plants . But gigawatts of power are already a",
-    "published": "2026-10-17T13:00:02+00:00",
-    "authors": "Maria Gallucci",
-    "link": "https://spectrum.ieee.org/variable-frequency-drives",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
