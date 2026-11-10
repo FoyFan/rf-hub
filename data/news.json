@@ -1,5 +1,95 @@
 [
   {
+    "title": "What It Takes to Let a Farm Robot Work Alone",
+    "source": "EE Times",
+    "snippet": "Safe agricultural autonomy depends on matching safeguards to the machine, its surroundings, and the people who interact with it. The post What It Takes to Let a Farm Robot Work Alone appeared first on EE Times .",
+    "published": "2026-11-10T08:32:00+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/what-it-takes-to-let-a-farm-robot-work-alone/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "We Source Chips Others Cannot Secure, 2026",
+    "source": "EE Times",
+    "snippet": "Chang Ming delivers scarce semiconductors, with rigorous 9-step quality inspection & global supply chain support for European & American electronics buyers. The post We Source Chips Others Cannot Secure, 2026 appeared first on EE Times .",
+    "published": "2026-11-10T07:48:14+00:00",
+    "authors": "Chang Ming International Technology Co., Ltd.",
+    "link": "https://www.eetimes.com/we-source-chips-others-cannot-secure-2026/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Delays reported at Rapidus",
+    "source": "Electronics Weekly",
+    "snippet": "Rapidus, Japan’s state-backed effort to make 2nm chips, has failed to make a functioning 2nm SRAM reports Bloomberg. The failure puts in question its targets of entering 2nm mass production […] The post Delays reported at Rapidus appeared first on Electronics Weekly .",
+    "published": "2026-11-10T07:36:00+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/delays-reported-at-rapidus-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Gallium Oxide wafers in early production",
+    "source": "Electronics Weekly",
+    "snippet": "Gallium oxide (Ga₂O₃) is moving into early production mode. The ultra-wide bandgap material with a bandgap around 4.7 to 4.9 eV — nearly fifty percent wider than SiC — is […] The post Gallium Oxide wafers in early production appeared first on Electronics Weekly .",
+    "published": "2026-11-10T06:12:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/gallium-oxide-wafers-in-early-production-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Ardian Semi raises €1bn",
+    "source": "Electronics Weekly",
+    "snippet": "A private equity company dedicated to making investments in the semiconductor supply chain has raised €1 billion The company, Ardian Semiconductor, is part of the French private equity company Ardian. […] The post Ardian Semi raises €1bn appeared first on Electronics Weekly .",
+    "published": "2026-11-10T06:10:08+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ardian-semi-raises-e1bn-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Infineon first to fab SiC on 300mm wafers",
+    "source": "Electronics Weekly",
+    "snippet": "Infineon is processing 300mm SiC wafers into functional power devices at its fab in Villach, Austria. Infineon used existing silicon (Si) manufacturing equipment. The larger wafer diameter offers 2.3 times […] The post Infineon first to fab SiC on 300mm wafers appeared first on Electronics Weekly .",
+    "published": "2026-11-10T06:08:05+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/infineon-first-to-fab-sic-on-300mm-wafers-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica: Weebit Matrix prototypes IMC algorithms",
+    "source": "Electronics Weekly",
+    "snippet": "Weebit Nano, a developer and licensor of advanced technologies, has launched the Weebit Matrix In-Memory Compute (IMC) Research Program, designed to accelerate exploration of next-generation computing architectures. The program provides […] The post Electronica: Weebit Matrix prototypes IMC algorith",
+    "published": "2026-11-10T06:07:20+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/weebit-matrix-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica: Development platform for humanoid robots",
+    "source": "Electronics Weekly",
+    "snippet": "At electronica 2026, Inova Semiconductors is showcasing a development platform for humanoid robots built on Inova’s APXpress high-speed networking technology and low-power Lattice CertusPro and Lattice CrossLink NX FPGAs. DLR’s […] The post Electronica: Development platform for humanoid robots appea",
+    "published": "2026-11-10T06:06:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/electronica-gand-for-humanoid-robots-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications",
+    "source": "EE Times",
+    "snippet": "GigaDevice officially lunches its new-generation GD32H7 MCU portfolio built on a unified chip architecture. Discover More. The post GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications appeared first on EE Times .",
+    "published": "2026-11-10T06:00:00+00:00",
+    "authors": "GigaDevice",
+    "link": "https://www.eetimes.com/gigadevice-new-gen-high-performance-mcu-portfolio-for-full-scenario-industrial-applications/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Tax Exporters Less",
+    "source": "Electronics Weekly",
+    "snippet": "As an incentive to export, the Government should seriously consider limiting the proposed “payroll tax” to firms exporting less than ten per cent of their output. so, 65 years ago, […] The post Tax Exporters Less appeared first on Electronics Weekly .",
+    "published": "2026-11-10T01:02:39+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/tax-exporters-less-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Can Jensen Keep His Job?",
     "source": "EE Times",
     "snippet": "Nvidia CEO admits to romantic affair with Megaspeed managing director, a known Chinese intelligence asset. The post Can Jensen Keep His Job? appeared first on EE Times .",
@@ -7,6 +97,15 @@
     "authors": "Sally Ward-Foxton",
     "link": "https://www.eetimes.com/can-jensen-keep-his-job/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Google expands its 8th-Gen TPU portfolio for agentic AI",
+    "source": "Electronics Weekly",
+    "snippet": "Google has expanded its eighth generation TPU portfolio with the TPU 8tx and TPU 8i Max. Following on from the TPU 8t and TPU 8i releases in April, it marks […] The post Google expands its 8th-Gen TPU portfolio for agentic AI appeared first on Electronics Weekly .",
+    "published": "2026-11-09T17:28:12+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/google-expands-its-8th-gen-tpu-portfolio-for-agentic-ai-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
@@ -25,6 +124,15 @@
     "authors": "Vishal Sharma",
     "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
     "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Aratas introduces G6TA series of reed relays for safety-monitoring",
+    "source": "Electronics Weekly",
+    "snippet": "Aratas is introducing its G6TA series of reed relays, providing 200V DC switching capability for safety-monitoring circuitry. Specifically, the relays comprise type-1a (SPST, single-pole single-throw) and type-2a (DPST, double-pole single-throw) […] The post Aratas introduces G6TA series of reed rel",
+    "published": "2026-11-09T15:26:00+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/emech-enclosures/aratas-introduces-g6ta-series-of-reed-relays-for-safety-monitoring-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit",
@@ -74,7 +182,7 @@
   {
     "title": "The Race to Build a “Find My” for AI Chips",
     "source": "IEEE Spectrum 半导体",
-    "snippet": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over $300 million",
+    "snippet": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
     "published": "2026-11-09T13:00:02+00:00",
     "authors": "Rina Diane Caballar",
     "link": "https://spectrum.ieee.org/find-my-ai-chip",
@@ -83,11 +191,20 @@
   {
     "title": "The Race to Build a “Find My” for AI Chips",
     "source": "IEEE Spectrum 计算",
-    "snippet": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over $300 million",
+    "snippet": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
     "published": "2026-11-09T13:00:02+00:00",
     "authors": "Rina Diane Caballar",
     "link": "https://spectrum.ieee.org/find-my-ai-chip",
     "category": "计算 / 通信系统"
+  },
+  {
+    "title": "CesiumAstro satellite antenna specialist raises $730m",
+    "source": "Electronics Weekly",
+    "snippet": "CesiumAstro, the satellite antenna specialist, has closed $730 million in Series D financing. Its payloads – the company highlights – combine active phased array antennas, RF front ends, analogue and […] The post CesiumAstro satellite antenna specialist raises $730m appeared first on Electronics Wee",
+    "published": "2026-11-09T10:07:40+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/finance/cesiumastro-satellite-antenna-specialist-raises-730m-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "DeepX Tapes Out Second-Gen Chip, Projects 6.7× Performance Gain With LPDDR5x-PIM",
@@ -117,15 +234,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Cosmic at SEMICON Europa 2026: Advancing High-Complexity Semiconductor Test Solutions",
-    "source": "EE Times",
-    "snippet": "ALTOPASCIO, Italy — Nov. 9, 2026 — Cosmic Group will participate in SEMICON Europa 2026 in Munich, held concurrently with electronica from Nov. 10 to 13, 2026. Cosmic will be located at booth C1255. Rooted in the tradition of technological innovation “Made in Europe,” the group aligns perfectly with",
-    "published": "2026-11-06T18:48:20+00:00",
-    "authors": "Cosmic Group",
-    "link": "https://www.eetimes.com/cosmic-at-semicon-europa-2026-advancing-high-complexity-semiconductor-test-solutions/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "How Do You Land on a Moon With Almost No Gravity?",
     "source": "IEEE Spectrum",
     "snippet": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover ’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos , the Martian moon named for the Greek god of fear and panic, was transiting the solar disk. Too small to darken the pale",
@@ -133,15 +241,6 @@
     "authors": "Andrew Jones",
     "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
-    "source": "EE Times",
-    "snippet": "IBM, AMD, and Oak Ridge launch hybrid quantum-classical system to accelerate quantum-error correction research ahead of 2028. The post IBM, AMD Mix Quantum and AI at U.S. National Lab appeared first on EE Times .",
-    "published": "2026-11-06T14:10:57+00:00",
-    "authors": "Alan Patterson",
-    "link": "https://www.eetimes.com/ibm-amd-mix-quantum-and-ai-at-u-s-national-lab/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "When trusting your tools is the wisest way",
@@ -160,15 +259,6 @@
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/five-trends-driving-the-chip-industry-in-2027/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
-    "source": "EE Times",
-    "snippet": "At SEMICON Europa 2026, Europe’s chip industry will confront a “perfect storm” of geopolitical, technological, and competitive pressures. The post Europe’s Chip Industry: Perfect Storm or Perfect Timing? appeared first on EE Times .",
-    "published": "2026-11-06T09:53:05+00:00",
-    "authors": "Anne-Françoise Pelé",
-    "link": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
