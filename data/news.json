@@ -1,11 +1,119 @@
 [
   {
-    "title": "Top Ten (less 5) Server Manufacturers",
+    "title": "Buffett And The AI Boom",
     "source": "Electronics Weekly",
-    "snippet": "Thanks to BizTech – the top five server vendors: Dell Technologies: ~10.0% Supermicro: ~9.5% IEIT Systems: ~4.1% Lenovo: ~4.0% HPE:~3.1% The post Top Ten (less 5) Server Manufacturers appeared first on Electronics Weekly .",
-    "published": "2026-11-11T01:01:51+00:00",
+    "snippet": "Last week’s stock market sell-off, led by Al and technology stocks after the midterms showed how nervous investors currently are with respect to the staying power of the Al boom. […] The post Buffett And The AI Boom appeared first on Electronics Weekly .",
+    "published": "2026-11-11T13:13:09+00:00",
     "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-server-manufacturers-2-2026-11/",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/buffett-and-the-ai-boom-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Doubly twisted DPOT ganged programming",
+    "source": "EDN",
+    "snippet": "Select and set one or both of the channels of a dual digital potentiometer by means of a simple twist of the wrist. The post Doubly twisted DPOT ganged programming appeared first on EDN .",
+    "published": "2026-11-11T13:00:42+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/doubly-twisted-dpot-ganged-programming/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses",
+    "source": "Electronics Weekly",
+    "snippet": "onsemi claims its fourth-generation EliteSiC silicon carbide (SiC) platform delivers up to 30% higher power density and 35% lower losses than the previous generation. The EliteSiC M4 platform improves conduction […] The post Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower l",
+    "published": "2026-11-11T12:06:01+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/products/power-supplies/electronica-onsemis-elitesic-m4-delivers-higher-power-density-and-lower-losses-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+    "published": "2026-11-11T11:48:02+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica – The latest news roundup",
+    "source": "Electronics Weekly",
+    "snippet": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
+    "published": "2026-11-11T11:41:27+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica: Minew MG10 Bluetooth base station builds sub-meter indoor positioning",
+    "source": "Electronics Weekly",
+    "snippet": "Minew is introducing the MG10, a Bluetooth AoA (Angle of Arrival) positioning base station, supporting 0.1 to 1 meter accuracy. It is designed to enable high-precision indoor positioning in real-time […] The post Electronica: Minew MG10 Bluetooth base station builds sub-meter indoor positioning appe",
+    "published": "2026-11-11T11:05:10+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/minew-mg10-bluetooth-base-station-builds-sub-meter-indoor-positioning-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Agentic AI streamlines embedded software development for MCUs",
+    "source": "EDN",
+    "snippet": "An agentic AI framework injects device-specific knowledge directly into the AI tools engineers already use, shortening embedded development. The post Agentic AI streamlines embedded software development for MCUs appeared first on EDN .",
+    "published": "2026-11-11T09:51:26+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.edn.com/agentic-ai-streamlines-embedded-software-development-for-mcus/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Dukosi Samples Contactless Battery Communication System for EVs, Grid Storage",
+    "source": "EE Times",
+    "snippet": "Dukosi DK-NFLNK provides synchronous communication with DKCMS battery monitoring systems. The post Dukosi Samples Contactless Battery Communication System for EVs, Grid Storage appeared first on EE Times .",
+    "published": "2026-11-11T08:30:00+00:00",
+    "authors": "Pablo Valerio",
+    "link": "https://www.eetimes.com/dukosi-samples-contactless-battery-communication-system-for-evs-grid-storage/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Google pairs TPU with Arm Neoverse",
+    "source": "Electronics Weekly",
+    "snippet": "Google Cloud is pairing​​ ​its TPU 8i Max system​s​ ​with​ Arm-based ​Axion processors that are custom Arm Neoverse-based CPUs​ With TPU 8i Max, Google is extending its use of Axion […] The post Google pairs TPU with Arm Neoverse appeared first on Electronics Weekly .",
+    "published": "2026-11-11T06:32:39+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/goggle-pairs-tpu-with-arm-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Imec delivers baseline flows for NanoIC line interposer",
+    "source": "Electronics Weekly",
+    "snippet": "Imec has delivered the baseline flows for the silicon interposer platform being developed within the NanoIC pilot line. Providing an early technical view of a key technology for chiplet integration, […] The post Imec delivers baseline flows for NanoIC line interposer appeared first on Electronics We",
+    "published": "2026-11-11T06:10:13+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/imec-delivers-baseline-flows-for-nanoic-interposed-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica: TME showcases the ‘Dual Brain’ Arduino VENTUNO Q",
+    "source": "Electronics Weekly",
+    "snippet": "Distributor TME (Transfer Multisort Elektronik) showcased the Arduino VENTUNO Q at this year’s electronica. The high-performance single-board computer (SBC) targets Edge AI, robotics, and real-time control applications, reflecting the prominence […] The post Electronica: TME showcases the ‘Dual Brai",
+    "published": "2026-11-11T06:10:04+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/electronica-tme-showcases-the-dual-brain-arduino-ventuno-q-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica: Harwin launches XPi cable design and assembly service",
+    "source": "Electronics Weekly",
+    "snippet": "Harwin, the UK-based manufacturer of high-reliability interconnects, has launched an integration services unit to support customers using its products in harsh environments and safety-critical applications. The unit, called XPi, will […] The post Electronica: Harwin launches XPi cable design and ass",
+    "published": "2026-11-11T06:06:09+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/products/connectors/electronica-harwin-launches-xpi-cable-design-and-assembly-service-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Spectrometer, light meter, and colour meter in one single portable product",
+    "source": "Electronics Weekly",
+    "snippet": "Edmund Optics offers Sekonic Industrial Spectrometer Light Meters for industrial and scientific light analysis. The portable instruments incorporate the functionality of a spectrometer, light meter, and colour meter in one […] The post Spectrometer, light meter, and colour meter in one single portab",
+    "published": "2026-11-11T06:03:51+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/spectrometer-light-meter-and-colour-meter-in-one-single-portable-product-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -36,15 +144,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "ESA signs OHB for next-gen Sentinel-3 topography mission",
-    "source": "Electronics Weekly",
-    "snippet": "The German space systems integrator OHB has been awarded, by the European Space Agency (ESA), a €554 million contract for two next-gen Sentinel-3 topography satellites. The Sentinel-3 Next Generation Topography […] The post ESA signs OHB for next-gen Sentinel-3 topography mission appeared first on E",
-    "published": "2026-11-10T15:18:15+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/esa-signs-ohb-for-next-gen-sentinel-3-topography-mission-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "People Detection in Confined Spaces: Elevator Application",
     "source": "EE Times",
     "snippet": "This technical white paper details an embedded occupancy-monitoring solution for elevator cabins combining the Melexis MLX90642 Far-Infrared (FIR) thermal sensor array with a hardware-agnostic People Detection Library. Engineered to overcome the limitations of optical cameras, PIR sensors, and floor",
@@ -61,15 +160,6 @@
     "authors": "Ron Honig",
     "link": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Tardy",
-    "source": "Electronics Weekly",
-    "snippet": "According to tech Taiwan, reported by Wcctech, MediaTek people who are using Intel’s EMIB-T packaging technology have had a complaint from Intel engineers about their demands for quick answers to […] The post Tardy appeared first on Electronics Weekly .",
-    "published": "2026-11-10T14:25:42+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/intel-sloth-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences",
@@ -90,33 +180,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Nickel/aluminium is the smarter alternative to traditional silver/aluminium EMI shielding materials",
-    "source": "Electronics Weekly",
-    "snippet": "Nickel-aluminium (Ni/Al) is emerging as an alternative to silver-aluminium (Ag/Al) in shielding applications, writes Rachid Ait El Cadi. For decades Ag/Al conductive elastomer gaskets have occupied a leading position in electromagnetic […] The post Nickel/aluminium is the smarter alternative to trad",
-    "published": "2026-11-10T12:00:03+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/nickel-aluminium-is-the-smarter-alternative-to-traditional-silver-aluminium-emi-shielding-materials-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "TSMC October revenues up 59.7% YoY",
-    "source": "Electronics Weekly",
-    "snippet": "TSMC today announced a 59.7% rise YoY and a $14.7% rise MoM for its October revenue of $17.8 billion. Revenue for January through October 2026 totaled $136.2 billion, an increase […] The post TSMC October revenues up 59.7% YoY appeared first on Electronics Weekly .",
-    "published": "2026-11-10T11:46:02+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/tsmc-october-revenues-up-59-7-yoy-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Infineon expects a €20bn 2027",
-    "source": "Electronics Weekly",
-    "snippet": "Infineon had Q4 FY 2026 revenue of €4.706 billion for profit of €1.119 billion at a margin of 23.8% For FY 2026 it had revenue of €16.353 billion, up 12up […] The post Infineon expects a €20bn 2027 appeared first on Electronics Weekly .",
-    "published": "2026-11-10T11:08:24+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/infineon-expects-a-e20bn-2027-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",
     "source": "IEEE Spectrum",
     "snippet": "Learn how guided virtual shock and drop analysis helps engineering teams identify reliability risks before physical testing, reduce qualification iterations, optimize packaging designs, and accelerate electronics product development. What you will learn about: Why shock failures found during physica",
@@ -135,33 +198,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-    "published": "2026-11-10T10:57:29+00:00",
-    "authors": "Staff",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Sandisk iNAND CL EM181 Embedded Flash Drive for IoT",
-    "source": "Electronics Weekly",
-    "snippet": "Sandisk is introducing the SANDISK iNAND CL EM181 Embedded Flash Drive (EFD) for the physical AI and IoT markets. It officially announced the drive at electronica 2026. Available in 64GB, […] The post Electronica: Sandisk iNAND CL EM181 Embedded Flash Drive for IoT appeared first on Electronics Week",
-    "published": "2026-11-10T10:47:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/memory/electronica-sandisk-inand-cl-em181-embedded-flash-drive-for-iot-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica – The latest news roundup",
-    "source": "Electronics Weekly",
-    "snippet": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-    "published": "2026-11-10T08:50:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "What It Takes to Let a Farm Robot Work Alone",
     "source": "EE Times",
     "snippet": "Safe agricultural autonomy depends on matching safeguards to the machine, its surroundings, and the people who interact with it. The post What It Takes to Let a Farm Robot Work Alone appeared first on EE Times .",
@@ -178,15 +214,6 @@
     "authors": "Chang Ming International Technology Co., Ltd.",
     "link": "https://www.eetimes.com/we-source-chips-others-cannot-secure-2026/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Delays reported at Rapidus",
-    "source": "Electronics Weekly",
-    "snippet": "Rapidus, Japan’s state-backed effort to make 2nm chips, has failed to make a functioning 2nm SRAM reports Bloomberg. The failure puts in question its targets of entering 2nm mass production […] The post Delays reported at Rapidus appeared first on Electronics Weekly .",
-    "published": "2026-11-10T07:36:00+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/delays-reported-at-rapidus-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications",
@@ -231,15 +258,6 @@
     "published": "2026-11-09T14:20:32+00:00",
     "authors": "EE Times Partner Content",
     "link": "https://www.eetimes.com/advancing-integrated-optics-celestica-broadcom-interview-at-ocp-global-summit/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth",
-    "source": "EE Times",
-    "snippet": "AI data centers need faster, resilient power; learn how microgrids, storage, and intelligent controls can ease grid constraints in this partner interview. The post Powering AI Data Centers: Rethinking Energy Infrastructure for the Next Wave of AI Growth appeared first on EE Times .",
-    "published": "2026-11-09T14:00:51+00:00",
-    "authors": "EE Times Staff",
-    "link": "https://www.eetimes.com/powering-ai-data-centers-rethinking-energy-infrastructure-for-the-next-wave-of-ai-growth/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -357,24 +375,6 @@
     "published": "2026-11-05T13:00:23+00:00",
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/a-belated-google-pixel-watch-update-in-retrospect-whyd-i-wait/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Wi-Fi SoCs pair low power with edge AI",
-    "source": "EDN",
-    "snippet": "Nordic reports that its nRF71 series of Wi-Fi SoCs delivers up to 20 times lower standby power consumption than the nRF70 series. The post Wi-Fi SoCs pair low power with edge AI appeared first on EDN .",
-    "published": "2026-11-04T21:14:24+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/wi-fi-socs-pair-low-power-with-edge-ai/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Handheld enclosures gain IP65 protection",
-    "source": "EDN",
-    "snippet": "Large and extra-large SMART-CASE handheld enclosures from OKW are now available with optional IP65 ingress protection. The post Handheld enclosures gain IP65 protection appeared first on EDN .",
-    "published": "2026-11-04T21:13:23+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/handheld-enclosures-gain-ip65-protection/",
     "category": "EDN 电子设计新闻"
   },
   {

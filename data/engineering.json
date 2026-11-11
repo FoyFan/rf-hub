@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "Doubly twisted DPOT ganged programming",
+      "source": "EDN",
+      "snippet": "Select and set one or both of the channels of a dual digital potentiometer by means of a simple twist of the wrist. The post Doubly twisted DPOT ganged programming appeared first on EDN .",
+      "published": "2026-11-11T13:00:42+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/doubly-twisted-dpot-ganged-programming/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Agentic AI streamlines embedded software development for MCUs",
+      "source": "EDN",
+      "snippet": "An agentic AI framework injects device-specific knowledge directly into the AI tools engineers already use, shortening embedded development. The post Agentic AI streamlines embedded software development for MCUs appeared first on EDN .",
+      "published": "2026-11-11T09:51:26+00:00",
+      "authors": "Majeed Ahmad",
+      "link": "https://www.edn.com/agentic-ai-streamlines-embedded-software-development-for-mcus/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh",
       "source": "EDN",
       "snippet": "The choice among LTE Cat 1bis, LTE-M, NB-IoT, and 5G RedCap should be made as an RF system decision, not from a modem datasheet alone. The post LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-11-05T13:00:23+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/a-belated-google-pixel-watch-update-in-retrospect-whyd-i-wait/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Wi-Fi SoCs pair low power with edge AI",
-      "source": "EDN",
-      "snippet": "Nordic reports that its nRF71 series of Wi-Fi SoCs delivers up to 20 times lower standby power consumption than the nRF70 series. The post Wi-Fi SoCs pair low power with edge AI appeared first on EDN .",
-      "published": "2026-11-04T21:14:24+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/wi-fi-socs-pair-low-power-with-edge-ai/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Handheld enclosures gain IP65 protection",
-      "source": "EDN",
-      "snippet": "Large and extra-large SMART-CASE handheld enclosures from OKW are now available with optional IP65 ingress protection. The post Handheld enclosures gain IP65 protection appeared first on EDN .",
-      "published": "2026-11-04T21:13:23+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/handheld-enclosures-gain-ip65-protection/",
       "category": "EDN 电子设计新闻"
     }
   ]
