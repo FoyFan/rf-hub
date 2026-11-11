@@ -1,5 +1,77 @@
 [
   {
+    "title": "Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots?",
+    "source": "EDN",
+    "snippet": "Incremental tweaks to existing products, as well as a few new derivatives, are par for the course. But autonomous security drones and robots? The post Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots? appeared first on EDN .",
+    "published": "2026-11-11T21:00:04+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/amazons-fall-2026-smart-home-and-business-thoughts-enter-the-drones-and-robots/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust",
+    "source": "EE Times",
+    "snippet": "Explore NXP CTO Lars Reger’s view of physical AI beyond humanoids, from NavQ95 robot kits to edge trust, security, and geopolitics. The post NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust appeared first on EE Times .",
+    "published": "2026-11-11T20:23:13+00:00",
+    "authors": "Nitin Dahad",
+    "link": "https://www.eetimes.com/nxp-cto-lars-reger-on-physical-ai-robots-drones-and-trust/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "STMicros’ Maria Heriz on Moving All Its MCUs to One STM32 Platform",
+    "source": "EE Times",
+    "snippet": "Explore how STMicro is unifying its MCUs on STM32, preparing for EU cyber rules, and weighing RISC-V, AI agents, and robotics. The post STMicros’ Maria Heriz on Moving All Its MCUs to One STM32 Platform appeared first on EE Times .",
+    "published": "2026-11-11T18:28:10+00:00",
+    "authors": "Nitin Dahad",
+    "link": "https://www.eetimes.com/stmicros-maria-heriz-on-moving-all-its-mcus-to-one-stm32-platform/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Credo at OCP 2026: Micro-Emitter Optics and AI Interconnect Reliability",
+    "source": "EE Times",
+    "snippet": "In this partner interview, Credo’s Don Barnetson explains how micro-emitter optics and the 1.6T ZeroFlap ALC deliver reliable AI cluster interconnects. The post Credo at OCP 2026: Micro-Emitter Optics and AI Interconnect Reliability appeared first on EE Times .",
+    "published": "2026-11-11T18:01:33+00:00",
+    "authors": "EE Times",
+    "link": "https://www.eetimes.com/credo-at-ocp-2026-micro-emitter-optics-and-ai-interconnect-reliability/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "From Automated to Autonomous: Rethinking Fab Design for the Future",
+    "source": "EE Times",
+    "snippet": "Join this webinar and learn why autonomy starts with the built environment, not just process automation. The post From Automated to Autonomous: Rethinking Fab Design for the Future appeared first on EE Times .",
+    "published": "2026-11-11T16:30:24+00:00",
+    "authors": "Siemens Digital Industries Software",
+    "link": "https://www.eetimes.com/from-automated-to-autonomous-rethinking-fab-design-for-the-future/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "UK semi company Fractile raises $720m at $7bn valuation",
+    "source": "Electronics Weekly",
+    "snippet": "Fractile, the four year-old UK semiconductor company, has raised $720 million at a $7 billion valuation. Investors were: Thrive Capital, Founders Fund, Conviction, Alphabet’s independent venture arm CapitalG, Lightspeed Venture […] The post UK semi company Fractile raises $720m at $7bn valuation app",
+    "published": "2026-11-11T15:12:59+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/uk-semi-company-fractile-raises-720m-at-7bn-valuation-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Three Axes, One Controller: Rethinking the Motor Drive Signal Chain for Factory Automation",
+    "source": "EE Times",
+    "snippet": "Motor control and power electronics engineers are being asked to fit more axes into the same cabinet, raise efficiency and keep heat in check inside sealed enclosures. This paper walks through the brushless motor drive signal chain, from controller to isolated gate driver to power switch, and shows ",
+    "published": "2026-11-11T15:00:00+00:00",
+    "authors": "Toshiba",
+    "link": "https://www.eetimes.com/three-axes-one-controller-rethinking-the-motor-drive-signal-chain-for-factory-automation/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi",
+    "source": "Electronics Weekly",
+    "snippet": "Quectel is announcing ten new “5G combo” antennas, combining 5G, GNSS and Wi-Fi in compact, rugged designs. Possible applications including fleet management, industrial equipment and smart city infrastructure. The idea […] The post Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-F",
+    "published": "2026-11-11T14:30:21+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/electronica-quectel-5g-combo-rugged-antennas-combine-5g-gnss-wi-fi-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Buffett And The AI Boom",
     "source": "Electronics Weekly",
     "snippet": "Last week’s stock market sell-off, led by Al and technology stocks after the midterms showed how nervous investors currently are with respect to the staying power of the Al boom. […] The post Buffett And The AI Boom appeared first on Electronics Weekly .",
@@ -16,6 +88,15 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/doubly-twisted-dpot-ganged-programming/",
     "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that would confront urgent scientific and technological challenges. Now, the NSF is doubling down on the idea, with an announcement ",
+    "published": "2026-11-11T13:00:03+00:00",
+    "authors": "Lucas Laursen",
+    "link": "https://spectrum.ieee.org/national-science-foundation-x-labs",
+    "category": "计算 / 通信系统"
   },
   {
     "title": "Electronica: onsemi’s EliteSiC M4 delivers higher power density and lower losses",
@@ -52,6 +133,15 @@
     "authors": "Alun Williams",
     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/minew-mg10-bluetooth-base-station-builds-sub-meter-indoor-positioning-2026-11/",
     "category": "电子周刊"
+  },
+  {
+    "title": "The Dynamo-Electric Principle: 160 Years of Powering Industry",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is brought to you by Innomotics . In the annals of industrial history, few innovations have demonstrated such remarkable staying power as the dynamo-electric principle. Discovered by Werner von Siemens in 1866, this groundbreaking principle remains fundamental to modern electrical engin",
+    "published": "2026-11-11T11:00:02+00:00",
+    "authors": "Innomotics",
+    "link": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
+    "category": "IEEE 综合新闻"
   },
   {
     "title": "Agentic AI streamlines embedded software development for MCUs",
@@ -96,24 +186,6 @@
     "published": "2026-11-11T06:10:04+00:00",
     "authors": "EW Staff",
     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/electronica-tme-showcases-the-dual-brain-arduino-ventuno-q-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Harwin launches XPi cable design and assembly service",
-    "source": "Electronics Weekly",
-    "snippet": "Harwin, the UK-based manufacturer of high-reliability interconnects, has launched an integration services unit to support customers using its products in harsh environments and safety-critical applications. The unit, called XPi, will […] The post Electronica: Harwin launches XPi cable design and ass",
-    "published": "2026-11-11T06:06:09+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/products/connectors/electronica-harwin-launches-xpi-cable-design-and-assembly-service-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Spectrometer, light meter, and colour meter in one single portable product",
-    "source": "Electronics Weekly",
-    "snippet": "Edmund Optics offers Sekonic Industrial Spectrometer Light Meters for industrial and scientific light analysis. The portable instruments incorporate the functionality of a spectrometer, light meter, and colour meter in one […] The post Spectrometer, light meter, and colour meter in one single portab",
-    "published": "2026-11-11T06:03:51+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/spectrometer-light-meter-and-colour-meter-in-one-single-portable-product-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -198,42 +270,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "What It Takes to Let a Farm Robot Work Alone",
-    "source": "EE Times",
-    "snippet": "Safe agricultural autonomy depends on matching safeguards to the machine, its surroundings, and the people who interact with it. The post What It Takes to Let a Farm Robot Work Alone appeared first on EE Times .",
-    "published": "2026-11-10T08:32:00+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/what-it-takes-to-let-a-farm-robot-work-alone/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "We Source Chips Others Cannot Secure, 2026",
-    "source": "EE Times",
-    "snippet": "Chang Ming delivers scarce semiconductors, with rigorous 9-step quality inspection & global supply chain support for European & American electronics buyers. The post We Source Chips Others Cannot Secure, 2026 appeared first on EE Times .",
-    "published": "2026-11-10T07:48:14+00:00",
-    "authors": "Chang Ming International Technology Co., Ltd.",
-    "link": "https://www.eetimes.com/we-source-chips-others-cannot-secure-2026/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications",
-    "source": "EE Times",
-    "snippet": "GigaDevice officially lunches its new-generation GD32H7 MCU portfolio built on a unified chip architecture. Discover More. The post GigaDevice New-Gen High-Performance MCU Portfolio for Full-Scenario Industrial Applications appeared first on EE Times .",
-    "published": "2026-11-10T06:00:00+00:00",
-    "authors": "GigaDevice",
-    "link": "https://www.eetimes.com/gigadevice-new-gen-high-performance-mcu-portfolio-for-full-scenario-industrial-applications/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Can Jensen Keep His Job?",
-    "source": "EE Times",
-    "snippet": "Nvidia CEO admits to romantic affair with Megaspeed managing director, a known Chinese intelligence asset. The post Can Jensen Keep His Job? appeared first on EE Times .",
-    "published": "2026-11-09T19:59:12+00:00",
-    "authors": "Sally Ward-Foxton",
-    "link": "https://www.eetimes.com/can-jensen-keep-his-job/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
     "source": "IEEE Spectrum",
     "snippet": "This article is brought to you by Queen’s University Belfast . Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information yield with a slight over",
@@ -250,15 +286,6 @@
     "authors": "Vishal Sharma",
     "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit",
-    "source": "EE Times",
-    "snippet": "Celestica and Broadcom explain how integrated optics can cut power and latency for AI data centers—watch the OCP Summit partner interview. The post Advancing Integrated Optics: Celestica & Broadcom Interview at OCP Global Summit appeared first on EE Times .",
-    "published": "2026-11-09T14:20:32+00:00",
-    "authors": "EE Times Partner Content",
-    "link": "https://www.eetimes.com/advancing-integrated-optics-celestica-broadcom-interview-at-ocp-global-summit/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Examining the insides of an economical phono preamp",
@@ -366,15 +393,6 @@
     "published": "2026-11-05T13:20:18+00:00",
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/physical-ai-in-action-at-oktobertech-silicon-valley-2026/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "A belated Google Pixel Watch update: In retrospect, why’d I wait?",
-    "source": "EDN",
-    "snippet": "Sometimes the primary benefits of a hardware swap end up not being the key features highlighted in the successor’s press release. The post A belated Google Pixel Watch update: In retrospect, why’d I wait? appeared first on EDN .",
-    "published": "2026-11-05T13:00:23+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/a-belated-google-pixel-watch-update-in-retrospect-whyd-i-wait/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -609,15 +627,6 @@
     "published": "2026-10-19T13:00:03+00:00",
     "authors": "Jonathan W. Hurst",
     "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
-    "source": "IEEE Spectrum",
-    "snippet": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management. What you will learn about: How the shift from smart ci",
-    "published": "2026-10-19T10:00:04+00:00",
-    "authors": "Intel",
-    "link": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
     "category": "IEEE 综合新闻"
   },
   {
@@ -909,15 +918,6 @@
     "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources. Download this free whitepaper now!",
-    "published": "2026-08-14T17:27:12+00:00",
-    "authors": "WIPL-D",
-    "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-    "category": "计算 / 通信系统"
-  },
-  {
     "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
     "source": "IEEE Spectrum 半导体",
     "snippet": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the i",
@@ -1012,7 +1012,7 @@
     "source": "IEEE Spectrum 半导体",
     "snippet": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But",
     "published": "2026-06-29T13:00:01+00:00",
-    "authors": "Mario Lanza",
+    "authors": "Sebastian Pazos",
     "link": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
     "category": "半导体 / RFIC / 射频器件"
   },

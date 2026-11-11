@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots?",
+      "source": "EDN",
+      "snippet": "Incremental tweaks to existing products, as well as a few new derivatives, are par for the course. But autonomous security drones and robots? The post Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots? appeared first on EDN .",
+      "published": "2026-11-11T21:00:04+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/amazons-fall-2026-smart-home-and-business-thoughts-enter-the-drones-and-robots/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Doubly twisted DPOT ganged programming",
       "source": "EDN",
       "snippet": "Select and set one or both of the channels of a dual digital potentiometer by means of a simple twist of the wrist. The post Doubly twisted DPOT ganged programming appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-05T13:20:18+00:00",
       "authors": "Majeed Ahmad",
       "link": "https://www.edn.com/physical-ai-in-action-at-oktobertech-silicon-valley-2026/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "A belated Google Pixel Watch update: In retrospect, why’d I wait?",
-      "source": "EDN",
-      "snippet": "Sometimes the primary benefits of a hardware swap end up not being the key features highlighted in the successor’s press release. The post A belated Google Pixel Watch update: In retrospect, why’d I wait? appeared first on EDN .",
-      "published": "2026-11-05T13:00:23+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/a-belated-google-pixel-watch-update-in-retrospect-whyd-i-wait/",
       "category": "EDN 电子设计新闻"
     }
   ]
