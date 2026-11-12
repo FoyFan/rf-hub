@@ -1,11 +1,128 @@
 [
   {
+    "title": "No Trust In Politicians",
+    "source": "Electronics Weekly",
+    "snippet": "One of the main drivers of Donald Trump’s political rise in the run-up to the 2016 presidential election was the fact that he was not a politician, at least not […] The post No Trust In Politicians appeared first on Electronics Weekly .",
+    "published": "2026-11-12T01:01:32+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/no-trust-in-politicians-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
+    "source": "EE Times",
+    "snippet": "Explore the road to Level 4 autonomy as experts tackle safety, AI, regulation, and trust—watch the Automotive Tech Forum panel. The post Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving appeared first on EE Times .",
+    "published": "2026-11-11T23:39:41+00:00",
+    "authors": "AspenCore Events",
+    "link": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Automotive Tech Forum: The Current State of Sic in EV Design and How It’s Evolving",
+    "source": "EE Times",
+    "snippet": "Explore how 800V SiC MOSFETs boost EV range, charging, and performance—and see what next-gen designs make possible. The post Automotive Tech Forum: The Current State of Sic in EV Design and How It’s Evolving appeared first on EE Times .",
+    "published": "2026-11-11T23:34:28+00:00",
+    "authors": "AspenCore Events",
+    "link": "https://www.eetimes.com/automotive-tech-forum-the-current-state-of-sic-in-ev-design-and-how-its-evolving/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Automotive Tech Forum: Lidar is Key to Safer ADAS and Autonomous Vehicles",
+    "source": "EE Times",
+    "snippet": "This keynote explores how LiDAR is shaping the future of mobility by improving safety, reliability, and performance in autonomous systems. The post Automotive Tech Forum: Lidar is Key to Safer ADAS and Autonomous Vehicles appeared first on EE Times .",
+    "published": "2026-11-11T23:28:21+00:00",
+    "authors": "AspenCore Events",
+    "link": "https://www.eetimes.com/automotive-tech-forum-lidar-is-key-to-safer-adas-and-autonomous-vehicles/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
+    "source": "EE Times",
+    "snippet": "This keynote exmines GaN reliability and present the case for GaN being not only the most efficient solution, but also a necessary step for reducing system cost The post Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond appeared first on EE Times .",
+    "published": "2026-11-11T23:22:01+00:00",
+    "authors": "AspenCore Events",
+    "link": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI",
+    "source": "EE Times",
+    "snippet": "This session introduces Artificial Chip Intelligence (ACI®), a paradigm-shifting technology using a physics-informed foundation model designed to transform chip development from a manual labor-intensive process into a conversational, AI-driven workflow. The post Chiplets: Revolutionizing Design Velo",
+    "published": "2026-11-11T23:00:05+00:00",
+    "authors": "AspenCore Events",
+    "link": "https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Chiplets: Panel Discussion: Scaling Chiplets Without Breaking the System – Where are the Limits?",
+    "source": "EE Times",
+    "snippet": "As chiplet-based designs grow in scale and complexity, the technical challenges mount up as every layer of the system introduces new constraints. The post Chiplets: Panel Discussion: Scaling Chiplets Without Breaking the System – Where are the Limits? appeared first on EE Times .",
+    "published": "2026-11-11T22:39:24+00:00",
+    "authors": "AspenCore Events",
+    "link": "https://www.eetimes.com/chiplets-panel-discussion-scaling-chiplets-without-breaking-the-system-where-are-the-limits/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Chiplets: Panel Discussion: How Should We Reimagine the Design Flow for Chiplet Scalability",
+    "source": "EE Times",
+    "snippet": "This panel discusses whether today’s design flows can scale to support reusable chiplets and multi-vendor integration, or whether more fundamental changes are needed. The post Chiplets: Panel Discussion: How Should We Reimagine the Design Flow for Chiplet Scalability appeared first on EE Times .",
+    "published": "2026-11-11T22:35:01+00:00",
+    "authors": "AspenCore Events",
+    "link": "https://www.eetimes.com/chiplets-panel-discussion-how-should-we-reimagine-the-design-flow-for-chiplet-scalability/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots?",
     "source": "EDN",
     "snippet": "Incremental tweaks to existing products, as well as a few new derivatives, are par for the course. But autonomous security drones and robots? The post Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots? appeared first on EDN .",
     "published": "2026-11-11T21:00:04+00:00",
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/amazons-fall-2026-smart-home-and-business-thoughts-enter-the-drones-and-robots/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "PMIC boosts efficiency in 1.6T optical modules",
+    "source": "EDN",
+    "snippet": "Jeju is a custom multiphase PMIC from MaxLinear designed for DSP-based 1.6T pluggable optical modules used in AI infrastructure. The post PMIC boosts efficiency in 1.6T optical modules appeared first on EDN .",
+    "published": "2026-11-11T20:28:46+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/pmic-boosts-efficiency-in-1-6t-optical-modules/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "NXP simplifies robotics system development",
+    "source": "EDN",
+    "snippet": "NXP’s unified robotics platform speeds robotic-system development with a modular, open-source SDK and prototype-ready reference designs. The post NXP simplifies robotics system development appeared first on EDN .",
+    "published": "2026-11-11T20:28:44+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/nxp-simplifies-robotics-system-development/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Isolated gate drivers serve power-switching needs",
+    "source": "EDN",
+    "snippet": "Diodes’ API21550 and API21552 dual-channel isolated gate drivers provide high-voltage isolation for power-switching applications. The post Isolated gate drivers serve power-switching needs appeared first on EDN .",
+    "published": "2026-11-11T20:28:43+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/isolated-gate-drivers-serve-power-switching-needs/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Automotive LED driver advances animated lighting",
+    "source": "EDN",
+    "snippet": "The Melexis MLX81132 automotive LED driver supplies 24 constant-current channels for high-pixel-count RGB animated interior lighting. The post Automotive LED driver advances animated lighting appeared first on EDN .",
+    "published": "2026-11-11T20:28:41+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/automotive-led-driver-advances-animated-lighting/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Wideband switch eases RF front-end design",
+    "source": "EDN",
+    "snippet": "A reflective SPDT RF switch, the PE423213 from pSemi, operates from 0.3 GHz to 10.6 GHz with a typical supply current of just 95 nA. The post Wideband switch eases RF front-end design appeared first on EDN .",
+    "published": "2026-11-11T20:27:24+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/wideband-switch-eases-rf-front-end-design/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -18,9 +135,9 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "STMicros’ Maria Heriz on Moving All Its MCUs to One STM32 Platform",
+    "title": "STMicro’s Maria Heriz on Moving All Its MCUs to One STM32 Platform",
     "source": "EE Times",
-    "snippet": "Explore how STMicro is unifying its MCUs on STM32, preparing for EU cyber rules, and weighing RISC-V, AI agents, and robotics. The post STMicros’ Maria Heriz on Moving All Its MCUs to One STM32 Platform appeared first on EE Times .",
+    "snippet": "Explore how STMicro is unifying its MCUs on STM32, preparing for EU cyber rules, and weighing RISC-V, AI agents, and robotics. The post STMicro’s Maria Heriz on Moving All Its MCUs to One STM32 Platform appeared first on EE Times .",
     "published": "2026-11-11T18:28:10+00:00",
     "authors": "Nitin Dahad",
     "link": "https://www.eetimes.com/stmicros-maria-heriz-on-moving-all-its-mcus-to-one-stm32-platform/",
@@ -36,15 +153,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "From Automated to Autonomous: Rethinking Fab Design for the Future",
-    "source": "EE Times",
-    "snippet": "Join this webinar and learn why autonomy starts with the built environment, not just process automation. The post From Automated to Autonomous: Rethinking Fab Design for the Future appeared first on EE Times .",
-    "published": "2026-11-11T16:30:24+00:00",
-    "authors": "Siemens Digital Industries Software",
-    "link": "https://www.eetimes.com/from-automated-to-autonomous-rethinking-fab-design-for-the-future/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "UK semi company Fractile raises $720m at $7bn valuation",
     "source": "Electronics Weekly",
     "snippet": "Fractile, the four year-old UK semiconductor company, has raised $720 million at a $7 billion valuation. Investors were: Thrive Capital, Founders Fund, Conviction, Alphabet’s independent venture arm CapitalG, Lightspeed Venture […] The post UK semi company Fractile raises $720m at $7bn valuation app",
@@ -52,15 +160,6 @@
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/uk-semi-company-fractile-raises-720m-at-7bn-valuation-2026-11/",
     "category": "电子周刊"
-  },
-  {
-    "title": "Three Axes, One Controller: Rethinking the Motor Drive Signal Chain for Factory Automation",
-    "source": "EE Times",
-    "snippet": "Motor control and power electronics engineers are being asked to fit more axes into the same cabinet, raise efficiency and keep heat in check inside sealed enclosures. This paper walks through the brushless motor drive signal chain, from controller to isolated gate driver to power switch, and shows ",
-    "published": "2026-11-11T15:00:00+00:00",
-    "authors": "Toshiba",
-    "link": "https://www.eetimes.com/three-axes-one-controller-rethinking-the-motor-drive-signal-chain-for-factory-automation/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Electronica: Quectel 5G combo rugged antennas combine 5G, GNSS, Wi-Fi",
@@ -153,15 +252,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Dukosi Samples Contactless Battery Communication System for EVs, Grid Storage",
-    "source": "EE Times",
-    "snippet": "Dukosi DK-NFLNK provides synchronous communication with DKCMS battery monitoring systems. The post Dukosi Samples Contactless Battery Communication System for EVs, Grid Storage appeared first on EE Times .",
-    "published": "2026-11-11T08:30:00+00:00",
-    "authors": "Pablo Valerio",
-    "link": "https://www.eetimes.com/dukosi-samples-contactless-battery-communication-system-for-evs-grid-storage/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Google pairs TPU with Arm Neoverse",
     "source": "Electronics Weekly",
     "snippet": "Google Cloud is pairing​​ ​its TPU 8i Max system​s​ ​with​ Arm-based ​Axion processors that are custom Arm Neoverse-based CPUs​ With TPU 8i Max, Google is extending its use of Axion […] The post Google pairs TPU with Arm Neoverse appeared first on Electronics Weekly .",
@@ -180,24 +270,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Electronica: TME showcases the ‘Dual Brain’ Arduino VENTUNO Q",
-    "source": "Electronics Weekly",
-    "snippet": "Distributor TME (Transfer Multisort Elektronik) showcased the Arduino VENTUNO Q at this year’s electronica. The high-performance single-board computer (SBC) targets Edge AI, robotics, and real-time control applications, reflecting the prominence […] The post Electronica: TME showcases the ‘Dual Brai",
-    "published": "2026-11-11T06:10:04+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/electronica-tme-showcases-the-dual-brain-arduino-ventuno-q-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Saskatchewan’s Semiconductor Strength Is Connecting the Pieces",
-    "source": "EE Times",
-    "snippet": "Saskatchewan brings together AI infrastructure, quantum research, chip design talent, and advanced materials expertise to expand its role in Canada’s technology ecosystem. The post Saskatchewan’s Semiconductor Strength Is Connecting the Pieces appeared first on EE Times .",
-    "published": "2026-11-10T20:00:00+00:00",
-    "authors": "Gary Hilson",
-    "link": "https://www.eetimes.com/saskatchewans-semiconductor-strength-is-connecting-the-pieces/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
     "source": "IEEE Spectrum",
     "snippet": "Bishnu Saroop Atal Acoustics and signal processing pioneer Life Fellow, 93; died 19 August Atal was an acoustics and signal processing researcher at Bell Labs in Murray Hill, N.J., and later at AT&T ’s Shannon Laboratory, in Florham Park, N.J. His pioneering work on voice-coding techniques became th",
@@ -214,33 +286,6 @@
     "authors": "Baha Badran",
     "link": "https://www.edn.com/lte-cat-1bis-or-5g-redcap-rf-design-decisions-behind-an-iot-modem-refresh/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "People Detection in Confined Spaces: Elevator Application",
-    "source": "EE Times",
-    "snippet": "This technical white paper details an embedded occupancy-monitoring solution for elevator cabins combining the Melexis MLX90642 Far-Infrared (FIR) thermal sensor array with a hardware-agnostic People Detection Library. Engineered to overcome the limitations of optical cameras, PIR sensors, and floor",
-    "published": "2026-11-10T15:00:00+00:00",
-    "authors": "Thomas Parton",
-    "link": "https://www.eetimes.com/people-detection-in-confined-spaces-elevator-application/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk?",
-    "source": "EE Times",
-    "snippet": "As electricity access becomes a financial barrier to AI expansion, the U.S. and China face different risks in building the infrastructure of the digital economy. The post The AI Power Bill: Who Gets Grid Capacity, and Who Bears the Risk? appeared first on EE Times .",
-    "published": "2026-11-10T15:00:00+00:00",
-    "authors": "Ron Honig",
-    "link": "https://www.eetimes.com/the-ai-power-bill-who-gets-grid-capacity-and-who-bears-the-risk/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences",
-    "source": "EE Times",
-    "snippet": "Bluetooth® High Data Throughput enables faster data transfer, greater capacity, energy efficiency, and reliability for advanced wireless applications. The post Bluetooth® High Data Throughput: a Foundation for Next Generation Wireless Experiences appeared first on EE Times .",
-    "published": "2026-11-10T14:00:00+00:00",
-    "authors": "Bluetooth SIG",
-    "link": "https://www.eetimes.com/bluetooth-high-data-throughput-a-foundation-for-next-generation-wireless-experiences/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Simple circuit detects sequence errors and failure in three-phase power supplies",
@@ -288,15 +333,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Examining the insides of an economical phono preamp",
-    "source": "EDN",
-    "snippet": "Equalization, amplification, location. That’s a phono preamp in a nutshell. But the \"devil's in the details\". And then there’s the grounding… The post Examining the insides of an economical phono preamp appeared first on EDN .",
-    "published": "2026-11-09T13:00:51+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/examining-the-insides-of-an-economical-phono-preamp/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "The Race to Build a “Find My” for AI Chips",
     "source": "IEEE Spectrum 半导体",
     "snippet": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
@@ -315,15 +351,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "The secret signals of keyless fobs",
-    "source": "EDN",
-    "snippet": "Here’s how your fob speaks to your car and the clever security engineering that keeps thieves from listening in. The post The secret signals of keyless fobs appeared first on EDN .",
-    "published": "2026-11-09T06:36:42+00:00",
-    "authors": "T.K. Hareendran",
-    "link": "https://www.edn.com/the-secret-signals-of-keyless-fobs/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "How Do You Land on a Moon With Almost No Gravity?",
     "source": "IEEE Spectrum",
     "snippet": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover ’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos , the Martian moon named for the Greek god of fear and panic, was transiting the solar disk. Too small to darken the pale",
@@ -331,24 +358,6 @@
     "authors": "Andrew Jones",
     "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "When trusting your tools is the wisest way",
-    "source": "EDN",
-    "snippet": "Sometimes, the best way to optimize a design is to stop trying to outsmart the tools. Relevant to today's AI tools? Comments are welcomed! The post When trusting your tools is the wisest way appeared first on EDN .",
-    "published": "2026-11-06T13:00:26+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/when-trusting-your-tools-is-the-wisest-way/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Five trends driving the chip industry in 2027",
-    "source": "EDN",
-    "snippet": "The AI-driven demand is disrupting the semiconductor world’s norms, and it’s apparent from the state of the memory chip industry. The post Five trends driving the chip industry in 2027 appeared first on EDN .",
-    "published": "2026-11-06T11:28:04+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.edn.com/five-trends-driving-the-chip-industry-in-2027/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
@@ -385,15 +394,6 @@
     "authors": "Tereza Pultarova",
     "link": "https://spectrum.ieee.org/2026-solar-eclipse",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Physical AI in action at OktoberTech Silicon Valley 2026",
-    "source": "EDN",
-    "snippet": "The event showcased robot designs as a major use case for physical AI deployment. The post Physical AI in action at OktoberTech Silicon Valley 2026 appeared first on EDN .",
-    "published": "2026-11-05T13:20:18+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.edn.com/physical-ai-in-action-at-oktobertech-silicon-valley-2026/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",

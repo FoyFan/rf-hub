@@ -391,6 +391,51 @@
       "category": "EDN 电子设计新闻"
     },
     {
+      "title": "PMIC boosts efficiency in 1.6T optical modules",
+      "source": "EDN",
+      "snippet": "Jeju is a custom multiphase PMIC from MaxLinear designed for DSP-based 1.6T pluggable optical modules used in AI infrastructure. The post PMIC boosts efficiency in 1.6T optical modules appeared first on EDN .",
+      "published": "2026-11-11T20:28:46+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/pmic-boosts-efficiency-in-1-6t-optical-modules/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "NXP simplifies robotics system development",
+      "source": "EDN",
+      "snippet": "NXP’s unified robotics platform speeds robotic-system development with a modular, open-source SDK and prototype-ready reference designs. The post NXP simplifies robotics system development appeared first on EDN .",
+      "published": "2026-11-11T20:28:44+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/nxp-simplifies-robotics-system-development/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Isolated gate drivers serve power-switching needs",
+      "source": "EDN",
+      "snippet": "Diodes’ API21550 and API21552 dual-channel isolated gate drivers provide high-voltage isolation for power-switching applications. The post Isolated gate drivers serve power-switching needs appeared first on EDN .",
+      "published": "2026-11-11T20:28:43+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/isolated-gate-drivers-serve-power-switching-needs/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Automotive LED driver advances animated lighting",
+      "source": "EDN",
+      "snippet": "The Melexis MLX81132 automotive LED driver supplies 24 constant-current channels for high-pixel-count RGB animated interior lighting. The post Automotive LED driver advances animated lighting appeared first on EDN .",
+      "published": "2026-11-11T20:28:41+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/automotive-led-driver-advances-animated-lighting/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Wideband switch eases RF front-end design",
+      "source": "EDN",
+      "snippet": "A reflective SPDT RF switch, the PE423213 from pSemi, operates from 0.3 GHz to 10.6 GHz with a typical supply current of just 95 nA. The post Wideband switch eases RF front-end design appeared first on EDN .",
+      "published": "2026-11-11T20:27:24+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/wideband-switch-eases-rf-front-end-design/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Doubly twisted DPOT ganged programming",
       "source": "EDN",
       "snippet": "Select and set one or both of the channels of a dual digital potentiometer by means of a simple twist of the wrist. The post Doubly twisted DPOT ganged programming appeared first on EDN .",
@@ -424,51 +469,6 @@
       "published": "2026-11-10T13:00:05+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/simple-circuit-detects-sequence-errors-and-failure-in-three-phase-power-supplies/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Examining the insides of an economical phono preamp",
-      "source": "EDN",
-      "snippet": "Equalization, amplification, location. That’s a phono preamp in a nutshell. But the \"devil's in the details\". And then there’s the grounding… The post Examining the insides of an economical phono preamp appeared first on EDN .",
-      "published": "2026-11-09T13:00:51+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/examining-the-insides-of-an-economical-phono-preamp/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "The secret signals of keyless fobs",
-      "source": "EDN",
-      "snippet": "Here’s how your fob speaks to your car and the clever security engineering that keeps thieves from listening in. The post The secret signals of keyless fobs appeared first on EDN .",
-      "published": "2026-11-09T06:36:42+00:00",
-      "authors": "T.K. Hareendran",
-      "link": "https://www.edn.com/the-secret-signals-of-keyless-fobs/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "When trusting your tools is the wisest way",
-      "source": "EDN",
-      "snippet": "Sometimes, the best way to optimize a design is to stop trying to outsmart the tools. Relevant to today's AI tools? Comments are welcomed! The post When trusting your tools is the wisest way appeared first on EDN .",
-      "published": "2026-11-06T13:00:26+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/when-trusting-your-tools-is-the-wisest-way/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Five trends driving the chip industry in 2027",
-      "source": "EDN",
-      "snippet": "The AI-driven demand is disrupting the semiconductor world’s norms, and it’s apparent from the state of the memory chip industry. The post Five trends driving the chip industry in 2027 appeared first on EDN .",
-      "published": "2026-11-06T11:28:04+00:00",
-      "authors": "Majeed Ahmad",
-      "link": "https://www.edn.com/five-trends-driving-the-chip-industry-in-2027/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Physical AI in action at OktoberTech Silicon Valley 2026",
-      "source": "EDN",
-      "snippet": "The event showcased robot designs as a major use case for physical AI deployment. The post Physical AI in action at OktoberTech Silicon Valley 2026 appeared first on EDN .",
-      "published": "2026-11-05T13:20:18+00:00",
-      "authors": "Majeed Ahmad",
-      "link": "https://www.edn.com/physical-ai-in-action-at-oktobertech-silicon-valley-2026/",
       "category": "EDN 电子设计新闻"
     }
   ]
