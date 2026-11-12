@@ -1,5 +1,77 @@
 [
   {
+    "title": "Jensen Huang resigns",
+    "source": "Electronics Weekly",
+    "snippet": "NVIDIA’s Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. Colette Kress, current Executive Vice President […] The post Jensen Huang resigns appeared first on Electronics Weekly .",
+    "published": "2026-11-12T15:23:40+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/jensen-huang-resigns-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Design Smarter – Energy Harvesting for Battery-Free and Low-Maintenance Devices in Safety & Security applications",
+    "source": "EE Times",
+    "snippet": "Battery-powered sensors and detectors underpin modern safety and security systems, yet they create a constant maintenance burden. Hundreds of devices need manual battery swaps, often in hard-to-reach places, interrupting reliability and raising costs.This document paper shows hardware and system des",
+    "published": "2026-11-12T15:00:00+00:00",
+    "authors": "Nexperia",
+    "link": "https://www.eetimes.com/design-smarter-energy-harvesting-for-battery-free-and-low-maintenance-devices-in-safety-security-applications/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Why space electronics is a harder code to crack than Moore’s Law",
+    "source": "Electronics Weekly",
+    "snippet": "Ionising radiation and its types Space vehicles do not need advanced node Moore’s Law follower chips with a billion-transistor count, just less-complex chips to handle navigation, commands, faults and transmit […] The post Why space electronics is a harder code to crack than Moore’s Law appeared fir",
+    "published": "2026-11-12T14:00:55+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/why-space-electronics-is-a-harder-code-to-crack-than-moores-law-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Fable: The Destructive CEO",
+    "source": "Electronics Weekly",
+    "snippet": "26 years ago a digital company used its shares which had been inflated by a bubble economy to buy a company with traditional hard assets. The merger resulted in a […] The post Fable: The Destructive CEO appeared first on Electronics Weekly .",
+    "published": "2026-11-12T13:32:38+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-destructive-ceo-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Google’s Fitbit Air: Another display-less option for tech you wear",
+    "source": "EDN",
+    "snippet": "Minimal- and no-display device values aren’t unique to wearables but are uniquely optimal for the needs and desires of wearable device users. The post Google’s Fitbit Air: Another display-less option for tech you wear appeared first on EDN .",
+    "published": "2026-11-12T13:00:36+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/googles-fitbit-air-another-display-less-option-for-tech-you-wear/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+    "source": "EE Times",
+    "snippet": "Soybean disease research shows the promise of hyperspectral imaging, while semiconductor advances could make spectral sensing affordable for farmers. The post Can Machines See a Sick Plant Before a Farmer Can? appeared first on EE Times .",
+    "published": "2026-11-12T13:00:00+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "MCU revitalizing SDVs with diverse compute, virtual prototyping",
+    "source": "EDN",
+    "snippet": "The new MCU aims to simplify SDV development with a scalable device that supports multiple automotive domains. The post MCU revitalizing SDVs with diverse compute, virtual prototyping appeared first on EDN .",
+    "published": "2026-11-12T12:07:06+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.edn.com/mcu-revitalizing-sdvs-with-diverse-compute-virtual-prototyping/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Electronica – The latest news roundup",
+    "source": "Electronics Weekly",
+    "snippet": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
+    "published": "2026-11-12T10:35:27+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Connecting AI to the Physical World",
     "source": "EE Times",
     "snippet": "Why specialized wireless devices and SDR software IP matter to the next wave of intelligent machines The post Connecting AI to the Physical World appeared first on EE Times .",
@@ -7,6 +79,15 @@
     "authors": "Eric K. C. Tsang, CEO and founder, Vicinity Technologies Limited",
     "link": "https://www.eetimes.com/connecting-ai-to-the-physical-world/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Electronica: DPO for students offers remote view for educators",
+    "source": "Electronics Weekly",
+    "snippet": "Tektronix chose electronica to launch of the 1 Series digital phosphor oscilloscope (DPO), aimed at students and educators. Models have two or four analogue channels, 12bit vertical resolution, up to […] The post Electronica: DPO for students offers remote view for educators appeared first on Electr",
+    "published": "2026-11-12T10:01:53+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-dpo-for-students-offers-remote-view-for-educators-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "Harari Warns Tech Leaders Against Pursuing AI Superintelligence",
@@ -60,42 +141,6 @@
     "published": "2026-11-12T06:07:08+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/fintech-funding-falls-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Nexperia adds 750V SiC trench MOSFETs and TOLL packaging",
-    "source": "Electronics Weekly",
-    "snippet": "Nexperia has expanded its portfolio of SiC-based power semiconductors with a family of 750V trench MOSFETs. Designed for demanding industrial and automotive applications, the devices combine robust switching performance, low […] The post Electronica: Nexperia adds 750V SiC trench MOSFETs and TOLL pa",
-    "published": "2026-11-12T06:06:55+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/products/power-supplies/electronica-nexperia-adds-750v-sic-trench-mosfets-and-toll-packaging-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Melexis claims smallest contactless temperature sensor",
-    "source": "Electronics Weekly",
-    "snippet": "Melexis claims to have produced the world’s smallest contactless temperature sensor delivering medical accuracy, for potential use in wearable digital health devices. Medical accuracy implies it delivers ±0.2°C accuracy across […] The post Melexis claims smallest contactless temperature sensor appea",
-    "published": "2026-11-12T06:03:20+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/melexis-claims-smallest-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Toshiba adds Zener diodes for over voltage protection",
-    "source": "Electronics Weekly",
-    "snippet": "Toshiba has expanded its range of protection Zener diodes with the introduction of the CTZ series, a family of 20 devices supplied in a SOD-882 (CST2) package. As industrial and […] The post Toshiba adds Zener diodes for over voltage protection appeared first on Electronics Weekly .",
-    "published": "2026-11-12T06:02:09+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/toshiba-adds-to-zeners-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "No Trust In Politicians",
-    "source": "Electronics Weekly",
-    "snippet": "One of the main drivers of Donald Trump’s political rise in the run-up to the 2016 presidential election was the fact that he was not a politician, at least not […] The post No Trust In Politicians appeared first on Electronics Weekly .",
-    "published": "2026-11-12T01:01:32+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/no-trust-in-politicians-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -153,15 +198,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Chiplets: Panel Discussion: How Should We Reimagine the Design Flow for Chiplet Scalability",
-    "source": "EE Times",
-    "snippet": "This panel discusses whether today’s design flows can scale to support reusable chiplets and multi-vendor integration, or whether more fundamental changes are needed. The post Chiplets: Panel Discussion: How Should We Reimagine the Design Flow for Chiplet Scalability appeared first on EE Times .",
-    "published": "2026-11-11T22:35:01+00:00",
-    "authors": "AspenCore Events",
-    "link": "https://www.eetimes.com/chiplets-panel-discussion-how-should-we-reimagine-the-design-flow-for-chiplet-scalability/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots?",
     "source": "EDN",
     "snippet": "Incremental tweaks to existing products, as well as a few new derivatives, are par for the course. But autonomous security drones and robots? The post Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots? appeared first on EDN .",
@@ -216,24 +252,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust",
-    "source": "EE Times",
-    "snippet": "Explore NXP CTO Lars Reger’s view of physical AI beyond humanoids, from NavQ95 robot kits to edge trust, security, and geopolitics. The post NXP CTO Lars Reger on Physical AI, Robots, Drones, and Trust appeared first on EE Times .",
-    "published": "2026-11-11T20:23:13+00:00",
-    "authors": "Nitin Dahad",
-    "link": "https://www.eetimes.com/nxp-cto-lars-reger-on-physical-ai-robots-drones-and-trust/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "UK semi company Fractile raises $720m at $7bn valuation",
-    "source": "Electronics Weekly",
-    "snippet": "Fractile, the four year-old UK semiconductor company, has raised $720 million at a $7 billion valuation. Investors were: Thrive Capital, Founders Fund, Conviction, Alphabet’s independent venture arm CapitalG, Lightspeed Venture Partners […] The post UK semi company Fractile raises $720m at $7bn valu",
-    "published": "2026-11-11T15:12:59+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/uk-semi-company-fractile-raises-720m-at-7bn-valuation-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Doubly twisted DPOT ganged programming",
     "source": "EDN",
     "snippet": "Select and set one or both of the channels of a dual digital potentiometer by means of a simple twist of the wrist. The post Doubly twisted DPOT ganged programming appeared first on EDN .",
@@ -277,24 +295,6 @@
     "authors": "Amanda Davis",
     "link": "https://spectrum.ieee.org/speech-processing-pioneer-in-memoriam",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh",
-    "source": "EDN",
-    "snippet": "The choice among LTE Cat 1bis, LTE-M, NB-IoT, and 5G RedCap should be made as an RF system decision, not from a modem datasheet alone. The post LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh appeared first on EDN .",
-    "published": "2026-11-10T15:19:24+00:00",
-    "authors": "Baha Badran",
-    "link": "https://www.edn.com/lte-cat-1bis-or-5g-redcap-rf-design-decisions-behind-an-iot-modem-refresh/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Simple circuit detects sequence errors and failure in three-phase power supplies",
-    "source": "EDN",
-    "snippet": "All-phases presence and correct phase sequencing are both critical conditions for proper three-phase line-powered equipment operation. The post Simple circuit detects sequence errors and failure in three-phase power supplies appeared first on EDN .",
-    "published": "2026-11-10T13:00:05+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/simple-circuit-detects-sequence-errors-and-failure-in-three-phase-power-supplies/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Catch Electronics Shock and Drop Failures Before Hardware Is Built",

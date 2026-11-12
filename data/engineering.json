@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "Google’s Fitbit Air: Another display-less option for tech you wear",
+      "source": "EDN",
+      "snippet": "Minimal- and no-display device values aren’t unique to wearables but are uniquely optimal for the needs and desires of wearable device users. The post Google’s Fitbit Air: Another display-less option for tech you wear appeared first on EDN .",
+      "published": "2026-11-12T13:00:36+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/googles-fitbit-air-another-display-less-option-for-tech-you-wear/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "MCU revitalizing SDVs with diverse compute, virtual prototyping",
+      "source": "EDN",
+      "snippet": "The new MCU aims to simplify SDV development with a scalable device that supports multiple automotive domains. The post MCU revitalizing SDVs with diverse compute, virtual prototyping appeared first on EDN .",
+      "published": "2026-11-12T12:07:06+00:00",
+      "authors": "Majeed Ahmad",
+      "link": "https://www.edn.com/mcu-revitalizing-sdvs-with-diverse-compute-virtual-prototyping/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots?",
       "source": "EDN",
       "snippet": "Incremental tweaks to existing products, as well as a few new derivatives, are par for the course. But autonomous security drones and robots? The post Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots? appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-11-11T09:51:26+00:00",
       "authors": "Majeed Ahmad",
       "link": "https://www.edn.com/agentic-ai-streamlines-embedded-software-development-for-mcus/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh",
-      "source": "EDN",
-      "snippet": "The choice among LTE Cat 1bis, LTE-M, NB-IoT, and 5G RedCap should be made as an RF system decision, not from a modem datasheet alone. The post LTE Cat 1bis or 5G RedCap? RF design decisions behind an IoT modem refresh appeared first on EDN .",
-      "published": "2026-11-10T15:19:24+00:00",
-      "authors": "Baha Badran",
-      "link": "https://www.edn.com/lte-cat-1bis-or-5g-redcap-rf-design-decisions-behind-an-iot-modem-refresh/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Simple circuit detects sequence errors and failure in three-phase power supplies",
-      "source": "EDN",
-      "snippet": "All-phases presence and correct phase sequencing are both critical conditions for proper three-phase line-powered equipment operation. The post Simple circuit detects sequence errors and failure in three-phase power supplies appeared first on EDN .",
-      "published": "2026-11-10T13:00:05+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/simple-circuit-detects-sequence-errors-and-failure-in-three-phase-power-supplies/",
       "category": "EDN 电子设计新闻"
     }
   ]
