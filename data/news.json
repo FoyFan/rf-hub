@@ -1,5 +1,41 @@
 [
   {
+    "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+    "source": "IEEE Spectrum",
+    "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challen",
+    "published": "2026-11-13T19:00:03+00:00",
+    "authors": "Kaitlyn Ridel",
+    "link": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
+    "source": "EE Times",
+    "snippet": "Atlantic Canada’s coastal engineering cluster is turning specialized components and rugged hardware into exportable tools for subsea research, security, and resource markets. The post Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs appeared first on EE Times .",
+    "published": "2026-11-13T18:00:00+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
+    "source": "Electronics Weekly",
+    "snippet": "One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car. The post Picture of the Day: Lemo drives Sauber F1 to Electronica appeared first on Electronics Weekly .",
+    "published": "2026-11-13T17:59:01+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
+    "source": "Electronics Weekly",
+    "snippet": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
+    "published": "2026-11-13T15:17:38+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
     "source": "EE Times",
     "snippet": "This paper first examines how total ionizing dose and single-event effects degrade NOR Flash. It focuses on the charge pumps, sense amplifiers, and control logic that often fail before the storage array does. It then presents a method for deriving radiation requirements from four mission inputs (orb",
@@ -126,24 +162,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Lam Research and LEGO expand access to STEM education",
-    "source": "Electronics Weekly",
-    "snippet": "Lam Research and LEGO have partnered to expand access to hands-on science, technology, engineering and math (STEM) learning experiences for children and teens, helping foster future generations of innovators. As the […] The post Lam Research and LEGO expand access to STEM education appeared first on",
-    "published": "2026-11-13T06:10:02+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/design/stem/lam-research-and-lego-expand-access-to-stem-education-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Morse Micro and CamThink to bring long-range WiFi Halow to the edge",
-    "source": "Electronics Weekly",
-    "snippet": "Morse Micro, the Wi-Fi HaLow specialist, is collaborating with CamThink to bring long-range, low-power Wi-Fi HaLow technology to developer-accessible Edge AI hardware. With this announcement, Wi-Fi HaLow is now integrated […] The post Morse Micro and CamThink to bring long-range WiFi Halow to the ed",
-    "published": "2026-11-13T06:07:48+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/morse-micro-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Jensen Resigns Over Second Affair",
     "source": "EE Times",
     "snippet": "Nvidia CEO’s second affair scandal in a week prompted his resignation, and the board is now searching for a new leader for the company. The post Jensen Resigns Over Second Affair appeared first on EE Times .",
@@ -213,15 +231,6 @@
     "published": "2026-11-11T23:39:41+00:00",
     "authors": "AspenCore Events",
     "link": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Automotive Tech Forum: The Current State of Sic in EV Design and How It’s Evolving",
-    "source": "EE Times",
-    "snippet": "Explore how 800V SiC MOSFETs boost EV range, charging, and performance—and see what next-gen designs make possible. The post Automotive Tech Forum: The Current State of Sic in EV Design and How It’s Evolving appeared first on EE Times .",
-    "published": "2026-11-11T23:34:28+00:00",
-    "authors": "AspenCore Events",
-    "link": "https://www.eetimes.com/automotive-tech-forum-the-current-state-of-sic-in-ev-design-and-how-its-evolving/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -619,15 +628,6 @@
     "authors": "Katherine Bourzac",
     "link": "https://spectrum.ieee.org/community-college-semiconductors",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
-    "source": "IEEE Spectrum",
-    "snippet": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the time. IEEE’s recently released 2025 Social Impact Report showcases a variety of programs volunteers wo",
-    "published": "2026-10-19T18:00:03+00:00",
-    "authors": "Kathy Pretz",
-    "link": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
