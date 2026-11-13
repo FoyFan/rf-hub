@@ -1,12 +1,12 @@
 [
   {
-    "title": "Jensen Huang resigns",
-    "source": "Electronics Weekly",
-    "snippet": "NVIDIA’s Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. Colette Kress, current Executive Vice President […] The post Jensen Huang resigns appeared first on Electronics Weekly .",
-    "published": "2026-11-12T15:23:40+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/jensen-huang-resigns-2026-11/",
-    "category": "电子周刊"
+    "title": "Jensen Resigns Over Second Affair",
+    "source": "EE Times",
+    "snippet": "Nvidia CEO’s second affair scandal in a week prompted his resignation, and the board is now searching for a new leader for the company. The post Jensen Resigns Over Second Affair appeared first on EE Times .",
+    "published": "2026-11-12T20:48:35+00:00",
+    "authors": "Sally Ward-Foxton",
+    "link": "https://www.eetimes.com/jensen-resigns-over-second-affair/",
+    "category": "EE Times 行业新闻"
   },
   {
     "title": "Design Smarter – Energy Harvesting for Battery-Free and Low-Maintenance Devices in Safety & Security applications",
@@ -16,24 +16,6 @@
     "authors": "Nexperia",
     "link": "https://www.eetimes.com/design-smarter-energy-harvesting-for-battery-free-and-low-maintenance-devices-in-safety-security-applications/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Why space electronics is a harder code to crack than Moore’s Law",
-    "source": "Electronics Weekly",
-    "snippet": "Ionising radiation and its types Space vehicles do not need advanced node Moore’s Law follower chips with a billion-transistor count, just less-complex chips to handle navigation, commands, faults and transmit […] The post Why space electronics is a harder code to crack than Moore’s Law appeared fir",
-    "published": "2026-11-12T14:00:55+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/why-space-electronics-is-a-harder-code-to-crack-than-moores-law-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Fable: The Destructive CEO",
-    "source": "Electronics Weekly",
-    "snippet": "26 years ago a digital company used its shares which had been inflated by a bubble economy to buy a company with traditional hard assets. The merger resulted in a […] The post Fable: The Destructive CEO appeared first on Electronics Weekly .",
-    "published": "2026-11-12T13:32:38+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-destructive-ceo-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Google’s Fitbit Air: Another display-less option for tech you wear",
@@ -63,15 +45,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Electronica – The latest news roundup",
-    "source": "Electronics Weekly",
-    "snippet": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-    "published": "2026-11-12T10:35:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Connecting AI to the Physical World",
     "source": "EE Times",
     "snippet": "Why specialized wireless devices and SDR software IP matter to the next wave of intelligent machines The post Connecting AI to the Physical World appeared first on EE Times .",
@@ -81,15 +54,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Electronica: DPO for students offers remote view for educators",
-    "source": "Electronics Weekly",
-    "snippet": "Tektronix chose electronica to launch of the 1 Series digital phosphor oscilloscope (DPO), aimed at students and educators. Models have two or four analogue channels, 12bit vertical resolution, up to […] The post Electronica: DPO for students offers remote view for educators appeared first on Electr",
-    "published": "2026-11-12T10:01:53+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-dpo-for-students-offers-remote-view-for-educators-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Harari Warns Tech Leaders Against Pursuing AI Superintelligence",
     "source": "EE Times",
     "snippet": "At Gartner IT Symposium/Xpo 2026, philosopher Yuval Noah Harari makes an appeal to delay artificial superintelligence as it threatens to erode human agency and democratic sovereignty. The post Harari Warns Tech Leaders Against Pursuing AI Superintelligence appeared first on EE Times .",
@@ -97,51 +61,6 @@
     "authors": "Pablo Valerio",
     "link": "https://www.eetimes.com/harari-warns-tech-leaders-against-pursuing-ai-superintelligence/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Ron Neale",
-    "source": "Electronics Weekly",
-    "snippet": "Ron Neale, who died yesterday, was an electronics engineer, researcher, inventor and editor. He was best known for his long career in solid-state memory technology, especially phase-change memory (PCM). After […] The post Ron Neale appeared first on Electronics Weekly .",
-    "published": "2026-11-12T06:16:05+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/ron-neale-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Jensen Huang’s fate may be decided today",
-    "source": "Electronics Weekly",
-    "snippet": "The Nvidia board is meeting today to decide if CEO Jensen Huang should be replaced and, if so, by who. Leading candidates are vice-president for hyperscale and HPC Ian Buck […] The post Jensen Huang’s fate may be decided today appeared first on Electronics Weekly .",
-    "published": "2026-11-12T06:13:42+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/jensen-huangs-fate-may-be-decided-today-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time",
-    "source": "Electronics Weekly",
-    "snippet": "Tria Technologies’ OSM-SB-EP5 is a carrier board for the evaluation, validation and prototyping of OSM-based embedded systems. It is intended for teams building embedded products around the Open Standard Module […] The post Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time appea",
-    "published": "2026-11-12T06:10:34+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/products/electronica-trias-osm-sb-ep5-aims-to-shorten-concept-to-product-time-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Pickering advances high-voltage relay technology",
-    "source": "Electronics Weekly",
-    "snippet": "Pickering Electronics of Clacton-on-Sea, a manufacturer of high-performance reed relays, is advancing its high-voltage relay technology through the evaluation of partial discharge (PD) testing, initially focusing on its Series 600 […] The post Electronica: Pickering advances high-voltage relay techn",
-    "published": "2026-11-12T06:09:48+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/electronica-pickering-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Fintech funding falls",
-    "source": "Electronics Weekly",
-    "snippet": "European fintech companies raised $5.6bn in the first nine months of 2026 – down 6% from $6.0bn in 9M 2025, reports Tracxn Technologies. Series A and later rounds fell 29% […] The post Fintech funding falls appeared first on Electronics Weekly .",
-    "published": "2026-11-12T06:07:08+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/fintech-funding-falls-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
@@ -186,15 +105,6 @@
     "published": "2026-11-11T23:00:05+00:00",
     "authors": "AspenCore Events",
     "link": "https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Chiplets: Panel Discussion: Scaling Chiplets Without Breaking the System – Where are the Limits?",
-    "source": "EE Times",
-    "snippet": "As chiplet-based designs grow in scale and complexity, the technical challenges mount up as every layer of the system introduces new constraints. The post Chiplets: Panel Discussion: Scaling Chiplets Without Breaking the System – Where are the Limits? appeared first on EE Times .",
-    "published": "2026-11-11T22:39:24+00:00",
-    "authors": "AspenCore Events",
-    "link": "https://www.eetimes.com/chiplets-panel-discussion-scaling-chiplets-without-breaking-the-system-where-are-the-limits/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -263,7 +173,7 @@
   {
     "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
     "source": "IEEE Spectrum 计算",
-    "snippet": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that would confront urgent scientific and technological challenges. Now, the NSF is doubling down on the idea, with an announcement ",
+    "snippet": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that would confront urgent scientific and technological challenges. Now the NSF is doubling down on the idea, with an announcement i",
     "published": "2026-11-11T13:00:03+00:00",
     "authors": "Lucas Laursen",
     "link": "https://spectrum.ieee.org/national-science-foundation-x-labs",
@@ -1012,7 +922,7 @@
     "source": "IEEE Spectrum 半导体",
     "snippet": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But",
     "published": "2026-06-29T13:00:01+00:00",
-    "authors": "Sebastian Pazos",
+    "authors": "Mario Lanza",
     "link": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
     "category": "半导体 / RFIC / 射频器件"
   },
