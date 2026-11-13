@@ -1,11 +1,146 @@
 [
   {
-    "title": "Idle Wafers",
+    "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
+    "source": "EE Times",
+    "snippet": "This paper first examines how total ionizing dose and single-event effects degrade NOR Flash. It focuses on the charge pumps, sense amplifiers, and control logic that often fail before the storage array does. It then presents a method for deriving radiation requirements from four mission inputs (orb",
+    "published": "2026-11-13T15:00:00+00:00",
+    "authors": "Infineon Technologies",
+    "link": "https://www.eetimes.com/newspace-grade-nor-flash-right-sized-reliability-for-space-missions/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
+    "source": "EE Times",
+    "snippet": "Explore how electronica 2026 shows chipmakers shifting to AI platforms as data centers, edge AI, and robotics reshape power and silicon. The post electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage appeared first on EE Times .",
+    "published": "2026-11-13T14:47:27+00:00",
+    "authors": "Nitin Dahad",
+    "link": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Technologies Which Died",
     "source": "Electronics Weekly",
-    "snippet": "Wafers can spend as little as 20% of their time transiting a fab in actual useful processing, says Elon Musk. The rest is mostly transport between machines or waiting — […] The post Idle Wafers appeared first on Electronics Weekly .",
-    "published": "2026-11-13T01:09:13+00:00",
+    "snippet": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
+    "published": "2026-11-13T14:05:31+00:00",
     "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/idle-wafers-2026-11/",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Physical AI: Where AI meets the physical world",
+    "source": "EDN",
+    "snippet": "Industry experts discuss why touch, multimodal sensing, and edge processing are essential to the next generation of intelligent machines. The post Physical AI: Where AI meets the physical world appeared first on EDN .",
+    "published": "2026-11-13T14:03:52+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.edn.com/physical-ai-where-ai-meets-the-physical-world/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Electronica: Renesas adds Xplorer Developer Hub",
+    "source": "Electronics Weekly",
+    "snippet": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
+    "published": "2026-11-13T13:58:00+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The tchotchke",
+    "source": "EDN",
+    "snippet": "Things aren't always as useless as they seem (and are claimed by others) to be. All it takes is a bit of engineering imagination. The post The tchotchke appeared first on EDN .",
+    "published": "2026-11-13T13:00:00+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/the-tchotchke/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Electronica – The latest news roundup",
+    "source": "Electronics Weekly",
+    "snippet": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
+    "published": "2026-11-13T11:12:27+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
+    "source": "Electronics Weekly",
+    "snippet": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
+    "published": "2026-11-13T11:09:27+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
+    "source": "IEEE Spectrum",
+    "snippet": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options. What you will learn about: How freezing rain, rime ice and wet snow add weight to conductors and change their s",
+    "published": "2026-11-13T11:00:02+00:00",
+    "authors": "Marmon Utility (Hendrix®)",
+    "link": "https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain/",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
+    "source": "EE Times",
+    "snippet": "NOVOSENSE NovoGenius MCU+ chips integrate analog, power, and drivers, adding intelligence to automotive edge nodes for motor control, sensing and lighting. The post How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node appeared first on EE Times .",
+    "published": "2026-11-13T10:41:03+00:00",
+    "authors": "Christopher McGrady",
+    "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK",
+    "source": "Electronics Weekly",
+    "snippet": "The UK Space Agency (UKSA) is partnering with the European Space Agency (ESA) for the latest ESERO-UK programme. Investing £4.5 million, the programme aims to inspire young people into space […] The post STEM for space – UK Space Agency invests £4.5m for ESERO-UK appeared first on Electronics Weekly",
+    "published": "2026-11-13T10:08:56+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/design/stem/stem-for-space-uk-space-agency-invests-4-5m-for-esero-uk-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM",
+    "source": "Electronics Weekly",
+    "snippet": "The most popular articles on the site cover TME showcasing the Arduino VENTUNO Q, our latest news from Electronica, and an apology from Jensen Huang... The post Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM appeared first on Electronics Weekly .",
+    "published": "2026-11-13T10:05:53+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-electronica-2026-7nm-fdsoi-3d-dram-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Panmesia and Intel hook up on CXL",
+    "source": "Electronics Weekly",
+    "snippet": "Panmnesia, the Korean developer of link solutions for AI infrastructure, has signed an MOU with Intel Korea to collaborate on CXL technology. The agreement aims to bring CXL-based servers into […] The post Panmesia and Intel hook up on CXL appeared first on Electronics Weekly .",
+    "published": "2026-11-13T06:14:02+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/panmesia-and-intel-hook-up-on-cxl-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Imec and Japan’s ASR standardise auto chiplets",
+    "source": "Electronics Weekly",
+    "snippet": "Imec and Japan’s Advanced SoC Research for Automotive (ASRA), have published the Automotive Chiplet Interoperability Requirement (ACIR) establishing a common set of architectural requirements for interoperable automotive chiplets. Unveiled at […] The post Imec and Japan’s ASR standardise auto chiple",
+    "published": "2026-11-13T06:13:37+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/imec-and-japans-asr-standardise-auto-chiplets-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Lam Research and LEGO expand access to STEM education",
+    "source": "Electronics Weekly",
+    "snippet": "Lam Research and LEGO have partnered to expand access to hands-on science, technology, engineering and math (STEM) learning experiences for children and teens, helping foster future generations of innovators. As the […] The post Lam Research and LEGO expand access to STEM education appeared first on",
+    "published": "2026-11-13T06:10:02+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/design/stem/lam-research-and-lego-expand-access-to-stem-education-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Morse Micro and CamThink to bring long-range WiFi Halow to the edge",
+    "source": "Electronics Weekly",
+    "snippet": "Morse Micro, the Wi-Fi HaLow specialist, is collaborating with CamThink to bring long-range, low-power Wi-Fi HaLow technology to developer-accessible Edge AI hardware. With this announcement, Wi-Fi HaLow is now integrated […] The post Morse Micro and CamThink to bring long-range WiFi Halow to the ed",
+    "published": "2026-11-13T06:07:48+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/morse-micro-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -18,15 +153,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Jensen Huang resigns",
-    "source": "Electronics Weekly",
-    "snippet": "NVIDIA’s Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. Colette Kress, current Executive Vice President […] The post Jensen Huang resigns appeared first on Electronics Weekly .",
-    "published": "2026-11-12T15:23:40+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/jensen-huang-resigns-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Design Smarter – Energy Harvesting for Battery-Free and Low-Maintenance Devices in Safety & Security applications",
     "source": "EE Times",
     "snippet": "Battery-powered sensors and detectors underpin modern safety and security systems, yet they create a constant maintenance burden. Hundreds of devices need manual battery swaps, often in hard-to-reach places, interrupting reliability and raising costs.This document paper shows hardware and system des",
@@ -34,24 +160,6 @@
     "authors": "Nexperia",
     "link": "https://www.eetimes.com/design-smarter-energy-harvesting-for-battery-free-and-low-maintenance-devices-in-safety-security-applications/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Why space electronics is a harder code to crack than Moore’s Law",
-    "source": "Electronics Weekly",
-    "snippet": "Ionising radiation and its types Space vehicles do not need advanced node Moore’s Law follower chips with a billion-transistor count, just less-complex chips to handle navigation, commands, faults and transmit […] The post Why space electronics is a harder code to crack than Moore’s Law appeared fir",
-    "published": "2026-11-12T14:00:55+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/why-space-electronics-is-a-harder-code-to-crack-than-moores-law-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Fable: The Destructive CEO",
-    "source": "Electronics Weekly",
-    "snippet": "26 years ago a digital company used its shares which had been inflated by a bubble economy to buy a company with traditional hard assets. The merger resulted in a […] The post Fable: The Destructive CEO appeared first on Electronics Weekly .",
-    "published": "2026-11-12T13:32:38+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-destructive-ceo-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Google’s Fitbit Air: Another display-less option for tech you wear",
@@ -81,15 +189,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Electronica – The latest news roundup",
-    "source": "Electronics Weekly",
-    "snippet": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-    "published": "2026-11-12T10:35:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Connecting AI to the Physical World",
     "source": "EE Times",
     "snippet": "Why specialized wireless devices and SDR software IP matter to the next wave of intelligent machines The post Connecting AI to the Physical World appeared first on EE Times .",
@@ -99,15 +198,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Electronica: DPO for students offers remote view for educators",
-    "source": "Electronics Weekly",
-    "snippet": "Tektronix chose electronica to launch of the 1 Series digital phosphor oscilloscope (DPO), aimed at students and educators. Models have two or four analogue channels, 12bit vertical resolution, up to […] The post Electronica: DPO for students offers remote view for educators appeared first on Electr",
-    "published": "2026-11-12T10:01:53+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-dpo-for-students-offers-remote-view-for-educators-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Harari Warns Tech Leaders Against Pursuing AI Superintelligence",
     "source": "EE Times",
     "snippet": "At Gartner IT Symposium/Xpo 2026, philosopher Yuval Noah Harari makes an appeal to delay artificial superintelligence as it threatens to erode human agency and democratic sovereignty. The post Harari Warns Tech Leaders Against Pursuing AI Superintelligence appeared first on EE Times .",
@@ -115,42 +205,6 @@
     "authors": "Pablo Valerio",
     "link": "https://www.eetimes.com/harari-warns-tech-leaders-against-pursuing-ai-superintelligence/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Ron Neale",
-    "source": "Electronics Weekly",
-    "snippet": "Ron Neale, who died yesterday, was an electronics engineer, researcher, inventor and editor. He was best known for his long career in solid-state memory technology, especially phase-change memory (PCM). After […] The post Ron Neale appeared first on Electronics Weekly .",
-    "published": "2026-11-12T06:16:05+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/ron-neale-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Jensen Huang’s fate may be decided today",
-    "source": "Electronics Weekly",
-    "snippet": "The Nvidia board is meeting today to decide if CEO Jensen Huang should be replaced and, if so, by who. Leading candidates are vice-president for hyperscale and HPC Ian Buck […] The post Jensen Huang’s fate may be decided today appeared first on Electronics Weekly .",
-    "published": "2026-11-12T06:13:42+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/jensen-huangs-fate-may-be-decided-today-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time",
-    "source": "Electronics Weekly",
-    "snippet": "Tria Technologies’ OSM-SB-EP5 is a carrier board for the evaluation, validation and prototyping of OSM-based embedded systems. It is intended for teams building embedded products around the Open Standard Module […] The post Electronica: Tria’s OSM-SB-EP5 aims to shorten concept-to-product time appea",
-    "published": "2026-11-12T06:10:34+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/products/electronica-trias-osm-sb-ep5-aims-to-shorten-concept-to-product-time-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: Pickering advances high-voltage relay technology",
-    "source": "Electronics Weekly",
-    "snippet": "Pickering Electronics of Clacton-on-Sea, a manufacturer of high-performance reed relays, is advancing its high-voltage relay technology through the evaluation of partial discharge (PD) testing, initially focusing on its Series 600 […] The post Electronica: Pickering advances high-voltage relay techn",
-    "published": "2026-11-12T06:09:48+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/electronica-pickering-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
@@ -168,33 +222,6 @@
     "published": "2026-11-11T23:34:28+00:00",
     "authors": "AspenCore Events",
     "link": "https://www.eetimes.com/automotive-tech-forum-the-current-state-of-sic-in-ev-design-and-how-its-evolving/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Automotive Tech Forum: Lidar is Key to Safer ADAS and Autonomous Vehicles",
-    "source": "EE Times",
-    "snippet": "This keynote explores how LiDAR is shaping the future of mobility by improving safety, reliability, and performance in autonomous systems. The post Automotive Tech Forum: Lidar is Key to Safer ADAS and Autonomous Vehicles appeared first on EE Times .",
-    "published": "2026-11-11T23:28:21+00:00",
-    "authors": "AspenCore Events",
-    "link": "https://www.eetimes.com/automotive-tech-forum-lidar-is-key-to-safer-adas-and-autonomous-vehicles/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
-    "source": "EE Times",
-    "snippet": "This keynote exmines GaN reliability and present the case for GaN being not only the most efficient solution, but also a necessary step for reducing system cost The post Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond appeared first on EE Times .",
-    "published": "2026-11-11T23:22:01+00:00",
-    "authors": "AspenCore Events",
-    "link": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI",
-    "source": "EE Times",
-    "snippet": "This session introduces Artificial Chip Intelligence (ACI®), a paradigm-shifting technology using a physics-informed foundation model designed to transform chip development from a manual labor-intensive process into a conversational, AI-driven workflow. The post Chiplets: Revolutionizing Design Velo",
-    "published": "2026-11-11T23:00:05+00:00",
-    "authors": "AspenCore Events",
-    "link": "https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -252,15 +279,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Doubly twisted DPOT ganged programming",
-    "source": "EDN",
-    "snippet": "Select and set one or both of the channels of a dual digital potentiometer by means of a simple twist of the wrist. The post Doubly twisted DPOT ganged programming appeared first on EDN .",
-    "published": "2026-11-11T13:00:42+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/doubly-twisted-dpot-ganged-programming/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
     "source": "IEEE Spectrum 计算",
     "snippet": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that would confront urgent scientific and technological challenges. Now the NSF is doubling down on the idea, with an announcement i",
@@ -277,15 +295,6 @@
     "authors": "Innomotics",
     "link": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Agentic AI streamlines embedded software development for MCUs",
-    "source": "EDN",
-    "snippet": "An agentic AI framework injects device-specific knowledge directly into the AI tools engineers already use, shortening embedded development. The post Agentic AI streamlines embedded software development for MCUs appeared first on EDN .",
-    "published": "2026-11-11T09:51:26+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.edn.com/agentic-ai-streamlines-embedded-software-development-for-mcus/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Speech Processing Pioneer Bishnu Saroop Atal Dies at 93",
@@ -618,15 +627,6 @@
     "published": "2026-10-19T18:00:03+00:00",
     "authors": "Kathy Pretz",
     "link": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "The Robot I Didn’t Expect to Build",
-    "source": "IEEE Spectrum",
-    "snippet": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the",
-    "published": "2026-10-19T13:00:03+00:00",
-    "authors": "Jonathan W. Hurst",
-    "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
     "category": "IEEE 综合新闻"
   },
   {

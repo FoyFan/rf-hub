@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "Physical AI: Where AI meets the physical world",
+      "source": "EDN",
+      "snippet": "Industry experts discuss why touch, multimodal sensing, and edge processing are essential to the next generation of intelligent machines. The post Physical AI: Where AI meets the physical world appeared first on EDN .",
+      "published": "2026-11-13T14:03:52+00:00",
+      "authors": "Majeed Ahmad",
+      "link": "https://www.edn.com/physical-ai-where-ai-meets-the-physical-world/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "The tchotchke",
+      "source": "EDN",
+      "snippet": "Things aren't always as useless as they seem (and are claimed by others) to be. All it takes is a bit of engineering imagination. The post The tchotchke appeared first on EDN .",
+      "published": "2026-11-13T13:00:00+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/the-tchotchke/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Google’s Fitbit Air: Another display-less option for tech you wear",
       "source": "EDN",
       "snippet": "Minimal- and no-display device values aren’t unique to wearables but are uniquely optimal for the needs and desires of wearable device users. The post Google’s Fitbit Air: Another display-less option for tech you wear appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-11-11T20:27:24+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/wideband-switch-eases-rf-front-end-design/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Doubly twisted DPOT ganged programming",
-      "source": "EDN",
-      "snippet": "Select and set one or both of the channels of a dual digital potentiometer by means of a simple twist of the wrist. The post Doubly twisted DPOT ganged programming appeared first on EDN .",
-      "published": "2026-11-11T13:00:42+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/doubly-twisted-dpot-ganged-programming/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Agentic AI streamlines embedded software development for MCUs",
-      "source": "EDN",
-      "snippet": "An agentic AI framework injects device-specific knowledge directly into the AI tools engineers already use, shortening embedded development. The post Agentic AI streamlines embedded software development for MCUs appeared first on EDN .",
-      "published": "2026-11-11T09:51:26+00:00",
-      "authors": "Majeed Ahmad",
-      "link": "https://www.edn.com/agentic-ai-streamlines-embedded-software-development-for-mcus/",
       "category": "EDN 电子设计新闻"
     }
   ]
