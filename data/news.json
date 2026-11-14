@@ -18,24 +18,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
-    "source": "Electronics Weekly",
-    "snippet": "One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car. The post Picture of the Day: Lemo drives Sauber F1 to Electronica appeared first on Electronics Weekly .",
-    "published": "2026-11-13T17:59:01+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
-    "source": "Electronics Weekly",
-    "snippet": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
-    "published": "2026-11-13T15:17:38+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
     "source": "EE Times",
     "snippet": "This paper first examines how total ionizing dose and single-event effects degrade NOR Flash. It focuses on the charge pumps, sense amplifiers, and control logic that often fail before the storage array does. It then presents a method for deriving radiation requirements from four mission inputs (orb",
@@ -54,15 +36,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Technologies Which Died",
-    "source": "Electronics Weekly",
-    "snippet": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
-    "published": "2026-11-13T14:05:31+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Physical AI: Where AI meets the physical world",
     "source": "EDN",
     "snippet": "Industry experts discuss why touch, multimodal sensing, and edge processing are essential to the next generation of intelligent machines. The post Physical AI: Where AI meets the physical world appeared first on EDN .",
@@ -72,15 +45,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Electronica: Renesas adds Xplorer Developer Hub",
-    "source": "Electronics Weekly",
-    "snippet": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
-    "published": "2026-11-13T13:58:00+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "The tchotchke",
     "source": "EDN",
     "snippet": "Things aren't always as useless as they seem (and are claimed by others) to be. All it takes is a bit of engineering imagination. The post The tchotchke appeared first on EDN .",
@@ -88,24 +52,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/the-tchotchke/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Electronica – The latest news roundup",
-    "source": "Electronics Weekly",
-    "snippet": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-    "published": "2026-11-13T11:12:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
-    "source": "Electronics Weekly",
-    "snippet": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
-    "published": "2026-11-13T11:09:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
@@ -124,42 +70,6 @@
     "authors": "Christopher McGrady",
     "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK",
-    "source": "Electronics Weekly",
-    "snippet": "The UK Space Agency (UKSA) is partnering with the European Space Agency (ESA) for the latest ESERO-UK programme. Investing £4.5 million, the programme aims to inspire young people into space […] The post STEM for space – UK Space Agency invests £4.5m for ESERO-UK appeared first on Electronics Weekly",
-    "published": "2026-11-13T10:08:56+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/design/stem/stem-for-space-uk-space-agency-invests-4-5m-for-esero-uk-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM",
-    "source": "Electronics Weekly",
-    "snippet": "The most popular articles on the site cover TME showcasing the Arduino VENTUNO Q, our latest news from Electronica, and an apology from Jensen Huang... The post Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM appeared first on Electronics Weekly .",
-    "published": "2026-11-13T10:05:53+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-electronica-2026-7nm-fdsoi-3d-dram-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Panmesia and Intel hook up on CXL",
-    "source": "Electronics Weekly",
-    "snippet": "Panmnesia, the Korean developer of link solutions for AI infrastructure, has signed an MOU with Intel Korea to collaborate on CXL technology. The agreement aims to bring CXL-based servers into […] The post Panmesia and Intel hook up on CXL appeared first on Electronics Weekly .",
-    "published": "2026-11-13T06:14:02+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/panmesia-and-intel-hook-up-on-cxl-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Imec and Japan’s ASR standardise auto chiplets",
-    "source": "Electronics Weekly",
-    "snippet": "Imec and Japan’s Advanced SoC Research for Automotive (ASRA), have published the Automotive Chiplet Interoperability Requirement (ACIR) establishing a common set of architectural requirements for interoperable automotive chiplets. Unveiled at […] The post Imec and Japan’s ASR standardise auto chiple",
-    "published": "2026-11-13T06:13:37+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/imec-and-japans-asr-standardise-auto-chiplets-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Jensen Resigns Over Second Affair",
