@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Inspecting a DOCSIS 3.1 cable modem’s internals: Part 1",
+      "source": "EDN",
+      "snippet": "The publication ordering might not be as originally envisioned, but this two-part NETGEAR CM1000 teardown still aspires to be interesting. The post Inspecting a DOCSIS 3.1 cable modem’s internals: Part 1 appeared first on EDN .",
+      "published": "2026-11-16T13:00:19+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/inspecting-a-docsis-3-1-cable-modems-internals-part-1/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "The shocking science (and art) of plastic welding",
       "source": "EDN",
       "snippet": "Mastering plastic welding means you can rapidly prototype, repair lab gear, modify off-the-shelf enclosures, and fix rugged field equipment. The post The shocking science (and art) of plastic welding appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-11T20:28:43+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/isolated-gate-drivers-serve-power-switching-needs/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Automotive LED driver advances animated lighting",
-      "source": "EDN",
-      "snippet": "The Melexis MLX81132 automotive LED driver supplies 24 constant-current channels for high-pixel-count RGB animated interior lighting. The post Automotive LED driver advances animated lighting appeared first on EDN .",
-      "published": "2026-11-11T20:28:41+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/automotive-led-driver-advances-animated-lighting/",
       "category": "EDN 电子设计新闻"
     }
   ]

@@ -1,5 +1,149 @@
 [
   {
+    "title": "Taking a Tour of Canada’s Particle Accelerator",
+    "source": "EE Times",
+    "snippet": "Located on Canada’s west coast, TRIUMF’s normal-conducting cyclotron, unique materials probes, and irradiation facilities serve everything from quantum materials and radiation-hardened electronics to medical isotopes. The post Taking a Tour of Canada’s Particle Accelerator appeared first on EE Times",
+    "published": "2026-11-16T17:52:31+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Iceye Gen5 SAR satellites bring 11 cm imaging",
+    "source": "Electronics Weekly",
+    "snippet": "Iceye has unveiled Gen5, its latest synthetic aperture radar (SAR) satellite system. Aimed at government Earth Observation missions, Gen5 can image with 1,800 MHz of bandwidth. And it sharps ground […] The post Iceye Gen5 SAR satellites bring 11 cm imaging appeared first on Electronics Weekly .",
+    "published": "2026-11-16T17:43:16+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/iceye-gen5-sar-satellites-bring-11-cm-imaging-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Simplifying Power Design with µModule Solutions",
+    "source": "EE Times",
+    "snippet": "Join this webinar to learn how highly integrated power solutions can simplify design, increase power density, and much more. The post Simplifying Power Design with µModule Solutions appeared first on EE Times .",
+    "published": "2026-11-16T17:41:23+00:00",
+    "authors": "Analog Devices, Arrow Electronics",
+    "link": "https://www.eetimes.com/simplifying-power-design-with-%c2%b5module-solutions/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming",
+    "source": "EE Times",
+    "snippet": "Join our expert-led webinar to discover how the TL753X SoC leverages High Definition Technology (HDT) for innovative applications. The post Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming appeared first on EE Times .",
+    "published": "2026-11-16T17:19:44+00:00",
+    "authors": "Telink Semiconductor",
+    "link": "https://www.eetimes.com/beyond-low-energy-new-product-frontiers-for-lossless-audio-edge-ai-and-display-streaming/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components",
+    "source": "EE Times",
+    "snippet": "Nisshinbo's Silicon Motherboard integrates ICs and passives on both sides of a silicon substrate, reducing mounting area by up to 90%. The post Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components appeared first on EE Times .",
+    "published": "2026-11-16T17:00:00+00:00",
+    "authors": "Nisshinbo Micro Devices",
+    "link": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Isolated dc-dc converters support HV SiC applications",
+    "source": "Electronics Weekly",
+    "snippet": "Electronica 2026 – Murata introduced the MGJ2T2 series of 2W, SiP isolated gate drive dc-dc converters for high voltage SiC power applications, such as energy stroage, distribution and EV charging. […] The post Isolated dc-dc converters support HV SiC applications appeared first on Electronics Weekl",
+    "published": "2026-11-16T16:37:08+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/products/isolated-dc-dc-converters-support-hv-sic-applications-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The Undoing Of Jensen",
+    "source": "Electronics Weekly",
+    "snippet": "There are several ways of looking at the ousting of Jensen Huang: To China it’s a political move by Washington to provide reasons and methods for tightening supplies of advanced […] The post The Undoing Of Jensen appeared first on Electronics Weekly .",
+    "published": "2026-11-16T14:00:36+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-undoing-of-jensen-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+    "source": "IEEE Spectrum",
+    "snippet": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, trackin",
+    "published": "2026-11-16T14:00:02+00:00",
+    "authors": "Max G. Levy",
+    "link": "https://spectrum.ieee.org/telesurgery-stroke",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Technology as a Trojan Horse",
+    "source": "EE Times",
+    "snippet": "Jensen Huang is no longer leading Nvidia, but his Trojan horse question remains, for chips and for the rest of the technology stack: sell and try to control, or don’t sell and maybe delay? The post Technology as a Trojan Horse appeared first on EE Times .",
+    "published": "2026-11-16T13:59:50+00:00",
+    "authors": "Moshe Zalcberg",
+    "link": "https://www.eetimes.com/technology-as-a-trojan-horse/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Inspecting a DOCSIS 3.1 cable modem’s internals: Part 1",
+    "source": "EDN",
+    "snippet": "The publication ordering might not be as originally envisioned, but this two-part NETGEAR CM1000 teardown still aspires to be interesting. The post Inspecting a DOCSIS 3.1 cable modem’s internals: Part 1 appeared first on EDN .",
+    "published": "2026-11-16T13:00:19+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/inspecting-a-docsis-3-1-cable-modems-internals-part-1/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Würth introduces PowerBusbar PF for standard PCBs",
+    "source": "Electronics Weekly",
+    "snippet": "Würth Elektronik ICS is introducing the PowerBusbar PF (press-fit). This is a busbar that is press-fit vertically into PCBs to save space and increase current-carrying capacity. It also improves thermal […] The post Würth introduces PowerBusbar PF for standard PCBs appeared first on Electronics Week",
+    "published": "2026-11-16T12:09:48+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/wurth-introduces-powerbusbar-pf-for-standard-pcbs-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+    "source": "IEEE Spectrum",
+    "snippet": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+    "published": "2026-11-16T11:00:03+00:00",
+    "authors": "Evident",
+    "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+    "published": "2026-11-16T11:00:03+00:00",
+    "authors": "Evident",
+    "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
+    "title": "San Francisco Agreement on secure supply chains signed",
+    "source": "Electronics Weekly",
+    "snippet": "On November 15, the United States and nine Pax Silica participants signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity at the Pax Silica Founders Retreat, convened […] The post San Francisco Agreement on secure supply chains signed appeared first on Electronics Week",
+    "published": "2026-11-16T10:49:17+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/san-francisco-agreement-on-secure-supply-chains-signed-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Binder M5 portfolio adds field-wireable, shieldable connectors",
+    "source": "Electronics Weekly",
+    "snippet": "Binder is expanding its M5 portfolio with field-wireable and shieldable male and female cable connectors. The circular industrial connector specialist highlights that users can now assemble the compact connectors onto […] The post Binder M5 portfolio adds field-wireable, shieldable connectors appear",
+    "published": "2026-11-16T10:11:51+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/connectors/binder-m5-portfolio-adds-field-wireable-shieldable-connectors-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among other",
+    "published": "2026-11-16T10:00:01+00:00",
+    "authors": "VicOne",
+    "link": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "The Sound of Smarter Farming",
     "source": "EE Times",
     "snippet": "From birdsong and pollinator wingbeats to the vibrations of insects feeding inside plants, acoustic sensors and AI are helping farmers monitor biodiversity, improve pollination, and detect threats to crops. The post The Sound of Smarter Farming appeared first on EE Times .",
@@ -29,7 +173,7 @@
   {
     "title": "TSMC to set up venture arm",
     "source": "Electronics Weekly",
-    "snippet": "TSMC is setting up a venture arm to invest in device startups, suppliers and customers. The $500 million initiative could invest in its supply chain partners according to Kevin Zhang, […] The post TSMC to set up venture arm appeared first on Electronics Weekly .",
+    "snippet": "TSMC is setting up a venture arm to invest in device startups, suppliers and customers. The $500m initiative could invest in its supply chain partners, according to Kevin Zhang, TSMC’s […] The post TSMC to set up venture arm appeared first on Electronics Weekly .",
     "published": "2026-11-16T06:14:01+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/tsmc-to-set-up-venture-arm-2026-11/",
@@ -38,19 +182,10 @@
   {
     "title": "Nscale debt mounts to $5.5bn",
     "source": "Electronics Weekly",
-    "snippet": "Nscale, the UK neocloud looking to IPO in New York, stated in a new filing that its debt is now $5.5 billion, up from $137.4 million at the end of […] The post Nscale debt mounts to $5.5bn appeared first on Electronics Weekly .",
+    "snippet": "Nscale, the UK neocloud looking to IPO in New York, stated in a new filing that its debt is now $5.5bn, up from $137.4m at the end of June. The […] The post Nscale debt mounts to $5.5bn appeared first on Electronics Weekly .",
     "published": "2026-11-16T06:13:49+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/nscale-debt-mounts-to-5-5bn-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Intel vs AMD",
-    "source": "Electronics Weekly",
-    "snippet": "AMD’s Q4 guidance of ~$17 billion revenue vs Intel’s ~$15.5 billion midpoint is almost entirely driven by the gap in datacentre revenue, reports Counterpoint Research, AMD’s datacentre lead over Intel […] The post Intel vs AMD appeared first on Electronics Weekly .",
-    "published": "2026-11-16T06:11:39+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/intel-vs-amd-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -61,15 +196,6 @@
     "authors": "T.K. Hareendran",
     "link": "https://www.edn.com/the-shocking-science-and-art-of-plastic-welding/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Ed Eyes A Glamorous Chinese Spy",
-    "source": "Electronics Weekly",
-    "snippet": "In all my years as a reasonably successful tech CEO and as a Cabinet Minister of an important country, I have never been targeted by a glamorous Chinese spy, Ed […] The post Ed Eyes A Glamorous Chinese Spy appeared first on Electronics Weekly .",
-    "published": "2026-11-16T01:01:31+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/ed-eyes-a-glamorous-chinese-spy-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Europe’s Digital Wallets May Be More Traceable Than Intended",
@@ -90,31 +216,13 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+    "title": "How Microcredentials Can Help Engineers Build Trustworthy AI",
     "source": "IEEE Spectrum",
     "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challen",
     "published": "2026-11-13T19:00:03+00:00",
     "authors": "Kaitlyn Ridel",
     "link": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
-    "source": "Electronics Weekly",
-    "snippet": "One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car. The post Picture of the Day: Lemo drives Sauber F1 to Electronica appeared first on Electronics Weekly .",
-    "published": "2026-11-13T17:59:01+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
-    "source": "Electronics Weekly",
-    "snippet": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
-    "published": "2026-11-13T15:17:38+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
@@ -135,15 +243,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Technologies Which Died",
-    "source": "Electronics Weekly",
-    "snippet": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
-    "published": "2026-11-13T14:05:31+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Physical AI: Where AI meets the physical world",
     "source": "EDN",
     "snippet": "Industry experts discuss why touch, multimodal sensing, and edge processing are essential to the next generation of intelligent machines. The post Physical AI: Where AI meets the physical world appeared first on EDN .",
@@ -151,15 +250,6 @@
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/physical-ai-where-ai-meets-the-physical-world/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Electronica: Renesas adds Xplorer Developer Hub",
-    "source": "Electronics Weekly",
-    "snippet": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
-    "published": "2026-11-13T13:58:00+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "The tchotchke",
@@ -189,24 +279,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Jensen Resigns Over Second Affair",
-    "source": "EE Times",
-    "snippet": "Nvidia CEO’s second affair scandal in a week prompted his resignation, and the board is now searching for a new leader for the company. The post Jensen Resigns Over Second Affair appeared first on EE Times .",
-    "published": "2026-11-12T20:48:35+00:00",
-    "authors": "Sally Ward-Foxton",
-    "link": "https://www.eetimes.com/jensen-resigns-over-second-affair/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Design Smarter – Energy Harvesting for Battery-Free and Low-Maintenance Devices in Safety & Security applications",
-    "source": "EE Times",
-    "snippet": "Battery-powered sensors and detectors underpin modern safety and security systems, yet they create a constant maintenance burden. Hundreds of devices need manual battery swaps, often in hard-to-reach places, interrupting reliability and raising costs.This document paper shows hardware and system des",
-    "published": "2026-11-12T15:00:00+00:00",
-    "authors": "Nexperia",
-    "link": "https://www.eetimes.com/design-smarter-energy-harvesting-for-battery-free-and-low-maintenance-devices-in-safety-security-applications/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Google’s Fitbit Air: Another display-less option for tech you wear",
     "source": "EDN",
     "snippet": "Minimal- and no-display device values aren’t unique to wearables but are uniquely optimal for the needs and desires of wearable device users. The post Google’s Fitbit Air: Another display-less option for tech you wear appeared first on EDN .",
@@ -216,15 +288,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Can Machines See a Sick Plant Before a Farmer Can?",
-    "source": "EE Times",
-    "snippet": "Soybean disease research shows the promise of hyperspectral imaging, while semiconductor advances could make spectral sensing affordable for farmers. The post Can Machines See a Sick Plant Before a Farmer Can? appeared first on EE Times .",
-    "published": "2026-11-12T13:00:00+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "MCU revitalizing SDVs with diverse compute, virtual prototyping",
     "source": "EDN",
     "snippet": "The new MCU aims to simplify SDV development with a scalable device that supports multiple automotive domains. The post MCU revitalizing SDVs with diverse compute, virtual prototyping appeared first on EDN .",
@@ -232,24 +295,6 @@
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/mcu-revitalizing-sdvs-with-diverse-compute-virtual-prototyping/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Connecting AI to the Physical World",
-    "source": "EE Times",
-    "snippet": "Why specialized wireless devices and SDR software IP matter to the next wave of intelligent machines The post Connecting AI to the Physical World appeared first on EE Times .",
-    "published": "2026-11-12T10:20:00+00:00",
-    "authors": "Eric K. C. Tsang, CEO and founder, Vicinity Technologies Limited",
-    "link": "https://www.eetimes.com/connecting-ai-to-the-physical-world/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Harari Warns Tech Leaders Against Pursuing AI Superintelligence",
-    "source": "EE Times",
-    "snippet": "At Gartner IT Symposium/Xpo 2026, philosopher Yuval Noah Harari makes an appeal to delay artificial superintelligence as it threatens to erode human agency and democratic sovereignty. The post Harari Warns Tech Leaders Against Pursuing AI Superintelligence appeared first on EE Times .",
-    "published": "2026-11-12T08:30:00+00:00",
-    "authors": "Pablo Valerio",
-    "link": "https://www.eetimes.com/harari-warns-tech-leaders-against-pursuing-ai-superintelligence/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots?",
@@ -285,15 +330,6 @@
     "published": "2026-11-11T20:28:43+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/isolated-gate-drivers-serve-power-switching-needs/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Automotive LED driver advances animated lighting",
-    "source": "EDN",
-    "snippet": "The Melexis MLX81132 automotive LED driver supplies 24 constant-current channels for high-pixel-count RGB animated interior lighting. The post Automotive LED driver advances animated lighting appeared first on EDN .",
-    "published": "2026-11-11T20:28:41+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/automotive-led-driver-advances-animated-lighting/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -595,39 +631,12 @@
   },
   {
     "title": "Why Engineers Should Brave Capitol Hill",
-    "source": "IEEE Spectrum",
-    "snippet": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an",
-    "published": "2026-10-22T13:00:02+00:00",
-    "authors": "Lucas Laursen",
-    "link": "https://spectrum.ieee.org/engineers-lobbying-congress",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Why Engineers Should Brave Capitol Hill",
     "source": "IEEE Spectrum 计算",
     "snippet": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an",
     "published": "2026-10-22T13:00:02+00:00",
     "authors": "Lucas Laursen",
     "link": "https://spectrum.ieee.org/engineers-lobbying-congress",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
-    "source": "IEEE Spectrum",
-    "snippet": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect . He will begin serving as president on 1 January 2028. Schindler, who was nominated by the IEEE Board of Directors , received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874",
-    "published": "2026-10-21T18:00:03+00:00",
-    "authors": "Joanna Goodrich",
-    "link": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
-    "source": "IEEE Spectrum",
-    "snippet": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volun",
-    "published": "2026-10-21T13:00:02+00:00",
-    "authors": "Eliza Strickland",
-    "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
@@ -1041,15 +1050,6 @@
     "published": "2026-06-24T13:00:01+00:00",
     "authors": "Kaushik Sengupta",
     "link": "https://spectrum.ieee.org/ai-radio-chip-design",
-    "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "The EU Wants Its Own Tech Supply Chain",
-    "source": "IEEE Spectrum 半导体",
-    "snippet": "It’s little secret that Europe is dependent on foreign technology—particularly U.S. tech—for office software, cloud services, AI, and more. This may have been easy to accept just several years ago, but when the United States government now openly threatens European countries with military action, th",
-    "published": "2026-06-23T10:00:03+00:00",
-    "authors": "Rahul Rao",
-    "link": "https://spectrum.ieee.org/europe-tech-sovereignty-package",
     "category": "半导体 / RFIC / 射频器件"
   },
   {
