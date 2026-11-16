@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "The shocking science (and art) of plastic welding",
+      "source": "EDN",
+      "snippet": "Mastering plastic welding means you can rapidly prototype, repair lab gear, modify off-the-shelf enclosures, and fix rugged field equipment. The post The shocking science (and art) of plastic welding appeared first on EDN .",
+      "published": "2026-11-16T05:49:42+00:00",
+      "authors": "T.K. Hareendran",
+      "link": "https://www.edn.com/the-shocking-science-and-art-of-plastic-welding/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Physical AI: Where AI meets the physical world",
       "source": "EDN",
       "snippet": "Industry experts discuss why touch, multimodal sensing, and edge processing are essential to the next generation of intelligent machines. The post Physical AI: Where AI meets the physical world appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-11T20:28:41+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/automotive-led-driver-advances-animated-lighting/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Wideband switch eases RF front-end design",
-      "source": "EDN",
-      "snippet": "A reflective SPDT RF switch, the PE423213 from pSemi, operates from 0.3 GHz to 10.6 GHz with a typical supply current of just 95 nA. The post Wideband switch eases RF front-end design appeared first on EDN .",
-      "published": "2026-11-11T20:27:24+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/wideband-switch-eases-rf-front-end-design/",
       "category": "EDN 电子设计新闻"
     }
   ]

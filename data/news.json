@@ -1,5 +1,68 @@
 [
   {
+    "title": "The Sound of Smarter Farming",
+    "source": "EE Times",
+    "snippet": "From birdsong and pollinator wingbeats to the vibrations of insects feeding inside plants, acoustic sensors and AI are helping farmers monitor biodiversity, improve pollination, and detect threats to crops. The post The Sound of Smarter Farming appeared first on EE Times .",
+    "published": "2026-11-16T06:59:20+00:00",
+    "authors": "Rebecca Pool",
+    "link": "https://www.eetimes.com/the-sound-of-smarter-farming/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "DRAM companies fail to get price-fixing case dismissed",
+    "source": "Electronics Weekly",
+    "snippet": "The memory makers are facing a price-fixing legal case after a US judge rejected a move by Samsung, Hynix and Micron to have a class-action antitrust lawsuit dismissed. The lawsuit, […] The post DRAM companies fail to get price-fixing case dismissed appeared first on Electronics Weekly .",
+    "published": "2026-11-16T06:16:33+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/dram-companies-sued-for-price-fixing-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Nvidia taps Rene Haas for CEO",
+    "source": "Electronics Weekly",
+    "snippet": "Nvidia has tapped Arm CEO Rene Haas to be CEO of Nvidia, reports the FT. Haas is one of several possibilities, internal and external, being considered by Nvidia’s board. Haas […] The post Nvidia taps Rene Haas for CEO appeared first on Electronics Weekly .",
+    "published": "2026-11-16T06:15:24+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nvidia-taps-rene-haas-for-ceo-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "TSMC to set up venture arm",
+    "source": "Electronics Weekly",
+    "snippet": "TSMC is setting up a venture arm to invest in device startups, suppliers and customers. The $500 million initiative could invest in its supply chain partners according to Kevin Zhang, […] The post TSMC to set up venture arm appeared first on Electronics Weekly .",
+    "published": "2026-11-16T06:14:01+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/tsmc-to-set-up-venture-arm-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Nscale debt mounts to $5.5bn",
+    "source": "Electronics Weekly",
+    "snippet": "Nscale, the UK neocloud looking to IPO in New York, stated in a new filing that its debt is now $5.5 billion, up from $137.4 million at the end of […] The post Nscale debt mounts to $5.5bn appeared first on Electronics Weekly .",
+    "published": "2026-11-16T06:13:49+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nscale-debt-mounts-to-5-5bn-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Intel vs AMD",
+    "source": "Electronics Weekly",
+    "snippet": "AMD’s Q4 guidance of ~$17 billion revenue vs Intel’s ~$15.5 billion midpoint is almost entirely driven by the gap in datacentre revenue, reports Counterpoint Research, AMD’s datacentre lead over Intel […] The post Intel vs AMD appeared first on Electronics Weekly .",
+    "published": "2026-11-16T06:11:39+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/intel-vs-amd-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The shocking science (and art) of plastic welding",
+    "source": "EDN",
+    "snippet": "Mastering plastic welding means you can rapidly prototype, repair lab gear, modify off-the-shelf enclosures, and fix rugged field equipment. The post The shocking science (and art) of plastic welding appeared first on EDN .",
+    "published": "2026-11-16T05:49:42+00:00",
+    "authors": "T.K. Hareendran",
+    "link": "https://www.edn.com/the-shocking-science-and-art-of-plastic-welding/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
     "title": "Ed Eyes A Glamorous Chinese Spy",
     "source": "Electronics Weekly",
     "snippet": "In all my years as a reasonably successful tech CEO and as a Cabinet Minister of an important country, I have never been targeted by a glamorous Chinese spy, Ed […] The post Ed Eyes A Glamorous Chinese Spy appeared first on Electronics Weekly .",
@@ -18,6 +81,15 @@
     "category": "计算 / 通信系统"
   },
   {
+    "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
+    "source": "EE Times",
+    "snippet": "Atlantic Canada’s coastal engineering cluster is turning specialized components and rugged hardware into exportable tools for subsea research, security, and resource markets. The post Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs appeared first on EE Times .",
+    "published": "2026-11-13T20:00:00+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "How Microcredentials Help Engineers Build Trustworthy AI",
     "source": "IEEE Spectrum",
     "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challen",
@@ -25,15 +97,6 @@
     "authors": "Kaitlyn Ridel",
     "link": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
-    "source": "EE Times",
-    "snippet": "Atlantic Canada’s coastal engineering cluster is turning specialized components and rugged hardware into exportable tools for subsea research, security, and resource markets. The post Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs appeared first on EE Times .",
-    "published": "2026-11-13T18:00:00+00:00",
-    "authors": "Gary Hilson",
-    "link": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
@@ -108,24 +171,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Electronica – The latest news roundup",
-    "source": "Electronics Weekly",
-    "snippet": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-    "published": "2026-11-13T11:12:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
-    "source": "Electronics Weekly",
-    "snippet": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
-    "published": "2026-11-13T11:09:27+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
     "source": "IEEE Spectrum",
     "snippet": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options. What you will learn about: How freezing rain, rime ice and wet snow add weight to conductors and change their s",
@@ -142,33 +187,6 @@
     "authors": "Christopher McGrady",
     "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "STEM for space – UK Space Agency invests £4.5m for ESERO-UK",
-    "source": "Electronics Weekly",
-    "snippet": "The UK Space Agency (UKSA) is partnering with the European Space Agency (ESA) for the latest ESERO-UK programme. Investing £4.5 million, the programme aims to inspire young people into space […] The post STEM for space – UK Space Agency invests £4.5m for ESERO-UK appeared first on Electronics Weekly",
-    "published": "2026-11-13T10:08:56+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/design/stem/stem-for-space-uk-space-agency-invests-4-5m-for-esero-uk-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM",
-    "source": "Electronics Weekly",
-    "snippet": "The most popular articles on the site cover TME showcasing the Arduino VENTUNO Q, our latest news from Electronica, and an apology from Jensen Huang... The post Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM appeared first on Electronics Weekly .",
-    "published": "2026-11-13T10:05:53+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-electronica-2026-7nm-fdsoi-3d-dram-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Panmesia and Intel hook up on CXL",
-    "source": "Electronics Weekly",
-    "snippet": "Panmnesia, the Korean developer of link solutions for AI infrastructure, has signed an MOU with Intel Korea to collaborate on CXL technology. The agreement aims to bring CXL-based servers into […] The post Panmesia and Intel hook up on CXL appeared first on Electronics Weekly .",
-    "published": "2026-11-13T06:14:02+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/panmesia-and-intel-hook-up-on-cxl-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Jensen Resigns Over Second Affair",
@@ -234,15 +252,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
-    "source": "EE Times",
-    "snippet": "Explore the road to Level 4 autonomy as experts tackle safety, AI, regulation, and trust—watch the Automotive Tech Forum panel. The post Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving appeared first on EE Times .",
-    "published": "2026-11-11T23:39:41+00:00",
-    "authors": "AspenCore Events",
-    "link": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots?",
     "source": "EDN",
     "snippet": "Incremental tweaks to existing products, as well as a few new derivatives, are par for the course. But autonomous security drones and robots? The post Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots? appeared first on EDN .",
@@ -285,15 +294,6 @@
     "published": "2026-11-11T20:28:41+00:00",
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/automotive-led-driver-advances-animated-lighting/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Wideband switch eases RF front-end design",
-    "source": "EDN",
-    "snippet": "A reflective SPDT RF switch, the PE423213 from pSemi, operates from 0.3 GHz to 10.6 GHz with a typical supply current of just 95 nA. The post Wideband switch eases RF front-end design appeared first on EDN .",
-    "published": "2026-11-11T20:27:24+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/wideband-switch-eases-rf-front-end-design/",
     "category": "EDN 电子设计新闻"
   },
   {
