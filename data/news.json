@@ -1,5 +1,68 @@
 [
   {
+    "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+    "source": "IEEE Spectrum",
+    "snippet": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents. Those issues are relatively new to many peopl",
+    "published": "2026-11-17T19:00:03+00:00",
+    "authors": "Kathy Pretz",
+    "link": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Everspin Looks to Broaden MRAM Adoption with LPDDR Standard",
+    "source": "EE Times",
+    "snippet": "An exploratory JEDEC task group is weighing how controller vendors could support MRAM with hard IP to work with newer LPDDR implementations. The post Everspin Looks to Broaden MRAM Adoption with LPDDR Standard appeared first on EE Times .",
+    "published": "2026-11-17T17:26:57+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/everspin-looks-to-broaden-mram-adoption-with-lpddr-standard/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "These Engineers Are Cleaning Up Connected Cars’ Security Flaws",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Today’s connected vehicles collect and transmit far more personal data from drivers and passengers than their predecessors, with costly consequences. The Center for Automotive Management in Germany estimates that cyberattacks have caused more than $20 billion in damage to the auto industry as of 202",
+    "published": "2026-11-17T16:00:03+00:00",
+    "authors": "Eva Dou",
+    "link": "https://spectrum.ieee.org/connected-cars-security",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "LTCC Solutions for Next Generation UWB/BLE Devices",
+    "source": "EE Times",
+    "snippet": "Discover TAIYO YUDEN’s advanced LTCC (Low Temperature Co-fired Ceramic) solutions for UWB and Bluetooth Low Energy (BLE) applications. Featuring high-performance RF components, these solutions address key design challenges such as miniaturization, reliable wireless connectivity, RF performance, and ",
+    "published": "2026-11-17T15:00:00+00:00",
+    "authors": "TAIYO YUDEN (U.S.A.) INC.",
+    "link": "https://www.eetimes.com/ltcc-solutions-for-next-generation-uwb-ble-devices/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Minimizing Acoustic Noise in Space-Constrained Medical and Life Science Applications",
+    "source": "EE Times",
+    "snippet": "Design engineers and technical decision-makers working on medical and life science equipment must balance competing demands: high power density, thermal performance, compact dimensions, and low acoustic noise. This whitepaper provides practical insight into the causes of noise in space-constrained p",
+    "published": "2026-11-17T15:00:00+00:00",
+    "authors": "Giulio Bocciolini, Senior Product Marketing Manager EMEA, TDK-Lambda EMEA",
+    "link": "https://www.eetimes.com/minimising-acoustic-noise-in-space-constrained-medical-and-life-science-applications/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "AI Is Giving Optical Computing Another Shot",
+    "source": "IEEE Spectrum",
+    "snippet": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, ",
+    "published": "2026-11-17T14:00:03+00:00",
+    "authors": "Dina Genkina",
+    "link": "https://spectrum.ieee.org/optical-computing-ai",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "AI Is Giving Optical Computing Another Shot",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, ",
+    "published": "2026-11-17T14:00:03+00:00",
+    "authors": "Dina Genkina",
+    "link": "https://spectrum.ieee.org/optical-computing-ai",
+    "category": "计算 / 通信系统"
+  },
+  {
     "title": "In-space MOSFET failure mitigation",
     "source": "EDN",
     "snippet": "This Design Idea describes how a critical in-flight power supply unit issue was analyzed and resolved successfully. The post In-space MOSFET failure mitigation appeared first on EDN .",
@@ -16,15 +79,6 @@
     "authors": "Anritsu",
     "link": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
-    "source": "Electronics Weekly",
-    "snippet": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
-    "published": "2026-11-17T10:55:04+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Capacitor ESR challenges high-current, fast-transient power sources",
@@ -54,69 +108,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Decline And Fall",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time […] The post Decline And Fall appeared first on Electronics Weekly .",
-    "published": "2026-11-17T06:20:11+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Now’s the time to rethink the GPU/datacentre model says Penn",
-    "source": "Electronics Weekly",
-    "snippet": "“Jensen Huang’s spectacular demise could not have come at a worse time for the growing divide between investor optimism about AI’s long-term potential and concern over the timing and scale […] The post Now’s the time to rethink the GPU/datacentre model says Penn appeared first on Electronics Weekly ",
-    "published": "2026-11-17T06:15:06+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Nvidia launches Rubin HPC with 50k CUDA cores",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia has launched Rubin HPC – a new GPU in the NVIDIA Vera Rubin platform with more than 50,000 CUDA cores – which is expected to be available in 2028. […] The post Nvidia launches Rubin HPC with 50k CUDA cores appeared first on Electronics Weekly .",
-    "published": "2026-11-17T06:14:27+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nvidia-launches-rubin-hpc-with-50k-cuda-cores-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Anglia signs Cimo Microelectronics",
-    "source": "Electronics Weekly",
-    "snippet": "Anglia Components has signed a pan-European franchise agreement with Cimo Microelectronics, the Chinese maker of high-precision, high-speed ADCs, DACs, amplifiers, voltage references and PMICs. Says John Bowman, Anglia’s Marketing Director: […] The post Anglia signs Cimo Microelectronics appeared fi",
-    "published": "2026-11-17T06:08:33+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/anglia-signs-cimo-microelectronics-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Melexis launches fingertip modules for humanoid robots",
-    "source": "Electronics Weekly",
-    "snippet": "Melexis has introduced the MLX90901 Tactile Fingertip Module, bringing true 3D force sensing (normal & shear) to humanoid robotic hands. The company’s first mechatronic module combines its Tactaxis sensing technology […] The post Melexis launches fingertip modules for humanoid robots appeared first ",
-    "published": "2026-11-17T06:07:11+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/melexis-launches-fingertip-modules-for-humanoid-robots-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "ST adds 600V devices to STDRIVE portfolio",
-    "source": "Electronics Weekly",
-    "snippet": "ST has extended its STDRIVE family of three-phase gate drivers with two new 600V devices that let motor drives and inverters operate directly from a high-voltage bus. The STDRIVE631P and […] The post ST adds 600V devices to STDRIVE portfolio appeared first on Electronics Weekly .",
-    "published": "2026-11-17T06:02:37+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/st-adds-600v-devices-to-stdrie-portfolio-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "China’s Radio Makers Advance Towards Standardisation",
-    "source": "Electronics Weekly",
-    "snippet": "One of the big problems that China is facing in her efforts to create an industrial society is to establish methods of standardisation. This applies with particular force in the […] The post China’s Radio Makers Advance Towards Standardisation appeared first on Electronics Weekly .",
-    "published": "2026-11-17T01:01:13+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/chinas-radio-makers-advance-towards-standardisation-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Taking a Tour of Canada’s Particle Accelerator",
     "source": "EE Times",
     "snippet": "Located on Canada’s west coast, TRIUMF’s normal-conducting cyclotron, unique materials probes, and irradiation facilities serve everything from quantum materials and radiation-hardened electronics to medical isotopes. The post Taking a Tour of Canada’s Particle Accelerator appeared first on EE Times",
@@ -124,15 +115,6 @@
     "authors": "Gary Hilson",
     "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Iceye Gen5 SAR satellites bring 11 cm imaging",
-    "source": "Electronics Weekly",
-    "snippet": "Iceye has unveiled Gen5, its latest synthetic aperture radar (SAR) satellite system. Aimed at government Earth Observation missions, Gen5 can image with 1,800 MHz of bandwidth. And it sharps ground […] The post Iceye Gen5 SAR satellites bring 11 cm imaging appeared first on Electronics Weekly .",
-    "published": "2026-11-16T17:43:16+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/iceye-gen5-sar-satellites-bring-11-cm-imaging-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Simplifying Power Design with µModule Solutions",
@@ -160,15 +142,6 @@
     "authors": "Nisshinbo Micro Devices",
     "link": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Isolated dc-dc converters support HV SiC applications",
-    "source": "Electronics Weekly",
-    "snippet": "Electronica 2026 – Murata introduced the MGJ2T2 series of 2W, SiP isolated gate drive dc-dc converters for high voltage SiC power applications, such as energy stroage, distribution and EV charging. […] The post Isolated dc-dc converters support HV SiC applications appeared first on Electronics Weekl",
-    "published": "2026-11-16T16:37:08+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/products/isolated-dc-dc-converters-support-hv-sic-applications-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
@@ -252,15 +225,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
-    "source": "EE Times",
-    "snippet": "Atlantic Canada’s coastal engineering cluster is turning specialized components and rugged hardware into exportable tools for subsea research, security, and resource markets. The post Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs appeared first on EE Times .",
-    "published": "2026-11-13T20:00:00+00:00",
-    "authors": "Gary Hilson",
-    "link": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "How Microcredentials Can Help Engineers Build Trustworthy AI",
     "source": "IEEE Spectrum",
     "snippet": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challen",
@@ -268,24 +232,6 @@
     "authors": "Kaitlyn Ridel",
     "link": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
-    "source": "EE Times",
-    "snippet": "This paper first examines how total ionizing dose and single-event effects degrade NOR Flash. It focuses on the charge pumps, sense amplifiers, and control logic that often fail before the storage array does. It then presents a method for deriving radiation requirements from four mission inputs (orb",
-    "published": "2026-11-13T15:00:00+00:00",
-    "authors": "Infineon Technologies",
-    "link": "https://www.eetimes.com/newspace-grade-nor-flash-right-sized-reliability-for-space-missions/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
-    "source": "EE Times",
-    "snippet": "Explore how electronica 2026 shows chipmakers shifting to AI platforms as data centers, edge AI, and robotics reshape power and silicon. The post electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage appeared first on EE Times .",
-    "published": "2026-11-13T14:47:27+00:00",
-    "authors": "Nitin Dahad",
-    "link": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Physical AI: Where AI meets the physical world",
@@ -586,15 +532,6 @@
   },
   {
     "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
-    "source": "IEEE Spectrum",
-    "snippet": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments",
-    "published": "2026-10-25T12:00:02+00:00",
-    "authors": "Ralph Earle",
-    "link": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
     "source": "IEEE Spectrum 计算",
     "snippet": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments",
     "published": "2026-10-25T12:00:02+00:00",
@@ -610,15 +547,6 @@
     "authors": "Edd Gent",
     "link": "https://spectrum.ieee.org/biometric-voting-technology",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "From Chip Lab to Center Stage",
-    "source": "IEEE Spectrum",
-    "snippet": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi",
-    "published": "2026-10-23T18:00:03+00:00",
-    "authors": "Joanna Goodrich",
-    "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "From Chip Lab to Center Stage",
@@ -898,24 +826,6 @@
     "authors": "Ritu Favre",
     "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Poetry for Engineers: Safe Distance",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "How do I touch you across the ocean, across cold depths where light travels through glass. Not copper—fibers. Optical. Through liquid glass, through flickering light that carries you in fragments. Light broken into pulses. You say: it’s easier this way. What are we missing like this? You smile. Safe",
-    "published": "2026-08-23T13:00:01+00:00",
-    "authors": "Danica Radovanović",
-    "link": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
-    "category": "计算 / 通信系统"
-  },
-  {
-    "title": "From AI Copilots to Agent Swarms",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing t",
-    "published": "2026-08-17T14:00:01+00:00",
-    "authors": "Andrej Zdravkovic",
-    "link": "https://spectrum.ieee.org/amd-agent-swarms",
-    "category": "计算 / 通信系统"
   },
   {
     "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
