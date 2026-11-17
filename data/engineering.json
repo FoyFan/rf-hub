@@ -382,6 +382,33 @@
   ],
   "news": [
     {
+      "title": "In-space MOSFET failure mitigation",
+      "source": "EDN",
+      "snippet": "This Design Idea describes how a critical in-flight power supply unit issue was analyzed and resolved successfully. The post In-space MOSFET failure mitigation appeared first on EDN .",
+      "published": "2026-11-17T13:00:40+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/in-space-mosfet-failure-mitigation/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Capacitor ESR challenges high-current, fast-transient power sources",
+      "source": "EDN",
+      "snippet": "Capacitor’s equivalent series resistance (ESR) and its assessment lead to significant power-converter issues. The post Capacitor ESR challenges high-current, fast-transient power sources appeared first on EDN .",
+      "published": "2026-11-17T10:37:57+00:00",
+      "authors": "C aliou cisse",
+      "link": "https://www.edn.com/capacitor-esr-challenges-high-current-fast-transient-power-sources/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Building AI SoCs with a continuous hardware verification strategy",
+      "source": "EDN",
+      "snippet": "Integrated emulation and prototyping give IC teams earlier visibility into RTL, software behavior, system performance, and power efficiency. The post Building AI SoCs with a continuous hardware verification strategy appeared first on EDN .",
+      "published": "2026-11-17T06:50:17+00:00",
+      "authors": "Vijay Chobisa",
+      "link": "https://www.edn.com/building-ai-socs-with-a-continuous-hardware-verification-strategy/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Inspecting a DOCSIS 3.1 cable modem’s internals: Part 1",
       "source": "EDN",
       "snippet": "The publication ordering might not be as originally envisioned, but this two-part NETGEAR CM1000 teardown still aspires to be interesting. The post Inspecting a DOCSIS 3.1 cable modem’s internals: Part 1 appeared first on EDN .",
@@ -442,33 +469,6 @@
       "published": "2026-11-11T21:00:04+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/amazons-fall-2026-smart-home-and-business-thoughts-enter-the-drones-and-robots/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "PMIC boosts efficiency in 1.6T optical modules",
-      "source": "EDN",
-      "snippet": "Jeju is a custom multiphase PMIC from MaxLinear designed for DSP-based 1.6T pluggable optical modules used in AI infrastructure. The post PMIC boosts efficiency in 1.6T optical modules appeared first on EDN .",
-      "published": "2026-11-11T20:28:46+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/pmic-boosts-efficiency-in-1-6t-optical-modules/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "NXP simplifies robotics system development",
-      "source": "EDN",
-      "snippet": "NXP’s unified robotics platform speeds robotic-system development with a modular, open-source SDK and prototype-ready reference designs. The post NXP simplifies robotics system development appeared first on EDN .",
-      "published": "2026-11-11T20:28:44+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/nxp-simplifies-robotics-system-development/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Isolated gate drivers serve power-switching needs",
-      "source": "EDN",
-      "snippet": "Diodes’ API21550 and API21552 dual-channel isolated gate drivers provide high-voltage isolation for power-switching applications. The post Isolated gate drivers serve power-switching needs appeared first on EDN .",
-      "published": "2026-11-11T20:28:43+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/isolated-gate-drivers-serve-power-switching-needs/",
       "category": "EDN 电子设计新闻"
     }
   ]

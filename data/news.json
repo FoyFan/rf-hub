@@ -1,5 +1,113 @@
 [
   {
+    "title": "In-space MOSFET failure mitigation",
+    "source": "EDN",
+    "snippet": "This Design Idea describes how a critical in-flight power supply unit issue was analyzed and resolved successfully. The post In-space MOSFET failure mitigation appeared first on EDN .",
+    "published": "2026-11-17T13:00:40+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/in-space-mosfet-failure-mitigation/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+    "source": "IEEE Spectrum",
+    "snippet": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) add value, including asset tracking, agriculture, public safety, and offshore op",
+    "published": "2026-11-17T11:00:04+00:00",
+    "authors": "Anritsu",
+    "link": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
+    "source": "Electronics Weekly",
+    "snippet": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
+    "published": "2026-11-17T10:55:04+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Capacitor ESR challenges high-current, fast-transient power sources",
+    "source": "EDN",
+    "snippet": "Capacitor’s equivalent series resistance (ESR) and its assessment lead to significant power-converter issues. The post Capacitor ESR challenges high-current, fast-transient power sources appeared first on EDN .",
+    "published": "2026-11-17T10:37:57+00:00",
+    "authors": "C aliou cisse",
+    "link": "https://www.edn.com/capacitor-esr-challenges-high-current-fast-transient-power-sources/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready",
+    "source": "EE Times",
+    "snippet": "The banking group reports double-digit cost savings from quantum-inspired optimization, but useful quantum hardware faces a tougher test than faster calculations. The post Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready appeared first on EE Times .",
+    "published": "2026-11-17T09:16:07+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/intesa-sanpaolo-finds-value-before-quantum-computers-are-ready/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Building AI SoCs with a continuous hardware verification strategy",
+    "source": "EDN",
+    "snippet": "Integrated emulation and prototyping give IC teams earlier visibility into RTL, software behavior, system performance, and power efficiency. The post Building AI SoCs with a continuous hardware verification strategy appeared first on EDN .",
+    "published": "2026-11-17T06:50:17+00:00",
+    "authors": "Vijay Chobisa",
+    "link": "https://www.edn.com/building-ai-socs-with-a-continuous-hardware-verification-strategy/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Decline And Fall",
+    "source": "Electronics Weekly",
+    "snippet": "Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time […] The post Decline And Fall appeared first on Electronics Weekly .",
+    "published": "2026-11-17T06:20:11+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Now’s the time to rethink the GPU/datacentre model says Penn",
+    "source": "Electronics Weekly",
+    "snippet": "“Jensen Huang’s spectacular demise could not have come at a worse time for the growing divide between investor optimism about AI’s long-term potential and concern over the timing and scale […] The post Now’s the time to rethink the GPU/datacentre model says Penn appeared first on Electronics Weekly ",
+    "published": "2026-11-17T06:15:06+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Nvidia launches Rubin HPC with 50k CUDA cores",
+    "source": "Electronics Weekly",
+    "snippet": "Nvidia has launched Rubin HPC – a new GPU in the NVIDIA Vera Rubin platform with more than 50,000 CUDA cores – which is expected to be available in 2028. […] The post Nvidia launches Rubin HPC with 50k CUDA cores appeared first on Electronics Weekly .",
+    "published": "2026-11-17T06:14:27+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nvidia-launches-rubin-hpc-with-50k-cuda-cores-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Anglia signs Cimo Microelectronics",
+    "source": "Electronics Weekly",
+    "snippet": "Anglia Components has signed a pan-European franchise agreement with Cimo Microelectronics, the Chinese maker of high-precision, high-speed ADCs, DACs, amplifiers, voltage references and PMICs. Says John Bowman, Anglia’s Marketing Director: […] The post Anglia signs Cimo Microelectronics appeared fi",
+    "published": "2026-11-17T06:08:33+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/anglia-signs-cimo-microelectronics-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Melexis launches fingertip modules for humanoid robots",
+    "source": "Electronics Weekly",
+    "snippet": "Melexis has introduced the MLX90901 Tactile Fingertip Module, bringing true 3D force sensing (normal & shear) to humanoid robotic hands. The company’s first mechatronic module combines its Tactaxis sensing technology […] The post Melexis launches fingertip modules for humanoid robots appeared first ",
+    "published": "2026-11-17T06:07:11+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/melexis-launches-fingertip-modules-for-humanoid-robots-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "ST adds 600V devices to STDRIVE portfolio",
+    "source": "Electronics Weekly",
+    "snippet": "ST has extended its STDRIVE family of three-phase gate drivers with two new 600V devices that let motor drives and inverters operate directly from a high-voltage bus. The STDRIVE631P and […] The post ST adds 600V devices to STDRIVE portfolio appeared first on Electronics Weekly .",
+    "published": "2026-11-17T06:02:37+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/st-adds-600v-devices-to-stdrie-portfolio-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "China’s Radio Makers Advance Towards Standardisation",
     "source": "Electronics Weekly",
     "snippet": "One of the big problems that China is facing in her efforts to create an industrial society is to establish methods of standardisation. This applies with particular force in the […] The post China’s Radio Makers Advance Towards Standardisation appeared first on Electronics Weekly .",
@@ -63,15 +171,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "The Undoing Of Jensen",
-    "source": "Electronics Weekly",
-    "snippet": "There are several ways of looking at the ousting of Jensen Huang: To China it’s a political move by Washington to provide reasons and methods for tightening supplies of advanced […] The post The Undoing Of Jensen appeared first on Electronics Weekly .",
-    "published": "2026-11-16T14:00:36+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/the-undoing-of-jensen-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
     "source": "IEEE Spectrum",
     "snippet": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, trackin",
@@ -99,15 +198,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Würth introduces PowerBusbar PF for standard PCBs",
-    "source": "Electronics Weekly",
-    "snippet": "Würth Elektronik ICS is introducing the PowerBusbar PF (press-fit). This is a busbar that is press-fit vertically into PCBs to save space and increase current-carrying capacity. It also improves thermal […] The post Würth introduces PowerBusbar PF for standard PCBs appeared first on Electronics Week",
-    "published": "2026-11-16T12:09:48+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/wurth-introduces-powerbusbar-pf-for-standard-pcbs-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
     "source": "IEEE Spectrum",
     "snippet": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
@@ -126,24 +216,6 @@
     "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "San Francisco Agreement on secure supply chains signed",
-    "source": "Electronics Weekly",
-    "snippet": "On November 15, the United States and nine Pax Silica participants signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity at the Pax Silica Founders Retreat, convened […] The post San Francisco Agreement on secure supply chains signed appeared first on Electronics Week",
-    "published": "2026-11-16T10:49:17+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/san-francisco-agreement-on-secure-supply-chains-signed-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Binder M5 portfolio adds field-wireable, shieldable connectors",
-    "source": "Electronics Weekly",
-    "snippet": "Binder is expanding its M5 portfolio with field-wireable and shieldable male and female cable connectors. The circular industrial connector specialist highlights that users can now assemble the compact connectors onto […] The post Binder M5 portfolio adds field-wireable, shieldable connectors appear",
-    "published": "2026-11-16T10:11:51+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/connectors/binder-m5-portfolio-adds-field-wireable-shieldable-connectors-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
     "source": "IEEE Spectrum",
     "snippet": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among other",
@@ -160,33 +232,6 @@
     "authors": "Rebecca Pool",
     "link": "https://www.eetimes.com/the-sound-of-smarter-farming/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "DRAM companies fail to get price-fixing case dismissed",
-    "source": "Electronics Weekly",
-    "snippet": "The memory makers are facing a price-fixing legal case after a US judge rejected a move by Samsung, Hynix and Micron to have a class-action antitrust lawsuit dismissed. The lawsuit, […] The post DRAM companies fail to get price-fixing case dismissed appeared first on Electronics Weekly .",
-    "published": "2026-11-16T06:16:33+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/dram-companies-sued-for-price-fixing-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Nvidia taps Rene Haas for CEO",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia has tapped Arm CEO Rene Haas to be CEO of Nvidia, reports the FT. Haas is one of several possibilities, internal and external, being considered by Nvidia’s board. Haas […] The post Nvidia taps Rene Haas for CEO appeared first on Electronics Weekly .",
-    "published": "2026-11-16T06:15:24+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nvidia-taps-rene-haas-for-ceo-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "TSMC to set up venture arm",
-    "source": "Electronics Weekly",
-    "snippet": "TSMC is setting up a venture arm to invest in device startups, suppliers and customers. The $500m initiative could invest in its supply chain partners, according to Kevin Zhang, TSMC’s […] The post TSMC to set up venture arm appeared first on Electronics Weekly .",
-    "published": "2026-11-16T06:14:01+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/tsmc-to-set-up-venture-arm-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "The shocking science (and art) of plastic welding",
@@ -270,15 +315,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
-    "source": "EE Times",
-    "snippet": "NOVOSENSE NovoGenius MCU+ chips integrate analog, power, and drivers, adding intelligence to automotive edge nodes for motor control, sensing and lighting. The post How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node appeared first on EE Times .",
-    "published": "2026-11-13T10:41:03+00:00",
-    "authors": "Christopher McGrady",
-    "link": "https://www.eetimes.com/how-novogenius-mcu-devices-are-reshaping-the-automotive-edge-node/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Google’s Fitbit Air: Another display-less option for tech you wear",
     "source": "EDN",
     "snippet": "Minimal- and no-display device values aren’t unique to wearables but are uniquely optimal for the needs and desires of wearable device users. The post Google’s Fitbit Air: Another display-less option for tech you wear appeared first on EDN .",
@@ -303,33 +339,6 @@
     "published": "2026-11-11T21:00:04+00:00",
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/amazons-fall-2026-smart-home-and-business-thoughts-enter-the-drones-and-robots/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "PMIC boosts efficiency in 1.6T optical modules",
-    "source": "EDN",
-    "snippet": "Jeju is a custom multiphase PMIC from MaxLinear designed for DSP-based 1.6T pluggable optical modules used in AI infrastructure. The post PMIC boosts efficiency in 1.6T optical modules appeared first on EDN .",
-    "published": "2026-11-11T20:28:46+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/pmic-boosts-efficiency-in-1-6t-optical-modules/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "NXP simplifies robotics system development",
-    "source": "EDN",
-    "snippet": "NXP’s unified robotics platform speeds robotic-system development with a modular, open-source SDK and prototype-ready reference designs. The post NXP simplifies robotics system development appeared first on EDN .",
-    "published": "2026-11-11T20:28:44+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/nxp-simplifies-robotics-system-development/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Isolated gate drivers serve power-switching needs",
-    "source": "EDN",
-    "snippet": "Diodes’ API21550 and API21552 dual-channel isolated gate drivers provide high-voltage isolation for power-switching applications. The post Isolated gate drivers serve power-switching needs appeared first on EDN .",
-    "published": "2026-11-11T20:28:43+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/isolated-gate-drivers-serve-power-switching-needs/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -619,15 +628,6 @@
     "authors": "Joanna Goodrich",
     "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "Why AI Can’t Replace Engineering Teams",
-    "source": "IEEE Spectrum",
-    "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! If you’re an engineer, you may feel like your ski",
-    "published": "2026-10-22T18:02:20+00:00",
-    "authors": "Brian Jenney",
-    "link": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Why Engineers Should Brave Capitol Hill",
