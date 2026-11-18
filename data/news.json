@@ -1,5 +1,95 @@
 [
   {
+    "title": "Micron backs space computing startup in Series B funding round",
+    "source": "Electronics Weekly",
+    "snippet": "Ramon.Space, a space computing infrastructure company, has raised $124 million in a Series B funding round. The round included investment from Micron Technology. The funding was led by equity firm […] The post Micron backs space computing startup in Series B funding round appeared first on Electroni",
+    "published": "2026-11-18T12:01:18+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/finance/micron-backs-space-computing-startup-in-series-b-funding-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+    "published": "2026-11-18T11:48:02+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Announcing the host for the Elektra Awards 2026…",
+    "source": "Electronics Weekly",
+    "snippet": "We are very pleased to announce that our host for the evening for the Elektra Awards 2026 is… Jess Robinson, the multi award-winning comedy impressionist and classically trained singer. Known […] The post Announcing the host for the Elektra Awards 2026… appeared first on Electronics Weekly .",
+    "published": "2026-11-18T10:16:25+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/elektra-awards-news/announcing-the-host-for-the-elektra-awards-2026-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Audio AI in wearables: Enabling smarter, more responsive devices",
+    "source": "EDN",
+    "snippet": "Audio AI combined with edge AI processing and ultra-low-power MEMS microphones enables wearable devices to listen intelligently. The post Audio AI in wearables: Enabling smarter, more responsive devices appeared first on EDN .",
+    "published": "2026-11-18T09:16:18+00:00",
+    "authors": "Calin Miclaus",
+    "link": "https://www.edn.com/audio-ai-in-wearables-enabling-smarter-more-responsive-devices/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Edge AI Moves Agricultural Intelligence from the Cloud to the Field",
+    "source": "EE Times",
+    "snippet": "NXP and Nvidia tackle the challenges of delivering computing power, energy efficiency, and safety as agricultural machinery becomes autonomous. The post Edge AI Moves Agricultural Intelligence from the Cloud to the Field appeared first on EE Times .",
+    "published": "2026-11-18T06:59:00+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/edge-ai-moves-agricultural-intelligence-from-the-cloud-to-the-field/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Nvidia Q3 sparkles. Chairman says no return for Jensen",
+    "source": "Electronics Weekly",
+    "snippet": "Nvidia’s Q3 revenue was $115.8 billion at a gross margin of 74.8%. Net profit was $65.3 billion. Datacentre revenue was up 110% at $107.6 billion. Nvidia expects Q4 revenue of […] The post Nvidia Q3 sparkles. Chairman says no return for Jensen appeared first on Electronics Weekly .",
+    "published": "2026-11-18T06:16:17+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nvidia-q3-sparkles-chairman-says-no-return-for-jensen-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Siemens buys Breker Verification Systems",
+    "source": "Electronics Weekly",
+    "snippet": "Siemens is to buy Breker Verification Systems acquiring SoC-level technologies that accelerate the verification of increasingly complex SoC architectures. Upon closing, the acquisition will strengthen Siemens’ SoC verification portfolio, building […] The post Siemens buys Breker Verification Systems",
+    "published": "2026-11-18T06:12:21+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/siemens-buys-breker-verification-systems-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Imec sets up photonics R&D centre in Hokkaido",
+    "source": "Electronics Weekly",
+    "snippet": "Imec is expanding its activities in Hokkaido, Japan, with the backing of Japan’s Ministry of Economy, Trade and Industry (METI) and in collaboration with Leading-edge Semiconductor Technology Center (LSTC), to […] The post Imec sets up photonics R&D centre in Hokkaido appeared first on Electronics W",
+    "published": "2026-11-18T06:10:52+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/imec-sets-up-photonics-rd-centre-in-hokkaido-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "SkyeChip and SiPearl hook up to design Arm-based CPU",
+    "source": "Electronics Weekly",
+    "snippet": "SkyeChip, the Malaysian IC design company, and SiPearl, the French CPU designer, have signed a non-binding MoU to define, develop and commercialise a next-generation compute platform based on Arm Neoverse […] The post SkyeChip and SiPearl hook up to design Arm-based CPU appeared first on Electronics",
+    "published": "2026-11-18T06:08:12+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/skyechip-and-sipearl-hook-up-to-design-arm-based-cpu-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Farnell selling Panasonic ERJPC series resistors",
+    "source": "Electronics Weekly",
+    "snippet": "Farnell is now selling the ERJPC series of super high-precision thick-film resistors from Panasonic. The series delivers precision levels previously only achievable with thin-film technology, offering engineers a new tool […] The post Farnell selling Panasonic ERJPC series resistors appeared first o",
+    "published": "2026-11-18T06:01:15+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/farnell-selling-panasonic-erjpc-series-resistors-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Top Ten (less 5) Vendors Of Server CPUs",
     "source": "Electronics Weekly",
     "snippet": "Thanks to TrendForce for this one – the top five suppliers of CPUs for servers: The post Top Ten (less 5) Vendors Of Server CPUs appeared first on Electronics Weekly .",
@@ -54,15 +144,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "Government investments of $71.8bn speed militarisation of space",
-    "source": "Electronics Weekly",
-    "snippet": "Governments invested approximately $71.8 billion in space defence and security activities globally in 2025. This is the main finding of Novaspace – the space consulting and market intelligence firm – […] The post Government investments of $71.8bn speed militarisation of space appeared first on Elect",
-    "published": "2026-11-17T15:30:34+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/government-investments-of-71-8bn-speed-militarisation-of-space-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "LTCC Solutions for Next Generation UWB/BLE Devices",
     "source": "EE Times",
     "snippet": "Discover TAIYO YUDEN’s advanced LTCC (Low Temperature Co-fired Ceramic) solutions for UWB and Bluetooth Low Energy (BLE) applications. Featuring high-performance RF components, these solutions address key design challenges such as miniaturization, reliable wireless connectivity, RF performance, and ",
@@ -79,15 +160,6 @@
     "authors": "Giulio Bocciolini, Senior Product Marketing Manager EMEA, TDK-Lambda EMEA",
     "link": "https://www.eetimes.com/minimising-acoustic-noise-in-space-constrained-medical-and-life-science-applications/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "IC design challenges balance safety, longevity and portability in battery management systems",
-    "source": "Electronics Weekly",
-    "snippet": "Battery Management Systems (BMS) as a core power component has evolved into an intelligent and sophisticated system, writes Samudrapom Dam. The BMS plays a key role in battery pack longevity, […] The post IC design challenges balance safety, longevity and portability in battery management systems ap",
-    "published": "2026-11-17T14:00:31+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/ic-design-challenges-balance-safety-longevity-and-portability-in-battery-management-systems-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "AI Is Giving Optical Computing Another Shot",
@@ -126,15 +198,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
-    "source": "Electronics Weekly",
-    "snippet": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
-    "published": "2026-11-17T10:55:04+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Capacitor ESR challenges high-current, fast-transient power sources",
     "source": "EDN",
     "snippet": "Capacitor’s equivalent series resistance (ESR) and its assessment lead to significant power-converter issues. The post Capacitor ESR challenges high-current, fast-transient power sources appeared first on EDN .",
@@ -160,51 +223,6 @@
     "authors": "Vijay Chobisa",
     "link": "https://www.edn.com/building-ai-socs-with-a-continuous-hardware-verification-strategy/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Decline And Fall",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time […] The post Decline And Fall appeared first on Electronics Weekly .",
-    "published": "2026-11-17T06:20:11+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Now’s the time to rethink the GPU/datacentre model says Penn",
-    "source": "Electronics Weekly",
-    "snippet": "“Jensen Huang’s spectacular demise could not have come at a worse time for the growing divide between investor optimism about AI’s long-term potential and concern over the timing and scale […] The post Now’s the time to rethink the GPU/datacentre model says Penn appeared first on Electronics Weekly ",
-    "published": "2026-11-17T06:15:06+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Nvidia launches Rubin HPC with 50k CUDA cores",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia has launched Rubin HPC – a new GPU in the NVIDIA Vera Rubin platform with more than 50,000 CUDA cores – which is expected to be available in 2028. […] The post Nvidia launches Rubin HPC with 50k CUDA cores appeared first on Electronics Weekly .",
-    "published": "2026-11-17T06:14:27+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nvidia-launches-rubin-hpc-with-50k-cuda-cores-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Anglia signs Cimo Microelectronics",
-    "source": "Electronics Weekly",
-    "snippet": "Anglia Components has signed a pan-European franchise agreement with Cimo Microelectronics, the Chinese maker of high-precision, high-speed ADCs, DACs, amplifiers, voltage references and PMICs. Says John Bowman, Anglia’s Marketing Director: […] The post Anglia signs Cimo Microelectronics appeared fi",
-    "published": "2026-11-17T06:08:33+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/anglia-signs-cimo-microelectronics-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Melexis launches fingertip modules for humanoid robots",
-    "source": "Electronics Weekly",
-    "snippet": "Melexis has introduced the MLX90901 Tactile Fingertip Module, bringing true 3D force sensing (normal & shear) to humanoid robotic hands. The company’s first mechatronic module combines its Tactaxis sensing technology […] The post Melexis launches fingertip modules for humanoid robots appeared first ",
-    "published": "2026-11-17T06:07:11+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/melexis-launches-fingertip-modules-for-humanoid-robots-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Taking a Tour of Canada’s Particle Accelerator",
@@ -250,15 +268,6 @@
     "authors": "Max G. Levy",
     "link": "https://spectrum.ieee.org/telesurgery-stroke",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Technology as a Trojan Horse",
-    "source": "EE Times",
-    "snippet": "Jensen Huang is no longer leading Nvidia, but his Trojan horse question remains, for chips and for the rest of the technology stack: sell and try to control, or don’t sell and maybe delay? The post Technology as a Trojan Horse appeared first on EE Times .",
-    "published": "2026-11-16T13:59:50+00:00",
-    "authors": "Moshe Zalcberg",
-    "link": "https://www.eetimes.com/technology-as-a-trojan-horse/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Inspecting a DOCSIS 3.1 cable modem’s internals: Part 1",
@@ -366,15 +375,6 @@
     "published": "2026-11-12T12:07:06+00:00",
     "authors": "Majeed Ahmad",
     "link": "https://www.edn.com/mcu-revitalizing-sdvs-with-diverse-compute-virtual-prototyping/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots?",
-    "source": "EDN",
-    "snippet": "Incremental tweaks to existing products, as well as a few new derivatives, are par for the course. But autonomous security drones and robots? The post Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots? appeared first on EDN .",
-    "published": "2026-11-11T21:00:04+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/amazons-fall-2026-smart-home-and-business-thoughts-enter-the-drones-and-robots/",
     "category": "EDN 电子设计新闻"
   },
   {

@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Audio AI in wearables: Enabling smarter, more responsive devices",
+      "source": "EDN",
+      "snippet": "Audio AI combined with edge AI processing and ultra-low-power MEMS microphones enables wearable devices to listen intelligently. The post Audio AI in wearables: Enabling smarter, more responsive devices appeared first on EDN .",
+      "published": "2026-11-18T09:16:18+00:00",
+      "authors": "Calin Miclaus",
+      "link": "https://www.edn.com/audio-ai-in-wearables-enabling-smarter-more-responsive-devices/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "In-space MOSFET failure mitigation",
       "source": "EDN",
       "snippet": "This Design Idea describes how a critical in-flight power supply unit issue was analyzed and resolved successfully. The post In-space MOSFET failure mitigation appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-12T12:07:06+00:00",
       "authors": "Majeed Ahmad",
       "link": "https://www.edn.com/mcu-revitalizing-sdvs-with-diverse-compute-virtual-prototyping/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots?",
-      "source": "EDN",
-      "snippet": "Incremental tweaks to existing products, as well as a few new derivatives, are par for the course. But autonomous security drones and robots? The post Amazon’s fall 2026 smart home and business thoughts: Enter the drones and robots? appeared first on EDN .",
-      "published": "2026-11-11T21:00:04+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/amazons-fall-2026-smart-home-and-business-thoughts-enter-the-drones-and-robots/",
       "category": "EDN 电子设计新闻"
     }
   ]
