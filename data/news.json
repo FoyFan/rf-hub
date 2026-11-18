@@ -1,5 +1,86 @@
 [
   {
+    "title": "Build a Personal Brand to Help Employers Find You",
+    "source": "IEEE Spectrum",
+    "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! In one year, the number of developers working for",
+    "published": "2026-11-18T17:33:26+00:00",
+    "authors": "Brian Jenney",
+    "link": "https://spectrum.ieee.org/personal-branding-for-engineers",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Meet Nobi, your Raspberry Pi-based AI companion",
+    "source": "Electronics Weekly",
+    "snippet": "Check out Nobi, the Raspberry Pi 4-based desk-companion AI robot created by Gadget Master Devin Roberts. Nobi? It stands for Network Optional Bot Intelligence. “He listens, talks back, and remembers […] The post Meet Nobi, your Raspberry Pi-based AI companion appeared first on Electronics Weekly .",
+    "published": "2026-11-18T16:39:46+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/meet-nobi-your-raspberry-pi-based-local-intelligent-friend-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Gadget Watch: LG and Philips 5K gaming monitors",
+    "source": "Electronics Weekly",
+    "snippet": "Blimey, it's taken me so long to write about the LG UltraGear evo GM9 5K - from back in April - that another display - the Philips Evnia 27M2D5901A - finally prompts me into action! The post Gadget Watch: LG and Philips 5K gaming monitors appeared first on Electronics Weekly .",
+    "published": "2026-11-18T16:10:33+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-lg-and-philips-5k-gaming-monitors-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Picture of the Day: Space Selfie – A view from you of me!",
+    "source": "Electronics Weekly",
+    "snippet": "Thanks to Nasa for this one. There are some amazing images being taken from space and I do like this recent astronaut selfie! The post Picture of the Day: Space Selfie – A view from you of me! appeared first on Electronics Weekly .",
+    "published": "2026-11-18T15:29:55+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-space-selfie-looking-at-you-looking-at-me-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design",
+    "source": "EE Times",
+    "snippet": "Discover how advanced multiturn position sensing can transform industrial motion control without the limitations of traditional mechanical solutions. Explore how magnetic sensing technology enables accurate, reliable tracking of rotational movement even when power is removed. From robotics and linea",
+    "published": "2026-11-18T15:00:00+00:00",
+    "authors": "Analog Devices",
+    "link": "https://www.eetimes.com/beyond-one-turn-how-a-single-chip-multiturn-position-sensor-is-reshaping-actuator-design/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Dissing Datacentres",
+    "source": "Electronics Weekly",
+    "snippet": "The backlash against datacentres isn’t limited to the US. According to a survey by Statista Consumer Insights concerns are equally widespread in the UK and only slightly less common in […] The post Dissing Datacentres appeared first on Electronics Weekly .",
+    "published": "2026-11-18T14:20:37+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/datacentre-dislike-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
+    "source": "EE Times",
+    "snippet": "Qnity CTO Randy King on year one as an independent company, shrink-and-stack chips and the materials challenges of advanced packaging for AI. The post Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI appeared first on EE Times .",
+    "published": "2026-11-18T14:00:00+00:00",
+    "authors": "Randal King, Senior Vice President and Chief Technology and Sustainability Officer, Qnity",
+    "link": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips",
+    "source": "EE Times",
+    "snippet": "India's AI infrastructure needs could exceed 6 GW by 2030. Oxmiq Labs CEO Raja Koduri explains why domestic chip design and custom systems matter. The post Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips appeared first on EE Times .",
+    "published": "2026-11-18T13:30:00+00:00",
+    "authors": "Yashasvini Razdan",
+    "link": "https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Significantly simpler synchronous square wave circuit for frequency division by even numbers",
+    "source": "EDN",
+    "snippet": "8-bit synchronous counter circuit divides a frequency counter’s chip count down to 2 with significant simplicity. The post Significantly simpler synchronous square wave circuit for frequency division by even numbers appeared first on EDN .",
+    "published": "2026-11-18T13:00:57+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/significantly-simpler-synchronous-square-wave-circuit-for-frequency-division-by-even-numbers/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
     "title": "Micron backs space computing startup in Series B funding round",
     "source": "Electronics Weekly",
     "snippet": "Ramon.Space, a space computing infrastructure company, has raised $124 million in a Series B funding round. The round included investment from Micron Technology. The funding was led by equity firm […] The post Micron backs space computing startup in Series B funding round appeared first on Electroni",
@@ -72,33 +153,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "SkyeChip and SiPearl hook up to design Arm-based CPU",
-    "source": "Electronics Weekly",
-    "snippet": "SkyeChip, the Malaysian IC design company, and SiPearl, the French CPU designer, have signed a non-binding MoU to define, develop and commercialise a next-generation compute platform based on Arm Neoverse […] The post SkyeChip and SiPearl hook up to design Arm-based CPU appeared first on Electronics",
-    "published": "2026-11-18T06:08:12+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/skyechip-and-sipearl-hook-up-to-design-arm-based-cpu-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Farnell selling Panasonic ERJPC series resistors",
-    "source": "Electronics Weekly",
-    "snippet": "Farnell is now selling the ERJPC series of super high-precision thick-film resistors from Panasonic. The series delivers precision levels previously only achievable with thin-film technology, offering engineers a new tool […] The post Farnell selling Panasonic ERJPC series resistors appeared first o",
-    "published": "2026-11-18T06:01:15+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/farnell-selling-panasonic-erjpc-series-resistors-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Top Ten (less 5) Vendors Of Server CPUs",
-    "source": "Electronics Weekly",
-    "snippet": "Thanks to TrendForce for this one – the top five suppliers of CPUs for servers: The post Top Ten (less 5) Vendors Of Server CPUs appeared first on Electronics Weekly .",
-    "published": "2026-11-18T01:01:38+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-vendors-of-cpus-for-servers-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
     "source": "EE Times",
     "snippet": "Explore how ASML’s partner-driven culture, EUV dominance, and geopolitical pressures reshaped chipmaking in Marc Hijink’s interview. The post Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics appeared first on EE Times .",
@@ -124,15 +178,6 @@
     "authors": "Gary Hilson",
     "link": "https://www.eetimes.com/everspin-looks-to-broaden-mram-adoption-with-lpddr-standard/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Make sure to take your seat at the Elektra Awards 2026",
-    "source": "Electronics Weekly",
-    "snippet": "There's only three weeks to go until the long awaited Elektra Awards! Make sure you have your seat at the table. The post Make sure to take your seat at the Elektra Awards 2026 appeared first on Electronics Weekly .",
-    "published": "2026-11-17T16:07:50+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/make-sure-to-take-your-seat-at-the-elektra-awards-2026-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "These Engineers Are Cleaning Up Connected Cars’ Security Flaws",
@@ -231,33 +276,6 @@
     "published": "2026-11-16T17:52:31+00:00",
     "authors": "Gary Hilson",
     "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Simplifying Power Design with µModule Solutions",
-    "source": "EE Times",
-    "snippet": "Join this webinar to learn how highly integrated power solutions can simplify design, increase power density, and much more. The post Simplifying Power Design with µModule Solutions appeared first on EE Times .",
-    "published": "2026-11-16T17:41:23+00:00",
-    "authors": "Analog Devices, Arrow Electronics",
-    "link": "https://www.eetimes.com/simplifying-power-design-with-%c2%b5module-solutions/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming",
-    "source": "EE Times",
-    "snippet": "Join our expert-led webinar to discover how the TL753X SoC leverages High Definition Technology (HDT) for innovative applications. The post Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming appeared first on EE Times .",
-    "published": "2026-11-16T17:19:44+00:00",
-    "authors": "Telink Semiconductor",
-    "link": "https://www.eetimes.com/beyond-low-energy-new-product-frontiers-for-lossless-audio-edge-ai-and-display-streaming/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components",
-    "source": "EE Times",
-    "snippet": "Nisshinbo's Silicon Motherboard integrates ICs and passives on both sides of a silicon substrate, reducing mounting area by up to 90%. The post Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components appeared first on EE Times .",
-    "published": "2026-11-16T17:00:00+00:00",
-    "authors": "Nisshinbo Micro Devices",
-    "link": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -369,15 +387,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "MCU revitalizing SDVs with diverse compute, virtual prototyping",
-    "source": "EDN",
-    "snippet": "The new MCU aims to simplify SDV development with a scalable device that supports multiple automotive domains. The post MCU revitalizing SDVs with diverse compute, virtual prototyping appeared first on EDN .",
-    "published": "2026-11-12T12:07:06+00:00",
-    "authors": "Majeed Ahmad",
-    "link": "https://www.edn.com/mcu-revitalizing-sdvs-with-diverse-compute-virtual-prototyping/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "NSF’s X-Labs Program Draws Support From Charities and Investors",
     "source": "IEEE Spectrum 计算",
     "snippet": "When the U.S. National Science Foundation began its X-Labs program in May, the agency said the higher-risk, higher-funded awards would create new kinds of partnerships that would confront urgent scientific and technological challenges. Now the NSF is doubling down on the idea, with an announcement i",
@@ -470,7 +479,7 @@
   {
     "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
     "source": "IEEE Spectrum",
-    "snippet": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons. This year’s sessions, held across the United States, have focused on educating teachers",
+    "snippet": "Now in their third year, the IEEE TryEngineering educator sessions continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons. This year’s sessions have focused on educating teachers about artificial intelligence a",
     "published": "2026-11-05T19:00:02+00:00",
     "authors": "Debra Gulick",
     "link": "https://spectrum.ieee.org/ieee-preuniversity",
@@ -609,15 +618,6 @@
     "published": "2026-10-26T18:00:03+00:00",
     "authors": "Claire Olini",
     "link": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Build a Hidden Lock With a Magnetic Imager",
-    "source": "IEEE Spectrum",
-    "snippet": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations while at his day job working on the Manhattan Project at Los Alamos. I currently",
-    "published": "2026-10-26T13:00:02+00:00",
-    "authors": "Stephen Cass",
-    "link": "https://spectrum.ieee.org/magnetic",
     "category": "IEEE 综合新闻"
   },
   {

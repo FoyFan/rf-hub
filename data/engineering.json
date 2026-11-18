@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Significantly simpler synchronous square wave circuit for frequency division by even numbers",
+      "source": "EDN",
+      "snippet": "8-bit synchronous counter circuit divides a frequency counter’s chip count down to 2 with significant simplicity. The post Significantly simpler synchronous square wave circuit for frequency division by even numbers appeared first on EDN .",
+      "published": "2026-11-18T13:00:57+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/significantly-simpler-synchronous-square-wave-circuit-for-frequency-division-by-even-numbers/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Audio AI in wearables: Enabling smarter, more responsive devices",
       "source": "EDN",
       "snippet": "Audio AI combined with edge AI processing and ultra-low-power MEMS microphones enables wearable devices to listen intelligently. The post Audio AI in wearables: Enabling smarter, more responsive devices appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-12T13:00:36+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/googles-fitbit-air-another-display-less-option-for-tech-you-wear/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "MCU revitalizing SDVs with diverse compute, virtual prototyping",
-      "source": "EDN",
-      "snippet": "The new MCU aims to simplify SDV development with a scalable device that supports multiple automotive domains. The post MCU revitalizing SDVs with diverse compute, virtual prototyping appeared first on EDN .",
-      "published": "2026-11-12T12:07:06+00:00",
-      "authors": "Majeed Ahmad",
-      "link": "https://www.edn.com/mcu-revitalizing-sdvs-with-diverse-compute-virtual-prototyping/",
       "category": "EDN 电子设计新闻"
     }
   ]
