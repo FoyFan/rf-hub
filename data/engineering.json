@@ -382,6 +382,51 @@
   ],
   "news": [
     {
+      "title": "Timing devices serve next-gen Ethernet and PCIe",
+      "source": "EDN",
+      "snippet": "FemtoClock 4 and VersaClock 8 clock families from SiTime enable data-center bandwidth upgrades for Ethernet and PCIe racks, respectively. The post Timing devices serve next-gen Ethernet and PCIe appeared first on EDN .",
+      "published": "2026-11-19T01:14:11+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/timing-devices-serve-next-gen-ethernet-and-pcie/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "LED drivers improve matrix scanning and dimming",
+      "source": "EDN",
+      "snippet": "The IS31FL370x series of LED drivers from Lumissil combines high-speed matrix scanning, dithered PWM, and built-in LED diagnostics. The post LED drivers improve matrix scanning and dimming appeared first on EDN .",
+      "published": "2026-11-19T01:13:23+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/led-drivers-improve-matrix-scanning-and-dimming/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Infrared sensor takes aim at wearable health",
+      "source": "EDN",
+      "snippet": "Melexis' ultra-miniature, contactless infrared temperature sensor, the MLX90636 is designed for potential use in wearables. The post Infrared sensor takes aim at wearable health appeared first on EDN .",
+      "published": "2026-11-19T01:12:55+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/infrared-sensor-takes-aim-at-wearable-health/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Miniature actuator adds haptics to wearables",
+      "source": "EDN",
+      "snippet": "Measuring 4 mm in diameter, Vybronics says its coin-type linear resonant actuator (LRA) has the smallest diameter on the market. The post Miniature actuator adds haptics to wearables appeared first on EDN .",
+      "published": "2026-11-19T01:12:16+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/miniature-actuator-adds-haptics-to-wearables/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Compact LEDs expand multi-color lighting options",
+      "source": "EDN",
+      "snippet": "Cree’s smallest ceramic multi-color LEDs, the XLamp X21 series combines four different-color LED dice in a 2.1×2.1-mm ceramic package. The post Compact LEDs expand multi-color lighting options appeared first on EDN .",
+      "published": "2026-11-19T01:11:27+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/compact-leds-expand-multi-color-lighting-options/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Significantly simpler synchronous square wave circuit for frequency division by even numbers",
       "source": "EDN",
       "snippet": "8-bit synchronous counter circuit divides a frequency counter’s chip count down to 2 with significant simplicity. The post Significantly simpler synchronous square wave circuit for frequency division by even numbers appeared first on EDN .",
@@ -424,51 +469,6 @@
       "published": "2026-11-17T06:50:17+00:00",
       "authors": "Vijay Chobisa",
       "link": "https://www.edn.com/building-ai-socs-with-a-continuous-hardware-verification-strategy/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Inspecting a DOCSIS 3.1 cable modem’s internals: Part 1",
-      "source": "EDN",
-      "snippet": "The publication ordering might not be as originally envisioned, but this two-part NETGEAR CM1000 teardown still aspires to be interesting. The post Inspecting a DOCSIS 3.1 cable modem’s internals: Part 1 appeared first on EDN .",
-      "published": "2026-11-16T13:00:19+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/inspecting-a-docsis-3-1-cable-modems-internals-part-1/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "The shocking science (and art) of plastic welding",
-      "source": "EDN",
-      "snippet": "Mastering plastic welding means you can rapidly prototype, repair lab gear, modify off-the-shelf enclosures, and fix rugged field equipment. The post The shocking science (and art) of plastic welding appeared first on EDN .",
-      "published": "2026-11-16T05:49:42+00:00",
-      "authors": "T.K. Hareendran",
-      "link": "https://www.edn.com/the-shocking-science-and-art-of-plastic-welding/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Physical AI: Where AI meets the physical world",
-      "source": "EDN",
-      "snippet": "Industry experts discuss why touch, multimodal sensing, and edge processing are essential to the next generation of intelligent machines. The post Physical AI: Where AI meets the physical world appeared first on EDN .",
-      "published": "2026-11-13T14:03:52+00:00",
-      "authors": "Majeed Ahmad",
-      "link": "https://www.edn.com/physical-ai-where-ai-meets-the-physical-world/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "The tchotchke",
-      "source": "EDN",
-      "snippet": "Things aren't always as useless as they seem (and are claimed by others) to be. All it takes is a bit of engineering imagination. The post The tchotchke appeared first on EDN .",
-      "published": "2026-11-13T13:00:00+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/the-tchotchke/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Google’s Fitbit Air: Another display-less option for tech you wear",
-      "source": "EDN",
-      "snippet": "Minimal- and no-display device values aren’t unique to wearables but are uniquely optimal for the needs and desires of wearable device users. The post Google’s Fitbit Air: Another display-less option for tech you wear appeared first on EDN .",
-      "published": "2026-11-12T13:00:36+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/googles-fitbit-air-another-display-less-option-for-tech-you-wear/",
       "category": "EDN 电子设计新闻"
     }
   ]
