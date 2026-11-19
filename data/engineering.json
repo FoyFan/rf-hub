@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5",
+      "source": "EDN",
+      "snippet": "Cable broadband over a coax LAN backbone? Or satellite TV, merged with data over that same LAN? Both possible. Not all three at once. The post Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5 appeared first on EDN .",
+      "published": "2026-11-19T13:00:43+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/ensuring-robust-docsis-3-1-or-satellite-coexistence-with-moca-2-5/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Are DC data centers the solution to AI scale?",
       "source": "EDN",
       "snippet": "While AI's synchronized loads and megawatt racks strain legacy architectures, physics favors DC and economics rewards it with less energy loss and more compute per gigawatt. The post Are DC data centers the solution to AI scale? appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-17T13:00:40+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/in-space-mosfet-failure-mitigation/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Capacitor ESR challenges high-current, fast-transient power sources",
-      "source": "EDN",
-      "snippet": "Capacitor’s equivalent series resistance (ESR) and its assessment lead to significant power-converter issues. The post Capacitor ESR challenges high-current, fast-transient power sources appeared first on EDN .",
-      "published": "2026-11-17T10:37:57+00:00",
-      "authors": "C aliou cisse",
-      "link": "https://www.edn.com/capacitor-esr-challenges-high-current-fast-transient-power-sources/",
       "category": "EDN 电子设计新闻"
     }
   ]

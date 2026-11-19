@@ -1,5 +1,59 @@
 [
   {
+    "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
+    "source": "IEEE Spectrum",
+    "snippet": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it. Xue “Alice” Dong has made that her job. Dong, an IEEE senior member, is an extension regional specialist with the Colorado State Universi",
+    "published": "2026-11-19T19:00:02+00:00",
+    "authors": "Willie D. Jones",
+    "link": "https://spectrum.ieee.org/ai-tools-for-rural-communities",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Gartner Warns of Risks Behind Sovereign Tech Claims",
+    "source": "EE Times",
+    "snippet": "Gartner research predicts that digital sovereignty will become a core component of national security strategies globally by 2030. The post Gartner Warns of Risks Behind Sovereign Tech Claims appeared first on EE Times .",
+    "published": "2026-11-19T16:30:35+00:00",
+    "authors": "Pablo Valerio",
+    "link": "https://www.eetimes.com/gartner-warns-of-risks-behind-sovereign-tech-claims/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Shaping the Form, Function, and Future of Humanoid Robotics",
+    "source": "EE Times",
+    "snippet": "Humanoid robotics is moving rapidly from concept toward real-world applications, creating new engineering challenges across sensing, movement, assembly, reliability and long-term serviceability. As robots become more sophisticated, materials play an increasingly important role in enabling lighter an",
+    "published": "2026-11-19T14:32:48+00:00",
+    "authors": "Henkel",
+    "link": "https://www.eetimes.com/shaping-the-form-function-and-future-of-humanoid-robotics/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Fable: The Delusional CEO",
+    "source": "Electronics Weekly",
+    "snippet": "There was once a tech CEO who went to have dinner with another tech CEO who had adopted the idea that he should only eat meat which he had personally […] The post Fable: The Delusional CEO appeared first on Electronics Weekly .",
+    "published": "2026-11-19T14:22:32+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-delusional-ceo-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5",
+    "source": "EDN",
+    "snippet": "Cable broadband over a coax LAN backbone? Or satellite TV, merged with data over that same LAN? Both possible. Not all three at once. The post Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5 appeared first on EDN .",
+    "published": "2026-11-19T13:00:43+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/ensuring-robust-docsis-3-1-or-satellite-coexistence-with-moca-2-5/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
+    "source": "IEEE Spectrum",
+    "snippet": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his employer and OpenAI",
+    "published": "2026-11-19T12:00:03+00:00",
+    "authors": "Cal Newport",
+    "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
+    "category": "IEEE 综合新闻"
+  },
+  {
     "title": "Thermal and EMI challenges in high-density GaN power converters",
     "source": "Electronics Weekly",
     "snippet": "To get the full benefits of GaN design, engineers must treat switching behaviour, EMI, PCB design and thermal management as interconnected design problems rather than isolated issues, writes Muhammad Asim […] The post Thermal and EMI challenges in high-density GaN power converters appeared first on ",
@@ -162,15 +216,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Meet Nobi, your Raspberry Pi-based AI companion",
-    "source": "Electronics Weekly",
-    "snippet": "Check out Nobi, the Raspberry Pi 4-based desk-companion AI robot created by Gadget Master Devin Roberts. Nobi? It stands for Network Optional Bot Intelligence. “He listens, talks back, and remembers […] The post Meet Nobi, your Raspberry Pi-based AI companion appeared first on Electronics Weekly .",
-    "published": "2026-11-18T16:39:46+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/meet-nobi-your-raspberry-pi-based-local-intelligent-friend-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design",
     "source": "EE Times",
     "snippet": "Discover how advanced multiturn position sensing can transform industrial motion control without the limitations of traditional mechanical solutions. Explore how magnetic sensing technology enables accurate, reliable tracking of rotational movement even when power is removed. From robotics and linea",
@@ -261,24 +306,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "LTCC Solutions for Next Generation UWB/BLE Devices",
-    "source": "EE Times",
-    "snippet": "Discover TAIYO YUDEN’s advanced LTCC (Low Temperature Co-fired Ceramic) solutions for UWB and Bluetooth Low Energy (BLE) applications. Featuring high-performance RF components, these solutions address key design challenges such as miniaturization, reliable wireless connectivity, RF performance, and ",
-    "published": "2026-11-17T15:00:00+00:00",
-    "authors": "TAIYO YUDEN (U.S.A.) INC.",
-    "link": "https://www.eetimes.com/ltcc-solutions-for-next-generation-uwb-ble-devices/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Minimizing Acoustic Noise in Space-Constrained Medical and Life Science Applications",
-    "source": "EE Times",
-    "snippet": "Design engineers and technical decision-makers working on medical and life science equipment must balance competing demands: high power density, thermal performance, compact dimensions, and low acoustic noise. This whitepaper provides practical insight into the causes of noise in space-constrained p",
-    "published": "2026-11-17T15:00:00+00:00",
-    "authors": "Giulio Bocciolini, Senior Product Marketing Manager EMEA, TDK-Lambda EMEA",
-    "link": "https://www.eetimes.com/minimising-acoustic-noise-in-space-constrained-medical-and-life-science-applications/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "AI Is Giving Optical Computing Another Shot",
     "source": "IEEE Spectrum",
     "snippet": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, ",
@@ -313,15 +340,6 @@
     "authors": "Anritsu",
     "link": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Capacitor ESR challenges high-current, fast-transient power sources",
-    "source": "EDN",
-    "snippet": "Capacitor’s equivalent series resistance (ESR) and its assessment lead to significant power-converter issues. The post Capacitor ESR challenges high-current, fast-transient power sources appeared first on EDN .",
-    "published": "2026-11-17T10:37:57+00:00",
-    "authors": "C aliou cisse",
-    "link": "https://www.edn.com/capacitor-esr-challenges-high-current-fast-transient-power-sources/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
@@ -600,24 +618,6 @@
     "published": "2026-10-27T16:14:39+00:00",
     "authors": "VicOne",
     "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
-    "source": "IEEE Spectrum",
-    "snippet": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited ",
-    "published": "2026-10-27T13:00:03+00:00",
-    "authors": "Benjamin Skuse",
-    "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "IEEE Xplore Digital Library Adds AI Assistant",
-    "source": "IEEE Spectrum",
-    "snippet": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, magazines, conference proceedings, and more. Researchers who use the AI s",
-    "published": "2026-10-26T18:00:03+00:00",
-    "authors": "Claire Olini",
-    "link": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
     "category": "IEEE 综合新闻"
   },
   {
