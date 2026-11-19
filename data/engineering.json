@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "Are DC data centers the solution to AI scale?",
+      "source": "EDN",
+      "snippet": "While AI's synchronized loads and megawatt racks strain legacy architectures, physics favors DC and economics rewards it with less energy loss and more compute per gigawatt. The post Are DC data centers the solution to AI scale? appeared first on EDN .",
+      "published": "2026-11-19T07:03:16+00:00",
+      "authors": "Shaun Walsh",
+      "link": "https://www.edn.com/are-dc-data-centers-the-solution-to-ai-scale/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Timing devices serve next-gen Ethernet and PCIe",
       "source": "EDN",
       "snippet": "FemtoClock 4 and VersaClock 8 clock families from SiTime enable data-center bandwidth upgrades for Ethernet and PCIe racks, respectively. The post Timing devices serve next-gen Ethernet and PCIe appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-17T10:37:57+00:00",
       "authors": "C aliou cisse",
       "link": "https://www.edn.com/capacitor-esr-challenges-high-current-fast-transient-power-sources/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Building AI SoCs with a continuous hardware verification strategy",
-      "source": "EDN",
-      "snippet": "Integrated emulation and prototyping give IC teams earlier visibility into RTL, software behavior, system performance, and power efficiency. The post Building AI SoCs with a continuous hardware verification strategy appeared first on EDN .",
-      "published": "2026-11-17T06:50:17+00:00",
-      "authors": "Vijay Chobisa",
-      "link": "https://www.edn.com/building-ai-socs-with-a-continuous-hardware-verification-strategy/",
       "category": "EDN 电子设计新闻"
     }
   ]

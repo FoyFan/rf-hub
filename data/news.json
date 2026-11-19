@@ -1,5 +1,95 @@
 [
   {
+    "title": "Thermal and EMI challenges in high-density GaN power converters",
+    "source": "Electronics Weekly",
+    "snippet": "To get the full benefits of GaN design, engineers must treat switching behaviour, EMI, PCB design and thermal management as interconnected design problems rather than isolated issues, writes Muhammad Asim […] The post Thermal and EMI challenges in high-density GaN power converters appeared first on ",
+    "published": "2026-11-19T12:00:02+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/thermal-and-emi-challenges-in-high-density-gan-power-converters-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
+    "source": "EE Times",
+    "snippet": "Strong AI infrastructure demand helped Nvidia revenue and profit as the company deals with leadership changes. The post Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO appeared first on EE Times .",
+    "published": "2026-11-19T10:26:18+00:00",
+    "authors": "News Desk",
+    "link": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "TME. Your UK partner.",
+    "source": "Electronics Weekly",
+    "snippet": "When you’re sourcing electronic and industrial components, stock and price matter – TME combines a broad component portfolio with direct support from our dedicated UK team. The post TME. Your UK partner. appeared first on Electronics Weekly .",
+    "published": "2026-11-19T09:00:11+00:00",
+    "authors": "Sponsored Content",
+    "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/tme-your-uk-partner-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Sponsored Content: TME. Your UK partner.",
+    "source": "Electronics Weekly",
+    "snippet": "When you’re sourcing electronic and industrial components, stock and price matter – but so does knowing what’s happening with your order. That’s why TME combines a broad component portfolio with […] The post Sponsored Content: TME. Your UK partner. appeared first on Electronics Weekly .",
+    "published": "2026-11-19T09:00:02+00:00",
+    "authors": "Sponsored Content",
+    "link": "https://www.electronicsweekly.com/news/business/sponsored-content-tme-your-uk-partner-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Are DC data centers the solution to AI scale?",
+    "source": "EDN",
+    "snippet": "While AI's synchronized loads and megawatt racks strain legacy architectures, physics favors DC and economics rewards it with less energy loss and more compute per gigawatt. The post Are DC data centers the solution to AI scale? appeared first on EDN .",
+    "published": "2026-11-19T07:03:16+00:00",
+    "authors": "Shaun Walsh",
+    "link": "https://www.edn.com/are-dc-data-centers-the-solution-to-ai-scale/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Anthropic raises $107bn at $1.5tn valuation",
+    "source": "Electronics Weekly",
+    "snippet": "Anthropic raised $107.3bn in its IPO and private placement. The offering included a $26bn private placement backed by firms including Google, Nvidia, AMD and Microsoft. The base IPO raised about […] The post Anthropic raises $107bn at $1.5tn valuation appeared first on Electronics Weekly .",
+    "published": "2026-11-19T06:16:05+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/anthropic-raises-107bn-at-1-5trn-valuation-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "ST set to double MCU revenues",
+    "source": "Electronics Weekly",
+    "snippet": "ST expects to double its MCU revenues between 2005 and 2028, says Remi El-Ouazzane (pictured), president of ‌its Microcontrollers, Digital ICs and RF Products Group. ST reckons that, in the […] The post ST set to double MCU revenues appeared first on Electronics Weekly .",
+    "published": "2026-11-19T06:15:21+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/st-to-double-stm32-revenues-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "SI expects 60-80% semi growth in 2026",
+    "source": "Electronics Weekly",
+    "snippet": "This is Bill Jewell’s last Semiconductor Intelligence newsletter before retirement. We wish him well and thank him for his insights and knowledge shared over many decades. The global semiconductor market […] The post SI expects 60-80% semi growth in 2026 appeared first on Electronics Weekly .",
+    "published": "2026-11-19T06:14:05+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/si-expecting-60-80-semi-growth-in-2026-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Pulsiv signs Easby",
+    "source": "Electronics Weekly",
+    "snippet": "Pulsiv, the Cambridge power electronics specialist, has signed a distribution agreement with Easby Electronics. Easby’s technical sales team will focus on demand creation activities for the Pulsiv range of high-power […] The post Pulsiv signs Easby appeared first on Electronics Weekly .",
+    "published": "2026-11-19T06:09:59+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/pulsiv-signs-easby-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Nvidia launches Vera CPU for scientific discovery",
+    "source": "Electronics Weekly",
+    "snippet": "Nvidia has announced the Nvidia Vera CPU rack-scale platform for high-performance computing – combining Nvidia’s first fully custom datacentre CPU with HPC networking to drive efficiency and throughput for scientific […] The post Nvidia launches Vera CPU for scientific discovery appeared first on El",
+    "published": "2026-11-19T06:07:37+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nvidia-launches-vera-cpu-for-scientific-discovery-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Timing devices serve next-gen Ethernet and PCIe",
     "source": "EDN",
     "snippet": "FemtoClock 4 and VersaClock 8 clock families from SiTime enable data-center bandwidth upgrades for Ethernet and PCIe racks, respectively. The post Timing devices serve next-gen Ethernet and PCIe appeared first on EDN .",
@@ -81,24 +171,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Gadget Watch: LG and Philips 5K gaming monitors",
-    "source": "Electronics Weekly",
-    "snippet": "Blimey, it's taken me so long to write about the LG UltraGear evo GM9 5K - from back in April - that another display - the Philips Evnia 27M2D5901A - finally prompts me into action! The post Gadget Watch: LG and Philips 5K gaming monitors appeared first on Electronics Weekly .",
-    "published": "2026-11-18T16:10:33+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-lg-and-philips-5k-gaming-monitors-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Picture of the Day: Space Selfie – A view from you of me!",
-    "source": "Electronics Weekly",
-    "snippet": "Thanks to Nasa for this one. There are some amazing images being taken from space and I do like this recent astronaut selfie! The post Picture of the Day: Space Selfie – A view from you of me! appeared first on Electronics Weekly .",
-    "published": "2026-11-18T15:29:55+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-space-selfie-looking-at-you-looking-at-me-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design",
     "source": "EE Times",
     "snippet": "Discover how advanced multiturn position sensing can transform industrial motion control without the limitations of traditional mechanical solutions. Explore how magnetic sensing technology enables accurate, reliable tracking of rotational movement even when power is removed. From robotics and linea",
@@ -106,15 +178,6 @@
     "authors": "Analog Devices",
     "link": "https://www.eetimes.com/beyond-one-turn-how-a-single-chip-multiturn-position-sensor-is-reshaping-actuator-design/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Dissing Datacentres",
-    "source": "Electronics Weekly",
-    "snippet": "The backlash against datacentres isn’t limited to the US. According to a survey by Statista Consumer Insights concerns are equally widespread in the UK and only slightly less common in […] The post Dissing Datacentres appeared first on Electronics Weekly .",
-    "published": "2026-11-18T14:20:37+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/datacentre-dislike-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
@@ -144,33 +207,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Micron backs space computing startup in Series B funding round",
-    "source": "Electronics Weekly",
-    "snippet": "Ramon.Space, a space computing infrastructure company, has raised $124 million in a Series B funding round. The round included investment from Micron Technology. The funding was led by equity firm […] The post Micron backs space computing startup in Series B funding round appeared first on Electroni",
-    "published": "2026-11-18T12:01:18+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/finance/micron-backs-space-computing-startup-in-series-b-funding-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-    "source": "Electronics Weekly",
-    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-    "published": "2026-11-18T11:48:02+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Announcing the host for the Elektra Awards 2026…",
-    "source": "Electronics Weekly",
-    "snippet": "We are very pleased to announce that our host for the evening for the Elektra Awards 2026 is… Jess Robinson, the multi award-winning comedy impressionist and classically trained singer. Known […] The post Announcing the host for the Elektra Awards 2026… appeared first on Electronics Weekly .",
-    "published": "2026-11-18T10:16:25+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/elektra-awards-news/announcing-the-host-for-the-elektra-awards-2026-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Audio AI in wearables: Enabling smarter, more responsive devices",
     "source": "EDN",
     "snippet": "Audio AI combined with edge AI processing and ultra-low-power MEMS microphones enables wearable devices to listen intelligently. The post Audio AI in wearables: Enabling smarter, more responsive devices appeared first on EDN .",
@@ -187,24 +223,6 @@
     "authors": "Pat Brans",
     "link": "https://www.eetimes.com/edge-ai-moves-agricultural-intelligence-from-the-cloud-to-the-field/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Nvidia Q3 sparkles. Chairman says no return for Jensen",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia’s Q3 revenue was $115.8 billion at a gross margin of 74.8%. Net profit was $65.3 billion. Datacentre revenue was up 110% at $107.6 billion. Nvidia expects Q4 revenue of […] The post Nvidia Q3 sparkles. Chairman says no return for Jensen appeared first on Electronics Weekly .",
-    "published": "2026-11-18T06:16:17+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nvidia-q3-sparkles-chairman-says-no-return-for-jensen-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Siemens buys Breker Verification Systems",
-    "source": "Electronics Weekly",
-    "snippet": "Siemens is to buy Breker Verification Systems acquiring SoC-level technologies that accelerate the verification of increasingly complex SoC architectures. Upon closing, the acquisition will strengthen Siemens’ SoC verification portfolio, building […] The post Siemens buys Breker Verification Systems",
-    "published": "2026-11-18T06:12:21+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/siemens-buys-breker-verification-systems-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
@@ -303,24 +321,6 @@
     "published": "2026-11-17T10:37:57+00:00",
     "authors": "C aliou cisse",
     "link": "https://www.edn.com/capacitor-esr-challenges-high-current-fast-transient-power-sources/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready",
-    "source": "EE Times",
-    "snippet": "The banking group reports double-digit cost savings from quantum-inspired optimization, but useful quantum hardware faces a tougher test than faster calculations. The post Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready appeared first on EE Times .",
-    "published": "2026-11-17T09:16:07+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/intesa-sanpaolo-finds-value-before-quantum-computers-are-ready/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Building AI SoCs with a continuous hardware verification strategy",
-    "source": "EDN",
-    "snippet": "Integrated emulation and prototyping give IC teams earlier visibility into RTL, software behavior, system performance, and power efficiency. The post Building AI SoCs with a continuous hardware verification strategy appeared first on EDN .",
-    "published": "2026-11-17T06:50:17+00:00",
-    "authors": "Vijay Chobisa",
-    "link": "https://www.edn.com/building-ai-socs-with-a-continuous-hardware-verification-strategy/",
     "category": "EDN 电子设计新闻"
   },
   {
