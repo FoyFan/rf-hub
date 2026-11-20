@@ -1,5 +1,23 @@
 [
   {
+    "title": "Nvidia Leaderless But Sparkling",
+    "source": "Electronics Weekly",
+    "snippet": "As in Q2, Nvidia’s Q3 saw a YoYvdoubling of revenues and profits. In the three months ended October 25, Nvidia’s revenue grew by 103% from the same period last year, […] The post Nvidia Leaderless But Sparkling appeared first on Electronics Weekly .",
+    "published": "2026-11-20T01:01:32+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/nvidia-leaderless-but-sparkling-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Memory R&D Is a High-Stakes Game",
+    "source": "EE Times",
+    "snippet": "AI is driving memory makers’ research agenda, while partnerships help share the cost and risk of developing technologies beyond the next process node. The post Memory R&D Is a High-Stakes Game appeared first on EE Times .",
+    "published": "2026-11-19T22:21:15+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
     "source": "IEEE Spectrum",
     "snippet": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it. Xue “Alice” Dong has made that her job. Dong, an IEEE senior member, is an extension regional specialist with the Colorado State Universi",
@@ -117,9 +135,9 @@
     "category": "电子周刊"
   },
   {
-    "title": "SI expects 60-80% semi growth in 2026",
+    "title": "SI expects 60-80% semi growth in 2027",
     "source": "Electronics Weekly",
-    "snippet": "This is Bill Jewell’s last Semiconductor Intelligence newsletter before retirement. We wish him well and thank him for his insights and knowledge shared over many decades. The global semiconductor market […] The post SI expects 60-80% semi growth in 2026 appeared first on Electronics Weekly .",
+    "snippet": "This is Bill Jewell’s last Semiconductor Intelligence newsletter before retirement. We wish him well and thank him for his insights and knowledge shared over many decades. The global semiconductor market […] The post SI expects 60-80% semi growth in 2027 appeared first on Electronics Weekly .",
     "published": "2026-11-19T06:14:05+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/si-expecting-60-80-semi-growth-in-2026-2026-11/",
@@ -187,15 +205,6 @@
     "authors": "Susan Nordyk",
     "link": "https://www.edn.com/compact-leds-expand-multi-color-lighting-options/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Souring Datacentre Sentiment",
-    "source": "Electronics Weekly",
-    "snippet": "lRecent projections suggest that the AI buildout could become the biggest infrastructure investment cycle in modern history, totaling $10.3 trillion from 2025 to 2032 and accounting for an average of […] The post Souring Datacentre Sentiment appeared first on Electronics Weekly .",
-    "published": "2026-11-19T01:01:29+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/souring-datacentre-sentiment-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
@@ -286,15 +295,6 @@
     "authors": "Kathy Pretz",
     "link": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Everspin Looks to Broaden MRAM Adoption with LPDDR Standard",
-    "source": "EE Times",
-    "snippet": "An exploratory JEDEC task group is weighing how controller vendors could support MRAM with hard IP to work with newer LPDDR implementations. The post Everspin Looks to Broaden MRAM Adoption with LPDDR Standard appeared first on EE Times .",
-    "published": "2026-11-17T17:26:57+00:00",
-    "authors": "Gary Hilson",
-    "link": "https://www.eetimes.com/everspin-looks-to-broaden-mram-adoption-with-lpddr-standard/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "These Engineers Are Cleaning Up Connected Cars’ Security Flaws",
@@ -1021,7 +1021,7 @@
     "source": "IEEE Spectrum 半导体",
     "snippet": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But",
     "published": "2026-06-29T13:00:01+00:00",
-    "authors": "Mario Lanza",
+    "authors": "Sebastian Pazos",
     "link": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
     "category": "半导体 / RFIC / 射频器件"
   },
