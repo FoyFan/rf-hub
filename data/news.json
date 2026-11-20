@@ -1,12 +1,21 @@
 [
   {
-    "title": "Nvidia Leaderless But Sparkling",
-    "source": "Electronics Weekly",
-    "snippet": "As in Q2, Nvidia’s Q3 saw a YoYvdoubling of revenues and profits. In the three months ended October 25, Nvidia’s revenue grew by 103% from the same period last year, […] The post Nvidia Leaderless But Sparkling appeared first on Electronics Weekly .",
-    "published": "2026-11-20T01:01:32+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/nvidia-leaderless-but-sparkling-2026-11/",
-    "category": "电子周刊"
+    "title": "Anthropic’s IPO and the B2D Strategy",
+    "source": "EE Times",
+    "snippet": "From Nvidia’s CUDA to Anthropic's Claude Code, developer adoption can drive enterprise sales, but hardware startups show how difficult conversion can be. The post Anthropic’s IPO and the B2D Strategy appeared first on EE Times .",
+    "published": "2026-11-20T09:43:53+00:00",
+    "authors": "Moshe Zalcberg",
+    "link": "https://www.eetimes.com/anthropic-ipo-and-the-b2d-strategy/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Geehy Launches G32R502 1kW Bidirectional Inverter Solution",
+    "source": "EE Times",
+    "snippet": "Explore Geehy’s G32R502 1kW bidirectional energy storage inverter reference design, featuring digital control, high efficiency, and UPS functionality. The post Geehy Launches G32R502 1kW Bidirectional Inverter Solution appeared first on EE Times .",
+    "published": "2026-11-20T07:00:00+00:00",
+    "authors": "Geehy Semiconductor",
+    "link": "https://www.eetimes.com/geehy-launches-the-g32r502-1kw-fully-digital-bidirectional-energy-storage-inverter-solution/",
+    "category": "EE Times 行业新闻"
   },
   {
     "title": "Memory R&D Is a High-Stakes Game",
@@ -16,6 +25,15 @@
     "authors": "Gary Hilson",
     "link": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Systems and Software Outages Explained: Who or What Is Responsible?",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "Last Thursday, Microsoft 365 Exchange Online and related apps like Outlook and Teams went down in at least 74 countries. The next day the U.S. Federal Aviation Administration ordered a full nationwide groundstop. Every airport in the United States stopped sending planes into the sky, and those alrea",
+    "published": "2026-11-19T21:12:48+00:00",
+    "authors": "Harry Goldstein",
+    "link": "https://spectrum.ieee.org/it-outage",
+    "category": "计算 / 通信系统"
   },
   {
     "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
@@ -45,15 +63,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Fable: The Delusional CEO",
-    "source": "Electronics Weekly",
-    "snippet": "There was once a tech CEO who went to have dinner with another tech CEO who had adopted the idea that he should only eat meat which he had personally […] The post Fable: The Delusional CEO appeared first on Electronics Weekly .",
-    "published": "2026-11-19T14:22:32+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-delusional-ceo-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5",
     "source": "EDN",
     "snippet": "Cable broadband over a coax LAN backbone? Or satellite TV, merged with data over that same LAN? Both possible. Not all three at once. The post Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5 appeared first on EDN .",
@@ -72,15 +81,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Thermal and EMI challenges in high-density GaN power converters",
-    "source": "Electronics Weekly",
-    "snippet": "To get the full benefits of GaN design, engineers must treat switching behaviour, EMI, PCB design and thermal management as interconnected design problems rather than isolated issues, writes Muhammad Asim […] The post Thermal and EMI challenges in high-density GaN power converters appeared first on ",
-    "published": "2026-11-19T12:00:02+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/thermal-and-emi-challenges-in-high-density-gan-power-converters-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
     "source": "EE Times",
     "snippet": "Strong AI infrastructure demand helped Nvidia revenue and profit as the company deals with leadership changes. The post Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO appeared first on EE Times .",
@@ -90,24 +90,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "TME. Your UK partner.",
-    "source": "Electronics Weekly",
-    "snippet": "When you’re sourcing electronic and industrial components, stock and price matter – TME combines a broad component portfolio with direct support from our dedicated UK team. The post TME. Your UK partner. appeared first on Electronics Weekly .",
-    "published": "2026-11-19T09:00:11+00:00",
-    "authors": "Sponsored Content",
-    "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/tme-your-uk-partner-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Sponsored Content: TME. Your UK partner.",
-    "source": "Electronics Weekly",
-    "snippet": "When you’re sourcing electronic and industrial components, stock and price matter – but so does knowing what’s happening with your order. That’s why TME combines a broad component portfolio with […] The post Sponsored Content: TME. Your UK partner. appeared first on Electronics Weekly .",
-    "published": "2026-11-19T09:00:02+00:00",
-    "authors": "Sponsored Content",
-    "link": "https://www.electronicsweekly.com/news/business/sponsored-content-tme-your-uk-partner-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Are DC data centers the solution to AI scale?",
     "source": "EDN",
     "snippet": "While AI's synchronized loads and megawatt racks strain legacy architectures, physics favors DC and economics rewards it with less energy loss and more compute per gigawatt. The post Are DC data centers the solution to AI scale? appeared first on EDN .",
@@ -115,51 +97,6 @@
     "authors": "Shaun Walsh",
     "link": "https://www.edn.com/are-dc-data-centers-the-solution-to-ai-scale/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Anthropic raises $107bn at $1.5tn valuation",
-    "source": "Electronics Weekly",
-    "snippet": "Anthropic raised $107.3bn in its IPO and private placement. The offering included a $26bn private placement backed by firms including Google, Nvidia, AMD and Microsoft. The base IPO raised about […] The post Anthropic raises $107bn at $1.5tn valuation appeared first on Electronics Weekly .",
-    "published": "2026-11-19T06:16:05+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/anthropic-raises-107bn-at-1-5trn-valuation-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "ST set to double MCU revenues",
-    "source": "Electronics Weekly",
-    "snippet": "ST expects to double its MCU revenues between 2005 and 2028, says Remi El-Ouazzane (pictured), president of ‌its Microcontrollers, Digital ICs and RF Products Group. ST reckons that, in the […] The post ST set to double MCU revenues appeared first on Electronics Weekly .",
-    "published": "2026-11-19T06:15:21+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/st-to-double-stm32-revenues-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "SI expects 60-80% semi growth in 2027",
-    "source": "Electronics Weekly",
-    "snippet": "This is Bill Jewell’s last Semiconductor Intelligence newsletter before retirement. We wish him well and thank him for his insights and knowledge shared over many decades. The global semiconductor market […] The post SI expects 60-80% semi growth in 2027 appeared first on Electronics Weekly .",
-    "published": "2026-11-19T06:14:05+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/si-expecting-60-80-semi-growth-in-2026-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Pulsiv signs Easby",
-    "source": "Electronics Weekly",
-    "snippet": "Pulsiv, the Cambridge power electronics specialist, has signed a distribution agreement with Easby Electronics. Easby’s technical sales team will focus on demand creation activities for the Pulsiv range of high-power […] The post Pulsiv signs Easby appeared first on Electronics Weekly .",
-    "published": "2026-11-19T06:09:59+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/pulsiv-signs-easby-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Nvidia launches Vera CPU for scientific discovery",
-    "source": "Electronics Weekly",
-    "snippet": "Nvidia has announced the Nvidia Vera CPU rack-scale platform for high-performance computing – combining Nvidia’s first fully custom datacentre CPU with HPC networking to drive efficiency and throughput for scientific […] The post Nvidia launches Vera CPU for scientific discovery appeared first on El",
-    "published": "2026-11-19T06:07:37+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nvidia-launches-vera-cpu-for-scientific-discovery-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Timing devices serve next-gen Ethernet and PCIe",
@@ -268,24 +205,6 @@
     "authors": "Calin Miclaus",
     "link": "https://www.edn.com/audio-ai-in-wearables-enabling-smarter-more-responsive-devices/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Edge AI Moves Agricultural Intelligence from the Cloud to the Field",
-    "source": "EE Times",
-    "snippet": "NXP and Nvidia tackle the challenges of delivering computing power, energy efficiency, and safety as agricultural machinery becomes autonomous. The post Edge AI Moves Agricultural Intelligence from the Cloud to the Field appeared first on EE Times .",
-    "published": "2026-11-18T06:59:00+00:00",
-    "authors": "Pat Brans",
-    "link": "https://www.eetimes.com/edge-ai-moves-agricultural-intelligence-from-the-cloud-to-the-field/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
-    "source": "EE Times",
-    "snippet": "Explore how ASML’s partner-driven culture, EUV dominance, and geopolitical pressures reshaped chipmaking in Marc Hijink’s interview. The post Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics appeared first on EE Times .",
-    "published": "2026-11-17T22:37:22+00:00",
-    "authors": "Nitin Dahad",
-    "link": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
@@ -900,15 +819,6 @@
     "category": "半导体 / RFIC / 射频器件"
   },
   {
-    "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National Security Agency’s main cryptographic processor in operation from the time of the Cuban",
-    "published": "2026-08-25T13:00:01+00:00",
-    "authors": "Peter Capek",
-    "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-    "category": "计算 / 通信系统"
-  },
-  {
     "title": "Building Technology People Can Trust",
     "source": "IEEE Spectrum 半导体",
     "snippet": "This article is brought to you by Emerson . I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity. In semiconductors, we have seen that repeatedly. E",
@@ -1021,7 +931,7 @@
     "source": "IEEE Spectrum 半导体",
     "snippet": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But",
     "published": "2026-06-29T13:00:01+00:00",
-    "authors": "Sebastian Pazos",
+    "authors": "Mario Lanza",
     "link": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
     "category": "半导体 / RFIC / 射频器件"
   },
