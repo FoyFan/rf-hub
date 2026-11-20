@@ -382,6 +382,24 @@
   ],
   "news": [
     {
+      "title": "How do power management ICs improve efficiency in smart homes and cities?",
+      "source": "EDN",
+      "snippet": "Next-generation power management ICs enable ultra-low-power electronics, longer battery life, and smarter, always-on connectivity in smart homes and smart cities. The post How do power management ICs improve efficiency in smart homes and cities? appeared first on EDN .",
+      "published": "2026-11-20T15:00:46+00:00",
+      "authors": "Loriotoole",
+      "link": "https://www.edn.com/how-do-power-management-ics-improve-efficiency-in-smart-homes-and-cities/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "When an energy-efficient design meets harsh reality",
+      "source": "EDN",
+      "snippet": "The Copenhagen wheel was an impressive attempt to retroactively electrify the standard bicycle, but reality got in the way. The post When an energy-efficient design meets harsh reality appeared first on EDN .",
+      "published": "2026-11-20T13:00:28+00:00",
+      "authors": "C aliou cisse",
+      "link": "https://www.edn.com/when-an-energy-efficient-design-meets-harsh-reality/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5",
       "source": "EDN",
       "snippet": "Cable broadband over a coax LAN backbone? Or satellite TV, merged with data over that same LAN? Both possible. Not all three at once. The post Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5 appeared first on EDN .",
@@ -451,24 +469,6 @@
       "published": "2026-11-18T13:00:57+00:00",
       "authors": "Brian Dipert",
       "link": "https://www.edn.com/significantly-simpler-synchronous-square-wave-circuit-for-frequency-division-by-even-numbers/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Audio AI in wearables: Enabling smarter, more responsive devices",
-      "source": "EDN",
-      "snippet": "Audio AI combined with edge AI processing and ultra-low-power MEMS microphones enables wearable devices to listen intelligently. The post Audio AI in wearables: Enabling smarter, more responsive devices appeared first on EDN .",
-      "published": "2026-11-18T09:16:18+00:00",
-      "authors": "Calin Miclaus",
-      "link": "https://www.edn.com/audio-ai-in-wearables-enabling-smarter-more-responsive-devices/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "In-space MOSFET failure mitigation",
-      "source": "EDN",
-      "snippet": "This Design Idea describes how a critical in-flight power supply unit issue was analyzed and resolved successfully. The post In-space MOSFET failure mitigation appeared first on EDN .",
-      "published": "2026-11-17T13:00:40+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/in-space-mosfet-failure-mitigation/",
       "category": "EDN 电子设计新闻"
     }
   ]

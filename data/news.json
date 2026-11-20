@@ -1,5 +1,113 @@
 [
   {
+    "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
+    "source": "Electronics Weekly",
+    "snippet": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
+    "published": "2026-11-20T15:59:31+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
+    "source": "EE Times",
+    "snippet": "Enterprise security outfit Palo Alto Networks snaps up a startup with a platform for post-training and inference of open-weight AI models. The post Palo Alto Networks Expands into Enterprise AI with $4.5B Deal appeared first on EE Times .",
+    "published": "2026-11-20T15:37:26+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
+    "source": "Electronics Weekly",
+    "snippet": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
+    "published": "2026-11-20T15:18:26+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "How do power management ICs improve efficiency in smart homes and cities?",
+    "source": "EDN",
+    "snippet": "Next-generation power management ICs enable ultra-low-power electronics, longer battery life, and smarter, always-on connectivity in smart homes and smart cities. The post How do power management ICs improve efficiency in smart homes and cities? appeared first on EDN .",
+    "published": "2026-11-20T15:00:46+00:00",
+    "authors": "Loriotoole",
+    "link": "https://www.edn.com/how-do-power-management-ics-improve-efficiency-in-smart-homes-and-cities/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Counterfeiting",
+    "source": "Electronics Weekly",
+    "snippet": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
+    "published": "2026-11-20T14:15:53+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+    "source": "IEEE Spectrum",
+    "snippet": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tomahawk missile hitting a school. News reports claimed that the strike k",
+    "published": "2026-11-20T14:00:03+00:00",
+    "authors": "Hany Farid",
+    "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+    "source": "IEEE Spectrum 计算",
+    "snippet": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tomahawk missile hitting a school. News reports claimed that the strike k",
+    "published": "2026-11-20T14:00:03+00:00",
+    "authors": "Hany Farid",
+    "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+    "category": "计算 / 通信系统"
+  },
+  {
+    "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+    "source": "Electronics Weekly",
+    "snippet": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
+    "published": "2026-11-20T13:47:52+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "When an energy-efficient design meets harsh reality",
+    "source": "EDN",
+    "snippet": "The Copenhagen wheel was an impressive attempt to retroactively electrify the standard bicycle, but reality got in the way. The post When an energy-efficient design meets harsh reality appeared first on EDN .",
+    "published": "2026-11-20T13:00:28+00:00",
+    "authors": "C aliou cisse",
+    "link": "https://www.edn.com/when-an-energy-efficient-design-meets-harsh-reality/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Where did the margin go? The hidden errors in PCB assembly",
+    "source": "Electronics Weekly",
+    "snippet": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
+    "published": "2026-11-20T12:00:26+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "TI’s multiprotocol comms SoM connects factories",
+    "source": "Electronics Weekly",
+    "snippet": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
+    "published": "2026-11-20T11:50:34+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Renesas RZ/T2N MPU targets industrial automation",
+    "source": "Electronics Weekly",
+    "snippet": "Renesas Electronics is introducing the RZ/T2N, a 64-bit MPU that combines real-time motor control, industrial Ethernet and application processing on a single chip. It is aimed at a range of […] The post Renesas RZ/T2N MPU targets industrial automation appeared first on Electronics Weekly .",
+    "published": "2026-11-20T10:24:14+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/micros/renesas-rz-t2n-mpu-targets-industrial-automation-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Anthropic’s IPO and the B2D Strategy",
     "source": "EE Times",
     "snippet": "From Nvidia’s CUDA to Anthropic's Claude Code, developer adoption can drive enterprise sales, but hardware startups show how difficult conversion can be. The post Anthropic’s IPO and the B2D Strategy appeared first on EE Times .",
@@ -9,6 +117,15 @@
     "category": "EE Times 行业新闻"
   },
   {
+    "title": "AI-native chip development platform connects intent, knowledge and execution",
+    "source": "Electronics Weekly",
+    "snippet": "A multi-player AI-native chip development platform has been announced by AidaChip. The platform covers all silicon roles, from architecture to production, says the company. The platform is built on three […] The post AI-native chip development platform connects intent, knowledge and execution appear",
+    "published": "2026-11-20T09:13:29+00:00",
+    "authors": "Caroline Hayes",
+    "link": "https://www.electronicsweekly.com/news/ai-native-chip-development-platform-connects-intent-knowledge-and-execution-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Geehy Launches G32R502 1kW Bidirectional Inverter Solution",
     "source": "EE Times",
     "snippet": "Explore Geehy’s G32R502 1kW bidirectional energy storage inverter reference design, featuring digital control, high efficiency, and UPS functionality. The post Geehy Launches G32R502 1kW Bidirectional Inverter Solution appeared first on EE Times .",
@@ -16,6 +133,24 @@
     "authors": "Geehy Semiconductor",
     "link": "https://www.eetimes.com/geehy-launches-the-g32r502-1kw-fully-digital-bidirectional-energy-storage-inverter-solution/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Google’s opportunity to rejig TPU supply chain",
+    "source": "Electronics Weekly",
+    "snippet": "Google is rejigging the supply chain for its TPUs as Jensen Huang’s exit impacts a capacity-constrained AI chip rmarket. SemiAnalysis founder Dylan Patel told CNBC that Google is already going […] The post Google’s opportunity to rejig TPU supply chain appeared first on Electronics Weekly .",
+    "published": "2026-11-20T06:16:49+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/google-rejigging-tpu-supply-chain-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "NAND price to fall",
+    "source": "Electronics Weekly",
+    "snippet": "NAND could be in over-supply next year as production increases rapidly, China CSPs cut SSD demand and consumer orders fall, says TrendForce. TrendForce reckons that NAND contract prices will begin […] The post NAND price to fall appeared first on Electronics Weekly .",
+    "published": "2026-11-20T06:13:30+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/nand-price-to-fall-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "Memory R&D Is a High-Stakes Game",
@@ -180,30 +315,12 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips",
-    "source": "EE Times",
-    "snippet": "India's AI infrastructure needs could exceed 6 GW by 2030. Oxmiq Labs CEO Raja Koduri explains why domestic chip design and custom systems matter. The post Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips appeared first on EE Times .",
-    "published": "2026-11-18T13:30:00+00:00",
-    "authors": "Yashasvini Razdan",
-    "link": "https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Significantly simpler synchronous square wave circuit for frequency division by even numbers",
     "source": "EDN",
     "snippet": "8-bit synchronous counter circuit divides a frequency counter’s chip count down to 2 with significant simplicity. The post Significantly simpler synchronous square wave circuit for frequency division by even numbers appeared first on EDN .",
     "published": "2026-11-18T13:00:57+00:00",
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/significantly-simpler-synchronous-square-wave-circuit-for-frequency-division-by-even-numbers/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Audio AI in wearables: Enabling smarter, more responsive devices",
-    "source": "EDN",
-    "snippet": "Audio AI combined with edge AI processing and ultra-low-power MEMS microphones enables wearable devices to listen intelligently. The post Audio AI in wearables: Enabling smarter, more responsive devices appeared first on EDN .",
-    "published": "2026-11-18T09:16:18+00:00",
-    "authors": "Calin Miclaus",
-    "link": "https://www.edn.com/audio-ai-in-wearables-enabling-smarter-more-responsive-devices/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -241,15 +358,6 @@
     "authors": "Dina Genkina",
     "link": "https://spectrum.ieee.org/optical-computing-ai",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "In-space MOSFET failure mitigation",
-    "source": "EDN",
-    "snippet": "This Design Idea describes how a critical in-flight power supply unit issue was analyzed and resolved successfully. The post In-space MOSFET failure mitigation appeared first on EDN .",
-    "published": "2026-11-17T13:00:40+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/in-space-mosfet-failure-mitigation/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
@@ -531,15 +639,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-    "source": "IEEE Spectrum",
-    "snippet": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position es",
-    "published": "2026-10-27T16:14:39+00:00",
-    "authors": "VicOne",
-    "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-    "category": "IEEE 综合新闻"
-  },
-  {
     "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
     "source": "IEEE Spectrum 计算",
     "snippet": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments",
@@ -790,15 +889,6 @@
     "authors": "Joana Soares",
     "link": "https://spectrum.ieee.org/europes-ai-drive",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
-    "source": "IEEE Spectrum 计算",
-    "snippet": "This story was originally published by Tech Policy Press . The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that unde",
-    "published": "2026-08-31T14:00:04+00:00",
-    "authors": "Joana Soares",
-    "link": "https://spectrum.ieee.org/europes-ai-drive",
-    "category": "计算 / 通信系统"
   },
   {
     "title": "The U.S. Is Building CHIPS Act Fabs but Neglecting R&D",
