@@ -1,5 +1,14 @@
 [
   {
+    "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+    "source": "IEEE Spectrum 半导体",
+    "snippet": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+    "published": "2026-11-21T14:00:02+00:00",
+    "authors": "Matthew S. Smith",
+    "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+    "category": "半导体 / RFIC / 射频器件"
+  },
+  {
     "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
     "source": "EE Times",
     "snippet": "Playground Global is searching CEA laboratories for technologies that could create new markets—but global capital complicates European sovereignty. The post Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies appeared first on EE Times .",
@@ -1041,15 +1050,6 @@
     "published": "2026-06-25T11:41:45+00:00",
     "authors": "Samuel K. Moore",
     "link": "https://spectrum.ieee.org/cfet-ibm-plan",
-    "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
-    "source": "IEEE Spectrum 半导体",
-    "snippet": "Summary RFIC design is a complex “ dark art ” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications. Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch. Diffusion models rapidly generate novel or",
-    "published": "2026-06-24T13:00:01+00:00",
-    "authors": "Kaushik Sengupta",
-    "link": "https://spectrum.ieee.org/ai-radio-chip-design",
     "category": "半导体 / RFIC / 射频器件"
   },
   {
