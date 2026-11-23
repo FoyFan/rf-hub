@@ -1,5 +1,68 @@
 [
   {
+    "title": "The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt",
+    "source": "EE Times",
+    "snippet": "Here is why it was a non-starter and what the story reveals about memory’s strategic appeal in the AI buildup. The post The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt appeared first on EE Times .",
+    "published": "2026-11-23T08:30:00+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.eetimes.com/the-enigma-of-softbanks-1-trillion-sk-hynix-buyout-attempt/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Fears and rumours swirl around Nvidia",
+    "source": "Electronics Weekly",
+    "snippet": "Jensen Huang (pictured) could take over as CEO of Intel with Lip-Bu Tan taking an advisory role, according to Wall Street gossip initiated by analyst Jordan Klein at Mizuho Securities. […] The post Fears and rumours swirl around Nvidia appeared first on Electronics Weekly .",
+    "published": "2026-11-23T06:16:31+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/fears-and-rumours-swirl-around-nvidia-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Imec Finland opens in Espoo",
+    "source": "Electronics Weekly",
+    "snippet": "Imec has opened imec Finland, its new R&D centre with office and optical laboratory in Espoo. The new site expands imec’s photonics capabilities with application-oriented optical design and system development, […] The post Imec Finland opens in Espoo appeared first on Electronics Weekly .",
+    "published": "2026-11-23T06:09:15+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/imec-finland-opens-in-espoo-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "RAN market stabilising",
+    "source": "Electronics Weekly",
+    "snippet": "The Q3 Radio Access Network (RAN) market continued to improve, says Dell’Oro. Worldwide RAN revenue increased at a mid-single-digit rate YoY, marking the fastest quarterly growth in nearly five years […] The post RAN market stabilising appeared first on Electronics Weekly .",
+    "published": "2026-11-23T06:08:38+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/ran-market-stabilising-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Melexis launches 4th gen automotive LIN motor drivers",
+    "source": "Electronics Weekly",
+    "snippet": "Melexis has introduced the MLX81352 and MLX81354, its fourth-generation automotive LIN motor drivers designed for higher-power mechatronic applications requiring up to 1 A (10W) motor drive capability. The devices bring […] The post Melexis launches 4th gen automotive LIN motor drivers appeared firs",
+    "published": "2026-11-23T06:05:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/melexis-launches-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Create The Future – Winners",
+    "source": "Electronics Weekly",
+    "snippet": "The winners of the 2026 Create the Future Design Contest sponsored by Mouser, Intel and ADI, have been announced. The $25,000 grand prize went to Kianna Young and Genesis Tissue […] The post Create The Future – Winners appeared first on Electronics Weekly .",
+    "published": "2026-11-23T06:03:40+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/e-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Ed’s Vulture Fund For Distressed Datacentres",
+    "source": "Electronics Weekly",
+    "snippet": "The NBW (Next Big Wheeze) is going to be the market for distressed datacentres, Ed confides to his diary, and I’m putting together a Vulture Fund to participate. Of course […] The post Ed’s Vulture Fund For Distressed Datacentres appeared first on Electronics Weekly .",
+    "published": "2026-11-23T01:01:02+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/eds-vulture-fund-for-distressed-datacentres-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
     "source": "IEEE Spectrum 半导体",
     "snippet": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
@@ -99,33 +162,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Where did the margin go? The hidden errors in PCB assembly",
-    "source": "Electronics Weekly",
-    "snippet": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-    "published": "2026-11-20T12:00:26+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "TI’s multiprotocol comms SoM connects factories",
-    "source": "Electronics Weekly",
-    "snippet": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-    "published": "2026-11-20T11:50:34+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Renesas RZ/T2N MPU targets industrial automation",
-    "source": "Electronics Weekly",
-    "snippet": "Renesas Electronics is introducing the RZ/T2N, a 64-bit MPU that combines real-time motor control, industrial Ethernet and application processing on a single chip. It is aimed at a range of […] The post Renesas RZ/T2N MPU targets industrial automation appeared first on Electronics Weekly .",
-    "published": "2026-11-20T10:24:14+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/micros/renesas-rz-t2n-mpu-targets-industrial-automation-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Anthropic’s IPO and the B2D Strategy",
     "source": "EE Times",
     "snippet": "From Nvidia’s CUDA to Anthropic's Claude Code, developer adoption can drive enterprise sales, but hardware startups show how difficult conversion can be. The post Anthropic’s IPO and the B2D Strategy appeared first on EE Times .",
@@ -135,15 +171,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "AI-native chip development platform connects intent, knowledge and execution",
-    "source": "Electronics Weekly",
-    "snippet": "A multi-player AI-native chip development platform has been announced by AidaChip. The platform covers all silicon roles, from architecture to production, says the company. The platform is built on three […] The post AI-native chip development platform connects intent, knowledge and execution appear",
-    "published": "2026-11-20T09:13:29+00:00",
-    "authors": "Caroline Hayes",
-    "link": "https://www.electronicsweekly.com/news/ai-native-chip-development-platform-connects-intent-knowledge-and-execution-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Geehy Launches G32R502 1kW Bidirectional Inverter Solution",
     "source": "EE Times",
     "snippet": "Explore Geehy’s G32R502 1kW bidirectional energy storage inverter reference design, featuring digital control, high efficiency, and UPS functionality. The post Geehy Launches G32R502 1kW Bidirectional Inverter Solution appeared first on EE Times .",
@@ -151,24 +178,6 @@
     "authors": "Geehy Semiconductor",
     "link": "https://www.eetimes.com/geehy-launches-the-g32r502-1kw-fully-digital-bidirectional-energy-storage-inverter-solution/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Google’s opportunity to rejig TPU supply chain",
-    "source": "Electronics Weekly",
-    "snippet": "Google is rejigging the supply chain for its TPUs as Jensen Huang’s exit impacts a capacity-constrained AI chip rmarket. SemiAnalysis founder Dylan Patel told CNBC that Google is already going […] The post Google’s opportunity to rejig TPU supply chain appeared first on Electronics Weekly .",
-    "published": "2026-11-20T06:16:49+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/google-rejigging-tpu-supply-chain-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "NAND price to fall",
-    "source": "Electronics Weekly",
-    "snippet": "NAND could be in over-supply next year as production increases rapidly, China CSPs cut SSD demand and consumer orders fall, says TrendForce. TrendForce reckons that NAND contract prices will begin […] The post NAND price to fall appeared first on Electronics Weekly .",
-    "published": "2026-11-20T06:13:30+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/nand-price-to-fall-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Memory R&D Is a High-Stakes Game",
@@ -313,15 +322,6 @@
     "authors": "Brian Jenney",
     "link": "https://spectrum.ieee.org/personal-branding-for-engineers",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design",
-    "source": "EE Times",
-    "snippet": "Discover how advanced multiturn position sensing can transform industrial motion control without the limitations of traditional mechanical solutions. Explore how magnetic sensing technology enables accurate, reliable tracking of rotational movement even when power is removed. From robotics and linea",
-    "published": "2026-11-18T15:00:00+00:00",
-    "authors": "Analog Devices",
-    "link": "https://www.eetimes.com/beyond-one-turn-how-a-single-chip-multiturn-position-sensor-is-reshaping-actuator-design/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Significantly simpler synchronous square wave circuit for frequency division by even numbers",
