@@ -382,6 +382,33 @@
   ],
   "news": [
     {
+      "title": "How embedded sensors are modernizing smart bathroom",
+      "source": "EDN",
+      "snippet": "Each embedded sensing technology contributes to a holistic ecosystem where hygiene, resource management, and wellness converge. The post How embedded sensors are modernizing smart bathroom appeared first on EDN .",
+      "published": "2026-11-23T16:16:06+00:00",
+      "authors": "T.K. Hareendran",
+      "link": "https://www.edn.com/how-embedded-sensors-are-modernizing-smart-bathroom/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Building smart environments with IoT development kits",
+      "source": "EDN",
+      "snippet": "Build smart homes and smart cities faster with IoT development kits that combine heterogeneous connectivity, energy efficiency, and security. The post Building smart environments with IoT development kits appeared first on EDN .",
+      "published": "2026-11-23T15:00:31+00:00",
+      "authors": "Loriotoole",
+      "link": "https://www.edn.com/building-smart-environments-with-iot-development-kits/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "A holiday shopping guide for engineers: 2026 edition",
+      "source": "EDN",
+      "snippet": "It’s November, time for another year’s shopping list full of techie gift ideas for others or yourself, courtesy of a fellow engineer. The post A holiday shopping guide for engineers: 2026 edition appeared first on EDN .",
+      "published": "2026-11-23T13:00:57+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/a-holiday-shopping-guide-for-engineers-2026-edition/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "How do power management ICs improve efficiency in smart homes and cities?",
       "source": "EDN",
       "snippet": "Next-generation power management ICs enable ultra-low-power electronics, longer battery life, and smarter, always-on connectivity in smart homes and smart cities. The post How do power management ICs improve efficiency in smart homes and cities? appeared first on EDN .",
@@ -442,33 +469,6 @@
       "published": "2026-11-19T01:12:55+00:00",
       "authors": "Susan Nordyk",
       "link": "https://www.edn.com/infrared-sensor-takes-aim-at-wearable-health/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Miniature actuator adds haptics to wearables",
-      "source": "EDN",
-      "snippet": "Measuring 4 mm in diameter, Vybronics says its coin-type linear resonant actuator (LRA) has the smallest diameter on the market. The post Miniature actuator adds haptics to wearables appeared first on EDN .",
-      "published": "2026-11-19T01:12:16+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/miniature-actuator-adds-haptics-to-wearables/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Compact LEDs expand multi-color lighting options",
-      "source": "EDN",
-      "snippet": "Cree’s smallest ceramic multi-color LEDs, the XLamp X21 series combines four different-color LED dice in a 2.1×2.1-mm ceramic package. The post Compact LEDs expand multi-color lighting options appeared first on EDN .",
-      "published": "2026-11-19T01:11:27+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/compact-leds-expand-multi-color-lighting-options/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Significantly simpler synchronous square wave circuit for frequency division by even numbers",
-      "source": "EDN",
-      "snippet": "8-bit synchronous counter circuit divides a frequency counter’s chip count down to 2 with significant simplicity. The post Significantly simpler synchronous square wave circuit for frequency division by even numbers appeared first on EDN .",
-      "published": "2026-11-18T13:00:57+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/significantly-simpler-synchronous-square-wave-circuit-for-frequency-division-by-even-numbers/",
       "category": "EDN 电子设计新闻"
     }
   ]

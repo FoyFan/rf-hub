@@ -1,5 +1,122 @@
 [
   {
+    "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+    "source": "EE Times",
+    "snippet": "Nvidia goes back to business as usual following Huang's resignation and reinstatement after a week. The post Nvidia Board Reinstates Jensen Huang as CEO appeared first on EE Times .",
+    "published": "2026-11-23T18:17:02+00:00",
+    "authors": "Sally Ward-Foxton",
+    "link": "https://www.eetimes.com/nvidia-board-reinstates-jensen-huang-as-ceo/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "How embedded sensors are modernizing smart bathroom",
+    "source": "EDN",
+    "snippet": "Each embedded sensing technology contributes to a holistic ecosystem where hygiene, resource management, and wellness converge. The post How embedded sensors are modernizing smart bathroom appeared first on EDN .",
+    "published": "2026-11-23T16:16:06+00:00",
+    "authors": "T.K. Hareendran",
+    "link": "https://www.edn.com/how-embedded-sensors-are-modernizing-smart-bathroom/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Electronica: Video Interview – Arrow Electronics launches Capstone to increase focus on IP&E solutions",
+    "source": "Electronics Weekly",
+    "snippet": "At Electronica 2026 we caught up with Jörg Strughold – chief growth officer, global IP&E and Capstone at Arrow Electronics – as part of our promotional coverage for the event. […] The post Electronica: Video Interview – Arrow Electronics launches Capstone to increase focus on IP&E solutions appeared",
+    "published": "2026-11-23T16:16:00+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/electronica/electronica-video-interview-arrow-electronics-launches-capstone-to-increase-focus-on-ipe-solutions-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "The Sovereign AI Paradox: Who Controls the Compute?",
+    "source": "EE Times",
+    "snippet": "U.S. restrictions on overseas AI infrastructure could accelerate sovereign computing and weaken American technology dominance. The post The Sovereign AI Paradox: Who Controls the Compute? appeared first on EE Times .",
+    "published": "2026-11-23T16:08:35+00:00",
+    "authors": "Ron Honig",
+    "link": "https://www.eetimes.com/the-sovereign-ai-paradox-who-controls-the-compute/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Huang reinstated as CEO of Nvidia",
+    "source": "Electronics Weekly",
+    "snippet": "Nvidia has reinstated Jensen Huang as president and chief CEO, effective immediately. “I am honoured to return to Nvidia and lead one of the most consequential technology companies in the […] The post Huang reinstated as CEO of Nvidia appeared first on Electronics Weekly .",
+    "published": "2026-11-23T15:08:29+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/huang-reinstated-as-ceo-of-nvidia-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Building smart environments with IoT development kits",
+    "source": "EDN",
+    "snippet": "Build smart homes and smart cities faster with IoT development kits that combine heterogeneous connectivity, energy efficiency, and security. The post Building smart environments with IoT development kits appeared first on EDN .",
+    "published": "2026-11-23T15:00:31+00:00",
+    "authors": "Loriotoole",
+    "link": "https://www.edn.com/building-smart-environments-with-iot-development-kits/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Secure Flash: A Practical Path to Cyber Resilience Act Compliance",
+    "source": "EE Times",
+    "snippet": "The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for connected products throughout their lifecycle. This white paper explores how Winbond’s TrustME® W77Q Secure Flash and CRA Conformance and Integration Kit help OEMs strengthen firmware protection, secure software updates, rol",
+    "published": "2026-11-23T15:00:00+00:00",
+    "authors": "Winbond Electronics Corporation",
+    "link": "https://www.eetimes.com/secure-flash-a-practical-path-to-cyber-resilience-act-compliance/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "The China IC Lag",
+    "source": "Electronics Weekly",
+    "snippet": "Data collected by the OECD shows that the U.S. and its allies have an advantage in the standoff over access to the latest IC technology. Logic chips with nodes […] The post The China IC Lag appeared first on Electronics Weekly .",
+    "published": "2026-11-23T14:23:06+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/the-china-ic-lag-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Learn How 5G NTN Architecture, Mobility, and Testing Shape 6G",
+    "source": "IEEE Spectrum",
+    "snippet": "What you will learn about: How 3GPP standards from Release 15 to Release 19 built the foundation of NR-NTN, and why NTN extends 5G coverage to oceans, rural regions, and disaster zones. How transparent and regenerative satellite payload architectures differ, and what each choice means for round trip",
+    "published": "2026-11-23T14:08:53+00:00",
+    "authors": "Rohde & Schwarz",
+    "link": "https://content.knowledgehub.wiley.com/5g-ntn-takes-flight-a-deep-dive-into-nr-ntn-technology-and-testing-aspects/",
+    "category": "IEEE 综合新闻"
+  },
+  {
+    "title": "Haas to stay at Arm",
+    "source": "Electronics Weekly",
+    "snippet": "Arm CEO Rene Haas (pictured) has signed a contract to stay at Arm till 2033 despite approaches from Nvidia to succeed Jensen Huang as CEO. “I’ve never been more confident […] The post Haas to stay at Arm appeared first on Electronics Weekly .",
+    "published": "2026-11-23T13:49:34+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/haas-to-stay-at-arm-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "A holiday shopping guide for engineers: 2026 edition",
+    "source": "EDN",
+    "snippet": "It’s November, time for another year’s shopping list full of techie gift ideas for others or yourself, courtesy of a fellow engineer. The post A holiday shopping guide for engineers: 2026 edition appeared first on EDN .",
+    "published": "2026-11-23T13:00:57+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/a-holiday-shopping-guide-for-engineers-2026-edition/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Edge-mount MCX connector expands Amphenol RF’s non-magnetic range",
+    "source": "Electronics Weekly",
+    "snippet": "Amphenol RF is introducing a compact MCX (micro coaxial) end-launch jack for magnetically sensitive applications rquiring reliable RF performance from DC to 6 GHz. The non-magnetic MCX end-launch jack is […] The post Edge-mount MCX connector expands Amphenol RF’s non-magnetic range appeared first on",
+    "published": "2026-11-23T11:27:41+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/connectors/edge-mount-mcx-connector-expands-amphenol-rfs-non-magnetic-range-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "UK Space Agency opens 2026 Space Sector Skills Survey",
+    "source": "Electronics Weekly",
+    "snippet": "The UK Space Agency (UKSA) is looking for contributions from UK employers to its Space Sector Skills Survey 2026. It hopes to identify space workforce issues, in terms of skills […] The post UK Space Agency opens 2026 Space Sector Skills Survey appeared first on Electronics Weekly .",
+    "published": "2026-11-23T10:14:24+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/uk-space-agency-opens-2026-space-sector-skills-survey-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt",
     "source": "EE Times",
     "snippet": "Here is why it was a non-starter and what the story reveals about memory’s strategic appeal in the AI buildup. The post The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt appeared first on EE Times .",
@@ -11,7 +128,7 @@
   {
     "title": "Fears and rumours swirl around Nvidia",
     "source": "Electronics Weekly",
-    "snippet": "Jensen Huang (pictured) could take over as CEO of Intel with Lip-Bu Tan taking an advisory role, according to Wall Street gossip initiated by analyst Jordan Klein at Mizuho Securities. […] The post Fears and rumours swirl around Nvidia appeared first on Electronics Weekly .",
+    "snippet": "Jensen Huang (pictured) could take over as CEO of Intel, with Lip-Bu Tan taking an advisory role, according to Wall Street gossip initiated by analyst Jordan Klein at Mizuho Securities. […] The post Fears and rumours swirl around Nvidia appeared first on Electronics Weekly .",
     "published": "2026-11-23T06:16:31+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/fears-and-rumours-swirl-around-nvidia-2026-11/",
@@ -20,7 +137,7 @@
   {
     "title": "Imec Finland opens in Espoo",
     "source": "Electronics Weekly",
-    "snippet": "Imec has opened imec Finland, its new R&D centre with office and optical laboratory in Espoo. The new site expands imec’s photonics capabilities with application-oriented optical design and system development, […] The post Imec Finland opens in Espoo appeared first on Electronics Weekly .",
+    "snippet": "Imec has opened imec Finland, its new R&D centre, with an office and optical laboratory in Espoo. The new site expands imec’s photonics capabilities with application-oriented optical design and system […] The post Imec Finland opens in Espoo appeared first on Electronics Weekly .",
     "published": "2026-11-23T06:09:15+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/imec-finland-opens-in-espoo-2026-11/",
@@ -29,37 +146,19 @@
   {
     "title": "RAN market stabilising",
     "source": "Electronics Weekly",
-    "snippet": "The Q3 Radio Access Network (RAN) market continued to improve, says Dell’Oro. Worldwide RAN revenue increased at a mid-single-digit rate YoY, marking the fastest quarterly growth in nearly five years […] The post RAN market stabilising appeared first on Electronics Weekly .",
+    "snippet": "The Q3 Radio Access Network (RAN) market continued to improve, says Dell’Oro. Worldwide RAN revenue increased at a mid-single-digit rate y-o-y, marking the fastest quarterly growth in nearly five years […] The post RAN market stabilising appeared first on Electronics Weekly .",
     "published": "2026-11-23T06:08:38+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/ran-market-stabilising-2026-11/",
     "category": "电子周刊"
   },
   {
-    "title": "Melexis launches 4th gen automotive LIN motor drivers",
+    "title": "Melexis launches fourth gen automotive LIN motor drivers",
     "source": "Electronics Weekly",
-    "snippet": "Melexis has introduced the MLX81352 and MLX81354, its fourth-generation automotive LIN motor drivers designed for higher-power mechatronic applications requiring up to 1 A (10W) motor drive capability. The devices bring […] The post Melexis launches 4th gen automotive LIN motor drivers appeared firs",
+    "snippet": "Melexis has introduced the MLX81352 and MLX81354, its fourth-generation automotive LIN motor drivers designed for higher-power mechatronic applications requiring up to 1A (10W) motor drive capability. The devices bring precision […] The post Melexis launches fourth gen automotive LIN motor drivers a",
     "published": "2026-11-23T06:05:41+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/melexis-launches-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Create The Future – Winners",
-    "source": "Electronics Weekly",
-    "snippet": "The winners of the 2026 Create the Future Design Contest sponsored by Mouser, Intel and ADI, have been announced. The $25,000 grand prize went to Kianna Young and Genesis Tissue […] The post Create The Future – Winners appeared first on Electronics Weekly .",
-    "published": "2026-11-23T06:03:40+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/e-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Ed’s Vulture Fund For Distressed Datacentres",
-    "source": "Electronics Weekly",
-    "snippet": "The NBW (Next Big Wheeze) is going to be the market for distressed datacentres, Ed confides to his diary, and I’m putting together a Vulture Fund to participate. Of course […] The post Ed’s Vulture Fund For Distressed Datacentres appeared first on Electronics Weekly .",
-    "published": "2026-11-23T01:01:02+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/eds-vulture-fund-for-distressed-datacentres-2026-11/",
     "category": "电子周刊"
   },
   {
@@ -81,15 +180,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-    "source": "Electronics Weekly",
-    "snippet": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-    "published": "2026-11-20T15:59:31+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
     "source": "EE Times",
     "snippet": "Enterprise security outfit Palo Alto Networks snaps up a startup with a platform for post-training and inference of open-weight AI models. The post Palo Alto Networks Expands into Enterprise AI with $4.5B Deal appeared first on EE Times .",
@@ -99,15 +189,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-    "source": "Electronics Weekly",
-    "snippet": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-    "published": "2026-11-20T15:18:26+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "How do power management ICs improve efficiency in smart homes and cities?",
     "source": "EDN",
     "snippet": "Next-generation power management ICs enable ultra-low-power electronics, longer battery life, and smarter, always-on connectivity in smart homes and smart cities. The post How do power management ICs improve efficiency in smart homes and cities? appeared first on EDN .",
@@ -115,15 +196,6 @@
     "authors": "Loriotoole",
     "link": "https://www.edn.com/how-do-power-management-ics-improve-efficiency-in-smart-homes-and-cities/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Counterfeiting",
-    "source": "Electronics Weekly",
-    "snippet": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-    "published": "2026-11-20T14:15:53+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
@@ -142,15 +214,6 @@
     "authors": "Hany Farid",
     "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-    "source": "Electronics Weekly",
-    "snippet": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-    "published": "2026-11-20T13:47:52+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "When an energy-efficient design meets harsh reality",
@@ -216,15 +279,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Shaping the Form, Function, and Future of Humanoid Robotics",
-    "source": "EE Times",
-    "snippet": "Humanoid robotics is moving rapidly from concept toward real-world applications, creating new engineering challenges across sensing, movement, assembly, reliability and long-term serviceability. As robots become more sophisticated, materials play an increasingly important role in enabling lighter an",
-    "published": "2026-11-19T14:32:48+00:00",
-    "authors": "Henkel",
-    "link": "https://www.eetimes.com/shaping-the-form-function-and-future-of-humanoid-robotics/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5",
     "source": "EDN",
     "snippet": "Cable broadband over a coax LAN backbone? Or satellite TV, merged with data over that same LAN? Both possible. Not all three at once. The post Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5 appeared first on EDN .",
@@ -241,15 +295,6 @@
     "authors": "Cal Newport",
     "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
-    "source": "EE Times",
-    "snippet": "Strong AI infrastructure demand helped Nvidia revenue and profit as the company deals with leadership changes. The post Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO appeared first on EE Times .",
-    "published": "2026-11-19T10:26:18+00:00",
-    "authors": "News Desk",
-    "link": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Are DC data centers the solution to AI scale?",
@@ -288,33 +333,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Miniature actuator adds haptics to wearables",
-    "source": "EDN",
-    "snippet": "Measuring 4 mm in diameter, Vybronics says its coin-type linear resonant actuator (LRA) has the smallest diameter on the market. The post Miniature actuator adds haptics to wearables appeared first on EDN .",
-    "published": "2026-11-19T01:12:16+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/miniature-actuator-adds-haptics-to-wearables/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Compact LEDs expand multi-color lighting options",
-    "source": "EDN",
-    "snippet": "Cree’s smallest ceramic multi-color LEDs, the XLamp X21 series combines four different-color LED dice in a 2.1×2.1-mm ceramic package. The post Compact LEDs expand multi-color lighting options appeared first on EDN .",
-    "published": "2026-11-19T01:11:27+00:00",
-    "authors": "Susan Nordyk",
-    "link": "https://www.edn.com/compact-leds-expand-multi-color-lighting-options/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
-    "source": "EE Times",
-    "snippet": "Charles Beyrouthy warns quantum stocks face a correction as investors ignore revenue and tech differences; watch where he sees opportunity next. The post Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says appeared first on EE Times .",
-    "published": "2026-11-18T23:39:34+00:00",
-    "authors": "Nitin Dahad",
-    "link": "https://www.eetimes.com/quantum-stocks-are-headed-for-a-correction-investor-charles-beyrouthy-says/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Build a Personal Brand to Help Employers Find You",
     "source": "IEEE Spectrum",
     "snippet": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! In one year, the number of developers working for",
@@ -322,15 +340,6 @@
     "authors": "Brian Jenney",
     "link": "https://spectrum.ieee.org/personal-branding-for-engineers",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Significantly simpler synchronous square wave circuit for frequency division by even numbers",
-    "source": "EDN",
-    "snippet": "8-bit synchronous counter circuit divides a frequency counter’s chip count down to 2 with significant simplicity. The post Significantly simpler synchronous square wave circuit for frequency division by even numbers appeared first on EDN .",
-    "published": "2026-11-18T13:00:57+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/significantly-simpler-synchronous-square-wave-circuit-for-frequency-division-by-even-numbers/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
@@ -344,7 +353,7 @@
   {
     "title": "These Engineers Are Cleaning Up Connected Cars’ Security Flaws",
     "source": "IEEE Spectrum 计算",
-    "snippet": "Today’s connected vehicles collect and transmit far more personal data from drivers and passengers than their predecessors, with costly consequences. The Center for Automotive Management in Germany estimates that cyberattacks have caused more than $20 billion in damage to the auto industry as of 202",
+    "snippet": "Today’s connected vehicles collect and transmit far more personal data from drivers and passengers than their predecessors, with costly consequences. The Center for Automotive Management in Germany estimates that cyberattacks have caused more than US $20 billion in damage to the auto industry as of ",
     "published": "2026-11-17T16:00:03+00:00",
     "authors": "Eva Dou",
     "link": "https://spectrum.ieee.org/connected-cars-security",
@@ -636,15 +645,6 @@
     "published": "2026-10-28T18:00:02+00:00",
     "authors": "Sufian Aldogom",
     "link": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
-    "source": "IEEE Spectrum",
-    "snippet": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward. At the back of the aircraft, the five-blade pusher propeller snaps awak",
-    "published": "2026-10-28T13:00:03+00:00",
-    "authors": "Tom Clynes",
-    "link": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
     "category": "IEEE 综合新闻"
   },
   {
