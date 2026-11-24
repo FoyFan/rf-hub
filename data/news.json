@@ -1,5 +1,14 @@
 [
   {
+    "title": "Electronic Character Recognition Acclerates Data Processing",
+    "source": "Electronics Weekly",
+    "snippet": "SPEEDS and capacities of digital computers have increased so rapidly that there is a constant demand for new and faster methods of feed-ing-in and extracting information from them. Do, 65 […] The post Electronic Character Recognition Acclerates Data Processing appeared first on Electronics Weekly .",
+    "published": "2026-11-24T01:01:10+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/electronic-character-recognition-acclerates-data-processing-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Nvidia Board Reinstates Jensen Huang as CEO",
     "source": "EE Times",
     "snippet": "Nvidia goes back to business as usual following Huang's resignation and reinstatement after a week. The post Nvidia Board Reinstates Jensen Huang as CEO appeared first on EE Times .",
@@ -153,15 +162,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Melexis launches fourth gen automotive LIN motor drivers",
-    "source": "Electronics Weekly",
-    "snippet": "Melexis has introduced the MLX81352 and MLX81354, its fourth-generation automotive LIN motor drivers designed for higher-power mechatronic applications requiring up to 1A (10W) motor drive capability. The devices bring precision […] The post Melexis launches fourth gen automotive LIN motor drivers a",
-    "published": "2026-11-23T06:05:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/melexis-launches-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
     "source": "IEEE Spectrum 半导体",
     "snippet": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
@@ -254,7 +254,7 @@
   {
     "title": "Systems and Software Outages Explained: Who or What Is Responsible?",
     "source": "IEEE Spectrum 计算",
-    "snippet": "Last Thursday, Microsoft 365 Exchange Online and related apps like Outlook and Teams went down in at least 74 countries. The next day the U.S. Federal Aviation Administration ordered a full nationwide groundstop. Every airport in the United States stopped sending planes into the sky, and those alrea",
+    "snippet": "Last Thursday, Microsoft 365’s Exchange Online and related apps like Outlook and Teams went down in at least 74 countries. The next day the U.S. Federal Aviation Administration (FAA) ordered a full nationwide ground stop. Every airport in the United States stopped sending planes into the sky, and th",
     "published": "2026-11-19T21:12:48+00:00",
     "authors": "Harry Goldstein",
     "link": "https://spectrum.ieee.org/it-outage",
