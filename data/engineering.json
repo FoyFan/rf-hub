@@ -382,6 +382,33 @@
   ],
   "news": [
     {
+      "title": "IoT security advances are critical for smart home and smart city automation",
+      "source": "EDN",
+      "snippet": "Advances in IoT security protect connected devices, data, smart home systems, and smart city infrastructure from cyberattacks. The post IoT security advances are critical for smart home and smart city automation appeared first on EDN .",
+      "published": "2026-11-24T15:00:56+00:00",
+      "authors": "Loriotoole",
+      "link": "https://www.edn.com/iot-security-advances-are-critical-for-smart-home-and-smart-city-automation/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Power Tips #159: Quieting audible noise in AC/DC and DC/DC power supplies",
+      "source": "EDN",
+      "snippet": "Careful component selection and conscious magnetic construction can avoid many common burst-mode noise sources. The post Power Tips #159: Quieting audible noise in AC/DC and DC/DC power supplies appeared first on EDN .",
+      "published": "2026-11-24T13:00:13+00:00",
+      "authors": "Benjamin Lough",
+      "link": "https://www.edn.com/power-tips-159-quieting-audible-noise-in-ac-dc-and-dc-dc-power-supplies/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Preparing for the EU CRA with hardware security verification",
+      "source": "EDN",
+      "snippet": "Hardware security verification adds questions about where protected information can travel and what can influence it. The post Preparing for the EU CRA with hardware security verification appeared first on EDN .",
+      "published": "2026-11-24T07:33:00+00:00",
+      "authors": "Leon Brown",
+      "link": "https://www.edn.com/preparing-for-the-eu-cra-with-hardware-security-verification/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "How embedded sensors are modernizing smart bathroom",
       "source": "EDN",
       "snippet": "Each embedded sensing technology contributes to a holistic ecosystem where hygiene, resource management, and wellness converge. The post How embedded sensors are modernizing smart bathroom appeared first on EDN .",
@@ -442,33 +469,6 @@
       "published": "2026-11-19T07:03:16+00:00",
       "authors": "Shaun Walsh",
       "link": "https://www.edn.com/are-dc-data-centers-the-solution-to-ai-scale/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Timing devices serve next-gen Ethernet and PCIe",
-      "source": "EDN",
-      "snippet": "FemtoClock 4 and VersaClock 8 clock families from SiTime enable data-center bandwidth upgrades for Ethernet and PCIe racks, respectively. The post Timing devices serve next-gen Ethernet and PCIe appeared first on EDN .",
-      "published": "2026-11-19T01:14:11+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/timing-devices-serve-next-gen-ethernet-and-pcie/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "LED drivers improve matrix scanning and dimming",
-      "source": "EDN",
-      "snippet": "The IS31FL370x series of LED drivers from Lumissil combines high-speed matrix scanning, dithered PWM, and built-in LED diagnostics. The post LED drivers improve matrix scanning and dimming appeared first on EDN .",
-      "published": "2026-11-19T01:13:23+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/led-drivers-improve-matrix-scanning-and-dimming/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Infrared sensor takes aim at wearable health",
-      "source": "EDN",
-      "snippet": "Melexis' ultra-miniature, contactless infrared temperature sensor, the MLX90636 is designed for potential use in wearables. The post Infrared sensor takes aim at wearable health appeared first on EDN .",
-      "published": "2026-11-19T01:12:55+00:00",
-      "authors": "Susan Nordyk",
-      "link": "https://www.edn.com/infrared-sensor-takes-aim-at-wearable-health/",
       "category": "EDN 电子设计新闻"
     }
   ]
