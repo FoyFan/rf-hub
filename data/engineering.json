@@ -382,6 +382,33 @@
   ],
   "news": [
     {
+      "title": "How ripple effect works on a large or small design",
+      "source": "EDN",
+      "snippet": "The “ripple effect” impact of a small change in an electronic design is often larger and more painful than anticipated. The post How ripple effect works on a large or small design appeared first on EDN .",
+      "published": "2026-11-25T15:28:12+00:00",
+      "authors": "C aliou cisse",
+      "link": "https://www.edn.com/how-ripple-effect-works-on-a-large-or-small-design/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Electronica 2026 spotlights robotics and physical AI as key industry trends",
+      "source": "EDN",
+      "snippet": "At electronica 2026, chipmakers emphasize platform approaches for MCU and MPU portfolios to simplify robotics and physical AI development. The post Electronica 2026 spotlights robotics and physical AI as key industry trends appeared first on EDN .",
+      "published": "2026-11-25T15:00:30+00:00",
+      "authors": "Gina Roos",
+      "link": "https://www.edn.com/electronica-2026-spotlights-robotics-and-physical-ai-as-key-industry-trends/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Opto-coupled three-phase AC power fault detection",
+      "source": "EDN",
+      "snippet": "Nikola Tesla’s brainchild is monitored opto-digitally in this revisit of an earlier \"magnetic\" Design Idea. The post Opto-coupled three-phase AC power fault detection appeared first on EDN .",
+      "published": "2026-11-25T13:00:39+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/opto-coupled-three-phase-ac-power-fault-detection/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "IoT security advances are critical for smart home and smart city automation",
       "source": "EDN",
       "snippet": "Advances in IoT security protect connected devices, data, smart home systems, and smart city infrastructure from cyberattacks. The post IoT security advances are critical for smart home and smart city automation appeared first on EDN .",
@@ -442,33 +469,6 @@
       "published": "2026-11-20T15:00:46+00:00",
       "authors": "Loriotoole",
       "link": "https://www.edn.com/how-do-power-management-ics-improve-efficiency-in-smart-homes-and-cities/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "When an energy-efficient design meets harsh reality",
-      "source": "EDN",
-      "snippet": "The Copenhagen wheel was an impressive attempt to retroactively electrify the standard bicycle, but reality got in the way. The post When an energy-efficient design meets harsh reality appeared first on EDN .",
-      "published": "2026-11-20T13:00:28+00:00",
-      "authors": "C aliou cisse",
-      "link": "https://www.edn.com/when-an-energy-efficient-design-meets-harsh-reality/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5",
-      "source": "EDN",
-      "snippet": "Cable broadband over a coax LAN backbone? Or satellite TV, merged with data over that same LAN? Both possible. Not all three at once. The post Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5 appeared first on EDN .",
-      "published": "2026-11-19T13:00:43+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/ensuring-robust-docsis-3-1-or-satellite-coexistence-with-moca-2-5/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Are DC data centers the solution to AI scale?",
-      "source": "EDN",
-      "snippet": "While AI's synchronized loads and megawatt racks strain legacy architectures, physics favors DC and economics rewards it with less energy loss and more compute per gigawatt. The post Are DC data centers the solution to AI scale? appeared first on EDN .",
-      "published": "2026-11-19T07:03:16+00:00",
-      "authors": "Shaun Walsh",
-      "link": "https://www.edn.com/are-dc-data-centers-the-solution-to-ai-scale/",
       "category": "EDN 电子设计新闻"
     }
   ]

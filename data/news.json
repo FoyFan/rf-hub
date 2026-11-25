@@ -1,39 +1,84 @@
 [
   {
-    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-    "source": "Electronics Weekly",
-    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-    "published": "2026-11-25T11:48:02+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-    "category": "电子周刊"
+    "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
+    "source": "EE Times",
+    "snippet": "Auxiliary supply is indispensable, and designers need to facilitate high-efficiency solutions across a wide range of loads, in a limited PCB area, and deliver first-time-right designs. The post Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs appeared first on EE T",
+    "published": "2026-11-25T22:02:21+00:00",
+    "authors": "Hubert Baierl, marketing director, Infineon Technologies AG",
+    "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
+    "category": "EE Times 行业新闻"
   },
   {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-    "published": "2026-11-25T10:57:29+00:00",
-    "authors": "Staff",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
-    "category": "电子周刊"
+    "title": "MCRPS Power Supply for Enterprise Data Centers",
+    "source": "EE Times",
+    "snippet": "The 5.6 kW MCRPS reference design from Infineon provides a viable solution for next-generation common redundant PSUs in enterprise servers. The post MCRPS Power Supply for Enterprise Data Centers appeared first on EE Times .",
+    "published": "2026-11-25T20:36:47+00:00",
+    "authors": "Antonello Laneve, Manuel Escudero, David Meneses, M.A. Kutschak, Theodoros Mouselinos, Alex Rossi, and Sam Abdel-Rahman, all at Infineon Technologies AG",
+    "link": "https://www.eetimes.com/mcrps-power-supply-for-enterprise-data-centers/",
+    "category": "EE Times 行业新闻"
   },
   {
-    "title": "UK Space Agency backs seven Commercial Climate Services projects",
-    "source": "Electronics Weekly",
-    "snippet": "The UK Space Agency (UKSA) is helping fund seven projects that will use satellite data to better manage climate change. It will support the continued growth of the UK’s climate […] The post UK Space Agency backs seven Commercial Climate Services projects appeared first on Electronics Weekly .",
-    "published": "2026-11-25T10:42:05+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/uk-space-agency-backs-seven-commercial-climate-services-projects-2026-11/",
-    "category": "电子周刊"
+    "title": "Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing",
+    "source": "EE Times",
+    "snippet": "Explore how integrating optical link health data into monitoring and ticketing can help teams improve cluster reliability. The post Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing appeared first on EE Times .",
+    "published": "2026-11-25T18:00:22+00:00",
+    "authors": "Credo",
+    "link": "https://www.eetimes.com/turning-optical-telemetry-into-cluster-reliability-integrating-link-health-data-into-monitoring-and-ticketing/",
+    "category": "EE Times 行业新闻"
   },
   {
-    "title": "CHIIPS #41 – CHIIPs with Jake Collins of Boston Micro Fabrication",
-    "source": "Electronics Weekly",
-    "snippet": "Be sure to catch latest episode of our Electronics Weekly podcast, CHIIPS. It features Jake Collins, Senior Application Engineer at Boston Micro Fabrication. The post CHIIPS #41 – CHIIPs with Jake Collins of Boston Micro Fabrication appeared first on Electronics Weekly .",
-    "published": "2026-11-25T10:12:13+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-41-chiips-with-jake-collins-of-boston-micro-fabrication-2026-11/",
-    "category": "电子周刊"
+    "title": "AI Makes Formal Verification Practical",
+    "source": "EE Times",
+    "snippet": "AI model startup Harmonic is expanding into formal verification for software and hardware. The post AI Makes Formal Verification Practical appeared first on EE Times .",
+    "published": "2026-11-25T17:34:58+00:00",
+    "authors": "Sally Ward-Foxton",
+    "link": "https://www.eetimes.com/ai-makes-formal-verification-practical/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "How ripple effect works on a large or small design",
+    "source": "EDN",
+    "snippet": "The “ripple effect” impact of a small change in an electronic design is often larger and more painful than anticipated. The post How ripple effect works on a large or small design appeared first on EDN .",
+    "published": "2026-11-25T15:28:12+00:00",
+    "authors": "C aliou cisse",
+    "link": "https://www.edn.com/how-ripple-effect-works-on-a-large-or-small-design/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Electronica 2026 spotlights robotics and physical AI as key industry trends",
+    "source": "EDN",
+    "snippet": "At electronica 2026, chipmakers emphasize platform approaches for MCU and MPU portfolios to simplify robotics and physical AI development. The post Electronica 2026 spotlights robotics and physical AI as key industry trends appeared first on EDN .",
+    "published": "2026-11-25T15:00:30+00:00",
+    "authors": "Gina Roos",
+    "link": "https://www.edn.com/electronica-2026-spotlights-robotics-and-physical-ai-as-key-industry-trends/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Understanding Accuracy and Resolution for Magnetic Angle Sensors",
+    "source": "EE Times",
+    "snippet": "Learn how magnetic angle sensor accuracy and resolution affect position measurement, and explore key factors for precise, reliable sensing applications. The post Understanding Accuracy and Resolution for Magnetic Angle Sensors appeared first on EE Times .",
+    "published": "2026-11-25T14:00:00+00:00",
+    "authors": "Monolithic Power Systems, Inc. (MPS)",
+    "link": "https://www.eetimes.com/understanding-accuracy-and-resolution-for-magnetic-angle-sensors/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "AMD Tackles DRAM Shortages with AI and Flash Storage",
+    "source": "EE Times",
+    "snippet": "AMD MEXT uses AI to park cold memory pages in flash, cutting DRAM costs and easing data center shortages. The post AMD Tackles DRAM Shortages with AI and Flash Storage appeared first on EE Times .",
+    "published": "2026-11-25T14:00:00+00:00",
+    "authors": "Lucas Sideco",
+    "link": "https://www.eetimes.com/amd-tackles-dram-shortages-with-ai-and-flash-storage/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Opto-coupled three-phase AC power fault detection",
+    "source": "EDN",
+    "snippet": "Nikola Tesla’s brainchild is monitored opto-digitally in this revisit of an earlier \"magnetic\" Design Idea. The post Opto-coupled three-phase AC power fault detection appeared first on EDN .",
+    "published": "2026-11-25T13:00:39+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/opto-coupled-three-phase-ac-power-fault-detection/",
+    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
@@ -54,51 +99,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Dutch may resist US MATCH Act",
-    "source": "Electronics Weekly",
-    "snippet": "This week’s visit of Dutch Foreign Minister Tom Berendsen to China could help the Netherlands government decide whether it will resist the US MATCH (Multilateral Alignment of Technology Controls on […] The post Dutch may resist US MATCH Act appeared first on Electronics Weekly .",
-    "published": "2026-11-25T06:10:37+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/dutch-may-resist-us-match-act-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Siemens expands Eigen agent to process industries",
-    "source": "Electronics Weekly",
-    "snippet": "Siemens is extending its Eigen Engineering Agent to the process industries. For process industries, the agent works with SIMATIC PCS 7, the distributed control system used in industries such as […] The post Siemens expands Eigen agent to process industries appeared first on Electronics Weekly .",
-    "published": "2026-11-25T06:05:23+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/siemens-expands-eigen-to-process-industries-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "M2M wireless position data transfer module in 2.4GHz ISM band",
-    "source": "Electronics Weekly",
-    "snippet": "Vishay Intertechnology has introduced a LoRa-based, machine to machine (M2M) wireless position data transfer module designed to enable remote monitoring of analog precision sensors in industrial applications. Operating worldwide in […] The post M2M wireless position data transfer module in 2.4GHz IS",
-    "published": "2026-11-25T06:04:28+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/vishay-launches-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "dToF sensor with ranging capability beyond 8m",
-    "source": "Electronics Weekly",
-    "snippet": "ST is sampling FlightSense VL53LB, a direct Time-of-Flight (dToF) sensor designed to help smartphone and consumer electronics manufacturers add longer-range and more power-efficient distance sensing to increasingly compact products. The […] The post dToF sensor with ranging capability beyond 8m appe",
-    "published": "2026-11-25T06:02:50+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/dtof-sensor-with-ranging-capability-beyond-8m-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "WireMasters hooks up with OSCG for cable-entry products",
-    "source": "Electronics Weekly",
-    "snippet": "WireMasters has expanded its product portfolio by entering into a new supplier relationship with OSCG Co. Ltd., a specialist in cable glands and electrical protection solutions for demanding operating environments. […] The post WireMasters hooks up with OSCG for cable-entry products appeared first o",
-    "published": "2026-11-25T06:01:52+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/wiremasters-hooks-up-with-oscg-for-cable-entry-products-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem",
     "source": "EE Times",
     "snippet": "For AI startups, the real challenge is often not building AI itself, but getting it to work reliably in the real world. The post From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem appeared first on EE Times .",
@@ -106,15 +106,6 @@
     "authors": "EE Times Taiwan",
     "link": "https://www.eetimes.com/from-ai-platforms-to-industry-innovation-how-nvidia-connects-startups-to-build-an-ai-ecosystem/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Top Ten (less 5) Q3 Smartphone Vendors",
-    "source": "Electronics Weekly",
-    "snippet": "Thanks to IDT for this one – the top five smartphone vendors in Q3 Company 3Q26 Shipments 3Q26 Market Share 3Q25 Shipments 3Q25 Market Share Year-Over-Year Change Samsung 57.8 […] The post Top Ten (less 5) Q3 Smartphone Vendors appeared first on Electronics Weekly .",
-    "published": "2026-11-25T01:01:26+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-q3-smartphone-vendors-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
@@ -153,33 +144,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream? (Part 2)",
-    "source": "EE Times",
-    "snippet": "Vehicle-to-grid technology promises grid benefits but raises concerns over battery life, charging access, costs, and driver convenience. The post Vehicle-to-Grid: Great Idea or Unrealistic Dream? (Part 2) appeared first on EE Times .",
-    "published": "2026-11-24T11:53:11+00:00",
-    "authors": "Bill Schweber",
-    "link": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream-part-2/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream?",
-    "source": "EE Times",
-    "snippet": "Vehicle-to-grid sounds like a partial solution for enhancing the grid, but the reality of the human factor may say otherwise. The post Vehicle-to-Grid: Great Idea or Unrealistic Dream? appeared first on EE Times .",
-    "published": "2026-11-24T08:40:49+00:00",
-    "authors": "Bill Schweber",
-    "link": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026",
-    "source": "EE Times",
-    "snippet": "At electronica 2026 in Munich, NSING exhibited 35 solutions built on N32‑series MCUs, N32WB BLE SoCs and NS350 TPM, covering AI robotics, motor control and digital energy, and presented its CRA compliance offerings. The post NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electr",
-    "published": "2026-11-24T07:41:37+00:00",
-    "authors": "NSING Technologies Pte. Ltd.",
-    "link": "https://www.eetimes.com/nsing-featured-cra-ai-robotics-motor-control-and-digital-energy-at-electronica-2026/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Preparing for the EU CRA with hardware security verification",
     "source": "EDN",
     "snippet": "Hardware security verification adds questions about where protected information can travel and what can influence it. The post Preparing for the EU CRA with hardware security verification appeared first on EDN .",
@@ -187,15 +151,6 @@
     "authors": "Leon Brown",
     "link": "https://www.edn.com/preparing-for-the-eu-cra-with-hardware-security-verification/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Nvidia Board Reinstates Jensen Huang as CEO",
-    "source": "EE Times",
-    "snippet": "Nvidia goes back to business as usual following Huang's resignation and reinstatement after a week. The post Nvidia Board Reinstates Jensen Huang as CEO appeared first on EE Times .",
-    "published": "2026-11-23T18:17:02+00:00",
-    "authors": "Sally Ward-Foxton",
-    "link": "https://www.eetimes.com/nvidia-board-reinstates-jensen-huang-as-ceo/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "How embedded sensors are modernizing smart bathroom",
@@ -207,15 +162,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "The Sovereign AI Paradox: Who Controls the Compute?",
-    "source": "EE Times",
-    "snippet": "U.S. restrictions on overseas AI infrastructure could accelerate sovereign computing and weaken American technology dominance. The post The Sovereign AI Paradox: Who Controls the Compute? appeared first on EE Times .",
-    "published": "2026-11-23T16:08:35+00:00",
-    "authors": "Ron Honig",
-    "link": "https://www.eetimes.com/the-sovereign-ai-paradox-who-controls-the-compute/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "Building smart environments with IoT development kits",
     "source": "EDN",
     "snippet": "Build smart homes and smart cities faster with IoT development kits that combine heterogeneous connectivity, energy efficiency, and security. The post Building smart environments with IoT development kits appeared first on EDN .",
@@ -223,15 +169,6 @@
     "authors": "Loriotoole",
     "link": "https://www.edn.com/building-smart-environments-with-iot-development-kits/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Secure Flash: A Practical Path to Cyber Resilience Act Compliance",
-    "source": "EE Times",
-    "snippet": "The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for connected products throughout their lifecycle. This white paper explores how Winbond’s TrustME® W77Q Secure Flash and CRA Conformance and Integration Kit help OEMs strengthen firmware protection, secure software updates, rol",
-    "published": "2026-11-23T15:00:00+00:00",
-    "authors": "Winbond Electronics Corporation",
-    "link": "https://www.eetimes.com/secure-flash-a-practical-path-to-cyber-resilience-act-compliance/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Learn How 5G NTN Architecture, Mobility, and Testing Shape 6G",
@@ -288,15 +225,6 @@
     "category": "计算 / 通信系统"
   },
   {
-    "title": "When an energy-efficient design meets harsh reality",
-    "source": "EDN",
-    "snippet": "The Copenhagen wheel was an impressive attempt to retroactively electrify the standard bicycle, but reality got in the way. The post When an energy-efficient design meets harsh reality appeared first on EDN .",
-    "published": "2026-11-20T13:00:28+00:00",
-    "authors": "C aliou cisse",
-    "link": "https://www.edn.com/when-an-energy-efficient-design-meets-harsh-reality/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Systems and Software Outages Explained: Who or What Is Responsible?",
     "source": "IEEE Spectrum 计算",
     "snippet": "Last Thursday, Microsoft 365’s Exchange Online and related apps like Outlook and Teams went down in at least 74 countries. The next day the U.S. Federal Aviation Administration (FAA) ordered a full nationwide ground stop. Every airport in the United States stopped sending planes into the sky, and th",
@@ -315,15 +243,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5",
-    "source": "EDN",
-    "snippet": "Cable broadband over a coax LAN backbone? Or satellite TV, merged with data over that same LAN? Both possible. Not all three at once. The post Ensuring robust DOCSIS 3.1 or satellite coexistence with MoCA 2.5 appeared first on EDN .",
-    "published": "2026-11-19T13:00:43+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/ensuring-robust-docsis-3-1-or-satellite-coexistence-with-moca-2-5/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Why a Computer Scientist Thinks Superintelligence Won’t Happen",
     "source": "IEEE Spectrum",
     "snippet": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his employer and OpenAI",
@@ -331,15 +250,6 @@
     "authors": "Cal Newport",
     "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Are DC data centers the solution to AI scale?",
-    "source": "EDN",
-    "snippet": "While AI's synchronized loads and megawatt racks strain legacy architectures, physics favors DC and economics rewards it with less energy loss and more compute per gigawatt. The post Are DC data centers the solution to AI scale? appeared first on EDN .",
-    "published": "2026-11-19T07:03:16+00:00",
-    "authors": "Shaun Walsh",
-    "link": "https://www.edn.com/are-dc-data-centers-the-solution-to-ai-scale/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Build a Personal Brand to Help Employers Find You",
