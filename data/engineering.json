@@ -382,6 +382,51 @@
   ],
   "news": [
     {
+      "title": "Miniature ToF sensor reaches beyond 8 meters",
+      "source": "EDN",
+      "snippet": "The FlightSense VL53LB direct time-of-flight (dToF) sensor from ST delivers ranging measurements from 5 mm to over 8 meters. The post Miniature ToF sensor reaches beyond 8 meters appeared first on EDN .",
+      "published": "2026-11-25T23:16:17+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/miniature-tof-sensor-reaches-beyond-8-meters/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Isolation amplifiers sharpen motor-current sensing",
+      "source": "EDN",
+      "snippet": "Analog-output isolation amplifiers in Toshiba’s DCA121x02 series achieve 85-dB SNR for industrial motor drive applications. The post Isolation amplifiers sharpen motor-current sensing appeared first on EDN .",
+      "published": "2026-11-25T23:15:44+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/isolation-amplifiers-sharpen-motor-current-sensing/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Aptiv bridges ADAS and AI-powered autonomy",
+      "source": "EDN",
+      "snippet": "Aptiv’s PRISM hardware and software platform advances the transition from conventional ADAS to autonomy powered by end-to-end AI. The post Aptiv bridges ADAS and AI-powered autonomy appeared first on EDN .",
+      "published": "2026-11-25T23:14:56+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/aptiv-bridges-adas-and-ai-powered-autonomy/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Totem-pole PFC controller cuts power losses",
+      "source": "EDN",
+      "snippet": "Rohm’s BM85060FV totem-pole power factor correction (TP-PFC) controller supports high-frequency switching GaN HEMTs in AC/DC power supplies. The post Totem-pole PFC controller cuts power losses appeared first on EDN .",
+      "published": "2026-11-25T23:14:33+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/totem-pole-pfc-controller-cuts-power-losses/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Processing IP series targets smart glasses",
+      "source": "EDN",
+      "snippet": "VeriSilicon has introduced the Nano-XR series of four low-power processing IP blocks for AI and augmented reality (AR) glasses. The post Processing IP series targets smart glasses appeared first on EDN .",
+      "published": "2026-11-25T23:14:01+00:00",
+      "authors": "Susan Nordyk",
+      "link": "https://www.edn.com/processing-ip-series-targets-smart-glasses/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "How ripple effect works on a large or small design",
       "source": "EDN",
       "snippet": "The “ripple effect” impact of a small change in an electronic design is often larger and more painful than anticipated. The post How ripple effect works on a large or small design appeared first on EDN .",
@@ -424,51 +469,6 @@
       "published": "2026-11-24T13:00:13+00:00",
       "authors": "Benjamin Lough",
       "link": "https://www.edn.com/power-tips-159-quieting-audible-noise-in-ac-dc-and-dc-dc-power-supplies/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Preparing for the EU CRA with hardware security verification",
-      "source": "EDN",
-      "snippet": "Hardware security verification adds questions about where protected information can travel and what can influence it. The post Preparing for the EU CRA with hardware security verification appeared first on EDN .",
-      "published": "2026-11-24T07:33:00+00:00",
-      "authors": "Leon Brown",
-      "link": "https://www.edn.com/preparing-for-the-eu-cra-with-hardware-security-verification/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "How embedded sensors are modernizing smart bathroom",
-      "source": "EDN",
-      "snippet": "Each embedded sensing technology contributes to a holistic ecosystem where hygiene, resource management, and wellness converge. The post How embedded sensors are modernizing smart bathroom appeared first on EDN .",
-      "published": "2026-11-23T16:16:06+00:00",
-      "authors": "T.K. Hareendran",
-      "link": "https://www.edn.com/how-embedded-sensors-are-modernizing-smart-bathroom/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Building smart environments with IoT development kits",
-      "source": "EDN",
-      "snippet": "Build smart homes and smart cities faster with IoT development kits that combine heterogeneous connectivity, energy efficiency, and security. The post Building smart environments with IoT development kits appeared first on EDN .",
-      "published": "2026-11-23T15:00:31+00:00",
-      "authors": "Loriotoole",
-      "link": "https://www.edn.com/building-smart-environments-with-iot-development-kits/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "A holiday shopping guide for engineers: 2026 edition",
-      "source": "EDN",
-      "snippet": "It’s November, time for another year’s shopping list full of techie gift ideas for others or yourself, courtesy of a fellow engineer. The post A holiday shopping guide for engineers: 2026 edition appeared first on EDN .",
-      "published": "2026-11-23T13:00:57+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/a-holiday-shopping-guide-for-engineers-2026-edition/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "How do power management ICs improve efficiency in smart homes and cities?",
-      "source": "EDN",
-      "snippet": "Next-generation power management ICs enable ultra-low-power electronics, longer battery life, and smarter, always-on connectivity in smart homes and smart cities. The post How do power management ICs improve efficiency in smart homes and cities? appeared first on EDN .",
-      "published": "2026-11-20T15:00:46+00:00",
-      "authors": "Loriotoole",
-      "link": "https://www.edn.com/how-do-power-management-ics-improve-efficiency-in-smart-homes-and-cities/",
       "category": "EDN 电子设计新闻"
     }
   ]

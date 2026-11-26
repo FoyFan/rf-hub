@@ -1,5 +1,68 @@
 [
   {
+    "title": "Social Media Increasingly Supplying News",
+    "source": "Electronics Weekly",
+    "snippet": "An increasing number of people are getting their daily news fix from social media, according to Pew Research Center. 57% of both Facebook and X users get news from the […] The post Social Media Increasingly Supplying News appeared first on Electronics Weekly .",
+    "published": "2026-11-26T01:01:21+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/tv/social-media-increasingly-supplying-news-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Let the Electronics Weekly newsletter content come straight to you!",
+    "source": "Electronics Weekly",
+    "snippet": "Sign up for the Mannerisms, Gadget Master, the Daily and the main Weekly newsletter. The post Let the Electronics Weekly newsletter content come straight to you! appeared first on Electronics Weekly .",
+    "published": "2026-11-26T00:01:14+00:00",
+    "authors": "EW Staff",
+    "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/let-newsletter-content-come-straight-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Miniature ToF sensor reaches beyond 8 meters",
+    "source": "EDN",
+    "snippet": "The FlightSense VL53LB direct time-of-flight (dToF) sensor from ST delivers ranging measurements from 5 mm to over 8 meters. The post Miniature ToF sensor reaches beyond 8 meters appeared first on EDN .",
+    "published": "2026-11-25T23:16:17+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/miniature-tof-sensor-reaches-beyond-8-meters/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Isolation amplifiers sharpen motor-current sensing",
+    "source": "EDN",
+    "snippet": "Analog-output isolation amplifiers in Toshiba’s DCA121x02 series achieve 85-dB SNR for industrial motor drive applications. The post Isolation amplifiers sharpen motor-current sensing appeared first on EDN .",
+    "published": "2026-11-25T23:15:44+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/isolation-amplifiers-sharpen-motor-current-sensing/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Aptiv bridges ADAS and AI-powered autonomy",
+    "source": "EDN",
+    "snippet": "Aptiv’s PRISM hardware and software platform advances the transition from conventional ADAS to autonomy powered by end-to-end AI. The post Aptiv bridges ADAS and AI-powered autonomy appeared first on EDN .",
+    "published": "2026-11-25T23:14:56+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/aptiv-bridges-adas-and-ai-powered-autonomy/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Totem-pole PFC controller cuts power losses",
+    "source": "EDN",
+    "snippet": "Rohm’s BM85060FV totem-pole power factor correction (TP-PFC) controller supports high-frequency switching GaN HEMTs in AC/DC power supplies. The post Totem-pole PFC controller cuts power losses appeared first on EDN .",
+    "published": "2026-11-25T23:14:33+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/totem-pole-pfc-controller-cuts-power-losses/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Processing IP series targets smart glasses",
+    "source": "EDN",
+    "snippet": "VeriSilicon has introduced the Nano-XR series of four low-power processing IP blocks for AI and augmented reality (AR) glasses. The post Processing IP series targets smart glasses appeared first on EDN .",
+    "published": "2026-11-25T23:14:01+00:00",
+    "authors": "Susan Nordyk",
+    "link": "https://www.edn.com/processing-ip-series-targets-smart-glasses/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
     "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
     "source": "EE Times",
     "snippet": "Auxiliary supply is indispensable, and designers need to facilitate high-efficiency solutions across a wide range of loads, in a limited PCB area, and deliver first-time-right designs. The post Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs appeared first on EE T",
@@ -54,6 +117,15 @@
     "category": "EDN 电子设计新闻"
   },
   {
+    "title": "Who Prioritises Fuel Efficiency?",
+    "source": "Electronics Weekly",
+    "snippet": "Fuel efficiency is important to some car buyers, but not to others. According to data by Statista Consumer Insights, only 20% among French respondents and 28% among Chinese respondents say […] The post Who Prioritises Fuel Efficiency? appeared first on Electronics Weekly .",
+    "published": "2026-11-25T14:23:41+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/who-prioritises-fuel-efficiency-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Understanding Accuracy and Resolution for Magnetic Angle Sensors",
     "source": "EE Times",
     "snippet": "Learn how magnetic angle sensor accuracy and resolution affect position measurement, and explore key factors for precise, reliable sensing applications. The post Understanding Accuracy and Resolution for Magnetic Angle Sensors appeared first on EE Times .",
@@ -72,6 +144,15 @@
     "category": "EE Times 行业新闻"
   },
   {
+    "title": "Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard",
+    "source": "Electronics Weekly",
+    "snippet": "At Electronica 2026 we caught up with Sarita Benjamin – General Manager, Supply Chain Intelligence at Accuris – as part of our promotional coverage for the event. She discusses how […] The post Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard appeare",
+    "published": "2026-11-25T13:57:53+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/electronica-video-interview-accuris-on-why-component-risk-still-catches-manufacturers-off-guard-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Opto-coupled three-phase AC power fault detection",
     "source": "EDN",
     "snippet": "Nikola Tesla’s brainchild is monitored opto-digitally in this revisit of an earlier \"magnetic\" Design Idea. The post Opto-coupled three-phase AC power fault detection appeared first on EDN .",
@@ -79,6 +160,42 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/opto-coupled-three-phase-ac-power-fault-detection/",
     "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+    "source": "Electronics Weekly",
+    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+    "published": "2026-11-25T11:48:02+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Get the Gadget Master newsletter!",
+    "source": "Electronics Weekly",
+    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
+    "published": "2026-11-25T10:57:29+00:00",
+    "authors": "Staff",
+    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "UK Space Agency backs seven Commercial Climate Services projects",
+    "source": "Electronics Weekly",
+    "snippet": "The UK Space Agency (UKSA) is helping fund seven projects that will use satellite data to better manage climate change. It will support the continued growth of the UK’s climate […] The post UK Space Agency backs seven Commercial Climate Services projects appeared first on Electronics Weekly .",
+    "published": "2026-11-25T10:42:05+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/uk-space-agency-backs-seven-commercial-climate-services-projects-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "CHIIPS #41 – CHIIPs with Jake Collins of Boston Micro Fabrication",
+    "source": "Electronics Weekly",
+    "snippet": "Be sure to catch latest episode of our Electronics Weekly podcast, CHIIPS. It features Jake Collins, Senior Application Engineer at Boston Micro Fabrication. The post CHIIPS #41 – CHIIPs with Jake Collins of Boston Micro Fabrication appeared first on Electronics Weekly .",
+    "published": "2026-11-25T10:12:13+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-41-chiips-with-jake-collins-of-boston-micro-fabrication-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
@@ -97,6 +214,24 @@
     "authors": "Christopher McGrady",
     "link": "https://www.eetimes.com/southchip-showcases-automotive-power-charging-and-load-control-solutions-at-electronica-munich/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Dutch may resist US MATCH Act",
+    "source": "Electronics Weekly",
+    "snippet": "This week’s visit of Dutch Foreign Minister Tom Berendsen to China could help the Netherlands government decide whether it will resist the US MATCH (Multilateral Alignment of Technology Controls on […] The post Dutch may resist US MATCH Act appeared first on Electronics Weekly .",
+    "published": "2026-11-25T06:10:37+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/dutch-may-resist-us-match-act-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Siemens expands Eigen agent to process industries",
+    "source": "Electronics Weekly",
+    "snippet": "Siemens is extending its Eigen Engineering Agent to the process industries. For process industries, the agent works with SIMATIC PCS 7, the distributed control system used in industries such as […] The post Siemens expands Eigen agent to process industries appeared first on Electronics Weekly .",
+    "published": "2026-11-25T06:05:23+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/siemens-expands-eigen-to-process-industries-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem",
@@ -144,33 +279,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Preparing for the EU CRA with hardware security verification",
-    "source": "EDN",
-    "snippet": "Hardware security verification adds questions about where protected information can travel and what can influence it. The post Preparing for the EU CRA with hardware security verification appeared first on EDN .",
-    "published": "2026-11-24T07:33:00+00:00",
-    "authors": "Leon Brown",
-    "link": "https://www.edn.com/preparing-for-the-eu-cra-with-hardware-security-verification/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "How embedded sensors are modernizing smart bathroom",
-    "source": "EDN",
-    "snippet": "Each embedded sensing technology contributes to a holistic ecosystem where hygiene, resource management, and wellness converge. The post How embedded sensors are modernizing smart bathroom appeared first on EDN .",
-    "published": "2026-11-23T16:16:06+00:00",
-    "authors": "T.K. Hareendran",
-    "link": "https://www.edn.com/how-embedded-sensors-are-modernizing-smart-bathroom/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Building smart environments with IoT development kits",
-    "source": "EDN",
-    "snippet": "Build smart homes and smart cities faster with IoT development kits that combine heterogeneous connectivity, energy efficiency, and security. The post Building smart environments with IoT development kits appeared first on EDN .",
-    "published": "2026-11-23T15:00:31+00:00",
-    "authors": "Loriotoole",
-    "link": "https://www.edn.com/building-smart-environments-with-iot-development-kits/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Learn How 5G NTN Architecture, Mobility, and Testing Shape 6G",
     "source": "IEEE Spectrum",
     "snippet": "What you will learn about: How 3GPP standards from Release 15 to Release 19 built the foundation of NR-NTN, and why NTN extends 5G coverage to oceans, rural regions, and disaster zones. How transparent and regenerative satellite payload architectures differ, and what each choice means for round trip",
@@ -180,15 +288,6 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "A holiday shopping guide for engineers: 2026 edition",
-    "source": "EDN",
-    "snippet": "It’s November, time for another year’s shopping list full of techie gift ideas for others or yourself, courtesy of a fellow engineer. The post A holiday shopping guide for engineers: 2026 edition appeared first on EDN .",
-    "published": "2026-11-23T13:00:57+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/a-holiday-shopping-guide-for-engineers-2026-edition/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
     "source": "IEEE Spectrum 半导体",
     "snippet": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
@@ -196,15 +295,6 @@
     "authors": "Matthew S. Smith",
     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
     "category": "半导体 / RFIC / 射频器件"
-  },
-  {
-    "title": "How do power management ICs improve efficiency in smart homes and cities?",
-    "source": "EDN",
-    "snippet": "Next-generation power management ICs enable ultra-low-power electronics, longer battery life, and smarter, always-on connectivity in smart homes and smart cities. The post How do power management ICs improve efficiency in smart homes and cities? appeared first on EDN .",
-    "published": "2026-11-20T15:00:46+00:00",
-    "authors": "Loriotoole",
-    "link": "https://www.edn.com/how-do-power-management-ics-improve-efficiency-in-smart-homes-and-cities/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
