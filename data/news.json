@@ -1,5 +1,32 @@
 [
   {
+    "title": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals",
+    "source": "EE Times",
+    "snippet": "The planned Breker and Lauterbach acquisitions would expand Siemens’s development tools, but an analyst expects integration benefits to take time. The post Siemens Adds SoC Verification and Software Debug with Two Planned Deals appeared first on EE Times .",
+    "published": "2026-11-26T18:00:00+00:00",
+    "authors": "Pat Brans",
+    "link": "https://www.eetimes.com/siemens-adds-soc-verification-and-software-debug-with-two-planned-deals/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Eutelsat US wins Space Force CSCO satcom contract",
+    "source": "Electronics Weekly",
+    "snippet": "The US subsidiary of Eutelsat has won a contract worth up to $60 million under the U.S. Space Force Commercial Satellite Communications Office (CSCO) Warrior Plans initiative. Using OneWeb’s LEO […] The post Eutelsat US wins Space Force CSCO satcom contract appeared first on Electronics Weekly .",
+    "published": "2026-11-26T15:56:40+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/eutelsat-us-wins-space-force-csco-contract-for-satcom-services-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Fable: The Volatile CEO",
+    "source": "Electronics Weekly",
+    "snippet": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
+    "published": "2026-11-26T14:30:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
     "source": "EE Times",
     "snippet": "Quantum computing, sovereign AI, ocean electronics, and advanced materials: six stories on how Canada is connecting its technology strengths—and confronting the challenge of scale. The post Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry appeared first on EE Times .",
@@ -108,15 +135,6 @@
     "category": "电子周刊"
   },
   {
-    "title": "Let the Electronics Weekly newsletter content come straight to you!",
-    "source": "Electronics Weekly",
-    "snippet": "Sign up for the Mannerisms, Gadget Master, the Daily and the main Weekly newsletter. The post Let the Electronics Weekly newsletter content come straight to you! appeared first on Electronics Weekly .",
-    "published": "2026-11-26T00:01:14+00:00",
-    "authors": "EW Staff",
-    "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/let-newsletter-content-come-straight-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Miniature ToF sensor reaches beyond 8 meters",
     "source": "EDN",
     "snippet": "The FlightSense VL53LB direct time-of-flight (dToF) sensor from ST delivers ranging measurements from 5 mm to over 8 meters. The post Miniature ToF sensor reaches beyond 8 meters appeared first on EDN .",
@@ -216,15 +234,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Who Prioritises Fuel Efficiency?",
-    "source": "Electronics Weekly",
-    "snippet": "Fuel efficiency is important to some car buyers, but not to others. According to data by Statista Consumer Insights, only 20% among French respondents and 28% among Chinese respondents say […] The post Who Prioritises Fuel Efficiency? appeared first on Electronics Weekly .",
-    "published": "2026-11-25T14:23:41+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/who-prioritises-fuel-efficiency-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Understanding Accuracy and Resolution for Magnetic Angle Sensors",
     "source": "EE Times",
     "snippet": "Learn how magnetic angle sensor accuracy and resolution affect position measurement, and explore key factors for precise, reliable sensing applications. The post Understanding Accuracy and Resolution for Magnetic Angle Sensors appeared first on EE Times .",
@@ -250,15 +259,6 @@
     "authors": "Brian Dipert",
     "link": "https://www.edn.com/opto-coupled-three-phase-ac-power-fault-detection/",
     "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
-    "source": "EE Times",
-    "snippet": "Winbond is pairing bandwidth and density to meet the edge’s demand for faster, safer memory without the custom-design price tag. The post Winbond Widens Edge AI Reach, Certifies NOR Flash appeared first on EE Times .",
-    "published": "2026-11-25T08:59:51+00:00",
-    "authors": "Gary Hilson",
-    "link": "https://www.eetimes.com/winbond-widens-edge-ai-reach-certifies-nor-flash/",
-    "category": "EE Times 行业新闻"
   },
   {
     "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
