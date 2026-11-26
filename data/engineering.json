@@ -382,6 +382,15 @@
   ],
   "news": [
     {
+      "title": "DisplayLink and InstantView: Multi-display kludge, or breakthrough?",
+      "source": "EDN",
+      "snippet": "If your system’s graphics doesn’t natively support enough outputs for your needs, additional display hardware might help. But nothing’s free. The post DisplayLink and InstantView: Multi-display kludge, or breakthrough? appeared first on EDN .",
+      "published": "2026-11-26T13:00:18+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/displaylink-and-instantview-multi-display-kludge-or-breakthrough/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "Miniature ToF sensor reaches beyond 8 meters",
       "source": "EDN",
       "snippet": "The FlightSense VL53LB direct time-of-flight (dToF) sensor from ST delivers ranging measurements from 5 mm to over 8 meters. The post Miniature ToF sensor reaches beyond 8 meters appeared first on EDN .",
@@ -460,15 +469,6 @@
       "published": "2026-11-24T15:00:56+00:00",
       "authors": "Loriotoole",
       "link": "https://www.edn.com/iot-security-advances-are-critical-for-smart-home-and-smart-city-automation/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Power Tips #159: Quieting audible noise in AC/DC and DC/DC power supplies",
-      "source": "EDN",
-      "snippet": "Careful component selection and conscious magnetic construction can avoid many common burst-mode noise sources. The post Power Tips #159: Quieting audible noise in AC/DC and DC/DC power supplies appeared first on EDN .",
-      "published": "2026-11-24T13:00:13+00:00",
-      "authors": "Benjamin Lough",
-      "link": "https://www.edn.com/power-tips-159-quieting-audible-noise-in-ac-dc-and-dc-dc-power-supplies/",
       "category": "EDN 电子设计新闻"
     }
   ]

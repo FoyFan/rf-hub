@@ -1,5 +1,104 @@
 [
   {
+    "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
+    "source": "EE Times",
+    "snippet": "Quantum computing, sovereign AI, ocean electronics, and advanced materials: six stories on how Canada is connecting its technology strengths—and confronting the challenge of scale. The post Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry appeared first on EE Times .",
+    "published": "2026-11-26T14:00:00+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/bridging-the-research-to-manufacturing-gap-in-canadas-semiconductor-industry/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "DisplayLink and InstantView: Multi-display kludge, or breakthrough?",
+    "source": "EDN",
+    "snippet": "If your system’s graphics doesn’t natively support enough outputs for your needs, additional display hardware might help. But nothing’s free. The post DisplayLink and InstantView: Multi-display kludge, or breakthrough? appeared first on EDN .",
+    "published": "2026-11-26T13:00:18+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/displaylink-and-instantview-multi-display-kludge-or-breakthrough/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
+    "source": "Electronics Weekly",
+    "snippet": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined […] The post Microchip Ethernet TSN sw",
+    "published": "2026-11-26T11:22:42+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
+    "source": "Electronics Weekly",
+    "snippet": "Rutronik is partnering with 3Peak – a analogue and mixed-signal components specialist – to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of […] The post Rutronik partners with 3Peak for IoT, AI, automotive appeared first on Electronics Weekly .",
+    "published": "2026-11-26T10:09:57+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "EU Rules Bring New Safety Requirements for Farm Robots",
+    "source": "EE Times",
+    "snippet": "New EU regulations will tighten safety and compliance requirements for farms deploying AI-powered robots and autonomous machinery. The post EU Rules Bring New Safety Requirements for Farm Robots appeared first on EE Times .",
+    "published": "2026-11-26T08:55:48+00:00",
+    "authors": "Liam Critchley",
+    "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026",
+    "source": "EE Times",
+    "snippet": "Unikey signs a distribution agreement with RECOM, launching an online sourcing platform, and starting an industry interview series. The post Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026 appeared first on EE Times .",
+    "published": "2026-11-26T08:31:51+00:00",
+    "authors": "Unikey Electronics Pte. Ltd.",
+    "link": "https://www.eetimes.com/unikey-electronics-named-recom-global-authorized-distributor-at-electronica-2026/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
+    "source": "Electronics Weekly",
+    "snippet": "Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres […] The post FCC gives SpaceX permission to launch 1m datacentres into orbit appeared first on Electronics",
+    "published": "2026-11-26T06:15:38+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
+    "source": "Electronics Weekly",
+    "snippet": "Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers […] The post Samsung and Hynix adopt YMTC’s Xtacking technology appeared first on Elect",
+    "published": "2026-11-26T06:13:43+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Agile Analog delivers physical anti-tamper protection for datacentre chip",
+    "source": "Electronics Weekly",
+    "snippet": "Agile Analog, the customisable analogue IP specialist, has been selected by ASPEED Technology, the Taiwanese datacentre SoC specialist, to provide physical anti-tamper protection for the AST1080 PRoT SoC. A set […] The post Agile Analog delivers physical anti-tamper protection for datacentre chip ap",
+    "published": "2026-11-26T06:12:30+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/agile-analog-2-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Avnet Silica’s European semis outlook for 2027",
+    "source": "Electronics Weekly",
+    "snippet": "Avnet Silica has released the latest edition of its quarterly Trendliner market report, providing an updated outlook for the semiconductor industry as it heads into 2027. The report examines global […] The post Avnet Silica’s European semis outlook for 2027 appeared first on Electronics Weekly .",
+    "published": "2026-11-26T06:11:26+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/avnet-silicas-european-semis-outlook-for-2007-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Rise of the Robots",
+    "source": "Electronics Weekly",
+    "snippet": "element14 has launched the Rise of the Robots design challenge, inviting engineers, makers and technology enthusiasts to design and build innovative robotics projects using a kit of development hardware, motors […] The post Rise of the Robots appeared first on Electronics Weekly .",
+    "published": "2026-11-26T06:06:15+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/rise-of-the-robots-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Social Media Increasingly Supplying News",
     "source": "Electronics Weekly",
     "snippet": "An increasing number of people are getting their daily news fix from social media, according to Pew Research Center. 57% of both Facebook and X users get news from the […] The post Social Media Increasingly Supplying News appeared first on Electronics Weekly .",
@@ -144,15 +243,6 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard",
-    "source": "Electronics Weekly",
-    "snippet": "At Electronica 2026 we caught up with Sarita Benjamin – General Manager, Supply Chain Intelligence at Accuris – as part of our promotional coverage for the event. She discusses how […] The post Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard appeare",
-    "published": "2026-11-25T13:57:53+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/electronica-video-interview-accuris-on-why-component-risk-still-catches-manufacturers-off-guard-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Opto-coupled three-phase AC power fault detection",
     "source": "EDN",
     "snippet": "Nikola Tesla’s brainchild is monitored opto-digitally in this revisit of an earlier \"magnetic\" Design Idea. The post Opto-coupled three-phase AC power fault detection appeared first on EDN .",
@@ -162,84 +252,12 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-    "source": "Electronics Weekly",
-    "snippet": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-    "published": "2026-11-25T11:48:02+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Get the Gadget Master newsletter!",
-    "source": "Electronics Weekly",
-    "snippet": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-    "published": "2026-11-25T10:57:29+00:00",
-    "authors": "Staff",
-    "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "UK Space Agency backs seven Commercial Climate Services projects",
-    "source": "Electronics Weekly",
-    "snippet": "The UK Space Agency (UKSA) is helping fund seven projects that will use satellite data to better manage climate change. It will support the continued growth of the UK’s climate […] The post UK Space Agency backs seven Commercial Climate Services projects appeared first on Electronics Weekly .",
-    "published": "2026-11-25T10:42:05+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/uk-space-agency-backs-seven-commercial-climate-services-projects-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "CHIIPS #41 – CHIIPs with Jake Collins of Boston Micro Fabrication",
-    "source": "Electronics Weekly",
-    "snippet": "Be sure to catch latest episode of our Electronics Weekly podcast, CHIIPS. It features Jake Collins, Senior Application Engineer at Boston Micro Fabrication. The post CHIIPS #41 – CHIIPs with Jake Collins of Boston Micro Fabrication appeared first on Electronics Weekly .",
-    "published": "2026-11-25T10:12:13+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-41-chiips-with-jake-collins-of-boston-micro-fabrication-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
     "source": "EE Times",
     "snippet": "Winbond is pairing bandwidth and density to meet the edge’s demand for faster, safer memory without the custom-design price tag. The post Winbond Widens Edge AI Reach, Certifies NOR Flash appeared first on EE Times .",
     "published": "2026-11-25T08:59:51+00:00",
     "authors": "Gary Hilson",
     "link": "https://www.eetimes.com/winbond-widens-edge-ai-reach-certifies-nor-flash/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Southchip Showcases Automotive Power, Charging, and Load-Control Solutions at electronica Munich",
-    "source": "EE Times",
-    "snippet": "Southchip presented its automotive PMICs, 240W USB charging, wireless charging, ambient lighting, and high-side drivers at electronica Munich. The post Southchip Showcases Automotive Power, Charging, and Load-Control Solutions at electronica Munich appeared first on EE Times .",
-    "published": "2026-11-25T08:32:46+00:00",
-    "authors": "Christopher McGrady",
-    "link": "https://www.eetimes.com/southchip-showcases-automotive-power-charging-and-load-control-solutions-at-electronica-munich/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Dutch may resist US MATCH Act",
-    "source": "Electronics Weekly",
-    "snippet": "This week’s visit of Dutch Foreign Minister Tom Berendsen to China could help the Netherlands government decide whether it will resist the US MATCH (Multilateral Alignment of Technology Controls on […] The post Dutch may resist US MATCH Act appeared first on Electronics Weekly .",
-    "published": "2026-11-25T06:10:37+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/dutch-may-resist-us-match-act-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Siemens expands Eigen agent to process industries",
-    "source": "Electronics Weekly",
-    "snippet": "Siemens is extending its Eigen Engineering Agent to the process industries. For process industries, the agent works with SIMATIC PCS 7, the distributed control system used in industries such as […] The post Siemens expands Eigen agent to process industries appeared first on Electronics Weekly .",
-    "published": "2026-11-25T06:05:23+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/siemens-expands-eigen-to-process-industries-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem",
-    "source": "EE Times",
-    "snippet": "For AI startups, the real challenge is often not building AI itself, but getting it to work reliably in the real world. The post From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem appeared first on EE Times .",
-    "published": "2026-11-25T05:00:00+00:00",
-    "authors": "EE Times Taiwan",
-    "link": "https://www.eetimes.com/from-ai-platforms-to-industry-innovation-how-nvidia-connects-startups-to-build-an-ai-ecosystem/",
     "category": "EE Times 行业新闻"
   },
   {
@@ -252,30 +270,12 @@
     "category": "IEEE 综合新闻"
   },
   {
-    "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
-    "source": "EE Times",
-    "snippet": "Edge AI and robotics bring greater precision and autonomy to agricultural machinery, from targeted spraying to harvesting. The post From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics appeared first on EE Times .",
-    "published": "2026-11-24T16:16:56+00:00",
-    "authors": "Shihao Fu",
-    "link": "https://www.eetimes.com/from-precision-to-autonomous-agriculture-the-role-of-edge-ai-and-robotics/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "IoT security advances are critical for smart home and smart city automation",
     "source": "EDN",
     "snippet": "Advances in IoT security protect connected devices, data, smart home systems, and smart city infrastructure from cyberattacks. The post IoT security advances are critical for smart home and smart city automation appeared first on EDN .",
     "published": "2026-11-24T15:00:56+00:00",
     "authors": "Loriotoole",
     "link": "https://www.edn.com/iot-security-advances-are-critical-for-smart-home-and-smart-city-automation/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Power Tips #159: Quieting audible noise in AC/DC and DC/DC power supplies",
-    "source": "EDN",
-    "snippet": "Careful component selection and conscious magnetic construction can avoid many common burst-mode noise sources. The post Power Tips #159: Quieting audible noise in AC/DC and DC/DC power supplies appeared first on EDN .",
-    "published": "2026-11-24T13:00:13+00:00",
-    "authors": "Benjamin Lough",
-    "link": "https://www.edn.com/power-tips-159-quieting-audible-noise-in-ac-dc-and-dc-dc-power-supplies/",
     "category": "EDN 电子设计新闻"
   },
   {
