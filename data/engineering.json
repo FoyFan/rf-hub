@@ -382,6 +382,33 @@
   ],
   "news": [
     {
+      "title": "Passive components deliver higher performance",
+      "source": "EDN",
+      "snippet": "Passive component manufacturers prioritize performance upgrades for automotive and industrial applications, driving advances across capacitors, resistors, and inductors. The post Passive components deliver higher performance appeared first on EDN .",
+      "published": "2026-11-27T15:00:15+00:00",
+      "authors": "Gina Roos",
+      "link": "https://www.edn.com/passive-components-deliver-higher-performance/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "Lithium-ion fire traps",
+      "source": "EDN",
+      "snippet": "This engineer won't take a seat in a battery-powered vehicle and fervently hopes that his loved ones won't do so, either. The post Lithium-ion fire traps appeared first on EDN .",
+      "published": "2026-11-27T13:00:48+00:00",
+      "authors": "Brian Dipert",
+      "link": "https://www.edn.com/lithium-ion-fire-traps/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
+      "title": "What the glow of plasma chamber is trying to tell your process automation",
+      "source": "EDN",
+      "snippet": "Read as data, the light inside an etch or deposition chamber can drive endpoint calls and contamination checks. The post What the glow of plasma chamber is trying to tell your process automation appeared first on EDN .",
+      "published": "2026-11-27T11:57:56+00:00",
+      "authors": "Majeed Ahmad",
+      "link": "https://www.edn.com/what-the-glow-of-plasma-chamber-is-trying-to-tell-your-process-automation/",
+      "category": "EDN 电子设计新闻"
+    },
+    {
       "title": "DisplayLink and InstantView: Multi-display kludge, or breakthrough?",
       "source": "EDN",
       "snippet": "If your system’s graphics doesn’t natively support enough outputs for your needs, additional display hardware might help. But nothing’s free. The post DisplayLink and InstantView: Multi-display kludge, or breakthrough? appeared first on EDN .",
@@ -442,33 +469,6 @@
       "published": "2026-11-25T15:28:12+00:00",
       "authors": "C aliou cisse",
       "link": "https://www.edn.com/how-ripple-effect-works-on-a-large-or-small-design/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Electronica 2026 spotlights robotics and physical AI as key industry trends",
-      "source": "EDN",
-      "snippet": "At electronica 2026, chipmakers emphasize platform approaches for MCU and MPU portfolios to simplify robotics and physical AI development. The post Electronica 2026 spotlights robotics and physical AI as key industry trends appeared first on EDN .",
-      "published": "2026-11-25T15:00:30+00:00",
-      "authors": "Gina Roos",
-      "link": "https://www.edn.com/electronica-2026-spotlights-robotics-and-physical-ai-as-key-industry-trends/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "Opto-coupled three-phase AC power fault detection",
-      "source": "EDN",
-      "snippet": "Nikola Tesla’s brainchild is monitored opto-digitally in this revisit of an earlier \"magnetic\" Design Idea. The post Opto-coupled three-phase AC power fault detection appeared first on EDN .",
-      "published": "2026-11-25T13:00:39+00:00",
-      "authors": "Brian Dipert",
-      "link": "https://www.edn.com/opto-coupled-three-phase-ac-power-fault-detection/",
-      "category": "EDN 电子设计新闻"
-    },
-    {
-      "title": "IoT security advances are critical for smart home and smart city automation",
-      "source": "EDN",
-      "snippet": "Advances in IoT security protect connected devices, data, smart home systems, and smart city infrastructure from cyberattacks. The post IoT security advances are critical for smart home and smart city automation appeared first on EDN .",
-      "published": "2026-11-24T15:00:56+00:00",
-      "authors": "Loriotoole",
-      "link": "https://www.edn.com/iot-security-advances-are-critical-for-smart-home-and-smart-city-automation/",
       "category": "EDN 电子设计新闻"
     }
   ]

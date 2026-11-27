@@ -1,48 +1,66 @@
 [
   {
-    "title": "Musk to give two SpaceX shares to every American child",
-    "source": "Electronics Weekly",
-    "snippet": "Elon Musk is to give two SpaceX shares to every child in America. The gift is worth $18 billion. Children will receive one share from SpaceX and one from him […] The post Musk to give two SpaceX shares to every American child appeared first on Electronics Weekly .",
-    "published": "2026-11-27T06:14:12+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/musk-to-give-twospacex-shares-to-every-american-child-2026-11/",
-    "category": "电子周刊"
+    "title": "Passive components deliver higher performance",
+    "source": "EDN",
+    "snippet": "Passive component manufacturers prioritize performance upgrades for automotive and industrial applications, driving advances across capacitors, resistors, and inductors. The post Passive components deliver higher performance appeared first on EDN .",
+    "published": "2026-11-27T15:00:15+00:00",
+    "authors": "Gina Roos",
+    "link": "https://www.edn.com/passive-components-deliver-higher-performance/",
+    "category": "EDN 电子设计新闻"
   },
   {
-    "title": "UK quantum companies have raised $621m this year",
-    "source": "Electronics Weekly",
-    "snippet": "UK Quantum Computing funding has raised $621M raised so far this year, says Tracxn Technologies, 4.8x the $129M raised in 2025. Two Late Stage rounds contributed $510M in 2026 YTD, […] The post UK quantum companies have raised $621m this year appeared first on Electronics Weekly .",
-    "published": "2026-11-27T06:11:50+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/uk-quantum-conpanies-have-raised-621m-this-year-2026-11/",
-    "category": "电子周刊"
+    "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
+    "source": "EE Times",
+    "snippet": "The proposed MATCH Act exposes a strategic vulnerability extending beyond ASML to the technologies that determine manufacturing productivity and yield. The post Beyond Lithography: The Battle for Semiconductor Manufacturing Yield appeared first on EE Times .",
+    "published": "2026-11-27T14:22:45+00:00",
+    "authors": "Ron Honig",
+    "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
+    "category": "EE Times 行业新闻"
   },
   {
-    "title": "Smart phone units won’t regain last year’s level till 2030",
-    "source": "Electronics Weekly",
-    "snippet": "The smartphone market is forecast to decline 13.9% ToT in 2026 and 6% in 2027, says Counterpoint Research. The rise in component costs, reduced availability of economically viable lower-priced devices […] The post Smart phone units won’t regain last year’s level till 2030 appeared first on Electroni",
-    "published": "2026-11-27T06:10:58+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/smart-phone-market-to-fall-14-this-year-6-next-year-2026-11/",
-    "category": "电子周刊"
+    "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+    "source": "IEEE Spectrum",
+    "snippet": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job. At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the bes",
+    "published": "2026-11-27T14:00:01+00:00",
+    "authors": "Jackie Snow",
+    "link": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+    "category": "IEEE 综合新闻"
   },
   {
-    "title": "Kioxia demoes XL-FLASH Gen 3",
-    "source": "Electronics Weekly",
-    "snippet": "Yesterday, at the Kioxia Forum in Tokyo, Kioxia showed off a prototype of its XL-FLASH generation 3 technology, the next generation of its low-latency, high-performance flash memory for AI applications. […] The post Kioxia demoes XL-FLASH Gen 3 appeared first on Electronics Weekly .",
-    "published": "2026-11-27T06:10:31+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/products/memory/kioxia-2-2026-11/",
-    "category": "电子周刊"
+    "title": "NuVolta Technical Sharing: PCB Grounding Design and Return Path",
+    "source": "EE Times",
+    "snippet": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
+    "published": "2026-11-27T14:00:00+00:00",
+    "authors": "Luke, Engineer, NuVolta Technologies",
+    "link": "https://www.eetimes.com/nuvolta-technical-sharing-pcb-grounding-design-and-return-path/",
+    "category": "EE Times 行业新闻"
   },
   {
-    "title": "76-81 GHz 4Tx/4Rx radar MMIC",
-    "source": "Electronics Weekly",
-    "snippet": "Infineon has introduced the RASIC CTRX8144FS, a 76-81 GHz radar MMIC with four transmit and four receive channels (4Tx/4Rx). Building on the CTRX8191F/FS and CTRX8188F, the device further expands Infineon’s […] The post 76-81 GHz 4Tx/4Rx radar MMIC appeared first on Electronics Weekly .",
-    "published": "2026-11-27T06:08:14+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/76-81-ghz-4tx-4rx-radar-mmic-2026-11/",
-    "category": "电子周刊"
+    "title": "Lithium-ion fire traps",
+    "source": "EDN",
+    "snippet": "This engineer won't take a seat in a battery-powered vehicle and fervently hopes that his loved ones won't do so, either. The post Lithium-ion fire traps appeared first on EDN .",
+    "published": "2026-11-27T13:00:48+00:00",
+    "authors": "Brian Dipert",
+    "link": "https://www.edn.com/lithium-ion-fire-traps/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "What the glow of plasma chamber is trying to tell your process automation",
+    "source": "EDN",
+    "snippet": "Read as data, the light inside an etch or deposition chamber can drive endpoint calls and contamination checks. The post What the glow of plasma chamber is trying to tell your process automation appeared first on EDN .",
+    "published": "2026-11-27T11:57:56+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.edn.com/what-the-glow-of-plasma-chamber-is-trying-to-tell-your-process-automation/",
+    "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Huawei’s Next Big AI Move: HBM Workaround",
+    "source": "EE Times",
+    "snippet": "The Shenzhen-based tech firm will provide details about its custom HBM design at ISSCC 2027 in San Francisco early next year. The post Huawei’s Next Big AI Move: HBM Workaround appeared first on EE Times .",
+    "published": "2026-11-27T08:56:46+00:00",
+    "authors": "Majeed Ahmad",
+    "link": "https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround/",
+    "category": "EE Times 行业新闻"
   },
   {
     "title": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals",
@@ -54,22 +72,13 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "Eutelsat US wins Space Force CSCO satcom contract",
-    "source": "Electronics Weekly",
-    "snippet": "The US subsidiary of Eutelsat has won a contract worth up to $60 million under the U.S. Space Force Commercial Satellite Communications Office (CSCO) Warrior Plans initiative. Using OneWeb’s LEO […] The post Eutelsat US wins Space Force CSCO satcom contract appeared first on Electronics Weekly .",
-    "published": "2026-11-26T15:56:40+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/eutelsat-us-wins-space-force-csco-contract-for-satcom-services-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Fable: The Volatile CEO",
-    "source": "Electronics Weekly",
-    "snippet": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
-    "published": "2026-11-26T14:30:50+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
-    "category": "电子周刊"
+    "title": "How Engineers Designed a Mission to One of Jupiter’s Icy Moons",
+    "source": "IEEE Spectrum",
+    "snippet": "On 3 December 2026, a 30.5-meter-wide space probe will slingshot past Earth, picking up the speed it needs to reach Jupiter in 2030. The Europa Clipper is designed to investigate Jupiter’s enigmatic moon Europa and look for places that could support life in the ocean beneath the moon’s thick shell o",
+    "published": "2026-11-26T14:00:02+00:00",
+    "authors": "Stephen Cass",
+    "link": "https://spectrum.ieee.org/jupiter-europa-clipper-mission-jpl",
+    "category": "IEEE 综合新闻"
   },
   {
     "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
@@ -90,24 +99,6 @@
     "category": "EDN 电子设计新闻"
   },
   {
-    "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
-    "source": "Electronics Weekly",
-    "snippet": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined […] The post Microchip Ethernet TSN sw",
-    "published": "2026-11-26T11:22:42+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
-    "source": "Electronics Weekly",
-    "snippet": "Rutronik is partnering with 3Peak – a analogue and mixed-signal components specialist – to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of […] The post Rutronik partners with 3Peak for IoT, AI, automotive appeared first on Electronics Weekly .",
-    "published": "2026-11-26T10:09:57+00:00",
-    "authors": "Alun Williams",
-    "link": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
-    "category": "电子周刊"
-  },
-  {
     "title": "EU Rules Bring New Safety Requirements for Farm Robots",
     "source": "EE Times",
     "snippet": "New EU regulations will tighten safety and compliance requirements for farms deploying AI-powered robots and autonomous machinery. The post EU Rules Bring New Safety Requirements for Farm Robots appeared first on EE Times .",
@@ -124,15 +115,6 @@
     "authors": "Unikey Electronics Pte. Ltd.",
     "link": "https://www.eetimes.com/unikey-electronics-named-recom-global-authorized-distributor-at-electronica-2026/",
     "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
-    "source": "Electronics Weekly",
-    "snippet": "Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres […] The post FCC gives SpaceX permission to launch 1m datacentres into orbit appeared first on Electronics",
-    "published": "2026-11-26T06:15:38+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
-    "category": "电子周刊"
   },
   {
     "title": "Miniature ToF sensor reaches beyond 8 meters",
@@ -207,57 +189,12 @@
     "category": "EE Times 行业新闻"
   },
   {
-    "title": "AI Makes Formal Verification Practical",
-    "source": "EE Times",
-    "snippet": "AI model startup Harmonic is expanding into formal verification for software and hardware. The post AI Makes Formal Verification Practical appeared first on EE Times .",
-    "published": "2026-11-25T17:34:58+00:00",
-    "authors": "Sally Ward-Foxton",
-    "link": "https://www.eetimes.com/ai-makes-formal-verification-practical/",
-    "category": "EE Times 行业新闻"
-  },
-  {
     "title": "How ripple effect works on a large or small design",
     "source": "EDN",
     "snippet": "The “ripple effect” impact of a small change in an electronic design is often larger and more painful than anticipated. The post How ripple effect works on a large or small design appeared first on EDN .",
     "published": "2026-11-25T15:28:12+00:00",
     "authors": "C aliou cisse",
     "link": "https://www.edn.com/how-ripple-effect-works-on-a-large-or-small-design/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Electronica 2026 spotlights robotics and physical AI as key industry trends",
-    "source": "EDN",
-    "snippet": "At electronica 2026, chipmakers emphasize platform approaches for MCU and MPU portfolios to simplify robotics and physical AI development. The post Electronica 2026 spotlights robotics and physical AI as key industry trends appeared first on EDN .",
-    "published": "2026-11-25T15:00:30+00:00",
-    "authors": "Gina Roos",
-    "link": "https://www.edn.com/electronica-2026-spotlights-robotics-and-physical-ai-as-key-industry-trends/",
-    "category": "EDN 电子设计新闻"
-  },
-  {
-    "title": "Understanding Accuracy and Resolution for Magnetic Angle Sensors",
-    "source": "EE Times",
-    "snippet": "Learn how magnetic angle sensor accuracy and resolution affect position measurement, and explore key factors for precise, reliable sensing applications. The post Understanding Accuracy and Resolution for Magnetic Angle Sensors appeared first on EE Times .",
-    "published": "2026-11-25T14:00:00+00:00",
-    "authors": "Monolithic Power Systems, Inc. (MPS)",
-    "link": "https://www.eetimes.com/understanding-accuracy-and-resolution-for-magnetic-angle-sensors/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "AMD Tackles DRAM Shortages with AI and Flash Storage",
-    "source": "EE Times",
-    "snippet": "AMD MEXT uses AI to park cold memory pages in flash, cutting DRAM costs and easing data center shortages. The post AMD Tackles DRAM Shortages with AI and Flash Storage appeared first on EE Times .",
-    "published": "2026-11-25T14:00:00+00:00",
-    "authors": "Lucas Sideco",
-    "link": "https://www.eetimes.com/amd-tackles-dram-shortages-with-ai-and-flash-storage/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Opto-coupled three-phase AC power fault detection",
-    "source": "EDN",
-    "snippet": "Nikola Tesla’s brainchild is monitored opto-digitally in this revisit of an earlier \"magnetic\" Design Idea. The post Opto-coupled three-phase AC power fault detection appeared first on EDN .",
-    "published": "2026-11-25T13:00:39+00:00",
-    "authors": "Brian Dipert",
-    "link": "https://www.edn.com/opto-coupled-three-phase-ac-power-fault-detection/",
     "category": "EDN 电子设计新闻"
   },
   {
@@ -268,15 +205,6 @@
     "authors": "Kathy Pretz",
     "link": "https://spectrum.ieee.org/mitsubishi-electric-research-lab-ceo",
     "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "IoT security advances are critical for smart home and smart city automation",
-    "source": "EDN",
-    "snippet": "Advances in IoT security protect connected devices, data, smart home systems, and smart city infrastructure from cyberattacks. The post IoT security advances are critical for smart home and smart city automation appeared first on EDN .",
-    "published": "2026-11-24T15:00:56+00:00",
-    "authors": "Loriotoole",
-    "link": "https://www.edn.com/iot-security-advances-are-critical-for-smart-home-and-smart-city-automation/",
-    "category": "EDN 电子设计新闻"
   },
   {
     "title": "Learn How 5G NTN Architecture, Mobility, and Testing Shape 6G",
@@ -622,30 +550,12 @@
   },
   {
     "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
-    "source": "IEEE Spectrum",
-    "snippet": "Advances in sensing, manufacturing, computational resources, and data-driven methods are enabling new approaches to electromagnetic sensing, non-destructive evaluation, and advanced materials processing. This webinar will demonstrate how the COMSOL Multiphysics software supports predictive modeling ",
-    "published": "2026-10-30T12:29:43+00:00",
-    "authors": "COMSOL",
-    "link": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
-    "category": "IEEE 综合新闻"
-  },
-  {
-    "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
     "source": "IEEE Spectrum 计算",
     "snippet": "Advances in sensing, manufacturing, computational resources, and data-driven methods are enabling new approaches to electromagnetic sensing, non-destructive evaluation, and advanced materials processing. This webinar will demonstrate how the COMSOL Multiphysics software supports predictive modeling ",
     "published": "2026-10-30T12:29:43+00:00",
     "authors": "COMSOL",
     "link": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
     "category": "计算 / 通信系统"
-  },
-  {
-    "title": "Consumer Appetite for Personal AI Goes Mainstream",
-    "source": "IEEE Spectrum",
-    "snippet": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the advent of new classes o",
-    "published": "2026-10-29T19:18:20+00:00",
-    "authors": "Qualcomm Technologies",
-    "link": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
-    "category": "IEEE 综合新闻"
   },
   {
     "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
