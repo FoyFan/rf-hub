@@ -1,5 +1,50 @@
 [
   {
+    "title": "Musk to give two SpaceX shares to every American child",
+    "source": "Electronics Weekly",
+    "snippet": "Elon Musk is to give two SpaceX shares to every child in America. The gift is worth $18 billion. Children will receive one share from SpaceX and one from him […] The post Musk to give two SpaceX shares to every American child appeared first on Electronics Weekly .",
+    "published": "2026-11-27T06:14:12+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/musk-to-give-twospacex-shares-to-every-american-child-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "UK quantum companies have raised $621m this year",
+    "source": "Electronics Weekly",
+    "snippet": "UK Quantum Computing funding has raised $621M raised so far this year, says Tracxn Technologies, 4.8x the $129M raised in 2025. Two Late Stage rounds contributed $510M in 2026 YTD, […] The post UK quantum companies have raised $621m this year appeared first on Electronics Weekly .",
+    "published": "2026-11-27T06:11:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/uk-quantum-conpanies-have-raised-621m-this-year-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Smart phone units won’t regain last year’s level till 2030",
+    "source": "Electronics Weekly",
+    "snippet": "The smartphone market is forecast to decline 13.9% ToT in 2026 and 6% in 2027, says Counterpoint Research. The rise in component costs, reduced availability of economically viable lower-priced devices […] The post Smart phone units won’t regain last year’s level till 2030 appeared first on Electroni",
+    "published": "2026-11-27T06:10:58+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/smart-phone-market-to-fall-14-this-year-6-next-year-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Kioxia demoes XL-FLASH Gen 3",
+    "source": "Electronics Weekly",
+    "snippet": "Yesterday, at the Kioxia Forum in Tokyo, Kioxia showed off a prototype of its XL-FLASH generation 3 technology, the next generation of its low-latency, high-performance flash memory for AI applications. […] The post Kioxia demoes XL-FLASH Gen 3 appeared first on Electronics Weekly .",
+    "published": "2026-11-27T06:10:31+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/products/memory/kioxia-2-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "76-81 GHz 4Tx/4Rx radar MMIC",
+    "source": "Electronics Weekly",
+    "snippet": "Infineon has introduced the RASIC CTRX8144FS, a 76-81 GHz radar MMIC with four transmit and four receive channels (4Tx/4Rx). Building on the CTRX8191F/FS and CTRX8188F, the device further expands Infineon’s […] The post 76-81 GHz 4Tx/4Rx radar MMIC appeared first on Electronics Weekly .",
+    "published": "2026-11-27T06:08:14+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/76-81-ghz-4tx-4rx-radar-mmic-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals",
     "source": "EE Times",
     "snippet": "The planned Breker and Lauterbach acquisitions would expand Siemens’s development tools, but an analyst expects integration benefits to take time. The post Siemens Adds SoC Verification and Software Debug with Two Planned Deals appeared first on EE Times .",
@@ -87,51 +132,6 @@
     "published": "2026-11-26T06:15:38+00:00",
     "authors": "David Manners",
     "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
-    "source": "Electronics Weekly",
-    "snippet": "Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers […] The post Samsung and Hynix adopt YMTC’s Xtacking technology appeared first on Elect",
-    "published": "2026-11-26T06:13:43+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Agile Analog delivers physical anti-tamper protection for datacentre chip",
-    "source": "Electronics Weekly",
-    "snippet": "Agile Analog, the customisable analogue IP specialist, has been selected by ASPEED Technology, the Taiwanese datacentre SoC specialist, to provide physical anti-tamper protection for the AST1080 PRoT SoC. A set […] The post Agile Analog delivers physical anti-tamper protection for datacentre chip ap",
-    "published": "2026-11-26T06:12:30+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/agile-analog-2-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Avnet Silica’s European semis outlook for 2027",
-    "source": "Electronics Weekly",
-    "snippet": "Avnet Silica has released the latest edition of its quarterly Trendliner market report, providing an updated outlook for the semiconductor industry as it heads into 2027. The report examines global […] The post Avnet Silica’s European semis outlook for 2027 appeared first on Electronics Weekly .",
-    "published": "2026-11-26T06:11:26+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/avnet-silicas-european-semis-outlook-for-2007-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Rise of the Robots",
-    "source": "Electronics Weekly",
-    "snippet": "element14 has launched the Rise of the Robots design challenge, inviting engineers, makers and technology enthusiasts to design and build innovative robotics projects using a kit of development hardware, motors […] The post Rise of the Robots appeared first on Electronics Weekly .",
-    "published": "2026-11-26T06:06:15+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/news/business/rise-of-the-robots-2026-11/",
-    "category": "电子周刊"
-  },
-  {
-    "title": "Social Media Increasingly Supplying News",
-    "source": "Electronics Weekly",
-    "snippet": "An increasing number of people are getting their daily news fix from social media, according to Pew Research Center. 57% of both Facebook and X users get news from the […] The post Social Media Increasingly Supplying News appeared first on Electronics Weekly .",
-    "published": "2026-11-26T01:01:21+00:00",
-    "authors": "David Manners",
-    "link": "https://www.electronicsweekly.com/blogs/mannerisms/tv/social-media-increasingly-supplying-news-2026-11/",
     "category": "电子周刊"
   },
   {
