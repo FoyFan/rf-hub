@@ -1,5 +1,14 @@
 [
   {
+    "title": "GTA: Grand Three Assumptions",
+    "source": "EE Times",
+    "snippet": "GTA 6 broke sales records, but consoles running it rest on assumptions that failed: cheaper hardware, commodity memory, frozen platforms. The post GTA: Grand Three Assumptions appeared first on EE Times .",
+    "published": "2026-11-28T02:00:00+00:00",
+    "authors": "Moshe Zalcberg",
+    "link": "https://www.eetimes.com/gta-grand-three-assumptions/",
+    "category": "EE Times 行业新闻"
+  },
+  {
     "title": "Penguin Revives Retired DDR4 for AI Servers",
     "source": "EE Times",
     "snippet": "Hyperscalers are already reclaiming older DRAM, but enterprises have been slower to reuse DDR4 to meet their memory expansion demands. The post Penguin Revives Retired DDR4 for AI Servers appeared first on EE Times .",
@@ -267,15 +276,6 @@
     "published": "2026-11-25T22:02:21+00:00",
     "authors": "Hubert Baierl, marketing director, Infineon Technologies AG",
     "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "MCRPS Power Supply for Enterprise Data Centers",
-    "source": "EE Times",
-    "snippet": "The 5.6 kW MCRPS reference design from Infineon provides a viable solution for next-generation common redundant PSUs in enterprise servers. The post MCRPS Power Supply for Enterprise Data Centers appeared first on EE Times .",
-    "published": "2026-11-25T20:36:47+00:00",
-    "authors": "Antonello Laneve, Manuel Escudero, David Meneses, M.A. Kutschak, Theodoros Mouselinos, Alex Rossi, and Sam Abdel-Rahman, all at Infineon Technologies AG",
-    "link": "https://www.eetimes.com/mcrps-power-supply-for-enterprise-data-centers/",
     "category": "EE Times 行业新闻"
   },
   {
