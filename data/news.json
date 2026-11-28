@@ -1,5 +1,23 @@
 [
   {
+    "title": "Penguin Revives Retired DDR4 for AI Servers",
+    "source": "EE Times",
+    "snippet": "Hyperscalers are already reclaiming older DRAM, but enterprises have been slower to reuse DDR4 to meet their memory expansion demands. The post Penguin Revives Retired DDR4 for AI Servers appeared first on EE Times .",
+    "published": "2026-11-27T19:17:00+00:00",
+    "authors": "Gary Hilson",
+    "link": "https://www.eetimes.com/penguin-revives-retired-ddr4-for-ai-servers/",
+    "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
+    "source": "Electronics Weekly",
+    "snippet": "Siglent is expanding its SDM4000A series with a new 7½-digit precision digital multimeter, the SDM4075A. Key technical highlights include a DC basic accuracy of 16 ppm, measurement rates of up […] The post Siglent SDM4075A precision digital multimeter samples 2 MSa/s appeared first on Electronics We",
+    "published": "2026-11-27T15:48:39+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Passive components deliver higher performance",
     "source": "EDN",
     "snippet": "Passive component manufacturers prioritize performance upgrades for automotive and industrial applications, driving advances across capacitors, resistors, and inductors. The post Passive components deliver higher performance appeared first on EDN .",
@@ -7,6 +25,15 @@
     "authors": "Gina Roos",
     "link": "https://www.edn.com/passive-components-deliver-higher-performance/",
     "category": "EDN 电子设计新闻"
+  },
+  {
+    "title": "Struggling Celerons",
+    "source": "Electronics Weekly",
+    "snippet": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
+    "published": "2026-11-27T14:27:24+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
@@ -54,6 +81,51 @@
     "category": "EDN 电子设计新闻"
   },
   {
+    "title": "Kontron KBox industrial computer platform targets robotics and AI",
+    "source": "Electronics Weekly",
+    "snippet": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
+    "published": "2026-11-27T11:29:35+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "LeoLabs buys FishEye to deliver missile tracking radars",
+    "source": "Electronics Weekly",
+    "snippet": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
+    "published": "2026-11-27T10:54:46+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
+    "source": "Electronics Weekly",
+    "snippet": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
+    "published": "2026-11-27T10:05:11+00:00",
+    "authors": "Alun Williams",
+    "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+    "source": "Electronics Weekly",
+    "snippet": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
+    "published": "2026-11-27T09:30:19+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series",
+    "source": "Electronics Weekly",
+    "snippet": "Starting with a Common Engineering Question In energy storage PCS DC-link designs, rated voltage and capacitance are essential starting points, but they do not fully determine how a capacitor performs […] The post Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR",
+    "published": "2026-11-27T09:00:41+00:00",
+    "authors": "Sponsored Content",
+    "link": "https://www.electronicsweekly.com/market-sectors/power/sponsored-content-energy-storage-pcs-dc-link-capacitor-selection-ripple-current-esr-thermal-performance-of-ymin-cw3-cw6-series-2026-11/",
+    "category": "电子周刊"
+  },
+  {
     "title": "Huawei’s Next Big AI Move: HBM Workaround",
     "source": "EE Times",
     "snippet": "The Shenzhen-based tech firm will provide details about its custom HBM design at ISSCC 2027 in San Francisco early next year. The post Huawei’s Next Big AI Move: HBM Workaround appeared first on EE Times .",
@@ -61,6 +133,33 @@
     "authors": "Majeed Ahmad",
     "link": "https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround/",
     "category": "EE Times 行业新闻"
+  },
+  {
+    "title": "Musk to give two SpaceX shares to every American child",
+    "source": "Electronics Weekly",
+    "snippet": "Elon Musk is to give two SpaceX shares to every child in America. The gift is worth $18bn. Children will receive one share from SpaceX and one from him personally, […] The post Musk to give two SpaceX shares to every American child appeared first on Electronics Weekly .",
+    "published": "2026-11-27T06:14:12+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/musk-to-give-twospacex-shares-to-every-american-child-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "UK quantum companies have raised $621m this year",
+    "source": "Electronics Weekly",
+    "snippet": "UK Quantum Computing funding has raised $621M raised so far this year, says Tracxn Technologies, 4.8x the $129M raised in 2025. Two Late Stage rounds contributed $510M in 2026 YTD, […] The post UK quantum companies have raised $621m this year appeared first on Electronics Weekly .",
+    "published": "2026-11-27T06:11:50+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/uk-quantum-conpanies-have-raised-621m-this-year-2026-11/",
+    "category": "电子周刊"
+  },
+  {
+    "title": "Smartphone units will not regain last year’s level until 2030",
+    "source": "Electronics Weekly",
+    "snippet": "The smartphone market is forecast to decline 13.9% ToT in 2026 and 6% in 2027, says Counterpoint Research. The rise in component costs, reduced availability of economically viable lower-priced devices […] The post Smartphone units will not regain last year’s level until 2030 appeared first on Electr",
+    "published": "2026-11-27T06:10:58+00:00",
+    "authors": "David Manners",
+    "link": "https://www.electronicsweekly.com/news/business/smart-phone-market-to-fall-14-this-year-6-next-year-2026-11/",
+    "category": "电子周刊"
   },
   {
     "title": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals",
@@ -177,15 +276,6 @@
     "published": "2026-11-25T20:36:47+00:00",
     "authors": "Antonello Laneve, Manuel Escudero, David Meneses, M.A. Kutschak, Theodoros Mouselinos, Alex Rossi, and Sam Abdel-Rahman, all at Infineon Technologies AG",
     "link": "https://www.eetimes.com/mcrps-power-supply-for-enterprise-data-centers/",
-    "category": "EE Times 行业新闻"
-  },
-  {
-    "title": "Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing",
-    "source": "EE Times",
-    "snippet": "Explore how integrating optical link health data into monitoring and ticketing can help teams improve cluster reliability. The post Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing appeared first on EE Times .",
-    "published": "2026-11-25T18:00:22+00:00",
-    "authors": "Credo",
-    "link": "https://www.eetimes.com/turning-optical-telemetry-into-cluster-reliability-integrating-link-health-data-into-monitoring-and-ticketing/",
     "category": "EE Times 行业新闻"
   },
   {
